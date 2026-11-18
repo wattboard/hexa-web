@@ -1,0 +1,804 @@
+{
+ "album": [
+  {
+   "id": "mariquita",
+   "lessonID": "u1l1",
+   "name": {
+    "es": "Mariquita",
+    "en": "Ladybug"
+   },
+   "alsoCalled": {
+    "es": null,
+    "en": "ladybird"
+   },
+   "group": {
+    "es": "Coleóptero (escarabajos)",
+    "en": "Coleoptera (beetles)"
+   },
+   "superpower": {
+    "es": "Sus manchas avisan: «sé mal, no me comas».",
+    "en": "Its spots warn: “I taste bad, don't eat me”."
+   },
+   "helps": {
+    "es": "Se come los pulgones que dañan las plantas.",
+    "en": "It eats the aphids that harm plants."
+   },
+   "calm": {
+    "es": "La mariquita no pica ni muerde a las personas. ¡Es una gran amiga de las plantas!",
+    "en": "Ladybugs don't sting or bite people. They're great friends of plants!"
+   }
+  },
+  {
+   "id": "hormiga",
+   "lessonID": "u1l2",
+   "name": {
+    "es": "Hormiga",
+    "en": "Ant"
+   },
+   "alsoCalled": {
+    "es": "bachaco (las grandes)",
+    "en": null
+   },
+   "group": {
+    "es": "Himenóptero",
+    "en": "Hymenoptera"
+   },
+   "superpower": {
+    "es": "Puede cargar mucho más que su propio peso.",
+    "en": "It can carry much more than its own weight."
+   },
+   "helps": {
+    "es": "Recicla restos, remueve la tierra y reparte semillas.",
+    "en": "It recycles leftovers, turns the soil and spreads seeds."
+   },
+   "calm": {
+    "es": "Casi todas las hormigas solo buscan comida. Si una sube a tu mano, déjala bajar a una hoja.",
+    "en": "Most ants are just looking for food. If one climbs onto your hand, let it walk off onto a leaf."
+   }
+  },
+  {
+   "id": "mariposa",
+   "lessonID": "u1l3",
+   "name": {
+    "es": "Mariposa",
+    "en": "Butterfly"
+   },
+   "alsoCalled": null,
+   "group": {
+    "es": "Lepidóptero",
+    "en": "Lepidoptera"
+   },
+   "superpower": {
+    "es": "Sus alas están cubiertas de escamas diminutas de colores.",
+    "en": "Its wings are covered in tiny colored scales."
+   },
+   "helps": {
+    "es": "Poliniza las flores y es alimento de pájaros.",
+    "en": "It pollinates flowers and is food for birds."
+   },
+   "calm": {
+    "es": "Las mariposas no pican ni muerden. Sus alas son delicadas: mejor mirarlas sin tocar.",
+    "en": "Butterflies don't sting or bite. Their wings are delicate: it's best to look without touching."
+   }
+  },
+  {
+   "id": "abeja",
+   "lessonID": "u1l5",
+   "name": {
+    "es": "Abeja",
+    "en": "Bee"
+   },
+   "alsoCalled": null,
+   "group": {
+    "es": "Himenóptero",
+    "en": "Hymenoptera"
+   },
+   "superpower": {
+    "es": "Baila para contar a las demás dónde hay flores.",
+    "en": "It dances to tell the others where the flowers are."
+   },
+   "helps": {
+    "es": "Poliniza muchas de las frutas que comemos y hace miel.",
+    "en": "It pollinates many of the fruits we eat and makes honey."
+   },
+   "calm": {
+    "es": "Una abeja solo pica si se siente atacada. Si te quedas quieto y tranquilo, sigue su camino.",
+    "en": "A bee only stings if it feels attacked. If you stay still and calm, it goes on its way."
+   }
+  },
+  {
+   "id": "libelula",
+   "lessonID": "u2l1",
+   "name": {
+    "es": "Libélula",
+    "en": "Dragonfly"
+   },
+   "alsoCalled": null,
+   "group": {
+    "es": "Odonato",
+    "en": "Odonata"
+   },
+   "superpower": {
+    "es": "Vuela hacia atrás y se queda quieta en el aire.",
+    "en": "It flies backwards and hovers in the air."
+   },
+   "helps": {
+    "es": "Se come los mosquitos y avisa de que el agua está limpia.",
+    "en": "It eats mosquitoes and shows that the water is clean."
+   },
+   "calm": {
+    "es": "Las libélulas no pican a las personas. ¡Se comen a los mosquitos!",
+    "en": "Dragonflies don't sting people. They eat mosquitoes!"
+   }
+  },
+  {
+   "id": "luciernaga",
+   "lessonID": "u2l2",
+   "name": {
+    "es": "Luciérnaga",
+    "en": "Firefly"
+   },
+   "alsoCalled": {
+    "es": "cocuyo",
+    "en": "lightning bug"
+   },
+   "group": {
+    "es": "Coleóptero (escarabajos)",
+    "en": "Coleoptera (beetles)"
+   },
+   "superpower": {
+    "es": "Hace luz con su cuerpo, y es una luz fría.",
+    "en": "It makes light with its body, and the light is cold."
+   },
+   "helps": {
+    "es": "Sus larvas comen caracoles y babosas de los huertos.",
+    "en": "Its larvae eat snails and slugs in gardens."
+   },
+   "calm": {
+    "es": "Las luciérnagas no pican ni muerden. Su luz es fría: no quema.",
+    "en": "Fireflies don't sting or bite. Their light is cold: it doesn't burn."
+   }
+  },
+  {
+   "id": "escarabajo",
+   "lessonID": "u2l2",
+   "name": {
+    "es": "Escarabajo",
+    "en": "Beetle"
+   },
+   "alsoCalled": {
+    "es": "cucarrón",
+    "en": null
+   },
+   "group": {
+    "es": "Coleóptero",
+    "en": "Coleoptera"
+   },
+   "superpower": {
+    "es": "Sus alas de delante son una armadura dura: los élitros.",
+    "en": "Its front wings are hard armor: the elytra."
+   },
+   "helps": {
+    "es": "Recicla hojas, madera y restos, y abona la tierra.",
+    "en": "It recycles leaves, wood and leftovers, and feeds the soil."
+   },
+   "calm": {
+    "es": "La mayoría de los escarabajos son tranquilos y no hacen daño. Obsérvalo de cerca sin tocarlo.",
+    "en": "Most beetles are calm and harmless. Watch it up close without touching it."
+   }
+  },
+  {
+   "id": "saltamontes",
+   "lessonID": "u2l4",
+   "name": {
+    "es": "Saltamontes",
+    "en": "Grasshopper"
+   },
+   "alsoCalled": null,
+   "group": {
+    "es": "Ortóptero",
+    "en": "Orthoptera"
+   },
+   "superpower": {
+    "es": "Salta muchas veces su propio tamaño.",
+    "en": "It jumps many times its own length."
+   },
+   "helps": {
+    "es": "Es alimento de pájaros, ranas y lagartijas.",
+    "en": "It is food for birds, frogs and lizards."
+   },
+   "calm": {
+    "es": "Los saltamontes no pican. Si saltan cerca de ti es para escapar: ¡también se asustan!",
+    "en": "Grasshoppers don't sting. If they jump near you it's to escape: they get scared too!"
+   }
+  },
+  {
+   "id": "chinche",
+   "lessonID": "u3l6",
+   "name": {
+    "es": "Chinche",
+    "en": "Stink bug"
+   },
+   "alsoCalled": {
+    "es": "chinche hedionda",
+    "en": "shield bug"
+   },
+   "group": {
+    "es": "Hemíptero",
+    "en": "Hemiptera"
+   },
+   "superpower": {
+    "es": "Suelta un olor fuerte para que no se la coman.",
+    "en": "It gives off a strong smell so nothing eats it."
+   },
+   "helps": {
+    "es": "Algunas se comen orugas y otras plagas de los huertos.",
+    "en": "Some eat caterpillars and other garden pests."
+   },
+   "calm": {
+    "es": "La mayoría de las chinches no pican a las personas. Mírala sin tocarla y seguirá su camino.",
+    "en": "Most stink bugs don't bite people. Look at it without touching and it will go on its way."
+   }
+  },
+  {
+   "id": "mosca",
+   "lessonID": "u3l7",
+   "name": {
+    "es": "Mosca",
+    "en": "Fly"
+   },
+   "alsoCalled": {
+    "es": "mosca de las flores (sírfido)",
+    "en": "hoverfly"
+   },
+   "group": {
+    "es": "Díptero",
+    "en": "Diptera"
+   },
+   "superpower": {
+    "es": "Sus ojos tienen miles de lentes: ve casi todo a su alrededor.",
+    "en": "Its eyes have thousands of lenses: it sees almost all around."
+   },
+   "helps": {
+    "es": "Recicla restos, y muchas moscas polinizan flores.",
+    "en": "It recycles leftovers, and many flies pollinate flowers."
+   },
+   "calm": {
+    "es": "Las moscas no pican. Solo hay que tapar la comida para que no se posen en ella.",
+    "en": "Flies don't sting. Just cover your food so they don't land on it."
+   }
+  },
+  {
+   "id": "mosquito",
+   "lessonID": "u4l3",
+   "name": {
+    "es": "Mosquito",
+    "en": "Mosquito"
+   },
+   "alsoCalled": {
+    "es": "zancudo",
+    "en": null
+   },
+   "group": {
+    "es": "Díptero",
+    "en": "Diptera"
+   },
+   "superpower": {
+    "es": "Encuentra a las personas siguiendo el aire que respiramos.",
+    "en": "It finds people by following the air we breathe out."
+   },
+   "helps": {
+    "es": "Sus larvas alimentan a peces y ranas, y los machos beben néctar.",
+    "en": "Its larvae feed fish and frogs, and males drink nectar."
+   },
+   "calm": {
+    "es": "Solo pican las hembras, y protegerse es fácil: mosquitero, ropa larga y nada de agua estancada.",
+    "en": "Only females bite, and staying safe is easy: a net, long clothes and no standing water."
+   }
+  },
+  {
+   "id": "morfo",
+   "lessonID": "u3l1",
+   "name": {
+    "es": "Morfo azul",
+    "en": "Blue morpho"
+   },
+   "alsoCalled": {
+    "es": "mariposa azul",
+    "en": null
+   },
+   "group": {
+    "es": "Lepidóptero",
+    "en": "Lepidoptera"
+   },
+   "superpower": {
+    "es": "Sus alas brillan azules sin tener pintura azul: la luz rebota en sus escamas.",
+    "en": "Its wings shine blue without any blue paint: light bounces off its scales."
+   },
+   "helps": {
+    "es": "Bebe el jugo de las frutas caídas y es alimento de pájaros.",
+    "en": "It drinks the juice of fallen fruit and is food for birds."
+   },
+   "calm": {
+    "es": "No pica ni muerde. Vive en los bosques de Venezuela: si ves una, quédate quieto y mírala volar.",
+    "en": "It doesn't sting or bite. It lives in Venezuela's forests: if you see one, stay still and watch it fly."
+   }
+  },
+  {
+   "id": "escarabajo_hercules",
+   "lessonID": "u3l2",
+   "name": {
+    "es": "Escarabajo hércules",
+    "en": "Hercules beetle"
+   },
+   "alsoCalled": null,
+   "group": {
+    "es": "Coleóptero",
+    "en": "Coleoptera"
+   },
+   "superpower": {
+    "es": "Es uno de los insectos más grandes y fuertes del mundo.",
+    "en": "It's one of the biggest and strongest insects in the world."
+   },
+   "helps": {
+    "es": "Sus larvas convierten la madera podrida en tierra para el bosque.",
+    "en": "Its larvae turn rotting wood into soil for the forest."
+   },
+   "calm": {
+    "es": "Aunque parece temible, no pica ni es venenoso. Los cuernos los usan los machos para empujarse entre ellos.",
+    "en": "It may look scary, but it doesn't sting and isn't poisonous. Males use their horns to push each other."
+   }
+  },
+  {
+   "id": "abeja_angelita",
+   "lessonID": "u3l3",
+   "name": {
+    "es": "Abeja angelita",
+    "en": "Angelita bee"
+   },
+   "alsoCalled": {
+    "es": "angelita",
+    "en": "jataí"
+   },
+   "group": {
+    "es": "Himenóptero",
+    "en": "Hymenoptera"
+   },
+   "superpower": {
+    "es": "No tiene aguijón: no puede picar.",
+    "en": "It has no stinger: it can't sting."
+   },
+   "helps": {
+    "es": "Poliniza flores del bosque y de los huertos, y hace una miel muy apreciada.",
+    "en": "It pollinates forest and garden flowers and makes a much-loved honey."
+   },
+   "calm": {
+    "es": "Es una abeja sin aguijón, así que no pica. Puedes mirar su nido de cerca sin tapar la entrada.",
+    "en": "It's a stingless bee, so it doesn't sting. You can look at its nest up close without blocking the entrance."
+   }
+  },
+  {
+   "id": "santateresa",
+   "lessonID": "u4l2",
+   "name": {
+    "es": "Santateresa",
+    "en": "Praying mantis"
+   },
+   "alsoCalled": {
+    "es": "mantis",
+    "en": "mantis"
+   },
+   "group": {
+    "es": "Mantodeo",
+    "en": "Mantodea"
+   },
+   "superpower": {
+    "es": "Gira la cabeza para mirarte, como una persona.",
+    "en": "It turns its head to look at you, like a person."
+   },
+   "helps": {
+    "es": "Caza moscas, saltamontes y otras plagas del huerto.",
+    "en": "It hunts flies, grasshoppers and other garden pests."
+   },
+   "calm": {
+    "es": "No es venenosa ni pica a las personas. Si levanta las patas, es que también se asusta: déjala tranquila.",
+    "en": "It isn't poisonous and doesn't bite people. If it raises its legs, it's scared too: leave it alone."
+   }
+  }
+ ],
+ "missions": [
+  {
+   "id": "m_legs",
+   "lessonID": "u1l1",
+   "art": "hormiga",
+   "title": {
+    "es": "Cuenta patas",
+    "en": "Count legs"
+   },
+   "task": {
+    "es": "Busca una hormiga en el patio o el jardín y cuenta sus patas sin tocarla. ¿Tiene seis?",
+    "en": "Find an ant in the playground or garden and count its legs without touching it. Does it have six?"
+   },
+   "safety": {
+    "es": "Mira con calma y deja que siga su camino.",
+    "en": "Watch calmly and let it go on its way."
+   }
+  },
+  {
+   "id": "m_parts",
+   "lessonID": "u1l2",
+   "art": "escarabajo",
+   "title": {
+    "es": "Tres partes",
+    "en": "Three parts"
+   },
+   "task": {
+    "es": "Observa un insecto y busca su cabeza, su tórax y su abdomen. Si tienes una lupa, ¡úsala!",
+    "en": "Watch an insect and find its head, thorax and abdomen. If you have a magnifying glass, use it!"
+   },
+   "safety": {
+    "es": "Obsérvalo donde está: no lo metas en un frasco.",
+    "en": "Watch it where it is: don't put it in a jar."
+   }
+  },
+  {
+   "id": "m_flowers",
+   "lessonID": "u1l5",
+   "art": "abeja",
+   "title": {
+    "es": "Visitantes de flores",
+    "en": "Flower visitors"
+   },
+   "task": {
+    "es": "Quédate 5 minutos cerca de unas flores. ¿Cuántos insectos las visitan? ¿Qué hacen?",
+    "en": "Stay near some flowers for 5 minutes. How many insects visit them? What do they do?"
+   },
+   "safety": {
+    "es": "Quédate quieto a un paso de distancia: las abejas solo pican si se sienten atacadas.",
+    "en": "Stay still one step away: bees only sting if they feel attacked."
+   }
+  },
+  {
+   "id": "m_habitat",
+   "lessonID": "u2l1",
+   "art": "hoja",
+   "title": {
+    "es": "Detective de hábitats",
+    "en": "Habitat detective"
+   },
+   "task": {
+    "es": "Mira debajo de una hoja, junto a una piedra y cerca de un charco. ¿Dónde encuentras más bichos?",
+    "en": "Look under a leaf, next to a stone and near a puddle. Where do you find more bugs?"
+   },
+   "safety": {
+    "es": "Si levantas una piedra, vuelve a dejarla como estaba: es su casa.",
+    "en": "If you lift a stone, put it back the way it was: it's their home."
+   }
+  },
+  {
+   "id": "m_sounds",
+   "lessonID": "u2l2",
+   "art": "saltamontes",
+   "title": {
+    "es": "Escucha a los insectos",
+    "en": "Listen to insects"
+   },
+   "task": {
+    "es": "Al atardecer, cierra los ojos un minuto y escucha. ¿Oyes grillos o chicharras cantando?",
+    "en": "At dusk, close your eyes for a minute and listen. Can you hear crickets or cicadas singing?"
+   },
+   "safety": {
+    "es": "Hazlo con un adulto si es de noche.",
+    "en": "Do it with an adult if it's dark."
+   }
+  },
+  {
+   "id": "m_cycle",
+   "lessonID": "u2l3",
+   "art": "oruga",
+   "title": {
+    "es": "Busca una oruga",
+    "en": "Find a caterpillar"
+   },
+   "task": {
+    "es": "Busca hojas mordidas en un jardín: ¡puede haber una oruga cerca! Dibújala en tu cuaderno.",
+    "en": "Look for chewed leaves in a garden: there may be a caterpillar nearby! Draw it in your notebook."
+   },
+   "safety": {
+    "es": "Algunas orugas tienen pelos que pican: mírala sin tocarla.",
+    "en": "Some caterpillars have stinging hairs: look without touching."
+   }
+  },
+  {
+   "id": "m_beetles",
+   "lessonID": "u3l2",
+   "art": "escarabajo",
+   "title": {
+    "es": "Caza de élitros",
+    "en": "Elytra hunt"
+   },
+   "task": {
+    "es": "Busca un escarabajo o una mariquita. ¿Ves sus alas duras de delante? Si vuela, mira cómo las abre.",
+    "en": "Look for a beetle or a ladybug. Can you see its hard front wings? If it flies, watch how it opens them."
+   },
+   "safety": {
+    "es": "Mira sin tocar: si se asusta, se hace la muerta o sale volando.",
+    "en": "Look without touching: if it gets scared, it plays dead or flies away."
+   }
+  },
+  {
+   "id": "m_water",
+   "lessonID": "u3l4",
+   "art": "libelula",
+   "title": {
+    "es": "Vigía del agua",
+    "en": "Water watcher"
+   },
+   "task": {
+    "es": "Cerca de un estanque, un río o una fuente, busca libélulas. Si las hay, ¡el agua está sana!",
+    "en": "Near a pond, a river or a fountain, look for dragonflies. If there are some, the water is healthy!"
+   },
+   "safety": {
+    "es": "Siempre con un adulto cerca del agua.",
+    "en": "Always with an adult near water."
+   }
+  },
+  {
+   "id": "m_groups",
+   "lessonID": "u3l7",
+   "art": "mosca",
+   "title": {
+    "es": "¿De qué grupo es?",
+    "en": "Which group is it?"
+   },
+   "task": {
+    "es": "Observa tres insectos distintos y fíjate en sus alas. ¿Sabrías decir a qué grupo pertenece cada uno?",
+    "en": "Watch three different insects and look at their wings. Can you tell which group each one belongs to?"
+   },
+   "safety": {
+    "es": "Obsérvalos donde están: mirando con calma se aprende mucho.",
+    "en": "Watch them where they are: you learn a lot by looking calmly."
+   }
+  },
+  {
+   "id": "m_helpers",
+   "lessonID": "u4l1",
+   "art": "mariquita",
+   "title": {
+    "es": "Busca ayudantes",
+    "en": "Find the helpers"
+   },
+   "task": {
+    "es": "En un jardín o huerto, busca un insecto que ayude: uno que poliniza, uno que recicla o uno que se come plagas.",
+    "en": "In a garden or vegetable patch, find a helper insect: one that pollinates, one that recycles or one that eats pests."
+   },
+   "safety": {
+    "es": "Míralos trabajar sin molestarlos.",
+    "en": "Watch them work without disturbing them."
+   }
+  },
+  {
+   "id": "m_water_check",
+   "lessonID": "u4l3",
+   "art": "mosquito",
+   "title": {
+    "es": "Patrulla antimosquitos",
+    "en": "Mosquito patrol"
+   },
+   "task": {
+    "es": "Con un adulto, busca en casa o en el patio agua quieta (cubos, macetas, llantas) y vaciadla juntos.",
+    "en": "With an adult, look at home or in the playground for still water (buckets, flowerpots, tires) and empty it together."
+   },
+   "safety": {
+    "es": "Hazlo siempre con un adulto y lávate las manos al terminar.",
+    "en": "Always do it with an adult and wash your hands afterwards."
+   }
+  }
+ ],
+ "biophilia": [
+  {
+   "id": "b_bee",
+   "art": "abeja",
+   "prompt": {
+    "es": "¿Cómo te sientes si ves una abeja cerca?",
+    "en": "How do you feel if you see a bee nearby?"
+   },
+   "options": [
+    {
+     "emoji": "😟",
+     "text": {
+      "es": "Miedo o asco",
+      "en": "Scared or grossed out"
+     },
+     "score": 0
+    },
+    {
+     "emoji": "😐",
+     "text": {
+      "es": "No sé",
+      "en": "Not sure"
+     },
+     "score": 1
+    },
+    {
+     "emoji": "🙂",
+     "text": {
+      "es": "Tranquilo o con curiosidad",
+      "en": "Calm or curious"
+     },
+     "score": 2
+    }
+   ]
+  },
+  {
+   "id": "b_beetle",
+   "art": "escarabajo",
+   "prompt": {
+    "es": "¿Y si un escarabajo camina cerca de ti?",
+    "en": "And if a beetle walks near you?"
+   },
+   "options": [
+    {
+     "emoji": "😟",
+     "text": {
+      "es": "Miedo o asco",
+      "en": "Scared or grossed out"
+     },
+     "score": 0
+    },
+    {
+     "emoji": "😐",
+     "text": {
+      "es": "No sé",
+      "en": "Not sure"
+     },
+     "score": 1
+    },
+    {
+     "emoji": "🙂",
+     "text": {
+      "es": "Tranquilo o con curiosidad",
+      "en": "Calm or curious"
+     },
+     "score": 2
+    }
+   ]
+  },
+  {
+   "id": "b_ant",
+   "art": "hormiga",
+   "prompt": {
+    "es": "¿Y si una hormiga se sube a tu mano?",
+    "en": "And if an ant climbs onto your hand?"
+   },
+   "options": [
+    {
+     "emoji": "😟",
+     "text": {
+      "es": "Miedo o asco",
+      "en": "Scared or grossed out"
+     },
+     "score": 0
+    },
+    {
+     "emoji": "😐",
+     "text": {
+      "es": "No sé",
+      "en": "Not sure"
+     },
+     "score": 1
+    },
+    {
+     "emoji": "🙂",
+     "text": {
+      "es": "Tranquilo o con curiosidad",
+      "en": "Calm or curious"
+     },
+     "score": 2
+    }
+   ]
+  },
+  {
+   "id": "b_touch",
+   "art": "mariquita",
+   "prompt": {
+    "es": "¿Te animarías a tocar un insecto que no hace daño?",
+    "en": "Would you dare to touch an insect that is harmless?"
+   },
+   "options": [
+    {
+     "emoji": "🙅",
+     "text": {
+      "es": "No",
+      "en": "No"
+     },
+     "score": 0
+    },
+    {
+     "emoji": "🤔",
+     "text": {
+      "es": "Quizás",
+      "en": "Maybe"
+     },
+     "score": 1
+    },
+    {
+     "emoji": "🙋",
+     "text": {
+      "es": "Sí",
+      "en": "Yes"
+     },
+     "score": 2
+    }
+   ]
+  },
+  {
+   "id": "b_home",
+   "art": null,
+   "prompt": {
+    "es": "Si encuentras un insecto en casa, ¿qué haces?",
+    "en": "If you find an insect at home, what do you do?"
+   },
+   "options": [
+    {
+     "emoji": "👟",
+     "text": {
+      "es": "Lo aplasto",
+      "en": "I squash it"
+     },
+     "score": 0
+    },
+    {
+     "emoji": "🏃",
+     "text": {
+      "es": "Me alejo",
+      "en": "I move away"
+     },
+     "score": 1
+    },
+    {
+     "emoji": "🫙",
+     "text": {
+      "es": "Lo saco con cuidado",
+      "en": "I take it outside carefully"
+     },
+     "score": 2
+    }
+   ]
+  },
+  {
+   "id": "b_like",
+   "art": "mariposa",
+   "prompt": {
+    "es": "¿Te gustan los colores y las formas de los insectos?",
+    "en": "Do you like the colors and shapes of insects?"
+   },
+   "options": [
+    {
+     "emoji": "👎",
+     "text": {
+      "es": "No",
+      "en": "No"
+     },
+     "score": 0
+    },
+    {
+     "emoji": "🤷",
+     "text": {
+      "es": "Algunos",
+      "en": "Some"
+     },
+     "score": 1
+    },
+    {
+     "emoji": "😍",
+     "text": {
+      "es": "¡Mucho!",
+      "en": "A lot!"
+     },
+     "score": 2
+    }
+   ]
+  }
+ ]
+}

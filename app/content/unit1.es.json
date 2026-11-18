@@ -1,0 +1,622 @@
+{
+  "id": "u1",
+  "order": 1,
+  "title": "Los insectos",
+  "intro": "¡Hola! Soy Angélica, la guardabosques. Hoy empezamos a conocer a los insectos: qué son, cómo es su cuerpo y cómo comen. ¡No hace falta tenerles miedo, solo curiosidad!",
+  "lessons": [
+    {
+      "id": "u1l1",
+      "title": "¿Qué es un insecto?",
+      "art": "mariquita",
+      "intro": "Hoy toca descubrir qué hace a un bicho ser un insecto. ¡Cuenta patas conmigo!",
+      "closing": "Los insectos tienen seis patas, tres partes en el cuerpo y un esqueleto duro por fuera. Con eso ya puedes distinguirlos de otros bichos, como las arañas, que también atrapan moscas y mosquitos.",
+      "exercises": [
+        {
+          "id": "u1l1e1",
+          "type": "tapAll",
+          "prompt": "¿Cuáles son insectos? Toca todos los que tengan seis patas.",
+          "items": [
+            {
+              "art": "mariquita",
+              "label": "Mariquita",
+              "correct": true
+            },
+            {
+              "art": "arana",
+              "label": "Araña",
+              "correct": false
+            },
+            {
+              "art": "mariposa",
+              "label": "Mariposa",
+              "correct": true
+            },
+            {
+              "art": "hormiga",
+              "label": "Hormiga",
+              "correct": true
+            }
+          ],
+          "explanation": "La araña tiene ocho patas, así que no es un insecto. Los insectos tienen seis."
+        },
+        {
+          "id": "u1l1e2",
+          "type": "choice",
+          "prompt": "¿Cuántas patas tiene un insecto?",
+          "options": [
+            "Cuatro",
+            "Seis",
+            "Ocho",
+            "Diez"
+          ],
+          "answer": 1,
+          "explanation": "Seis patas: tres pares, y todas salen del tórax."
+        },
+        {
+          "id": "u1l1e3",
+          "type": "choice",
+          "prompt": "¿Qué le da dureza al cuerpo de un insecto, por fuera?",
+          "options": [
+            "Huesos",
+            "Quitina",
+            "Plumas",
+            "Escamas"
+          ],
+          "answer": 1,
+          "explanation": "La quitina forma su exoesqueleto: un esqueleto duro por fuera, como una armadura."
+        },
+        {
+          "id": "u1l1e4",
+          "type": "tapAll",
+          "prompt": "Toca todos los insectos.",
+          "items": [
+            {
+              "art": "ciempies",
+              "label": "Ciempiés",
+              "correct": false
+            },
+            {
+              "art": "abeja",
+              "label": "Abeja",
+              "correct": true
+            },
+            {
+              "art": "arana",
+              "label": "Araña",
+              "correct": false
+            },
+            {
+              "art": "mariquita",
+              "label": "Mariquita",
+              "correct": true
+            }
+          ],
+          "explanation": "El ciempiés tiene muchísimas patas y la araña tiene ocho. Los insectos siempre tienen seis."
+        },
+        {
+          "id": "u1l1e5",
+          "type": "choice",
+          "prompt": "¿Todos los insectos tienen alas?",
+          "options": [
+            "Verdadero",
+            "Falso"
+          ],
+          "answer": 1,
+          "explanation": "Casi todos tienen uno o dos pares de alas, pero algunos no tienen ninguna."
+        }
+      ]
+    },
+    {
+      "id": "u1l2",
+      "title": "Cabeza, tórax y abdomen",
+      "art": "hormiga",
+      "intro": "El cuerpo de un insecto se divide en tres partes. Vamos a localizarlas en una hormiga.",
+      "closing": "Cabeza, tórax y abdomen: tres partes fáciles de recordar. Cuando veas un bicho con el cuerpo en tres partes, ya sabes que probablemente es un insecto.",
+      "exercises": [
+        {
+          "id": "u1l2e1",
+          "type": "label",
+          "prompt": "Pon cada nombre en su sitio.",
+          "art": "hormiga",
+          "slots": [
+            {
+              "id": "cabeza",
+              "label": "cabeza",
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "id": "torax",
+              "label": "tórax",
+              "x": 0.5,
+              "y": 0.475
+            },
+            {
+              "id": "abdomen",
+              "label": "abdomen",
+              "x": 0.5,
+              "y": 0.775
+            }
+          ],
+          "explanation": "De arriba abajo: cabeza, tórax y abdomen."
+        },
+        {
+          "id": "u1l2e2",
+          "type": "choice",
+          "prompt": "¿Qué parte sostiene las patas y las alas?",
+          "options": [
+            "La cabeza",
+            "El tórax",
+            "El abdomen"
+          ],
+          "answer": 1,
+          "explanation": "Del tórax salen las alas por arriba y las patas por abajo."
+        },
+        {
+          "id": "u1l2e3",
+          "type": "choice",
+          "prompt": "¿Dónde están las antenas y los ojos?",
+          "options": [
+            "En el tórax",
+            "En el abdomen",
+            "En la cabeza"
+          ],
+          "answer": 2,
+          "explanation": "La cabeza tiene un par de antenas, los ojos y la boca."
+        },
+        {
+          "id": "u1l2e4",
+          "type": "match",
+          "prompt": "Une cada parte con lo que tiene.",
+          "pairs": [
+            {
+              "left": "Cabeza",
+              "right": "Antenas, ojos y boca"
+            },
+            {
+              "left": "Tórax",
+              "right": "Patas y alas"
+            },
+            {
+              "left": "Abdomen",
+              "right": "Corazón y digestión"
+            }
+          ],
+          "explanation": "La cabeza siente y come, el tórax mueve el cuerpo y el abdomen guarda el corazón y la digestión."
+        },
+        {
+          "id": "u1l2e5",
+          "type": "choice",
+          "prompt": "¿En cuántas partes se divide el cuerpo de un insecto?",
+          "options": [
+            "Dos",
+            "Tres",
+            "Cuatro",
+            "Cinco"
+          ],
+          "answer": 1,
+          "explanation": "En tres: cabeza, tórax y abdomen."
+        }
+      ]
+    },
+    {
+      "id": "u1l3",
+      "title": "Patas y alas",
+      "art": "mariposa",
+      "intro": "Seis patas y, casi siempre, alas. ¡Veamos cuántas!",
+      "closing": "Las patas de los insectos pueden servir para correr, saltar, nadar o agarrarse. Y las alas les permiten vivir en casi cualquier lugar del planeta.",
+      "exercises": [
+        {
+          "id": "u1l3e1",
+          "type": "choice",
+          "prompt": "¿Cuántos pares de patas tiene un insecto?",
+          "options": [
+            "Dos",
+            "Tres",
+            "Cuatro",
+            "Cinco"
+          ],
+          "answer": 1,
+          "explanation": "Tres pares: seis patas en total."
+        },
+        {
+          "id": "u1l3e2",
+          "type": "choice",
+          "prompt": "¿De qué parte del cuerpo salen las alas?",
+          "options": [
+            "De la cabeza",
+            "Del tórax",
+            "Del abdomen"
+          ],
+          "answer": 1,
+          "explanation": "Las alas se sujetan en la parte de arriba del tórax."
+        },
+        {
+          "id": "u1l3e3",
+          "type": "choice",
+          "prompt": "¿Cuántos pares de alas suelen tener los insectos?",
+          "options": [
+            "Ninguno",
+            "Uno",
+            "Dos",
+            "Cuatro"
+          ],
+          "answer": 2,
+          "explanation": "Generalmente dos pares. Algunos tienen solo uno y otros no tienen."
+        },
+        {
+          "id": "u1l3e4",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Los insectos tienen ___ patas y generalmente ___ pares de alas.",
+          "bank": [
+            "seis",
+            "ocho",
+            "dos",
+            "cuatro"
+          ],
+          "answers": [
+            "seis",
+            "dos"
+          ],
+          "explanation": "Seis patas y, generalmente, dos pares de alas."
+        },
+        {
+          "id": "u1l3e5",
+          "type": "choice",
+          "prompt": "¿Todos los insectos tienen dos pares de alas?",
+          "options": [
+            "Verdadero",
+            "Falso"
+          ],
+          "answer": 1,
+          "explanation": "Algunos tienen un solo par y otros no tienen alas."
+        }
+      ]
+    },
+    {
+      "id": "u1l4",
+      "title": "Antenas y sentidos",
+      "art": "mariposa",
+      "intro": "Los insectos perciben el mundo de una forma muy distinta a la nuestra. ¡Vamos a descubrirla!",
+      "closing": "Los insectos huelen con las antenas y sienten con todo el cuerpo. Por eso una antena que se mueve no es una amenaza: es un bicho explorando lo que hay a su alrededor.",
+      "exercises": [
+        {
+          "id": "u1l4e1",
+          "type": "match",
+          "prompt": "Une cada sentido con lo que hace.",
+          "pairs": [
+            {
+              "left": "Antenas",
+              "right": "Detectan olores leves en el aire"
+            },
+            {
+              "left": "Pelos sensitivos",
+              "right": "Oyen y sienten con todo el cuerpo"
+            },
+            {
+              "left": "Ojo compuesto",
+              "right": "Tiene muchas lentes, como miniojos"
+            }
+          ],
+          "explanation": "Antenas para oler, pelos para oír y sentir, y ojos con muchas lentes."
+        },
+        {
+          "id": "u1l4e2",
+          "type": "choice",
+          "prompt": "Para los insectos, ¿qué es más importante?",
+          "options": [
+            "La vista",
+            "Los olores y sabores"
+          ],
+          "answer": 1,
+          "explanation": "Los olores y sabores les dicen dónde hay comida y quién es otro insecto."
+        },
+        {
+          "id": "u1l4e3",
+          "type": "choice",
+          "prompt": "¿Con qué parte del cuerpo detectan los olores en el aire?",
+          "options": [
+            "Con las patas",
+            "Con las alas",
+            "Con las antenas"
+          ],
+          "answer": 2,
+          "explanation": "Las antenas se mueven y captan olores muy leves."
+        },
+        {
+          "id": "u1l4e4",
+          "type": "choice",
+          "prompt": "Los insectos ven menos que nosotros, pero captan mejor...",
+          "options": [
+            "Los colores",
+            "El movimiento",
+            "Los dibujos"
+          ],
+          "answer": 1,
+          "explanation": "Detectan muy bien el movimiento, por eso reaccionan tan rápido."
+        },
+        {
+          "id": "u1l4e5",
+          "type": "choice",
+          "prompt": "¿Dónde tiene oídos la mayoría de los insectos?",
+          "options": [
+            "En el abdomen, las alas o las patas",
+            "Solo en la cabeza",
+            "No tienen oídos"
+          ],
+          "answer": 0,
+          "explanation": "Oyen con oídos en el abdomen, las alas o las patas, y se guían por el sonido."
+        }
+      ]
+    },
+    {
+      "id": "u1l5",
+      "title": "¿Cómo comen?",
+      "art": "abeja",
+      "intro": "Cada insecto come a su manera. Hoy descubrimos por qué unos pican y otros mastican.",
+      "closing": "Un insecto que pica lo hace para alimentarse o para defenderse, no porque sea malo. Si entiendes cómo come, entiendes por qué hace lo que hace.",
+      "exercises": [
+        {
+          "id": "u1l5e1",
+          "type": "match",
+          "prompt": "Une cada aparato bucal con cómo funciona.",
+          "pairs": [
+            {
+              "left": "Masticador",
+              "right": "Mandíbulas con bordes afilados"
+            },
+            {
+              "left": "Chupador",
+              "right": "Un tubo para beber líquidos"
+            },
+            {
+              "left": "Perforador-chupador",
+              "right": "Una aguja para pinchar y succionar"
+            }
+          ],
+          "explanation": "Masticador para cortar, chupador para beber y perforador-chupador para pinchar y succionar."
+        },
+        {
+          "id": "u1l5e2",
+          "type": "choice",
+          "prompt": "Una mariposa bebe el néctar de las flores con un tubo. ¿Qué aparato bucal tiene?",
+          "options": [
+            "Masticador",
+            "Chupador",
+            "Perforador-chupador"
+          ],
+          "answer": 1,
+          "explanation": "Chupador: bebe líquidos como el néctar.",
+          "art": "cabeza_mariposa"
+        },
+        {
+          "id": "u1l5e3",
+          "type": "choice",
+          "prompt": "Un saltamontes corta hojas con sus mandíbulas. ¿Qué aparato bucal tiene?",
+          "options": [
+            "Masticador",
+            "Chupador",
+            "Perforador-chupador"
+          ],
+          "answer": 0,
+          "explanation": "Masticador: usa mandíbulas con bordes afilados, como los que comen plantas.",
+          "art": "cabeza_saltamontes"
+        },
+        {
+          "id": "u1l5e4",
+          "type": "choice",
+          "prompt": "Un mosquito pica con una especie de aguja para chupar sangre. ¿Qué aparato bucal tiene?",
+          "options": [
+            "Masticador",
+            "Chupador",
+            "Perforador-chupador"
+          ],
+          "answer": 2,
+          "explanation": "Perforador-chupador: pincha y succiona. Pica para comer, no para atacarte.",
+          "art": "cabeza_mosquito"
+        },
+        {
+          "id": "u1l5e6",
+          "type": "sort",
+          "prompt": "Mira la boca de cada insecto y ponlo en su caja.",
+          "bins": [
+            "Masticador",
+            "Chupador",
+            "Perforador-chupador"
+          ],
+          "sortItems": [
+            {
+              "label": "Saltamontes",
+              "bin": 0,
+              "art": "cabeza_saltamontes"
+            },
+            {
+              "label": "Mariposa",
+              "bin": 1,
+              "art": "cabeza_mariposa"
+            },
+            {
+              "label": "Mosquito",
+              "bin": 2,
+              "art": "cabeza_mosquito"
+            }
+          ],
+          "explanation": "Mandíbulas para morder, trompa enrollada para beber y aguja para pinchar."
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u1exam",
+    "title": "Reto de la unidad",
+    "art": "paquito",
+    "intro": "¡Llegó el reto! Diez preguntas mezcladas. Si lo superas, abres la siguiente unidad.",
+    "closing": "¡Ya sabes qué es un insecto, cómo es su cuerpo y cómo come! Un guardabosques observa, no tiene miedo y respeta a cada animal.",
+    "exercises": [
+      {
+        "id": "u1x1",
+        "type": "tapAll",
+        "prompt": "Toca todos los insectos.",
+        "items": [
+          {
+            "art": "abeja",
+            "label": "Abeja",
+            "correct": true
+          },
+          {
+            "art": "hormiga",
+            "label": "Hormiga",
+            "correct": true
+          },
+          {
+            "art": "arana",
+            "label": "Araña",
+            "correct": false
+          },
+          {
+            "art": "mariposa",
+            "label": "Mariposa",
+            "correct": true
+          }
+        ],
+        "explanation": "La araña tiene ocho patas. Los insectos tienen seis."
+      },
+      {
+        "id": "u1x2",
+        "type": "choice",
+        "prompt": "¿Cuántas patas tiene un insecto?",
+        "options": [
+          "Cuatro",
+          "Seis",
+          "Ocho",
+          "Diez"
+        ],
+        "answer": 1,
+        "explanation": "Seis patas, tres pares."
+      },
+      {
+        "id": "u1x3",
+        "type": "label",
+        "prompt": "Pon cada nombre en su sitio.",
+        "art": "hormiga",
+        "slots": [
+          {
+            "id": "cabeza",
+            "label": "cabeza",
+            "x": 0.5,
+            "y": 0.2
+          },
+          {
+            "id": "torax",
+            "label": "tórax",
+            "x": 0.5,
+            "y": 0.475
+          },
+          {
+            "id": "abdomen",
+            "label": "abdomen",
+            "x": 0.5,
+            "y": 0.775
+          }
+        ],
+        "explanation": "De arriba abajo: cabeza, tórax y abdomen."
+      },
+      {
+        "id": "u1x4",
+        "type": "choice",
+        "prompt": "¿Qué parte del cuerpo sostiene las patas y las alas?",
+        "options": [
+          "La cabeza",
+          "El tórax",
+          "El abdomen"
+        ],
+        "answer": 1,
+        "explanation": "El tórax."
+      },
+      {
+        "id": "u1x5",
+        "type": "choice",
+        "prompt": "¿Cómo se llama el esqueleto duro que cubre el cuerpo de un insecto?",
+        "options": [
+          "Quitina",
+          "Hueso",
+          "Concha"
+        ],
+        "answer": 0,
+        "explanation": "La quitina forma su exoesqueleto."
+      },
+      {
+        "id": "u1x6",
+        "type": "fill",
+        "prompt": "Completa la frase.",
+        "sentence": "Las ___ detectan olores en el aire.",
+        "bank": [
+          "antenas",
+          "patas",
+          "alas"
+        ],
+        "answers": [
+          "antenas"
+        ],
+        "explanation": "Las antenas se mueven y captan olores leves."
+      },
+      {
+        "id": "u1x7",
+        "type": "choice",
+        "prompt": "¿Todos los insectos tienen alas?",
+        "options": [
+          "Verdadero",
+          "Falso"
+        ],
+        "answer": 1,
+        "explanation": "Algunos no tienen alas."
+      },
+      {
+        "id": "u1x8",
+        "type": "match",
+        "prompt": "Une cada aparato bucal con cómo funciona.",
+        "pairs": [
+          {
+            "left": "Masticador",
+            "right": "Mandíbulas con bordes afilados"
+          },
+          {
+            "left": "Chupador",
+            "right": "Un tubo para beber líquidos"
+          },
+          {
+            "left": "Perforador-chupador",
+            "right": "Una aguja para pinchar y succionar"
+          }
+        ],
+        "explanation": "Cortar, beber o pinchar: cada insecto tiene el aparato bucal que necesita."
+      },
+      {
+        "id": "u1x9",
+        "type": "choice",
+        "prompt": "Una mariposa bebe néctar con un tubo. ¿Qué aparato bucal tiene?",
+        "options": [
+          "Masticador",
+          "Chupador",
+          "Perforador-chupador"
+        ],
+        "answer": 1,
+        "explanation": "Chupador.",
+        "art": "mariposa"
+      },
+      {
+        "id": "u1x10",
+        "type": "choice",
+        "prompt": "El ojo compuesto de un insecto tiene muchas...",
+        "options": [
+          "Lentes",
+          "Antenas",
+          "Patas"
+        ],
+        "answer": 0,
+        "explanation": "Muchas lentes que funcionan como miniojos."
+      }
+    ]
+  }
+}

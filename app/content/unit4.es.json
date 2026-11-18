@@ -1,0 +1,554 @@
+{
+  "id": "u4",
+  "order": 4,
+  "title": "¿Amigo o cuidado?",
+  "intro": "Casi todos los insectos son inofensivos y muchos nos ayudan. Unos pocos pueden ser plaga o picar. Vamos a aprender a convivir con todos, sin miedo y sin exterminar.",
+  "lessons": [
+    {
+      "id": "u4l1",
+      "title": "Los que nos ayudan",
+      "art": "mariquita",
+      "intro": "Sin insectos no habría muchas frutas, ni tierra fértil, ni pájaros. Veamos cómo nos ayudan.",
+      "closing": "Polinizan, reciclan, controlan plagas y alimentan a otros animales. ¡Los insectos hacen mucho más bien que mal!",
+      "exercises": [
+        {
+          "id": "u4l1e1",
+          "type": "match",
+          "prompt": "Une cada insecto con su trabajo.",
+          "pairs": [
+            {
+              "left": "Abeja",
+              "right": "Poliniza las flores"
+            },
+            {
+              "left": "Escarabajo",
+              "right": "Recicla hojas y madera"
+            },
+            {
+              "left": "Mariquita",
+              "right": "Se come los pulgones"
+            },
+            {
+              "left": "Saltamontes",
+              "right": "Es alimento de pájaros"
+            }
+          ],
+          "explanation": "Cada insecto tiene su trabajo en la naturaleza."
+        },
+        {
+          "id": "u4l1e2",
+          "type": "choice",
+          "prompt": "¿Qué pasaría si desaparecieran todos los insectos?",
+          "options": [
+            "Nada",
+            "Faltarían frutas y muchos pájaros pasarían hambre",
+            "Habría más flores"
+          ],
+          "answer": 1,
+          "explanation": "Se romperían las cadenas alimentarias y el reciclaje del suelo."
+        },
+        {
+          "id": "u4l1e3",
+          "type": "choice",
+          "prompt": "¿Qué es polinizar?",
+          "options": [
+            "Llevar el polen de una flor a otra para que haya frutos y semillas",
+            "Comer hojas",
+            "Hacer miel"
+          ],
+          "answer": 0,
+          "explanation": "Sin polinizar, muchas plantas no darían frutos."
+        },
+        {
+          "id": "u4l1e4",
+          "type": "tapAll",
+          "prompt": "Toca los insectos que polinizan flores.",
+          "items": [
+            {
+              "art": "abeja",
+              "label": "Abeja",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Mariposa",
+              "correct": true
+            },
+            {
+              "art": "mosca",
+              "label": "Mosca",
+              "correct": true
+            },
+            {
+              "art": "libelula",
+              "label": "Libélula",
+              "correct": false
+            },
+            {
+              "art": "saltamontes",
+              "label": "Saltamontes",
+              "correct": false
+            }
+          ],
+          "explanation": "Abejas, mariposas y muchas moscas llevan polen de flor en flor."
+        },
+        {
+          "id": "u4l1e5",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Las moscas y los escarabajos ___ los restos y los convierten en abono.",
+          "bank": [
+            "descomponen",
+            "pintan",
+            "congelan"
+          ],
+          "answers": [
+            "descomponen"
+          ],
+          "explanation": "Son los recicladores de la naturaleza."
+        }
+      ]
+    },
+    {
+      "id": "u4l2",
+      "title": "Las plagas y cómo controlarlas",
+      "art": "saltamontes",
+      "intro": "Algunos insectos, cuando son muchísimos, dañan cultivos o comida: son las plagas. ¿Cómo se controlan sin hacer daño a los demás?",
+      "closing": "Exterminar a todos los insectos mata también a los que nos ayudan. Es mejor el control biológico: dejar que sus enemigos naturales hagan el trabajo.",
+      "exercises": [
+        {
+          "id": "u4l2e1",
+          "type": "choice",
+          "prompt": "¿Qué es una plaga?",
+          "options": [
+            "Muchísimos insectos de una clase que dañan cultivos o comida",
+            "Cualquier insecto",
+            "Un insecto bonito"
+          ],
+          "answer": 0,
+          "explanation": "Una plaga son muchísimos insectos de una clase en el mismo sitio."
+        },
+        {
+          "id": "u4l2e2",
+          "type": "match",
+          "prompt": "Une cada plaga con lo que hace.",
+          "pairs": [
+            {
+              "left": "Langosta",
+              "right": "Viaja en enjambres que comen cultivos"
+            },
+            {
+              "left": "Gorgojo",
+              "right": "Se mete en el arroz y la harina"
+            },
+            {
+              "left": "Pulgón",
+              "right": "Chupa la savia de las plantas"
+            }
+          ],
+          "explanation": "Son plaga solo cuando son muchísimos."
+        },
+        {
+          "id": "u4l2e3",
+          "type": "choice",
+          "prompt": "Si echamos insecticida a todo el jardín, ¿qué pasa?",
+          "options": [
+            "Mueren también las abejas, las mariquitas y otros que nos ayudan",
+            "Solo mueren las plagas"
+          ],
+          "answer": 0,
+          "explanation": "El veneno no distingue: mata también a los que nos ayudan."
+        },
+        {
+          "id": "u4l2e4",
+          "type": "choice",
+          "prompt": "¿Qué es el control biológico?",
+          "options": [
+            "Usar a los enemigos naturales de la plaga, como la mariquita contra los pulgones",
+            "Pisar todos los insectos",
+            "Quemar el jardín"
+          ],
+          "answer": 0,
+          "explanation": "Una mariquita puede comerse cientos de pulgones."
+        },
+        {
+          "id": "u4l2e5",
+          "type": "choice",
+          "prompt": "Encuentras gorgojos en la harina. ¿Qué es mejor?",
+          "options": [
+            "Tirar esa harina y guardar la comida en frascos bien cerrados",
+            "Echar insecticida en la cocina"
+          ],
+          "answer": 0,
+          "explanation": "Guardar bien la comida evita la plaga sin venenos."
+        }
+      ]
+    },
+    {
+      "id": "u4l3",
+      "title": "Los que pueden picar o enfermar",
+      "art": "mosquito",
+      "intro": "Unos pocos insectos pueden picar o transmitir enfermedades, como algunos mosquitos y chinches. No son malvados: hacen lo que necesitan para vivir. Aprendamos a protegernos.",
+      "closing": "Protegerse es fácil: no dejar agua estancada, usar mosquitero y ropa larga, y avisar a un adulto si te pica algo. No hace falta matar a todos los insectos.",
+      "exercises": [
+        {
+          "id": "u4l3e1",
+          "type": "choice",
+          "prompt": "¿Por qué pica la hembra del mosquito?",
+          "options": [
+            "Necesita sangre para poner sus huevos",
+            "Porque está enfadada",
+            "Para jugar"
+          ],
+          "answer": 0,
+          "explanation": "Solo pican las hembras. Los machos beben néctar.",
+          "art": "mosquito"
+        },
+        {
+          "id": "u4l3e2",
+          "type": "choice",
+          "prompt": "¿Dónde ponen sus huevos los mosquitos?",
+          "options": [
+            "En agua quieta: cubos, llantas o floreros",
+            "En el fuego",
+            "En las nubes"
+          ],
+          "answer": 0,
+          "explanation": "Por eso hay que vaciar el agua que se queda quieta.",
+          "art": "mosquito"
+        },
+        {
+          "id": "u4l3e3",
+          "type": "choice",
+          "prompt": "¿Qué NO ayuda a protegerte de los mosquitos?",
+          "options": [
+            "Usar mosquitero",
+            "Vaciar el agua estancada",
+            "Dejar cubos con agua al aire libre"
+          ],
+          "answer": 2,
+          "explanation": "El agua quieta es donde nacen los mosquitos.",
+          "art": "mosquito"
+        },
+        {
+          "id": "u4l3e4",
+          "type": "choice",
+          "prompt": "Te pica una abeja y se te hincha mucho o te cuesta respirar. ¿Qué haces?",
+          "options": [
+            "Aviso enseguida a un adulto",
+            "Me lo callo",
+            "Me rasco fuerte"
+          ],
+          "answer": 0,
+          "explanation": "Algunas personas son alérgicas. Avisar a un adulto siempre es lo correcto.",
+          "art": "abeja"
+        },
+        {
+          "id": "u4l3e5",
+          "type": "choice",
+          "prompt": "Algunas chinches pueden transmitir enfermedades. ¿Qué es lo más seguro?",
+          "options": [
+            "No tocarlas y avisar a un adulto si ves una en casa",
+            "Agarrarlas con la mano",
+            "Dejarlas en la cama"
+          ],
+          "answer": 0,
+          "explanation": "Mirar sin tocar y avisar: así estás a salvo.",
+          "art": "chinche"
+        }
+      ]
+    },
+    {
+      "id": "u4l4",
+      "title": "¿Amigo o cuidado?",
+      "art": "hoja",
+      "intro": "Último repaso: decide si cada insecto es inofensivo, si puede ser plaga o si conviene tener cuidado porque puede picar o enfermar.",
+      "closing": "Casi todos son inofensivos. Con los demás basta con conocerlos y protegerse. ¡Ya eres un guardabosques que cuida a los insectos!",
+      "exercises": [
+        {
+          "id": "u4l4e1",
+          "type": "sort",
+          "prompt": "Pon cada insecto en su caja.",
+          "bins": [
+            "Inofensivo",
+            "Puede ser plaga",
+            "Cuidado: puede picar o enfermar"
+          ],
+          "sortItems": [
+            {
+              "label": "Mariposa",
+              "bin": 0,
+              "art": "mariposa"
+            },
+            {
+              "label": "Libélula",
+              "bin": 0,
+              "art": "libelula"
+            },
+            {
+              "label": "Mariquita",
+              "bin": 0,
+              "art": "mariquita"
+            },
+            {
+              "label": "Langosta (en enjambre)",
+              "bin": 1,
+              "art": "saltamontes"
+            },
+            {
+              "label": "Gorgojo",
+              "bin": 1,
+              "art": "escarabajo"
+            },
+            {
+              "label": "Mosquito",
+              "bin": 2,
+              "art": "mosquito"
+            },
+            {
+              "label": "Abeja",
+              "bin": 2,
+              "art": "abeja"
+            }
+          ],
+          "explanation": "La abeja nos ayuda muchísimo, pero puede picar si se siente atacada: por eso, cuidado."
+        },
+        {
+          "id": "u4l4e2",
+          "type": "choice",
+          "prompt": "¿Cuál de estos es inofensivo?",
+          "options": [
+            "Libélula",
+            "Mosquito"
+          ],
+          "answer": 0,
+          "explanation": "La libélula no pica a las personas y se come a los mosquitos."
+        },
+        {
+          "id": "u4l4e3",
+          "type": "choice",
+          "prompt": "¿Qué significa «perjudicial»?",
+          "options": [
+            "Que puede dañar cultivos o comida",
+            "Que es venenoso siempre",
+            "Que es bonito"
+          ],
+          "answer": 0,
+          "explanation": "Un insecto perjudicial puede ser plaga, pero no es malvado."
+        },
+        {
+          "id": "u4l4e4",
+          "type": "sort",
+          "prompt": "Pon cada insecto en su caja.",
+          "bins": [
+            "Inofensivo",
+            "Puede ser plaga",
+            "Cuidado: puede picar o enfermar"
+          ],
+          "sortItems": [
+            {
+              "label": "Luciérnaga",
+              "bin": 0,
+              "art": "luciernaga"
+            },
+            {
+              "label": "Grillo",
+              "bin": 0,
+              "art": "saltamontes"
+            },
+            {
+              "label": "Pulgón",
+              "bin": 1
+            },
+            {
+              "label": "Chinche besucona",
+              "bin": 2,
+              "art": "chinche"
+            }
+          ],
+          "explanation": "La chinche besucona puede transmitir una enfermedad: si ves una en casa, avisa a un adulto."
+        },
+        {
+          "id": "u4l4e5",
+          "type": "choice",
+          "prompt": "¿Qué hace un buen guardabosques con los insectos?",
+          "options": [
+            "Los observa, los respeta y se protege sin exterminarlos",
+            "Los mata a todos",
+            "Les tiene miedo"
+          ],
+          "answer": 0,
+          "explanation": "Observar, respetar y protegerse: ese es el secreto."
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u4exam",
+    "title": "Reto de la unidad",
+    "art": "paquito",
+    "intro": "¡Último reto! Si lo superas, terminas Hexa y podrás contarle a Paquito qué sientes ahora por los insectos.",
+    "closing": "¡Enhorabuena, guardabosques! Ya sabes que casi todos los insectos son amigos y cómo cuidarte de los pocos que pueden picar.",
+    "exercises": [
+      {
+        "id": "u4x1",
+        "type": "match",
+        "prompt": "Une cada insecto con su trabajo.",
+        "pairs": [
+          {
+            "left": "Abeja",
+            "right": "Poliniza las flores"
+          },
+          {
+            "left": "Mariquita",
+            "right": "Se come los pulgones"
+          },
+          {
+            "left": "Escarabajo",
+            "right": "Recicla hojas y madera"
+          }
+        ],
+        "explanation": "Polinizar, controlar plagas y reciclar."
+      },
+      {
+        "id": "u4x2",
+        "type": "choice",
+        "prompt": "¿Qué es una plaga?",
+        "options": [
+          "Muchísimos insectos de una clase que dañan cultivos o comida",
+          "Cualquier insecto",
+          "Un insecto bonito"
+        ],
+        "answer": 0,
+        "explanation": "Muchísimos insectos de una clase."
+      },
+      {
+        "id": "u4x3",
+        "type": "choice",
+        "prompt": "¿Qué es el control biológico?",
+        "options": [
+          "Usar a los enemigos naturales de la plaga, como la mariquita contra los pulgones",
+          "Pisar todos los insectos",
+          "Quemar el jardín"
+        ],
+        "answer": 0,
+        "explanation": "Usar a sus enemigos naturales."
+      },
+      {
+        "id": "u4x4",
+        "type": "choice",
+        "prompt": "¿Dónde ponen sus huevos los mosquitos?",
+        "options": [
+          "En agua quieta: cubos, llantas o floreros",
+          "En el fuego",
+          "En las nubes"
+        ],
+        "answer": 0,
+        "explanation": "En agua quieta.",
+        "art": "mosquito"
+      },
+      {
+        "id": "u4x5",
+        "type": "sort",
+        "prompt": "Pon cada insecto en su caja.",
+        "bins": [
+          "Inofensivo",
+          "Puede ser plaga",
+          "Cuidado: puede picar o enfermar"
+        ],
+        "sortItems": [
+          {
+            "label": "Mariposa",
+            "bin": 0,
+            "art": "mariposa"
+          },
+          {
+            "label": "Libélula",
+            "bin": 0,
+            "art": "libelula"
+          },
+          {
+            "label": "Langosta (en enjambre)",
+            "bin": 1,
+            "art": "saltamontes"
+          },
+          {
+            "label": "Gorgojo",
+            "bin": 1,
+            "art": "escarabajo"
+          },
+          {
+            "label": "Mosquito",
+            "bin": 2,
+            "art": "mosquito"
+          }
+        ],
+        "explanation": "Inofensivos, plagas y los que pueden picar."
+      },
+      {
+        "id": "u4x6",
+        "type": "choice",
+        "prompt": "¿Qué NO ayuda a protegerte de los mosquitos?",
+        "options": [
+          "Usar mosquitero",
+          "Vaciar el agua estancada",
+          "Dejar cubos con agua al aire libre"
+        ],
+        "answer": 2,
+        "explanation": "Dejar agua quieta.",
+        "art": "mosquito"
+      },
+      {
+        "id": "u4x7",
+        "type": "choice",
+        "prompt": "Si echamos insecticida a todo el jardín, ¿qué pasa?",
+        "options": [
+          "Mueren también las abejas, las mariquitas y otros que nos ayudan",
+          "Solo mueren las plagas"
+        ],
+        "answer": 0,
+        "explanation": "Mueren también los que nos ayudan."
+      },
+      {
+        "id": "u4x8",
+        "type": "fill",
+        "prompt": "Completa la frase.",
+        "sentence": "Para que haya frutos, los insectos ___ las flores.",
+        "bank": [
+          "polinizan",
+          "pisan",
+          "apagan"
+        ],
+        "answers": [
+          "polinizan"
+        ],
+        "explanation": "Polinizan."
+      },
+      {
+        "id": "u4x9",
+        "type": "choice",
+        "prompt": "Te pica una abeja y se te hincha mucho o te cuesta respirar. ¿Qué haces?",
+        "options": [
+          "Aviso enseguida a un adulto",
+          "Me lo callo",
+          "Me rasco fuerte"
+        ],
+        "answer": 0,
+        "explanation": "Avisar a un adulto.",
+        "art": "abeja"
+      },
+      {
+        "id": "u4x10",
+        "type": "choice",
+        "prompt": "¿Qué hace un buen guardabosques con los insectos?",
+        "options": [
+          "Los observa, los respeta y se protege sin exterminarlos",
+          "Los mata a todos",
+          "Les tiene miedo"
+        ],
+        "answer": 0,
+        "explanation": "Observar, respetar y protegerse."
+      }
+    ]
+  }
+}

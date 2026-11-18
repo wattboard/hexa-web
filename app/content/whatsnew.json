@@ -1,0 +1,73 @@
+{
+ "_info": "Fuente única de novedades: la usan la pantalla «Novedades» de iOS y Android y las notas de TestFlight y Google Play (scripts/release_notes.py). En cada build con cambios para quien prueba: reescribir «news» con lo de ESE build, añadir a «features» lo que pase a ser parte fija de la app y subir «version» (la pantalla vuelve a salir una vez). Iconos: music, book, chat, map, camera, album, people, pictures, mouth, bravery, notebook.",
+ "version": 4,
+ "news": [
+  {
+   "icon": "bravery",
+   "es": "Escalera de valentía: la foto real se ve primero de lejos y te acercas cuando quieras.",
+   "en": "Bravery ladder: the real photo starts far away and you get closer when you want."
+  },
+  {
+   "icon": "notebook",
+   "es": "Cuaderno de campo: en cada misión puedes apuntar y dibujar lo que viste.",
+   "en": "Field notebook: in each mission you can write and draw what you saw."
+  },
+  {
+   "icon": "pictures",
+   "es": "Más dibujos en las preguntas y un juego nuevo para reconocer bocas.",
+   "en": "More pictures in the questions and a new game to recognise mouths."
+  },
+  {
+   "icon": "album",
+   "es": "Cuatro fichas nuevas de insectos de Venezuela, como la abeja angelita.",
+   "en": "Four new cards of Venezuelan insects, like the angelita bee."
+  }
+ ],
+ "features": [
+  {
+   "icon": "map",
+   "es": "Cuatro unidades con lecciones y juegos para conocer los insectos.",
+   "en": "Four units with lessons and games to get to know insects."
+  },
+  {
+   "icon": "book",
+   "es": "«Antes de empezar»: una lectura corta con dibujos al principio de cada lección.",
+   "en": "“Before you start”: a short reading with pictures at the start of each lesson."
+  },
+  {
+   "icon": "camera",
+   "es": "Fotos reales, solo si quieres, y el botón «Me da un poco de miedo».",
+   "en": "Real photos, only if you want, and the “It scares me a bit” button."
+  },
+  {
+   "icon": "notebook",
+   "es": "Cuaderno de campo en las misiones, sin cámara ni capturas.",
+   "en": "A field notebook in the missions, with no camera or catching."
+  },
+  {
+   "icon": "bravery",
+   "es": "Escalera de valentía para ver las fotos reales poco a poco.",
+   "en": "A bravery ladder to see real photos little by little."
+  },
+  {
+   "icon": "album",
+   "es": "Tu álbum de insectos y misiones de campo para mirar sin capturar.",
+   "en": "Your insect album and field missions to look without catching."
+  },
+  {
+   "icon": "music",
+   "es": "Música de fondo, bajita fuera de las lecciones. Se quita con el botón de la nota.",
+   "en": "Background music, soft outside lessons. Turn it off with the music-note button."
+  },
+  {
+   "icon": "chat",
+   "es": "Envía tus comentarios e ideas desde la propia app.",
+   "en": "Send your comments and ideas from inside the app."
+  },
+  {
+   "icon": "people",
+   "es": "Modo docente: ritmo, progreso de cada niño, actividades de clase y diplomas.",
+   "en": "Teacher mode: pace, each child's progress, class activities and diplomas."
+  }
+ ]
+}

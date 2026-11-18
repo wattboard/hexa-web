@@ -1,0 +1,554 @@
+{
+  "id": "u4",
+  "order": 4,
+  "title": "Friend or careful?",
+  "intro": "Almost all insects are harmless and many help us. A few can be pests or sting. Let's learn to live alongside all of them, without fear and without wiping them out.",
+  "lessons": [
+    {
+      "id": "u4l1",
+      "title": "The helpers",
+      "art": "mariquita",
+      "intro": "Without insects there would be few fruits, no rich soil and fewer birds. Let's see how they help us.",
+      "closing": "They pollinate, recycle, control pests and feed other animals. Insects do much more good than harm!",
+      "exercises": [
+        {
+          "id": "u4l1e1",
+          "type": "match",
+          "prompt": "Match each insect with its job.",
+          "pairs": [
+            {
+              "left": "Bee",
+              "right": "Pollinates flowers"
+            },
+            {
+              "left": "Beetle",
+              "right": "Recycles leaves and wood"
+            },
+            {
+              "left": "Ladybug (ladybird)",
+              "right": "Eats aphids"
+            },
+            {
+              "left": "Grasshopper",
+              "right": "Is food for birds"
+            }
+          ],
+          "explanation": "Every insect has a job in nature."
+        },
+        {
+          "id": "u4l1e2",
+          "type": "choice",
+          "prompt": "What would happen if all insects disappeared?",
+          "options": [
+            "Nothing",
+            "We'd lack fruit and many birds would go hungry",
+            "There'd be more flowers"
+          ],
+          "answer": 1,
+          "explanation": "Food chains and soil recycling would break down."
+        },
+        {
+          "id": "u4l1e3",
+          "type": "choice",
+          "prompt": "What does pollinating mean?",
+          "options": [
+            "Carrying pollen from flower to flower so there are fruits and seeds",
+            "Eating leaves",
+            "Making honey"
+          ],
+          "answer": 0,
+          "explanation": "Without pollination, many plants wouldn't make fruit."
+        },
+        {
+          "id": "u4l1e4",
+          "type": "tapAll",
+          "prompt": "Tap the insects that pollinate flowers.",
+          "items": [
+            {
+              "art": "abeja",
+              "label": "Bee",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Butterfly",
+              "correct": true
+            },
+            {
+              "art": "mosca",
+              "label": "Fly",
+              "correct": true
+            },
+            {
+              "art": "libelula",
+              "label": "Dragonfly",
+              "correct": false
+            },
+            {
+              "art": "saltamontes",
+              "label": "Grasshopper",
+              "correct": false
+            }
+          ],
+          "explanation": "Bees, butterflies and many flies carry pollen from flower to flower."
+        },
+        {
+          "id": "u4l1e5",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Flies and beetles ___ leftovers and turn them into fertilizer.",
+          "bank": [
+            "break down",
+            "paint",
+            "freeze"
+          ],
+          "answers": [
+            "break down"
+          ],
+          "explanation": "They are nature's recyclers."
+        }
+      ]
+    },
+    {
+      "id": "u4l2",
+      "title": "Pests and how to control them",
+      "art": "saltamontes",
+      "intro": "Some insects, when there are huge numbers of them, damage crops or food: they are pests. How do we control them without harming the others?",
+      "closing": "Wiping out all insects also kills the ones that help us. Biological control is better: letting their natural enemies do the job.",
+      "exercises": [
+        {
+          "id": "u4l2e1",
+          "type": "choice",
+          "prompt": "What is a pest?",
+          "options": [
+            "Huge numbers of one kind of insect that damage crops or food",
+            "Any insect",
+            "A pretty insect"
+          ],
+          "answer": 0,
+          "explanation": "A pest outbreak is huge numbers of one kind of insect in the same place."
+        },
+        {
+          "id": "u4l2e2",
+          "type": "match",
+          "prompt": "Match each pest with what it does.",
+          "pairs": [
+            {
+              "left": "Locust",
+              "right": "Travels in swarms that eat crops"
+            },
+            {
+              "left": "Weevil",
+              "right": "Gets into rice and flour"
+            },
+            {
+              "left": "Aphid",
+              "right": "Sucks plant sap"
+            }
+          ],
+          "explanation": "They're only pests when there are huge numbers of them."
+        },
+        {
+          "id": "u4l2e3",
+          "type": "choice",
+          "prompt": "If we spray insecticide all over the garden, what happens?",
+          "options": [
+            "Bees, ladybugs and other helpers die too",
+            "Only the pests die"
+          ],
+          "answer": 0,
+          "explanation": "Poison can't tell the difference: it kills the helpers too."
+        },
+        {
+          "id": "u4l2e4",
+          "type": "choice",
+          "prompt": "What is biological control?",
+          "options": [
+            "Using the pest's natural enemies, like ladybugs against aphids",
+            "Stepping on every insect",
+            "Burning the garden"
+          ],
+          "answer": 0,
+          "explanation": "One ladybug can eat hundreds of aphids."
+        },
+        {
+          "id": "u4l2e5",
+          "type": "choice",
+          "prompt": "You find weevils in the flour. What's best?",
+          "options": [
+            "Throw that flour away and keep food in tightly closed jars",
+            "Spray insecticide in the kitchen"
+          ],
+          "answer": 0,
+          "explanation": "Storing food well prevents pests without poison."
+        }
+      ]
+    },
+    {
+      "id": "u4l3",
+      "title": "The ones that can sting or spread disease",
+      "art": "mosquito",
+      "intro": "A few insects can sting or spread disease, like some mosquitoes and bugs. They aren't evil: they do what they need to live. Let's learn to protect ourselves.",
+      "closing": "Staying safe is easy: no standing water, use a mosquito net and long clothes, and tell an adult if something bites you. There's no need to kill every insect.",
+      "exercises": [
+        {
+          "id": "u4l3e1",
+          "type": "choice",
+          "prompt": "Why does the female mosquito bite?",
+          "options": [
+            "She needs blood to lay her eggs",
+            "Because she's angry",
+            "To play"
+          ],
+          "answer": 0,
+          "explanation": "Only females bite. Males drink nectar.",
+          "art": "mosquito"
+        },
+        {
+          "id": "u4l3e2",
+          "type": "choice",
+          "prompt": "Where do mosquitoes lay their eggs?",
+          "options": [
+            "In still water: buckets, tires or vases",
+            "In fire",
+            "In the clouds"
+          ],
+          "answer": 0,
+          "explanation": "That's why we empty water that sits still.",
+          "art": "mosquito"
+        },
+        {
+          "id": "u4l3e3",
+          "type": "choice",
+          "prompt": "What does NOT help protect you from mosquitoes?",
+          "options": [
+            "Using a mosquito net",
+            "Emptying standing water",
+            "Leaving buckets of water outside"
+          ],
+          "answer": 2,
+          "explanation": "Still water is where mosquitoes are born.",
+          "art": "mosquito"
+        },
+        {
+          "id": "u4l3e4",
+          "type": "choice",
+          "prompt": "A bee stings you and it swells up a lot or it's hard to breathe. What do you do?",
+          "options": [
+            "I tell an adult right away",
+            "I keep quiet",
+            "I scratch hard"
+          ],
+          "answer": 0,
+          "explanation": "Some people are allergic. Telling an adult is always the right thing.",
+          "art": "abeja"
+        },
+        {
+          "id": "u4l3e5",
+          "type": "choice",
+          "prompt": "Some bugs can spread disease. What's the safest thing?",
+          "options": [
+            "Don't touch them and tell an adult if you see one at home",
+            "Grab them with your hand",
+            "Leave them in the bed"
+          ],
+          "answer": 0,
+          "explanation": "Look without touching and tell someone: that keeps you safe.",
+          "art": "chinche"
+        }
+      ]
+    },
+    {
+      "id": "u4l4",
+      "title": "Friend or careful?",
+      "art": "hoja",
+      "intro": "Final review: decide whether each insect is harmless, can be a pest, or needs care because it can sting or spread disease.",
+      "closing": "Almost all are harmless. With the rest, you just need to know them and stay safe. You're a forest ranger who looks after insects!",
+      "exercises": [
+        {
+          "id": "u4l4e1",
+          "type": "sort",
+          "prompt": "Put each insect in its box.",
+          "bins": [
+            "Harmless",
+            "Can be a pest",
+            "Careful: can sting or spread disease"
+          ],
+          "sortItems": [
+            {
+              "label": "Butterfly",
+              "bin": 0,
+              "art": "mariposa"
+            },
+            {
+              "label": "Dragonfly",
+              "bin": 0,
+              "art": "libelula"
+            },
+            {
+              "label": "Ladybug (ladybird)",
+              "bin": 0,
+              "art": "mariquita"
+            },
+            {
+              "label": "Locust (in a swarm)",
+              "bin": 1,
+              "art": "saltamontes"
+            },
+            {
+              "label": "Weevil",
+              "bin": 1,
+              "art": "escarabajo"
+            },
+            {
+              "label": "Mosquito",
+              "bin": 2,
+              "art": "mosquito"
+            },
+            {
+              "label": "Bee",
+              "bin": 2,
+              "art": "abeja"
+            }
+          ],
+          "explanation": "Bees help us enormously, but they can sting if they feel attacked: so, take care."
+        },
+        {
+          "id": "u4l4e2",
+          "type": "choice",
+          "prompt": "Which of these is harmless?",
+          "options": [
+            "Dragonfly",
+            "Mosquito"
+          ],
+          "answer": 0,
+          "explanation": "Dragonflies don't sting people and they eat mosquitoes."
+        },
+        {
+          "id": "u4l4e3",
+          "type": "choice",
+          "prompt": "What does “harmful” mean here?",
+          "options": [
+            "That it can damage crops or food",
+            "That it's always poisonous",
+            "That it's pretty"
+          ],
+          "answer": 0,
+          "explanation": "A harmful insect can be a pest, but it isn't evil."
+        },
+        {
+          "id": "u4l4e4",
+          "type": "sort",
+          "prompt": "Put each insect in its box.",
+          "bins": [
+            "Harmless",
+            "Can be a pest",
+            "Careful: can sting or spread disease"
+          ],
+          "sortItems": [
+            {
+              "label": "Firefly",
+              "bin": 0,
+              "art": "luciernaga"
+            },
+            {
+              "label": "Cricket",
+              "bin": 0,
+              "art": "saltamontes"
+            },
+            {
+              "label": "Aphid",
+              "bin": 1
+            },
+            {
+              "label": "Kissing bug",
+              "bin": 2,
+              "art": "chinche"
+            }
+          ],
+          "explanation": "The kissing bug can spread a disease: if you see one at home, tell an adult."
+        },
+        {
+          "id": "u4l4e5",
+          "type": "choice",
+          "prompt": "What does a good forest ranger do with insects?",
+          "options": [
+            "Watches them, respects them and stays safe without wiping them out",
+            "Kills them all",
+            "Is scared of them"
+          ],
+          "answer": 0,
+          "explanation": "Watch, respect and stay safe: that's the secret."
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u4exam",
+    "title": "Unit challenge",
+    "art": "paquito",
+    "intro": "Final challenge! Pass it and you finish Hexa, and you can tell Paquito how you feel about insects now.",
+    "closing": "Congratulations, forest ranger! Now you know almost all insects are friends, and how to stay safe from the few that can sting.",
+    "exercises": [
+      {
+        "id": "u4x1",
+        "type": "match",
+        "prompt": "Match each insect with its job.",
+        "pairs": [
+          {
+            "left": "Bee",
+            "right": "Pollinates flowers"
+          },
+          {
+            "left": "Ladybug (ladybird)",
+            "right": "Eats aphids"
+          },
+          {
+            "left": "Beetle",
+            "right": "Recycles leaves and wood"
+          }
+        ],
+        "explanation": "Pollinating, controlling pests and recycling."
+      },
+      {
+        "id": "u4x2",
+        "type": "choice",
+        "prompt": "What is a pest?",
+        "options": [
+          "Huge numbers of one kind of insect that damage crops or food",
+          "Any insect",
+          "A pretty insect"
+        ],
+        "answer": 0,
+        "explanation": "Huge numbers of one kind of insect."
+      },
+      {
+        "id": "u4x3",
+        "type": "choice",
+        "prompt": "What is biological control?",
+        "options": [
+          "Using the pest's natural enemies, like ladybugs against aphids",
+          "Stepping on every insect",
+          "Burning the garden"
+        ],
+        "answer": 0,
+        "explanation": "Using their natural enemies."
+      },
+      {
+        "id": "u4x4",
+        "type": "choice",
+        "prompt": "Where do mosquitoes lay their eggs?",
+        "options": [
+          "In still water: buckets, tires or vases",
+          "In fire",
+          "In the clouds"
+        ],
+        "answer": 0,
+        "explanation": "In still water.",
+        "art": "mosquito"
+      },
+      {
+        "id": "u4x5",
+        "type": "sort",
+        "prompt": "Put each insect in its box.",
+        "bins": [
+          "Harmless",
+          "Can be a pest",
+          "Careful: can sting or spread disease"
+        ],
+        "sortItems": [
+          {
+            "label": "Butterfly",
+            "bin": 0,
+            "art": "mariposa"
+          },
+          {
+            "label": "Dragonfly",
+            "bin": 0,
+            "art": "libelula"
+          },
+          {
+            "label": "Locust (in a swarm)",
+            "bin": 1,
+            "art": "saltamontes"
+          },
+          {
+            "label": "Weevil",
+            "bin": 1,
+            "art": "escarabajo"
+          },
+          {
+            "label": "Mosquito",
+            "bin": 2,
+            "art": "mosquito"
+          }
+        ],
+        "explanation": "Harmless ones, pests and the ones that can bite."
+      },
+      {
+        "id": "u4x6",
+        "type": "choice",
+        "prompt": "What does NOT help protect you from mosquitoes?",
+        "options": [
+          "Using a mosquito net",
+          "Emptying standing water",
+          "Leaving buckets of water outside"
+        ],
+        "answer": 2,
+        "explanation": "Leaving still water.",
+        "art": "mosquito"
+      },
+      {
+        "id": "u4x7",
+        "type": "choice",
+        "prompt": "If we spray insecticide all over the garden, what happens?",
+        "options": [
+          "Bees, ladybugs and other helpers die too",
+          "Only the pests die"
+        ],
+        "answer": 0,
+        "explanation": "The helpers die too."
+      },
+      {
+        "id": "u4x8",
+        "type": "fill",
+        "prompt": "Complete the sentence.",
+        "sentence": "For there to be fruit, insects ___ the flowers.",
+        "bank": [
+          "pollinate",
+          "step on",
+          "switch off"
+        ],
+        "answers": [
+          "pollinate"
+        ],
+        "explanation": "They pollinate."
+      },
+      {
+        "id": "u4x9",
+        "type": "choice",
+        "prompt": "A bee stings you and it swells up a lot or it's hard to breathe. What do you do?",
+        "options": [
+          "I tell an adult right away",
+          "I keep quiet",
+          "I scratch hard"
+        ],
+        "answer": 0,
+        "explanation": "Tell an adult.",
+        "art": "abeja"
+      },
+      {
+        "id": "u4x10",
+        "type": "choice",
+        "prompt": "What does a good forest ranger do with insects?",
+        "options": [
+          "Watches them, respects them and stays safe without wiping them out",
+          "Kills them all",
+          "Is scared of them"
+        ],
+        "answer": 0,
+        "explanation": "Watch, respect and stay safe."
+      }
+    ]
+  }
+}

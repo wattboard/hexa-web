@@ -1,0 +1,499 @@
+{
+  "id": "u2",
+  "order": 2,
+  "title": "Vida de los insectos",
+  "intro": "¡Hola otra vez! Ahora vamos a ver dónde viven los insectos, cómo se buscan pareja y cómo crecen. Verás que una oruga y una mariposa son la misma.",
+  "lessons": [
+    {
+      "id": "u2l1",
+      "title": "Dónde viven",
+      "art": "hoja",
+      "intro": "Los insectos están en casi todas partes. Vamos a descubrir dónde viven y por qué pueden vivir allí.",
+      "closing": "Los insectos viven en casi todos los ecosistemas porque se adaptan, son pequeños y muchos vuelan. Donde hay plantas, hay comida para ellos.",
+      "exercises": [
+        {
+          "id": "u2l1e1",
+          "type": "choice",
+          "prompt": "¿Dónde pueden vivir los insectos?",
+          "options": [
+            "Solo en los jardines",
+            "En casi todos los lugares: desiertos, bosques, ríos y hasta montañas nevadas",
+            "Solo en el agua"
+          ],
+          "answer": 1,
+          "explanation": "Viven en casi todos los ecosistemas terrestres, desde desiertos hasta picos nevados."
+        },
+        {
+          "id": "u2l1e2",
+          "type": "choice",
+          "prompt": "¿Por qué pueden vivir en tantos lugares?",
+          "options": [
+            "Porque son muy grandes",
+            "Porque se adaptan y muchos pueden volar",
+            "Porque nunca comen"
+          ],
+          "answer": 1,
+          "explanation": "Su capacidad de adaptación, su vuelo y su pequeño tamaño los ayudan a llegar a todas partes."
+        },
+        {
+          "id": "u2l1e3",
+          "type": "match",
+          "prompt": "Une cada insecto con el lugar donde lo puedes encontrar.",
+          "pairs": [
+            {
+              "left": "Mariposa",
+              "right": "Entre las flores, bebiendo néctar"
+            },
+            {
+              "left": "Libélula",
+              "right": "Cerca de ríos, lagos y arroyos"
+            },
+            {
+              "left": "Hormiga",
+              "right": "En nidos bajo la tierra"
+            }
+          ],
+          "explanation": "Cada insecto vive donde encuentra lo que necesita: comida, agua y refugio."
+        },
+        {
+          "id": "u2l1e4",
+          "type": "choice",
+          "prompt": "¿Dónde abundan los insectos?",
+          "options": [
+            "En la vegetación verde y frondosa",
+            "En lugares sin ninguna planta",
+            "Solo dentro de las cuevas"
+          ],
+          "answer": 0,
+          "explanation": "Donde hay hojas, semillas, frutas y néctar hay comida para ellos."
+        },
+        {
+          "id": "u2l1e5",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Algunos insectos viven en agua ___ como ríos, lagos y arroyos.",
+          "bank": [
+            "dulce",
+            "helada",
+            "seca"
+          ],
+          "answers": [
+            "dulce"
+          ],
+          "explanation": "Los de agua dulce solo salen de ella cuando necesitan respirar."
+        }
+      ]
+    },
+    {
+      "id": "u2l2",
+      "title": "Cómo se buscan pareja",
+      "art": "luciernaga",
+      "intro": "Los insectos viven poco tiempo y se reproducen rápido. Para encontrarse usan luz, sonidos, aromas y hasta danzas.",
+      "closing": "Los insectos se comunican de formas asombrosas: con luz, con música y con olores. Observarlos en silencio es la mejor manera de verlo.",
+      "exercises": [
+        {
+          "id": "u2l2e1",
+          "type": "choice",
+          "prompt": "¿Cómo se comunican las luciérnagas para encontrarse?",
+          "options": [
+            "Con destellos de luz",
+            "Con aplausos",
+            "Con silbidos"
+          ],
+          "answer": 0,
+          "explanation": "Las luciérnagas emiten luz para llamarse entre ellas.",
+          "art": "luciernaga"
+        },
+        {
+          "id": "u2l2e2",
+          "type": "match",
+          "prompt": "Une cada insecto con su forma de comunicarse.",
+          "pairs": [
+            {
+              "left": "Mariposa",
+              "right": "Su aroma viaja por el aire"
+            },
+            {
+              "left": "Saltamontes",
+              "right": "Frota las patas contra las alas y canta"
+            },
+            {
+              "left": "Luciérnaga (cocuyo)",
+              "right": "Hace destellos de luz"
+            },
+            {
+              "left": "Escarabajo (cucarrón)",
+              "right": "Los machos luchan entre ellos"
+            }
+          ],
+          "explanation": "Aroma, música, luz y fuerza: cada uno tiene su manera."
+        },
+        {
+          "id": "u2l2e3",
+          "type": "choice",
+          "prompt": "¿Cómo \"canta\" un saltamontes macho?",
+          "options": [
+            "Con la boca",
+            "Frotando las patas traseras contra las alas",
+            "Golpeando el suelo"
+          ],
+          "answer": 1,
+          "explanation": "Frota las patas traseras contra las alas para componer una canción y cortejar.",
+          "art": "saltamontes"
+        },
+        {
+          "id": "u2l2e4",
+          "type": "choice",
+          "prompt": "¿Cómo encuentran los machos de mariposa a las hembras?",
+          "options": [
+            "Siguiendo su aroma en el aire",
+            "Por el sonido de sus alas",
+            "Preguntando a otros insectos"
+          ],
+          "answer": 0,
+          "explanation": "Las hembras desprenden un aroma y los machos siguen su rastro en el aire.",
+          "art": "mariposa"
+        },
+        {
+          "id": "u2l2e5",
+          "type": "choice",
+          "prompt": "Los insectos viven poco tiempo. Por eso se reproducen...",
+          "options": [
+            "Muy despacio",
+            "Rápidamente"
+          ],
+          "answer": 1,
+          "explanation": "Su vida es corta y por eso se reproducen rápido."
+        }
+      ]
+    },
+    {
+      "id": "u2l3",
+      "title": "Metamorfosis completa",
+      "art": "oruga",
+      "intro": "Una oruga no se parece nada a una mariposa, ¡pero es la misma! Vamos a ver cómo se transforma.",
+      "closing": "En la metamorfosis completa el insecto cambia por completo, como la mariposa. Mientras está en la crisálida no come ni se mueve: se está transformando.",
+      "exercises": [
+        {
+          "id": "u2l3e1",
+          "type": "order",
+          "prompt": "Ordena el ciclo de vida de la mariposa.",
+          "steps": [
+            {
+              "art": "huevo",
+              "label": "Huevo"
+            },
+            {
+              "art": "oruga",
+              "label": "Larva (oruga)"
+            },
+            {
+              "art": "crisalida",
+              "label": "Pupa (crisálida)"
+            },
+            {
+              "art": "mariposa",
+              "label": "Mariposa adulta"
+            }
+          ],
+          "explanation": "Huevo, larva (oruga), pupa (crisálida) y mariposa adulta."
+        },
+        {
+          "id": "u2l3e2",
+          "type": "choice",
+          "prompt": "¿Cómo se llama el estado entre la larva y el adulto?",
+          "options": [
+            "Ninfa",
+            "Crisálida o pupa",
+            "Huevo"
+          ],
+          "answer": 1,
+          "explanation": "La transición ocurre dentro de la crisálida, también llamada pupa."
+        },
+        {
+          "id": "u2l3e3",
+          "type": "choice",
+          "prompt": "La mayoría de los insectos nacen en forma de...",
+          "options": [
+            "Huevo",
+            "Adulto pequeño",
+            "Crisálida"
+          ],
+          "answer": 0,
+          "explanation": "Casi todos empiezan como un huevo."
+        },
+        {
+          "id": "u2l3e4",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Huevo, larva, ___ y adulto: así es la metamorfosis completa.",
+          "bank": [
+            "pupa",
+            "ninfa",
+            "nido"
+          ],
+          "answers": [
+            "pupa"
+          ],
+          "explanation": "La pupa es la crisálida."
+        },
+        {
+          "id": "u2l3e5",
+          "type": "choice",
+          "prompt": "¿Cuánto puede tardar una larva en convertirse en adulto?",
+          "options": [
+            "Unos minutos",
+            "Desde varias semanas hasta años"
+          ],
+          "answer": 1,
+          "explanation": "Depende de cada insecto: pueden pasar varias semanas o incluso años."
+        }
+      ]
+    },
+    {
+      "id": "u2l4",
+      "title": "Metamorfosis incompleta",
+      "art": "ninfa",
+      "intro": "Otros insectos no hacen crisálida: nacen casi como sus padres y van creciendo. ¡Vamos a verlo!",
+      "closing": "En la metamorfosis incompleta las crías son ninfas, versiones pequeñas de sus padres. Crecen cambiando de exoesqueleto, como quien cambia de ropa que le queda pequeña.",
+      "exercises": [
+        {
+          "id": "u2l4e1",
+          "type": "order",
+          "prompt": "Ordena el ciclo de vida del saltamontes.",
+          "steps": [
+            {
+              "art": "huevo",
+              "label": "Huevo"
+            },
+            {
+              "art": "ninfa",
+              "label": "Ninfa"
+            },
+            {
+              "art": "saltamontes",
+              "label": "Saltamontes adulto"
+            }
+          ],
+          "explanation": "Huevo, ninfa y saltamontes adulto: sin crisálida."
+        },
+        {
+          "id": "u2l4e2",
+          "type": "choice",
+          "prompt": "¿Cómo se llama la cría en la metamorfosis incompleta?",
+          "options": [
+            "Oruga",
+            "Ninfa",
+            "Pupa"
+          ],
+          "answer": 1,
+          "explanation": "Se llama ninfa."
+        },
+        {
+          "id": "u2l4e3",
+          "type": "choice",
+          "prompt": "La ninfa es...",
+          "options": [
+            "Una versión en miniatura de sus padres",
+            "Un gusano sin patas",
+            "Un huevo con alas"
+          ],
+          "answer": 0,
+          "explanation": "Se parece a sus padres, pero más pequeña y casi siempre sin alas.",
+          "art": "ninfa"
+        },
+        {
+          "id": "u2l4e4",
+          "type": "choice",
+          "prompt": "¿Cómo crece una ninfa?",
+          "options": [
+            "Mudando su exoesqueleto",
+            "Comiendo hojas de otra planta",
+            "Dentro de una crisálida"
+          ],
+          "answer": 0,
+          "explanation": "Cuando le queda pequeño, cambia su exoesqueleto: es la muda.",
+          "art": "ninfa"
+        },
+        {
+          "id": "u2l4e5",
+          "type": "match",
+          "prompt": "Une cada tipo de metamorfosis con lo que lo identifica.",
+          "pairs": [
+            {
+              "left": "Completa",
+              "right": "Pasa por una crisálida o pupa"
+            },
+            {
+              "left": "Incompleta",
+              "right": "La cría es una ninfa"
+            }
+          ],
+          "explanation": "Completa: con pupa. Incompleta: con ninfa."
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u2exam",
+    "title": "Reto de la unidad",
+    "art": "paquito",
+    "intro": "¡Otro reto! Diez preguntas mezcladas sobre la vida de los insectos. Si lo superas, abres la siguiente unidad.",
+    "closing": "¡Ya sabes dónde viven los insectos, cómo se encuentran y cómo crecen! Un guardabosques observa sin molestar.",
+    "exercises": [
+      {
+        "id": "u2x1",
+        "type": "choice",
+        "prompt": "¿Dónde pueden vivir los insectos?",
+        "options": [
+          "Solo en los jardines",
+          "En casi todos los lugares",
+          "Solo en el agua"
+        ],
+        "answer": 1,
+        "explanation": "En casi todos los ecosistemas."
+      },
+      {
+        "id": "u2x2",
+        "type": "match",
+        "prompt": "Une cada insecto con su forma de comunicarse.",
+        "pairs": [
+          {
+            "left": "Mariposa",
+            "right": "Su aroma viaja por el aire"
+          },
+          {
+            "left": "Saltamontes",
+            "right": "Frota las patas contra las alas y canta"
+          },
+          {
+            "left": "Luciérnaga (cocuyo)",
+            "right": "Hace destellos de luz"
+          }
+        ],
+        "explanation": "Aroma, música y luz."
+      },
+      {
+        "id": "u2x3",
+        "type": "order",
+        "prompt": "Ordena el ciclo de vida de la mariposa.",
+        "steps": [
+          {
+            "art": "huevo",
+            "label": "Huevo"
+          },
+          {
+            "art": "oruga",
+            "label": "Larva (oruga)"
+          },
+          {
+            "art": "crisalida",
+            "label": "Pupa (crisálida)"
+          },
+          {
+            "art": "mariposa",
+            "label": "Mariposa adulta"
+          }
+        ],
+        "explanation": "Huevo, larva, pupa y adulta."
+      },
+      {
+        "id": "u2x4",
+        "type": "choice",
+        "prompt": "¿Cómo se llama la cría en la metamorfosis incompleta?",
+        "options": [
+          "Oruga",
+          "Ninfa",
+          "Pupa"
+        ],
+        "answer": 1,
+        "explanation": "Ninfa."
+      },
+      {
+        "id": "u2x5",
+        "type": "fill",
+        "prompt": "Completa la frase.",
+        "sentence": "Algunos insectos viven en agua ___ como ríos y lagos.",
+        "bank": [
+          "dulce",
+          "helada",
+          "seca"
+        ],
+        "answers": [
+          "dulce"
+        ],
+        "explanation": "Agua dulce."
+      },
+      {
+        "id": "u2x6",
+        "type": "choice",
+        "prompt": "¿Cómo \"canta\" un saltamontes macho?",
+        "options": [
+          "Con la boca",
+          "Frotando las patas traseras contra las alas",
+          "Golpeando el suelo"
+        ],
+        "answer": 1,
+        "explanation": "Frota patas y alas.",
+        "art": "saltamontes"
+      },
+      {
+        "id": "u2x7",
+        "type": "order",
+        "prompt": "Ordena el ciclo de vida del saltamontes.",
+        "steps": [
+          {
+            "art": "huevo",
+            "label": "Huevo"
+          },
+          {
+            "art": "ninfa",
+            "label": "Ninfa"
+          },
+          {
+            "art": "saltamontes",
+            "label": "Saltamontes adulto"
+          }
+        ],
+        "explanation": "Huevo, ninfa y adulto."
+      },
+      {
+        "id": "u2x8",
+        "type": "choice",
+        "prompt": "Dentro de la crisálida, el insecto...",
+        "options": [
+          "Se está transformando",
+          "Está durmiendo para siempre",
+          "Está comiendo hojas"
+        ],
+        "answer": 0,
+        "explanation": "Se transforma de larva en adulto.",
+        "art": "crisalida"
+      },
+      {
+        "id": "u2x9",
+        "type": "choice",
+        "prompt": "La mayoría de los insectos nacen en forma de...",
+        "options": [
+          "Huevo",
+          "Adulto pequeño",
+          "Crisálida"
+        ],
+        "answer": 0,
+        "explanation": "Huevo."
+      },
+      {
+        "id": "u2x10",
+        "type": "choice",
+        "prompt": "¿Cómo crece una ninfa?",
+        "options": [
+          "Mudando su exoesqueleto",
+          "Dentro de una crisálida"
+        ],
+        "answer": 0,
+        "explanation": "Con la muda.",
+        "art": "ninfa"
+      }
+    ]
+  }
+}

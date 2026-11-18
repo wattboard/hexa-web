@@ -1,0 +1,849 @@
+{
+  "id": "u3",
+  "order": 3,
+  "title": "The seven groups",
+  "intro": "Scientists sort insects into orders by their wings, their mouths and how they grow. Let's meet seven groups, starting with the most colorful ones.",
+  "lessons": [
+    {
+      "id": "u3l1",
+      "title": "Lepidoptera: butterflies and moths",
+      "art": "mariposa",
+      "intro": "Lepidoptera means “scaly wings”. They are butterflies and moths.",
+      "closing": "Butterflies and moths pollinate flowers and are food for birds. Their caterpillars eat leaves, but the plant almost always recovers.",
+      "exercises": [
+        {
+          "id": "u3l1e1",
+          "type": "choice",
+          "prompt": "What covers a butterfly's wings?",
+          "options": [
+            "Feathers",
+            "Tiny scales",
+            "Stiff hairs"
+          ],
+          "answer": 1,
+          "explanation": "Lepidoptera means “scaly wing”: thousands of colored scales.",
+          "art": "mariposa"
+        },
+        {
+          "id": "u3l1e2",
+          "type": "choice",
+          "prompt": "What is an adult butterfly's mouth like?",
+          "options": [
+            "A coiled tube for sipping nectar",
+            "Jaws for biting",
+            "A stinger"
+          ],
+          "answer": 0,
+          "explanation": "Its tube uncoils like a straw to drink nectar.",
+          "art": "mariposa"
+        },
+        {
+          "id": "u3l1e3",
+          "type": "match",
+          "prompt": "Match each one with what makes it special.",
+          "pairs": [
+            {
+              "left": "Butterfly",
+              "right": "Antennae with a little knob at the tip"
+            },
+            {
+              "left": "Moth",
+              "right": "Feathery antennae"
+            },
+            {
+              "left": "Caterpillar",
+              "right": "Jaws for eating leaves"
+            }
+          ],
+          "explanation": "Looking at the antennae tells butterflies from moths."
+        },
+        {
+          "id": "u3l1e4",
+          "type": "order",
+          "prompt": "Put the butterfly's life cycle in order.",
+          "steps": [
+            {
+              "art": "huevo",
+              "label": "Egg"
+            },
+            {
+              "art": "oruga",
+              "label": "Larva (caterpillar)"
+            },
+            {
+              "art": "crisalida",
+              "label": "Pupa (chrysalis)"
+            },
+            {
+              "art": "mariposa",
+              "label": "Adult butterfly"
+            }
+          ],
+          "explanation": "Lepidoptera go through complete metamorphosis."
+        },
+        {
+          "id": "u3l1e5",
+          "type": "choice",
+          "prompt": "How are butterflies useful?",
+          "options": [
+            "They pollinate flowers and feed birds",
+            "They're no use at all",
+            "Only for decoration"
+          ],
+          "answer": 0,
+          "explanation": "They carry pollen from flower to flower and feed other animals.",
+          "art": "mariposa"
+        }
+      ]
+    },
+    {
+      "id": "u3l2",
+      "title": "Coleoptera: beetles",
+      "art": "escarabajo",
+      "intro": "Coleoptera means “sheathed wings”. It's the biggest group of animals in the world: beetles, ladybugs and fireflies.",
+      "closing": "Beetles recycle leaves and wood, and some, like the ladybug, eat pests. There are more kinds of beetles than of any other animal!",
+      "exercises": [
+        {
+          "id": "u3l2e1",
+          "type": "choice",
+          "prompt": "What are a beetle's front wings like?",
+          "options": [
+            "Hard like a case: the elytra",
+            "See-through",
+            "Covered in scales"
+          ],
+          "answer": 0,
+          "explanation": "The elytra protect the thin wings it flies with.",
+          "art": "escarabajo"
+        },
+        {
+          "id": "u3l2e2",
+          "type": "tapAll",
+          "prompt": "Tap all the beetles (Coleoptera).",
+          "items": [
+            {
+              "art": "mariquita",
+              "label": "Ladybug (ladybird)",
+              "correct": true
+            },
+            {
+              "art": "luciernaga",
+              "label": "Firefly",
+              "correct": true
+            },
+            {
+              "art": "escarabajo",
+              "label": "Beetle",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Butterfly",
+              "correct": false
+            },
+            {
+              "art": "abeja",
+              "label": "Bee",
+              "correct": false
+            }
+          ],
+          "explanation": "Ladybug, firefly and beetle have elytra: they're beetles."
+        },
+        {
+          "id": "u3l2e3",
+          "type": "choice",
+          "prompt": "What is a beetle's mouth like?",
+          "options": [
+            "For chewing: it bites and chews",
+            "A coiled tube",
+            "A needle for sucking"
+          ],
+          "answer": 0,
+          "explanation": "Its jaws chew leaves, wood or small prey.",
+          "art": "escarabajo"
+        },
+        {
+          "id": "u3l2e4",
+          "type": "choice",
+          "prompt": "Which group of animals has the most species in the world?",
+          "options": [
+            "Beetles",
+            "Birds",
+            "Fish"
+          ],
+          "answer": 0,
+          "explanation": "There are more beetle species than any other group of animals."
+        },
+        {
+          "id": "u3l2e5",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Beetles ___ leaves, wood and leftovers, and that feeds the soil.",
+          "bank": [
+            "recycle",
+            "burn",
+            "paint"
+          ],
+          "answers": [
+            "recycle"
+          ],
+          "explanation": "They are nature's recyclers."
+        }
+      ]
+    },
+    {
+      "id": "u3l3",
+      "title": "Hymenoptera: bees, wasps and ants",
+      "art": "abeja",
+      "intro": "Hymenoptera means “membrane wings”. They are bees, wasps and ants. Many live in groups and share the work.",
+      "closing": "Bees pollinate many of the fruits we eat. They only sting to defend themselves: if you stay calm, they go on their way.",
+      "exercises": [
+        {
+          "id": "u3l3e1",
+          "type": "choice",
+          "prompt": "How many pairs of wings does a bee have?",
+          "options": [
+            "One",
+            "Two",
+            "None"
+          ],
+          "answer": 1,
+          "explanation": "Two pairs of thin wings, like membranes.",
+          "art": "abeja"
+        },
+        {
+          "id": "u3l3e2",
+          "type": "tapAll",
+          "prompt": "Tap all the Hymenoptera.",
+          "items": [
+            {
+              "art": "abeja",
+              "label": "Bee",
+              "correct": true
+            },
+            {
+              "art": "hormiga",
+              "label": "Ant",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Butterfly",
+              "correct": false
+            },
+            {
+              "art": "saltamontes",
+              "label": "Grasshopper",
+              "correct": false
+            },
+            {
+              "art": "escarabajo",
+              "label": "Beetle",
+              "correct": false
+            }
+          ],
+          "explanation": "Bees and ants are Hymenoptera. Ants are cousins of bees!"
+        },
+        {
+          "id": "u3l3e3",
+          "type": "choice",
+          "prompt": "Why does a bee sting?",
+          "options": [
+            "Because it likes to",
+            "To defend itself or its hive",
+            "To eat"
+          ],
+          "answer": 1,
+          "explanation": "It only stings if it feels attacked.",
+          "art": "abeja"
+        },
+        {
+          "id": "u3l3e4",
+          "type": "choice",
+          "prompt": "What do bees do that helps us have fruit?",
+          "options": [
+            "They pollinate flowers",
+            "They eat leaves",
+            "They make light"
+          ],
+          "answer": 0,
+          "explanation": "By carrying pollen between flowers, flowers turn into fruit.",
+          "art": "abeja"
+        },
+        {
+          "id": "u3l3e5",
+          "type": "choice",
+          "prompt": "If a bee flies near you, what's best to do?",
+          "options": [
+            "Swat at it",
+            "Stay still and calm",
+            "Run away screaming"
+          ],
+          "answer": 1,
+          "explanation": "Sudden moves scare it. If you stay calm, it will go on its way.",
+          "art": "abeja"
+        }
+      ]
+    },
+    {
+      "id": "u3l4",
+      "title": "Odonata: dragonflies",
+      "art": "libelula",
+      "intro": "Odonata comes from “tooth”: they have strong mouths to catch prey. They are dragonflies and damselflies.",
+      "closing": "Dragonflies eat loads of mosquitoes and only live where the water is clean. If you see dragonflies, the water there is healthy!",
+      "exercises": [
+        {
+          "id": "u3l4e1",
+          "type": "choice",
+          "prompt": "What are a dragonfly's wings like?",
+          "options": [
+            "Long, narrow and see-through, with veins like a net",
+            "Hard like a case",
+            "Covered in scales"
+          ],
+          "answer": 0,
+          "explanation": "Four long wings it moves separately: that's why it flies so well!",
+          "art": "libelula"
+        },
+        {
+          "id": "u3l4e2",
+          "type": "choice",
+          "prompt": "What do dragonflies eat?",
+          "options": [
+            "Other insects, like mosquitoes",
+            "Nectar",
+            "Leaves"
+          ],
+          "answer": 0,
+          "explanation": "They are hunters: they catch mosquitoes in the air.",
+          "art": "libelula"
+        },
+        {
+          "id": "u3l4e3",
+          "type": "choice",
+          "prompt": "If there are lots of dragonflies at a river, what does it tell us?",
+          "options": [
+            "That the water is clean",
+            "That the water is dirty",
+            "That it's going to rain"
+          ],
+          "answer": 0,
+          "explanation": "Dragonflies show that the water is clean.",
+          "art": "libelula"
+        },
+        {
+          "id": "u3l4e4",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Young dragonflies live in the ___.",
+          "bank": [
+            "water",
+            "ground",
+            "air"
+          ],
+          "answers": [
+            "water"
+          ],
+          "explanation": "Their nymphs grow underwater and then fly away."
+        },
+        {
+          "id": "u3l4e5",
+          "type": "choice",
+          "prompt": "Do dragonflies sting people?",
+          "options": [
+            "Yes, a lot",
+            "No, they're harmless"
+          ],
+          "answer": 1,
+          "explanation": "They don't sting people: they're harmless and eat mosquitoes.",
+          "art": "libelula"
+        }
+      ]
+    },
+    {
+      "id": "u3l5",
+      "title": "Orthoptera: grasshoppers and crickets",
+      "art": "saltamontes",
+      "intro": "Orthoptera means “straight wings”. They are grasshoppers and crickets, like our friend Paquito. They have big back legs for jumping.",
+      "closing": "Grasshoppers and crickets are food for birds, frogs and lizards. Only some locusts become pests, when there are huge numbers of them.",
+      "exercises": [
+        {
+          "id": "u3l5e1",
+          "type": "choice",
+          "prompt": "Why are their back legs so big?",
+          "options": [
+            "For jumping",
+            "For swimming",
+            "For digging"
+          ],
+          "answer": 0,
+          "explanation": "Their back legs work like springs."
+        },
+        {
+          "id": "u3l5e2",
+          "type": "choice",
+          "prompt": "What is their mouth like?",
+          "options": [
+            "For chewing, to bite leaves",
+            "A tube for sucking",
+            "A stinger"
+          ],
+          "answer": 0,
+          "explanation": "They have jaws to chew plants."
+        },
+        {
+          "id": "u3l5e3",
+          "type": "match",
+          "prompt": "Match each one with what makes it special.",
+          "pairs": [
+            {
+              "left": "Grasshopper",
+              "right": "Short antennae; sings by day"
+            },
+            {
+              "left": "Cricket",
+              "right": "Long antennae; sings at night"
+            },
+            {
+              "left": "Locust",
+              "right": "Can travel in huge swarms"
+            }
+          ],
+          "explanation": "Grasshoppers, crickets and locusts are cousins."
+        },
+        {
+          "id": "u3l5e4",
+          "type": "choice",
+          "prompt": "How do grasshoppers grow?",
+          "options": [
+            "With incomplete metamorphosis: egg, nymph and adult",
+            "With a caterpillar and a chrysalis"
+          ],
+          "answer": 0,
+          "explanation": "The nymph looks like the adult and grows by molting.",
+          "art": "saltamontes"
+        },
+        {
+          "id": "u3l5e5",
+          "type": "choice",
+          "prompt": "Who eats grasshoppers?",
+          "options": [
+            "Birds, frogs and lizards",
+            "Nobody",
+            "Only cows"
+          ],
+          "answer": 0,
+          "explanation": "They are an important part of the food chain.",
+          "art": "saltamontes"
+        }
+      ]
+    },
+    {
+      "id": "u3l6",
+      "title": "Hemiptera: true bugs and cicadas",
+      "art": "chinche",
+      "intro": "Hemiptera means “half wing”: their front wings are half hard and half thin. They are stink bugs, cicadas and aphids.",
+      "closing": "Many bugs are harmless and some eat other pests. A few can spread disease, so we look at them without touching.",
+      "exercises": [
+        {
+          "id": "u3l6e1",
+          "type": "choice",
+          "prompt": "What is a stink bug's mouth like?",
+          "options": [
+            "Like a needle to pierce and suck",
+            "For chewing",
+            "A coiled tube"
+          ],
+          "answer": 0,
+          "explanation": "It pierces plants and sucks their juice.",
+          "art": "chinche"
+        },
+        {
+          "id": "u3l6e2",
+          "type": "choice",
+          "prompt": "What do many stink bugs do to defend themselves?",
+          "options": [
+            "They give off a strong smell",
+            "They make light",
+            "They sing"
+          ],
+          "answer": 0,
+          "explanation": "That's why some are called “stink bugs”.",
+          "art": "chinche"
+        },
+        {
+          "id": "u3l6e3",
+          "type": "tapAll",
+          "prompt": "Tap the Hemiptera.",
+          "items": [
+            {
+              "art": "chinche",
+              "label": "Stink bug",
+              "correct": true
+            },
+            {
+              "art": "mariquita",
+              "label": "Ladybug (ladybird)",
+              "correct": false
+            },
+            {
+              "art": "mosca",
+              "label": "Fly",
+              "correct": false
+            },
+            {
+              "art": "abeja",
+              "label": "Bee",
+              "correct": false
+            }
+          ],
+          "explanation": "The stink bug has half-hard, half-thin wings and a needle mouth."
+        },
+        {
+          "id": "u3l6e4",
+          "type": "choice",
+          "prompt": "What is a cicada?",
+          "options": [
+            "A Hemiptera that sings very loudly in summer",
+            "A butterfly",
+            "A beetle"
+          ],
+          "answer": 0,
+          "explanation": "The male cicada sings by vibrating membranes on its body."
+        },
+        {
+          "id": "u3l6e5",
+          "type": "choice",
+          "prompt": "If you see a stink bug, what do you do?",
+          "options": [
+            "I look at it without touching",
+            "I grab it with my hand",
+            "I squash it"
+          ],
+          "answer": 0,
+          "explanation": "Look without touching: that way neither of you bothers the other.",
+          "art": "chinche"
+        }
+      ]
+    },
+    {
+      "id": "u3l7",
+      "title": "Diptera: flies and mosquitoes",
+      "art": "mosca",
+      "intro": "Diptera means “two wings”. Flies and mosquitoes have only one pair of wings. They have a bad reputation, but they do very important jobs.",
+      "closing": "Flies recycle leftovers and many pollinate flowers. Some mosquitoes spread disease: that's why we protect ourselves from their bites.",
+      "exercises": [
+        {
+          "id": "u3l7e1",
+          "type": "choice",
+          "prompt": "How many pairs of wings does a fly have?",
+          "options": [
+            "One",
+            "Two",
+            "Three"
+          ],
+          "answer": 0,
+          "explanation": "Just one pair: that's why they're called Diptera, “two wings”.",
+          "art": "mosca"
+        },
+        {
+          "id": "u3l7e2",
+          "type": "choice",
+          "prompt": "What important job do many flies do?",
+          "options": [
+            "They break down leftovers and clean up nature",
+            "They make honey",
+            "They make silk"
+          ],
+          "answer": 0,
+          "explanation": "Without flies, leftovers would take much longer to disappear.",
+          "art": "mosca"
+        },
+        {
+          "id": "u3l7e3",
+          "type": "tapAll",
+          "prompt": "Tap all the Diptera.",
+          "items": [
+            {
+              "art": "mosca",
+              "label": "Fly",
+              "correct": true
+            },
+            {
+              "art": "mosquito",
+              "label": "Mosquito",
+              "correct": true
+            },
+            {
+              "art": "libelula",
+              "label": "Dragonfly",
+              "correct": false
+            },
+            {
+              "art": "abeja",
+              "label": "Bee",
+              "correct": false
+            },
+            {
+              "art": "mariposa",
+              "label": "Butterfly",
+              "correct": false
+            }
+          ],
+          "explanation": "Flies and mosquitoes have just one pair of wings."
+        },
+        {
+          "id": "u3l7e4",
+          "type": "choice",
+          "prompt": "What are fly larvae like?",
+          "options": [
+            "Legless",
+            "With six legs",
+            "With lots of legs"
+          ],
+          "answer": 0,
+          "explanation": "Diptera larvae have no legs.",
+          "art": "mosca"
+        },
+        {
+          "id": "u3l7e5",
+          "type": "sort",
+          "prompt": "Put each insect in its group.",
+          "bins": [
+            "Lepidoptera",
+            "Coleoptera",
+            "Hymenoptera",
+            "Diptera"
+          ],
+          "sortItems": [
+            {
+              "label": "Butterfly",
+              "bin": 0,
+              "art": "mariposa"
+            },
+            {
+              "label": "Ladybug (ladybird)",
+              "bin": 1,
+              "art": "mariquita"
+            },
+            {
+              "label": "Beetle",
+              "bin": 1,
+              "art": "escarabajo"
+            },
+            {
+              "label": "Bee",
+              "bin": 2,
+              "art": "abeja"
+            },
+            {
+              "label": "Ant",
+              "bin": 2,
+              "art": "hormiga"
+            },
+            {
+              "label": "Fly",
+              "bin": 3,
+              "art": "mosca"
+            },
+            {
+              "label": "Mosquito",
+              "bin": 3,
+              "art": "mosquito"
+            }
+          ],
+          "explanation": "Scaly wings, case wings, membrane wings and just one pair of wings."
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u3exam",
+    "title": "Unit challenge",
+    "art": "paquito",
+    "intro": "The seven groups challenge! Ten questions to see if you can tell them apart. Pass it and you open the last unit.",
+    "closing": "Now you know the seven groups! Look at their wings and mouths and you'll know which group each insect belongs to.",
+    "exercises": [
+      {
+        "id": "u3x1",
+        "type": "choice",
+        "prompt": "What does “Lepidoptera” mean?",
+        "options": [
+          "Scaly wings",
+          "Two wings",
+          "Straight wings"
+        ],
+        "answer": 0,
+        "explanation": "Butterflies and moths: scaly wings."
+      },
+      {
+        "id": "u3x2",
+        "type": "choice",
+        "prompt": "Which group has hard front wings like a case?",
+        "options": [
+          "Coleoptera",
+          "Diptera",
+          "Odonata"
+        ],
+        "answer": 0,
+        "explanation": "Coleoptera: beetles, ladybugs and fireflies."
+      },
+      {
+        "id": "u3x3",
+        "type": "match",
+        "prompt": "Match each group with its examples.",
+        "pairs": [
+          {
+            "left": "Hymenoptera",
+            "right": "Bees and ants"
+          },
+          {
+            "left": "Odonata",
+            "right": "Dragonflies"
+          },
+          {
+            "left": "Orthoptera",
+            "right": "Grasshoppers and crickets"
+          },
+          {
+            "left": "Hemiptera",
+            "right": "Stink bugs and cicadas"
+          }
+        ],
+        "explanation": "Four groups, four kinds of wings."
+      },
+      {
+        "id": "u3x4",
+        "type": "choice",
+        "prompt": "How many pairs of wings do Diptera have?",
+        "options": [
+          "One",
+          "Two",
+          "Three"
+        ],
+        "answer": 0,
+        "explanation": "Just one pair."
+      },
+      {
+        "id": "u3x5",
+        "type": "sort",
+        "prompt": "Put each insect in its group.",
+        "bins": [
+          "Lepidoptera",
+          "Odonata",
+          "Orthoptera"
+        ],
+        "sortItems": [
+          {
+            "label": "Butterfly",
+            "bin": 0,
+            "art": "mariposa"
+          },
+          {
+            "label": "Caterpillar",
+            "bin": 0,
+            "art": "oruga"
+          },
+          {
+            "label": "Dragonfly",
+            "bin": 1,
+            "art": "libelula"
+          },
+          {
+            "label": "Grasshopper",
+            "bin": 2,
+            "art": "saltamontes"
+          }
+        ],
+        "explanation": "A caterpillar is a young butterfly: it's Lepidoptera too."
+      },
+      {
+        "id": "u3x6",
+        "type": "choice",
+        "prompt": "If there are lots of dragonflies at a river, what does it tell us?",
+        "options": [
+          "That the water is clean",
+          "That the water is dirty",
+          "That it's going to rain"
+        ],
+        "answer": 0,
+        "explanation": "Clean water.",
+        "art": "libelula"
+      },
+      {
+        "id": "u3x7",
+        "type": "choice",
+        "prompt": "Why does a bee sting?",
+        "options": [
+          "Because it likes to",
+          "To defend itself or its hive",
+          "To eat"
+        ],
+        "answer": 1,
+        "explanation": "To defend itself.",
+        "art": "abeja"
+      },
+      {
+        "id": "u3x8",
+        "type": "fill",
+        "prompt": "Complete the sentence.",
+        "sentence": "Stink bugs defend themselves by giving off a strong ___.",
+        "bank": [
+          "smell",
+          "noise",
+          "color"
+        ],
+        "answers": [
+          "smell"
+        ],
+        "explanation": "A strong smell."
+      },
+      {
+        "id": "u3x9",
+        "type": "choice",
+        "prompt": "What is an adult butterfly's mouth like?",
+        "options": [
+          "A coiled tube for sipping nectar",
+          "Jaws for biting",
+          "A stinger"
+        ],
+        "answer": 0,
+        "explanation": "A tube for sipping nectar.",
+        "art": "mariposa"
+      },
+      {
+        "id": "u3x10",
+        "type": "tapAll",
+        "prompt": "Tap all the beetles (Coleoptera).",
+        "items": [
+          {
+            "art": "mariquita",
+            "label": "Ladybug (ladybird)",
+            "correct": true
+          },
+          {
+            "art": "escarabajo",
+            "label": "Beetle",
+            "correct": true
+          },
+          {
+            "art": "luciernaga",
+            "label": "Firefly",
+            "correct": true
+          },
+          {
+            "art": "chinche",
+            "label": "Stink bug",
+            "correct": false
+          },
+          {
+            "art": "mosca",
+            "label": "Fly",
+            "correct": false
+          }
+        ],
+        "explanation": "The ones with elytra."
+      }
+    ]
+  }
+}

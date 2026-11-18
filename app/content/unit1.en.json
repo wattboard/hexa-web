@@ -1,0 +1,622 @@
+{
+  "id": "u1",
+  "order": 1,
+  "title": "Insects",
+  "intro": "Hi! I'm Angélica, the forest ranger. Today we start getting to know insects: what they are, what their bodies are like and how they eat. No need to be scared, just curious!",
+  "lessons": [
+    {
+      "id": "u1l1",
+      "title": "What is an insect?",
+      "art": "mariquita",
+      "intro": "Today we find out what makes a bug an insect. Count legs with me!",
+      "closing": "Insects have six legs, three body parts and a hard skeleton on the outside. With that you can already tell them apart from other bugs, like spiders, which also catch flies and mosquitoes.",
+      "exercises": [
+        {
+          "id": "u1l1e1",
+          "type": "tapAll",
+          "prompt": "Which ones are insects? Tap all the ones with six legs.",
+          "items": [
+            {
+              "art": "mariquita",
+              "label": "Ladybug (ladybird)",
+              "correct": true
+            },
+            {
+              "art": "arana",
+              "label": "Spider",
+              "correct": false
+            },
+            {
+              "art": "mariposa",
+              "label": "Butterfly",
+              "correct": true
+            },
+            {
+              "art": "hormiga",
+              "label": "Ant",
+              "correct": true
+            }
+          ],
+          "explanation": "The spider has eight legs, so it is not an insect. Insects have six."
+        },
+        {
+          "id": "u1l1e2",
+          "type": "choice",
+          "prompt": "How many legs does an insect have?",
+          "options": [
+            "Four",
+            "Six",
+            "Eight",
+            "Ten"
+          ],
+          "answer": 1,
+          "explanation": "Six legs: three pairs, and all of them come out of the thorax."
+        },
+        {
+          "id": "u1l1e3",
+          "type": "choice",
+          "prompt": "What makes an insect's body hard on the outside?",
+          "options": [
+            "Bones",
+            "Chitin",
+            "Feathers",
+            "Scales"
+          ],
+          "answer": 1,
+          "explanation": "Chitin forms its exoskeleton: a hard skeleton on the outside, like armor."
+        },
+        {
+          "id": "u1l1e4",
+          "type": "tapAll",
+          "prompt": "Tap all the insects.",
+          "items": [
+            {
+              "art": "ciempies",
+              "label": "Centipede",
+              "correct": false
+            },
+            {
+              "art": "abeja",
+              "label": "Bee",
+              "correct": true
+            },
+            {
+              "art": "arana",
+              "label": "Spider",
+              "correct": false
+            },
+            {
+              "art": "mariquita",
+              "label": "Ladybug (ladybird)",
+              "correct": true
+            }
+          ],
+          "explanation": "The centipede has lots and lots of legs and the spider has eight. Insects always have six."
+        },
+        {
+          "id": "u1l1e5",
+          "type": "choice",
+          "prompt": "Do all insects have wings?",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "Almost all have one or two pairs of wings, but some have none."
+        }
+      ]
+    },
+    {
+      "id": "u1l2",
+      "title": "Head, thorax and abdomen",
+      "art": "hormiga",
+      "intro": "An insect's body is divided into three parts. Let's find them on an ant.",
+      "closing": "Head, thorax and abdomen: three parts that are easy to remember. When you see a bug with a body in three parts, you know it's probably an insect.",
+      "exercises": [
+        {
+          "id": "u1l2e1",
+          "type": "label",
+          "prompt": "Put each name in its place.",
+          "art": "hormiga",
+          "slots": [
+            {
+              "id": "cabeza",
+              "label": "head",
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "id": "torax",
+              "label": "thorax",
+              "x": 0.5,
+              "y": 0.475
+            },
+            {
+              "id": "abdomen",
+              "label": "abdomen",
+              "x": 0.5,
+              "y": 0.775
+            }
+          ],
+          "explanation": "From top to bottom: head, thorax and abdomen."
+        },
+        {
+          "id": "u1l2e2",
+          "type": "choice",
+          "prompt": "Which part holds the legs and the wings?",
+          "options": [
+            "The head",
+            "The thorax",
+            "The abdomen"
+          ],
+          "answer": 1,
+          "explanation": "The wings come out of the top of the thorax and the legs out of the bottom."
+        },
+        {
+          "id": "u1l2e3",
+          "type": "choice",
+          "prompt": "Where are the antennae and the eyes?",
+          "options": [
+            "On the thorax",
+            "On the abdomen",
+            "On the head"
+          ],
+          "answer": 2,
+          "explanation": "The head has a pair of antennae, the eyes and the mouth."
+        },
+        {
+          "id": "u1l2e4",
+          "type": "match",
+          "prompt": "Match each part with what it has.",
+          "pairs": [
+            {
+              "left": "Head",
+              "right": "Antennae, eyes and mouth"
+            },
+            {
+              "left": "Thorax",
+              "right": "Legs and wings"
+            },
+            {
+              "left": "Abdomen",
+              "right": "Heart and digestion"
+            }
+          ],
+          "explanation": "The head senses and eats, the thorax moves the body and the abdomen holds the heart and digestion."
+        },
+        {
+          "id": "u1l2e5",
+          "type": "choice",
+          "prompt": "Into how many parts is an insect's body divided?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "answer": 1,
+          "explanation": "Three: head, thorax and abdomen."
+        }
+      ]
+    },
+    {
+      "id": "u1l3",
+      "title": "Legs and wings",
+      "art": "mariposa",
+      "intro": "Six legs and, almost always, wings. Let's see how many!",
+      "closing": "Insect legs can be for running, jumping, swimming or holding on. And wings let them live almost anywhere on the planet.",
+      "exercises": [
+        {
+          "id": "u1l3e1",
+          "type": "choice",
+          "prompt": "How many pairs of legs does an insect have?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "answer": 1,
+          "explanation": "Three pairs: six legs in total."
+        },
+        {
+          "id": "u1l3e2",
+          "type": "choice",
+          "prompt": "Which part of the body do the wings come out of?",
+          "options": [
+            "The head",
+            "The thorax",
+            "The abdomen"
+          ],
+          "answer": 1,
+          "explanation": "The wings are attached to the top of the thorax."
+        },
+        {
+          "id": "u1l3e3",
+          "type": "choice",
+          "prompt": "How many pairs of wings do insects usually have?",
+          "options": [
+            "None",
+            "One",
+            "Two",
+            "Four"
+          ],
+          "answer": 2,
+          "explanation": "Usually two pairs. Some have only one and others have none."
+        },
+        {
+          "id": "u1l3e4",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Insects have ___ legs and usually ___ pairs of wings.",
+          "bank": [
+            "six",
+            "eight",
+            "two",
+            "four"
+          ],
+          "answers": [
+            "six",
+            "two"
+          ],
+          "explanation": "Six legs and, usually, two pairs of wings."
+        },
+        {
+          "id": "u1l3e5",
+          "type": "choice",
+          "prompt": "Do all insects have two pairs of wings?",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "Some have only one pair and others have no wings."
+        }
+      ]
+    },
+    {
+      "id": "u1l4",
+      "title": "Antennae and senses",
+      "art": "mariposa",
+      "intro": "Insects sense the world in a very different way from us. Let's find out how!",
+      "closing": "Insects smell with their antennae and feel with their whole body. So a moving antenna is not a threat: it's a bug exploring what's around it.",
+      "exercises": [
+        {
+          "id": "u1l4e1",
+          "type": "match",
+          "prompt": "Match each sense with what it does.",
+          "pairs": [
+            {
+              "left": "Antennae",
+              "right": "Detect faint smells in the air"
+            },
+            {
+              "left": "Sensory hairs",
+              "right": "Hear and feel with the whole body"
+            },
+            {
+              "left": "Compound eye",
+              "right": "Has many lenses, like mini-eyes"
+            }
+          ],
+          "explanation": "Antennae to smell, hairs to hear and feel, and eyes with many lenses."
+        },
+        {
+          "id": "u1l4e2",
+          "type": "choice",
+          "prompt": "For insects, what matters more?",
+          "options": [
+            "Sight",
+            "Smells and tastes"
+          ],
+          "answer": 1,
+          "explanation": "Smells and tastes tell them where food is and who another insect is."
+        },
+        {
+          "id": "u1l4e3",
+          "type": "choice",
+          "prompt": "Which part of the body do they use to detect smells in the air?",
+          "options": [
+            "Their legs",
+            "Their wings",
+            "Their antennae"
+          ],
+          "answer": 2,
+          "explanation": "Antennae move around and pick up very faint smells."
+        },
+        {
+          "id": "u1l4e4",
+          "type": "choice",
+          "prompt": "Insects see less than we do, but they are better at noticing...",
+          "options": [
+            "Colors",
+            "Movement",
+            "Drawings"
+          ],
+          "answer": 1,
+          "explanation": "They detect movement very well, that's why they react so fast."
+        },
+        {
+          "id": "u1l4e5",
+          "type": "choice",
+          "prompt": "Where do most insects have ears?",
+          "options": [
+            "On the abdomen, wings or legs",
+            "Only on the head",
+            "They have no ears"
+          ],
+          "answer": 0,
+          "explanation": "They hear with ears on the abdomen, wings or legs, and find their way by sound."
+        }
+      ]
+    },
+    {
+      "id": "u1l5",
+      "title": "How do they eat?",
+      "art": "abeja",
+      "intro": "Each insect eats in its own way. Today we find out why some sting or bite and others chew.",
+      "closing": "An insect that bites does it to feed or to defend itself, not because it's bad. If you understand how it eats, you understand why it does what it does.",
+      "exercises": [
+        {
+          "id": "u1l5e1",
+          "type": "match",
+          "prompt": "Match each mouthpart with how it works.",
+          "pairs": [
+            {
+              "left": "Chewing",
+              "right": "Jaws with sharp edges"
+            },
+            {
+              "left": "Sucking",
+              "right": "A tube for drinking liquids"
+            },
+            {
+              "left": "Piercing-sucking",
+              "right": "A needle to pierce and suck"
+            }
+          ],
+          "explanation": "Chewing to cut, sucking to drink and piercing-sucking to pierce and suck."
+        },
+        {
+          "id": "u1l5e2",
+          "type": "choice",
+          "prompt": "A butterfly drinks flower nectar through a tube. What mouthparts does it have?",
+          "options": [
+            "Chewing",
+            "Sucking",
+            "Piercing-sucking"
+          ],
+          "answer": 1,
+          "explanation": "Sucking: it drinks liquids like nectar.",
+          "art": "cabeza_mariposa"
+        },
+        {
+          "id": "u1l5e3",
+          "type": "choice",
+          "prompt": "A grasshopper cuts leaves with its jaws. What mouthparts does it have?",
+          "options": [
+            "Chewing",
+            "Sucking",
+            "Piercing-sucking"
+          ],
+          "answer": 0,
+          "explanation": "Chewing: it uses jaws with sharp edges, like plant eaters do.",
+          "art": "cabeza_saltamontes"
+        },
+        {
+          "id": "u1l5e4",
+          "type": "choice",
+          "prompt": "A mosquito bites with a kind of needle to suck blood. What mouthparts does it have?",
+          "options": [
+            "Chewing",
+            "Sucking",
+            "Piercing-sucking"
+          ],
+          "answer": 2,
+          "explanation": "Piercing-sucking: it pierces and sucks. It bites to eat, not to attack you.",
+          "art": "cabeza_mosquito"
+        },
+        {
+          "id": "u1l5e6",
+          "type": "sort",
+          "prompt": "Look at each insect's mouth and put it in its box.",
+          "bins": [
+            "Chewing",
+            "Sucking",
+            "Piercing-sucking"
+          ],
+          "sortItems": [
+            {
+              "label": "Grasshopper",
+              "bin": 0,
+              "art": "cabeza_saltamontes"
+            },
+            {
+              "label": "Butterfly",
+              "bin": 1,
+              "art": "cabeza_mariposa"
+            },
+            {
+              "label": "Mosquito",
+              "bin": 2,
+              "art": "cabeza_mosquito"
+            }
+          ],
+          "explanation": "Jaws to bite, a coiled tube to drink and a needle to pierce."
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u1exam",
+    "title": "Unit challenge",
+    "art": "paquito",
+    "intro": "Challenge time! Ten mixed questions. If you pass, you open the next unit.",
+    "closing": "Now you know what an insect is, what its body is like and how it eats! A forest ranger observes, isn't afraid and respects every animal.",
+    "exercises": [
+      {
+        "id": "u1x1",
+        "type": "tapAll",
+        "prompt": "Tap all the insects.",
+        "items": [
+          {
+            "art": "abeja",
+            "label": "Bee",
+            "correct": true
+          },
+          {
+            "art": "hormiga",
+            "label": "Ant",
+            "correct": true
+          },
+          {
+            "art": "arana",
+            "label": "Spider",
+            "correct": false
+          },
+          {
+            "art": "mariposa",
+            "label": "Butterfly",
+            "correct": true
+          }
+        ],
+        "explanation": "The spider has eight legs. Insects have six."
+      },
+      {
+        "id": "u1x2",
+        "type": "choice",
+        "prompt": "How many legs does an insect have?",
+        "options": [
+          "Four",
+          "Six",
+          "Eight",
+          "Ten"
+        ],
+        "answer": 1,
+        "explanation": "Six legs, three pairs."
+      },
+      {
+        "id": "u1x3",
+        "type": "label",
+        "prompt": "Put each name in its place.",
+        "art": "hormiga",
+        "slots": [
+          {
+            "id": "cabeza",
+            "label": "head",
+            "x": 0.5,
+            "y": 0.2
+          },
+          {
+            "id": "torax",
+            "label": "thorax",
+            "x": 0.5,
+            "y": 0.475
+          },
+          {
+            "id": "abdomen",
+            "label": "abdomen",
+            "x": 0.5,
+            "y": 0.775
+          }
+        ],
+        "explanation": "From top to bottom: head, thorax and abdomen."
+      },
+      {
+        "id": "u1x4",
+        "type": "choice",
+        "prompt": "Which part of the body holds the legs and the wings?",
+        "options": [
+          "The head",
+          "The thorax",
+          "The abdomen"
+        ],
+        "answer": 1,
+        "explanation": "The thorax."
+      },
+      {
+        "id": "u1x5",
+        "type": "choice",
+        "prompt": "What is the hard skeleton that covers an insect's body made of?",
+        "options": [
+          "Chitin",
+          "Bone",
+          "Shell"
+        ],
+        "answer": 0,
+        "explanation": "Chitin forms its exoskeleton."
+      },
+      {
+        "id": "u1x6",
+        "type": "fill",
+        "prompt": "Complete the sentence.",
+        "sentence": "The ___ detect smells in the air.",
+        "bank": [
+          "antennae",
+          "legs",
+          "wings"
+        ],
+        "answers": [
+          "antennae"
+        ],
+        "explanation": "Antennae move around and pick up faint smells."
+      },
+      {
+        "id": "u1x7",
+        "type": "choice",
+        "prompt": "Do all insects have wings?",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 1,
+        "explanation": "Some have no wings."
+      },
+      {
+        "id": "u1x8",
+        "type": "match",
+        "prompt": "Match each mouthpart with how it works.",
+        "pairs": [
+          {
+            "left": "Chewing",
+            "right": "Jaws with sharp edges"
+          },
+          {
+            "left": "Sucking",
+            "right": "A tube for drinking liquids"
+          },
+          {
+            "left": "Piercing-sucking",
+            "right": "A needle to pierce and suck"
+          }
+        ],
+        "explanation": "Cut, drink or pierce: each insect has the mouthparts it needs."
+      },
+      {
+        "id": "u1x9",
+        "type": "choice",
+        "prompt": "A butterfly drinks nectar through a tube. What mouthparts does it have?",
+        "options": [
+          "Chewing",
+          "Sucking",
+          "Piercing-sucking"
+        ],
+        "answer": 1,
+        "explanation": "Sucking.",
+        "art": "mariposa"
+      },
+      {
+        "id": "u1x10",
+        "type": "choice",
+        "prompt": "An insect's compound eye has many...",
+        "options": [
+          "Lenses",
+          "Antennae",
+          "Legs"
+        ],
+        "answer": 0,
+        "explanation": "Many lenses that work like mini-eyes."
+      }
+    ]
+  }
+}

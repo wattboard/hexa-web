@@ -1,0 +1,294 @@
+{
+ "u1l1": {
+  "text": "Insects are small animals with one thing in common: they have six legs, that is, three pairs. On the outside they have a hard skeleton, like armor, called an exoskeleton, made of chitin. Spiders have eight legs and centipedes have lots, so they are not insects. Almost all insects have wings, but some have none.",
+  "pictures": [
+   {
+    "art": "saltamontes",
+    "label": "Insect: 6 legs"
+   },
+   {
+    "art": "arana",
+    "label": "Spider: 8 legs, not an insect"
+   },
+   {
+    "art": "ciempies",
+    "label": "Centipede: many legs, not an insect"
+   }
+  ]
+ },
+ "u1l2": {
+  "text": "An insect's body has three parts: head, thorax and abdomen. The head has the antennae, the eyes and the mouth: it is for sensing and eating. From the thorax, the middle part, come the legs below and the wings above. The abdomen, the back part, holds the heart and the digestion.",
+  "pictures": [
+   {
+    "art": "hormiga",
+    "label": "Head, thorax and abdomen"
+   },
+   {
+    "art": "abeja",
+    "label": "Also has three parts"
+   }
+  ]
+ },
+ "u1l3": {
+  "text": "All insects have three pairs of legs: six in total, and they all come out of the thorax. The wings also come out of the thorax, from the top. Most insects have two pairs of wings, but some have only one pair and others have no wings at all.",
+  "pictures": [
+   {
+    "art": "mariposa",
+    "label": "Two pairs of wings"
+   },
+   {
+    "art": "mosca",
+    "label": "Only one pair of wings"
+   },
+   {
+    "art": "hormiga",
+    "label": "Worker: no wings"
+   }
+  ]
+ },
+ "u1l4": {
+  "text": "Insects sense the world differently. With their antennae they smell very faint scents in the air. For them, smells and tastes matter most: they tell them where food is and who another insect is. Their eyes have many lenses and see less than ours, but they catch movement very well. Many hear with ears on their abdomen, wings or legs, and feel with tiny hairs.",
+  "pictures": [
+   {
+    "art": "mariposa",
+    "label": "Antennae to smell"
+   },
+   {
+    "art": "mosca",
+    "label": "Eyes with many lenses"
+   },
+   {
+    "art": "saltamontes",
+    "label": "Hears with its abdomen"
+   }
+  ]
+ },
+ "u1l5": {
+  "text": "An insect's mouth is called its mouthparts, and they change depending on what it eats. Chewing mouthparts have jaws to cut and bite, like a grasshopper eating leaves. Sucking mouthparts are a tube for drinking liquids, like a butterfly drinking nectar. Piercing-sucking mouthparts pierce and suck, like a mosquito's: it bites to eat, not to attack you.",
+  "pictures": [
+   {
+    "art": "cabeza_saltamontes",
+    "label": "Chewing"
+   },
+   {
+    "art": "cabeza_mariposa",
+    "label": "Sucking"
+   },
+   {
+    "art": "cabeza_mosquito",
+    "label": "Piercing-\nsucking"
+   }
+  ]
+ },
+ "u2l1": {
+  "text": "There are insects almost everywhere: deserts, forests, rivers and even snowy mountains. They can live in so many places because they adapt well, are small, and many can fly. They are most common where there are green, leafy plants, because there they find leaves, seeds, fruit and nectar. Some live in fresh water and only come out when they need to breathe.",
+  "pictures": [
+   {
+    "art": "hoja",
+    "label": "Plants: food and shelter"
+   },
+   {
+    "art": "libelula",
+    "label": "Near water"
+   },
+   {
+    "art": "hormiga",
+    "label": "Underground"
+   }
+  ]
+ },
+ "u2l2": {
+  "text": "Insects live a short time, so they reproduce quickly. Each one has its own trick to find a mate. Fireflies call each other with flashes of light. Male grasshoppers “sing” by rubbing their back legs against their wings. Female butterflies give off a scent, and males follow that trail through the air.",
+  "pictures": [
+   {
+    "art": "luciernaga",
+    "label": "Calls with light"
+   },
+   {
+    "art": "saltamontes",
+    "label": "Sings with its legs"
+   }
+  ]
+ },
+ "u2l3": {
+  "text": "Almost all insects start life as an egg. Complete metamorphosis has four stages: egg, larva, pupa and adult. A butterfly's larva is the caterpillar. Then it closes itself in a chrysalis, also called a pupa, and changes inside. Going from larva to adult can take from several weeks to years.",
+  "pictures": [
+   {
+    "art": "huevo",
+    "label": "1. Egg"
+   },
+   {
+    "art": "oruga",
+    "label": "2. Larva (caterpillar)"
+   },
+   {
+    "art": "crisalida",
+    "label": "3. Pupa (chrysalis)"
+   },
+   {
+    "art": "mariposa",
+    "label": "4. Adult"
+   }
+  ]
+ },
+ "u2l4": {
+  "text": "Incomplete metamorphosis has no pupa or chrysalis: the stages are egg, nymph and adult. The young one is called a nymph, and it looks like a miniature version of its parents, usually without wings. To grow, the nymph sheds its exoskeleton when it gets too small: this is called molting. This is how a grasshopper grows, for example.",
+  "pictures": [
+   {
+    "art": "huevo",
+    "label": "1. Egg"
+   },
+   {
+    "art": "ninfa",
+    "label": "2. Nymph"
+   },
+   {
+    "art": "saltamontes",
+    "label": "3. Adult"
+   }
+  ]
+ },
+ "u3l1": {
+  "text": "Butterflies and moths are lepidopterans, which means “scaly wings”: their wings are covered with tiny colored scales. As adults they have a coiled proboscis that stretches like a straw to drink nectar. Antennae help tell them apart: butterflies' end in a little knob, while moths' usually look like feathers or threads. They have complete metamorphosis, pollinate flowers and are food for birds.",
+  "pictures": [
+   {
+    "art": "mariposa",
+    "label": "Adult: scaly wings"
+   },
+   {
+    "art": "oruga",
+    "label": "Its larva: the caterpillar"
+   }
+  ]
+ },
+ "u3l2": {
+  "text": "Beetles, ladybugs and fireflies are coleopterans, which means “sheathed wings”. Their front wings are hard and are called elytra: like a case, they protect the thin wings they fly with. They have chewing mouths to bite leaves, wood or small prey. They are the animal group with the most species in the world, and many are nature's recyclers.",
+  "pictures": [
+   {
+    "art": "escarabajo",
+    "label": "Beetle"
+   },
+   {
+    "art": "mariquita",
+    "label": "Ladybug"
+   },
+   {
+    "art": "luciernaga",
+    "label": "Firefly"
+   }
+  ]
+ },
+ "u3l3": {
+  "text": "Bees, wasps and ants are hymenopterans, which means “membrane wings”. Bees have two pairs of thin wings, and ants are their cousins. Many live in groups and share the work. Bees pollinate flowers, and that's why we have fruit. A bee only stings to defend itself or its hive: if one flies near you, stay still and calm.",
+  "pictures": [
+   {
+    "art": "abeja",
+    "label": "Bee"
+   },
+   {
+    "art": "hormiga",
+    "label": "Ant"
+   }
+  ]
+ },
+ "u3l4": {
+  "text": "Dragonflies and damselflies are odonates. They have four long, narrow, clear wings with veins like a net, and they move them separately: that's why they fly so well. They are hunters and catch mosquitoes in flight, but they don't bite people. Their nymphs grow underwater, and if a river has many dragonflies, the water is clean.",
+  "pictures": [
+   {
+    "art": "libelula",
+    "label": "Dragonfly"
+   }
+  ]
+ },
+ "u3l5": {
+  "text": "Grasshoppers, crickets and locusts are orthopterans, which means “straight wings”. Their back legs are big, like springs, for jumping. They have chewing mouths to bite leaves and grow by incomplete metamorphosis: egg, nymph and adult. They are food for birds, frogs and lizards.",
+  "pictures": [
+   {
+    "art": "saltamontes",
+    "label": "Grasshopper"
+   }
+  ]
+ },
+ "u3l6": {
+  "text": "Stink bugs, cicadas and aphids are hemipterans, which means “half wing”: their front wings are half hard and half thin. Their mouth is like a needle to pierce plants and suck their juice. Many stink bugs give off a strong smell to defend themselves, and male cicadas sing very loudly in summer. If you see a stink bug, look at it without touching it.",
+  "pictures": [
+   {
+    "art": "chinche",
+    "label": "Stink bug"
+   }
+  ]
+ },
+ "u3l7": {
+  "text": "Flies and mosquitoes are dipterans, which means “two wings”: they have only one pair of wings. Their larvae have no legs. They have a bad reputation, but many flies do an important job: they break down remains and clean up nature, and some also pollinate flowers.",
+  "pictures": [
+   {
+    "art": "mosca",
+    "label": "Fly"
+   },
+   {
+    "art": "mosquito",
+    "label": "Mosquito"
+   }
+  ]
+ },
+ "u4l1": {
+  "text": "Insects help us a lot. Pollinating means carrying pollen from one flower to another so there are fruits and seeds, and bees, butterflies and many flies do it. Others, like beetles, are recyclers: they turn remains into rich soil. If insects disappeared, we would run out of fruit and many birds would go hungry.",
+  "pictures": [
+   {
+    "art": "abeja",
+    "label": "Pollinates"
+   },
+   {
+    "art": "mariposa",
+    "label": "Pollinates"
+   },
+   {
+    "art": "escarabajo",
+    "label": "Recycles"
+   }
+  ]
+ },
+ "u4l2": {
+  "text": "A pest is when there are huge numbers of one kind of insect damaging crops or food, like aphids or weevils. If we spray insecticide everywhere, bees, ladybugs and other helpers die too. Biological control is better: using their natural enemies, like the ladybug, which eats hundreds of aphids. And keeping food in tightly closed jars prevents pests without poison.",
+  "pictures": [
+   {
+    "art": "mariquita",
+    "label": "Eats aphids"
+   }
+  ]
+ },
+ "u4l3": {
+  "text": "A few insects can sting or carry diseases. They are not evil: they do what they need to live. Only female mosquitoes bite, because they need blood to lay their eggs, and they lay them in still water: that's why we empty buckets, tires and flower vases. If a bee stings you and it swells a lot or you find it hard to breathe, tell an adult right away. Don't touch bugs that can spread disease: if you see one at home, tell an adult.",
+  "pictures": [
+   {
+    "art": "mosquito",
+    "label": "Only females bite"
+   },
+   {
+    "art": "abeja",
+    "label": "Can sting"
+   },
+   {
+    "art": "chinche",
+    "label": "Don't touch"
+   }
+  ]
+ },
+ "u4l4": {
+  "text": "Today you review everything. Some insects are harmless, like the butterfly, the ladybug or the dragonfly, which doesn't bite and eats mosquitoes. Others can be harmful, meaning they can damage crops or food when there are huge numbers, like locusts or weevils. And with others it's best to be careful because they can sting or make you ill, like the mosquito, the bee or the kissing bug. A good forest ranger observes them, respects them and stays safe without wiping them out.",
+  "pictures": [
+   {
+    "art": "mariposa",
+    "label": "Harmless"
+   },
+   {
+    "art": "libelula",
+    "label": "Harmless"
+   },
+   {
+    "art": "mosquito",
+    "label": "Be careful"
+   }
+  ]
+ }
+}

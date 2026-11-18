@@ -1,0 +1,849 @@
+{
+  "id": "u3",
+  "order": 3,
+  "title": "Los siete grupos",
+  "intro": "Los científicos agrupan a los insectos en órdenes según sus alas, su boca y cómo crecen. Vamos a conocer siete grupos, empezando por los más vistosos.",
+  "lessons": [
+    {
+      "id": "u3l1",
+      "title": "Lepidópteros: mariposas y polillas",
+      "art": "mariposa",
+      "intro": "Lepidóptero quiere decir «alas con escamas». Son las mariposas y las polillas.",
+      "closing": "Mariposas y polillas polinizan flores y son alimento de pájaros. Sus orugas comen hojas, pero casi siempre la planta se recupera.",
+      "exercises": [
+        {
+          "id": "u3l1e1",
+          "type": "choice",
+          "prompt": "¿Qué cubre las alas de una mariposa?",
+          "options": [
+            "Plumas",
+            "Escamas diminutas",
+            "Pelos duros"
+          ],
+          "answer": 1,
+          "explanation": "Lepidóptero significa «ala con escamas»: miles de escamas de colores.",
+          "art": "mariposa"
+        },
+        {
+          "id": "u3l1e2",
+          "type": "choice",
+          "prompt": "¿Cómo es la boca de una mariposa adulta?",
+          "options": [
+            "Una trompa enrollada para chupar néctar",
+            "Mandíbulas para morder",
+            "Un aguijón"
+          ],
+          "answer": 0,
+          "explanation": "Su trompa se desenrolla como una pajita para beber néctar.",
+          "art": "mariposa"
+        },
+        {
+          "id": "u3l1e3",
+          "type": "match",
+          "prompt": "Une cada uno con lo que lo distingue.",
+          "pairs": [
+            {
+              "left": "Mariposa",
+              "right": "Antenas con una bolita en la punta"
+            },
+            {
+              "left": "Polilla",
+              "right": "Antenas como plumas"
+            },
+            {
+              "left": "Oruga",
+              "right": "Mandíbulas para comer hojas"
+            }
+          ],
+          "explanation": "Mirando las antenas se distinguen las mariposas de las polillas."
+        },
+        {
+          "id": "u3l1e4",
+          "type": "order",
+          "prompt": "Ordena el ciclo de vida de la mariposa.",
+          "steps": [
+            {
+              "art": "huevo",
+              "label": "Huevo"
+            },
+            {
+              "art": "oruga",
+              "label": "Larva (oruga)"
+            },
+            {
+              "art": "crisalida",
+              "label": "Pupa (crisálida)"
+            },
+            {
+              "art": "mariposa",
+              "label": "Mariposa adulta"
+            }
+          ],
+          "explanation": "Los lepidópteros tienen metamorfosis completa."
+        },
+        {
+          "id": "u3l1e5",
+          "type": "choice",
+          "prompt": "¿Para qué sirven las mariposas?",
+          "options": [
+            "Polinizan flores y son alimento de pájaros",
+            "No sirven para nada",
+            "Solo para adornar"
+          ],
+          "answer": 0,
+          "explanation": "Llevan polen de flor en flor y alimentan a otros animales.",
+          "art": "mariposa"
+        }
+      ]
+    },
+    {
+      "id": "u3l2",
+      "title": "Coleópteros: escarabajos",
+      "art": "escarabajo",
+      "intro": "Coleóptero quiere decir «alas en estuche». Es el grupo de animales más grande del mundo: escarabajos, mariquitas y luciérnagas.",
+      "closing": "Los escarabajos reciclan hojas y madera, y algunos, como la mariquita, se comen las plagas. ¡Hay más clases de escarabajos que de cualquier otro animal!",
+      "exercises": [
+        {
+          "id": "u3l2e1",
+          "type": "choice",
+          "prompt": "¿Cómo son las alas de delante de un escarabajo?",
+          "options": [
+            "Duras como un estuche: los élitros",
+            "Transparentes",
+            "Cubiertas de escamas"
+          ],
+          "answer": 0,
+          "explanation": "Los élitros protegen las alas finas que usa para volar.",
+          "art": "escarabajo"
+        },
+        {
+          "id": "u3l2e2",
+          "type": "tapAll",
+          "prompt": "Toca todos los coleópteros.",
+          "items": [
+            {
+              "art": "mariquita",
+              "label": "Mariquita",
+              "correct": true
+            },
+            {
+              "art": "luciernaga",
+              "label": "Luciérnaga",
+              "correct": true
+            },
+            {
+              "art": "escarabajo",
+              "label": "Escarabajo",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Mariposa",
+              "correct": false
+            },
+            {
+              "art": "abeja",
+              "label": "Abeja",
+              "correct": false
+            }
+          ],
+          "explanation": "Mariquita, luciérnaga y escarabajo tienen élitros: son coleópteros."
+        },
+        {
+          "id": "u3l2e3",
+          "type": "choice",
+          "prompt": "¿Cómo es la boca de un escarabajo?",
+          "options": [
+            "Masticadora: muerde y mastica",
+            "Una trompa enrollada",
+            "Una aguja para chupar"
+          ],
+          "answer": 0,
+          "explanation": "Sus mandíbulas mastican hojas, madera o pequeñas presas.",
+          "art": "escarabajo"
+        },
+        {
+          "id": "u3l2e4",
+          "type": "choice",
+          "prompt": "¿Qué grupo de animales tiene más especies en el mundo?",
+          "options": [
+            "Los coleópteros",
+            "Las aves",
+            "Los peces"
+          ],
+          "answer": 0,
+          "explanation": "Hay más especies de escarabajos que de cualquier otro grupo de animales."
+        },
+        {
+          "id": "u3l2e5",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Los escarabajos ___ hojas, madera y restos, y así abonan la tierra.",
+          "bank": [
+            "reciclan",
+            "queman",
+            "pintan"
+          ],
+          "answers": [
+            "reciclan"
+          ],
+          "explanation": "Son recicladores de la naturaleza."
+        }
+      ]
+    },
+    {
+      "id": "u3l3",
+      "title": "Himenópteros: abejas, avispas y hormigas",
+      "art": "abeja",
+      "intro": "Himenóptero quiere decir «alas de membrana». Son las abejas, las avispas y las hormigas. Muchos viven en grupo y se reparten el trabajo.",
+      "closing": "Las abejas polinizan gran parte de las frutas que comemos. Solo pican para defenderse: si estás tranquilo, siguen su camino.",
+      "exercises": [
+        {
+          "id": "u3l3e1",
+          "type": "choice",
+          "prompt": "¿Cuántos pares de alas tiene una abeja?",
+          "options": [
+            "Uno",
+            "Dos",
+            "Ninguno"
+          ],
+          "answer": 1,
+          "explanation": "Dos pares de alas finas, como de membrana.",
+          "art": "abeja"
+        },
+        {
+          "id": "u3l3e2",
+          "type": "tapAll",
+          "prompt": "Toca todos los himenópteros.",
+          "items": [
+            {
+              "art": "abeja",
+              "label": "Abeja",
+              "correct": true
+            },
+            {
+              "art": "hormiga",
+              "label": "Hormiga",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Mariposa",
+              "correct": false
+            },
+            {
+              "art": "saltamontes",
+              "label": "Saltamontes",
+              "correct": false
+            },
+            {
+              "art": "escarabajo",
+              "label": "Escarabajo",
+              "correct": false
+            }
+          ],
+          "explanation": "Abejas y hormigas son himenópteros. ¡Las hormigas son primas de las abejas!"
+        },
+        {
+          "id": "u3l3e3",
+          "type": "choice",
+          "prompt": "¿Por qué pica una abeja?",
+          "options": [
+            "Porque le gusta",
+            "Para defenderse o defender su colmena",
+            "Para comer"
+          ],
+          "answer": 1,
+          "explanation": "Solo pica si se siente atacada.",
+          "art": "abeja"
+        },
+        {
+          "id": "u3l3e4",
+          "type": "choice",
+          "prompt": "¿Qué hacen las abejas que nos ayuda a tener frutas?",
+          "options": [
+            "Polinizan las flores",
+            "Comen hojas",
+            "Hacen luz"
+          ],
+          "answer": 0,
+          "explanation": "Al llevar polen de flor en flor, las flores se convierten en frutos.",
+          "art": "abeja"
+        },
+        {
+          "id": "u3l3e5",
+          "type": "choice",
+          "prompt": "Si una abeja vuela cerca de ti, ¿qué es mejor hacer?",
+          "options": [
+            "Manotear para espantarla",
+            "Quedarte quieto y tranquilo",
+            "Correr gritando"
+          ],
+          "answer": 1,
+          "explanation": "Los movimientos bruscos la asustan. Si estás tranquilo, seguirá su camino.",
+          "art": "abeja"
+        }
+      ]
+    },
+    {
+      "id": "u3l4",
+      "title": "Odonatos: libélulas",
+      "art": "libelula",
+      "intro": "Odonato viene de «diente»: tienen una boca fuerte para atrapar presas. Son las libélulas y los caballitos del diablo.",
+      "closing": "Las libélulas comen muchísimos mosquitos y solo viven donde el agua está limpia. Si ves libélulas, ¡el agua de ese lugar está sana!",
+      "exercises": [
+        {
+          "id": "u3l4e1",
+          "type": "choice",
+          "prompt": "¿Cómo son las alas de una libélula?",
+          "options": [
+            "Largas, estrechas y transparentes, con nervios como una red",
+            "Duras como un estuche",
+            "Cubiertas de escamas"
+          ],
+          "answer": 0,
+          "explanation": "Cuatro alas largas que mueve por separado: ¡por eso vuela tan bien!",
+          "art": "libelula"
+        },
+        {
+          "id": "u3l4e2",
+          "type": "choice",
+          "prompt": "¿Qué comen las libélulas?",
+          "options": [
+            "Otros insectos, como mosquitos",
+            "Néctar",
+            "Hojas"
+          ],
+          "answer": 0,
+          "explanation": "Son cazadoras: atrapan mosquitos al vuelo.",
+          "art": "libelula"
+        },
+        {
+          "id": "u3l4e3",
+          "type": "choice",
+          "prompt": "Si en un río hay muchas libélulas, ¿qué nos dice?",
+          "options": [
+            "Que el agua está limpia",
+            "Que el agua está sucia",
+            "Que va a llover"
+          ],
+          "answer": 0,
+          "explanation": "Las libélulas indican que el agua está limpia.",
+          "art": "libelula"
+        },
+        {
+          "id": "u3l4e4",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Las crías de las libélulas viven dentro del ___.",
+          "bank": [
+            "agua",
+            "suelo",
+            "aire"
+          ],
+          "answers": [
+            "agua"
+          ],
+          "explanation": "Sus ninfas crecen bajo el agua y luego salen volando."
+        },
+        {
+          "id": "u3l4e5",
+          "type": "choice",
+          "prompt": "¿Pican las libélulas a las personas?",
+          "options": [
+            "Sí, mucho",
+            "No, son inofensivas"
+          ],
+          "answer": 1,
+          "explanation": "No pican a las personas: son inofensivas y comen mosquitos.",
+          "art": "libelula"
+        }
+      ]
+    },
+    {
+      "id": "u3l5",
+      "title": "Ortópteros: saltamontes y grillos",
+      "art": "saltamontes",
+      "intro": "Ortóptero quiere decir «alas rectas». Son los saltamontes y los grillos, como nuestro amigo Paquito. Tienen patas traseras grandes para saltar.",
+      "closing": "Saltamontes y grillos son alimento de pájaros, ranas y lagartijas. Solo algunas langostas, cuando son muchísimas, se vuelven plaga.",
+      "exercises": [
+        {
+          "id": "u3l5e1",
+          "type": "choice",
+          "prompt": "¿Para qué tienen patas traseras tan grandes?",
+          "options": [
+            "Para saltar",
+            "Para nadar",
+            "Para cavar"
+          ],
+          "answer": 0,
+          "explanation": "Sus patas traseras son como resortes."
+        },
+        {
+          "id": "u3l5e2",
+          "type": "choice",
+          "prompt": "¿Cómo es su boca?",
+          "options": [
+            "Masticadora, para morder hojas",
+            "Una trompa para chupar",
+            "Un aguijón"
+          ],
+          "answer": 0,
+          "explanation": "Tienen mandíbulas para masticar plantas."
+        },
+        {
+          "id": "u3l5e3",
+          "type": "match",
+          "prompt": "Une cada uno con lo que lo distingue.",
+          "pairs": [
+            {
+              "left": "Saltamontes",
+              "right": "Antenas cortas; canta de día"
+            },
+            {
+              "left": "Grillo",
+              "right": "Antenas largas; canta de noche"
+            },
+            {
+              "left": "Langosta",
+              "right": "Puede viajar en enjambres enormes"
+            }
+          ],
+          "explanation": "Saltamontes, grillos y langostas son primos."
+        },
+        {
+          "id": "u3l5e4",
+          "type": "choice",
+          "prompt": "¿Cómo crecen los saltamontes?",
+          "options": [
+            "Con metamorfosis incompleta: huevo, ninfa y adulto",
+            "Con oruga y crisálida"
+          ],
+          "answer": 0,
+          "explanation": "La ninfa se parece al adulto y crece mudando de piel.",
+          "art": "saltamontes"
+        },
+        {
+          "id": "u3l5e5",
+          "type": "choice",
+          "prompt": "¿Quién se come a los saltamontes?",
+          "options": [
+            "Pájaros, ranas y lagartijas",
+            "Nadie",
+            "Solo las vacas"
+          ],
+          "answer": 0,
+          "explanation": "Son una parte importante de la cadena alimentaria.",
+          "art": "saltamontes"
+        }
+      ]
+    },
+    {
+      "id": "u3l6",
+      "title": "Hemípteros: chinches y cigarras",
+      "art": "chinche",
+      "intro": "Hemíptero quiere decir «media ala»: sus alas de delante son mitad duras y mitad finas. Son las chinches, las cigarras y los pulgones.",
+      "closing": "Muchas chinches son inofensivas y algunas se comen otras plagas. Unas pocas pueden transmitir enfermedades, por eso las miramos sin tocar.",
+      "exercises": [
+        {
+          "id": "u3l6e1",
+          "type": "choice",
+          "prompt": "¿Cómo es la boca de una chinche?",
+          "options": [
+            "Como una aguja para pinchar y chupar",
+            "Masticadora",
+            "Una trompa enrollada"
+          ],
+          "answer": 0,
+          "explanation": "Pincha las plantas y chupa su jugo.",
+          "art": "chinche"
+        },
+        {
+          "id": "u3l6e2",
+          "type": "choice",
+          "prompt": "¿Qué hacen muchas chinches para defenderse?",
+          "options": [
+            "Sueltan un olor fuerte",
+            "Hacen luz",
+            "Cantan"
+          ],
+          "answer": 0,
+          "explanation": "Por eso a algunas las llaman «chinches hediondas».",
+          "art": "chinche"
+        },
+        {
+          "id": "u3l6e3",
+          "type": "tapAll",
+          "prompt": "Toca el hemíptero.",
+          "items": [
+            {
+              "art": "chinche",
+              "label": "Chinche",
+              "correct": true
+            },
+            {
+              "art": "mariquita",
+              "label": "Mariquita",
+              "correct": false
+            },
+            {
+              "art": "mosca",
+              "label": "Mosca",
+              "correct": false
+            },
+            {
+              "art": "abeja",
+              "label": "Abeja",
+              "correct": false
+            }
+          ],
+          "explanation": "La chinche tiene alas mitad duras y mitad finas, y boca de aguja."
+        },
+        {
+          "id": "u3l6e4",
+          "type": "choice",
+          "prompt": "¿Qué es la cigarra?",
+          "options": [
+            "Un hemíptero que canta muy fuerte en verano",
+            "Una mariposa",
+            "Un escarabajo"
+          ],
+          "answer": 0,
+          "explanation": "La cigarra macho canta haciendo vibrar unas membranas de su cuerpo."
+        },
+        {
+          "id": "u3l6e5",
+          "type": "choice",
+          "prompt": "Si ves una chinche, ¿qué haces?",
+          "options": [
+            "La miras sin tocarla",
+            "La agarro con la mano",
+            "La aplasto"
+          ],
+          "answer": 0,
+          "explanation": "Mirar sin tocar: así ni tú la molestas ni ella a ti.",
+          "art": "chinche"
+        }
+      ]
+    },
+    {
+      "id": "u3l7",
+      "title": "Dípteros: moscas y mosquitos",
+      "art": "mosca",
+      "intro": "Díptero quiere decir «dos alas». Las moscas y los mosquitos solo tienen un par de alas. Tienen mala fama, pero hacen trabajos muy importantes.",
+      "closing": "Las moscas reciclan restos y muchas polinizan flores. Algunos mosquitos transmiten enfermedades: por eso nos protegemos de sus picaduras.",
+      "exercises": [
+        {
+          "id": "u3l7e1",
+          "type": "choice",
+          "prompt": "¿Cuántos pares de alas tiene una mosca?",
+          "options": [
+            "Uno",
+            "Dos",
+            "Tres"
+          ],
+          "answer": 0,
+          "explanation": "Un solo par: por eso se llaman dípteros, «dos alas».",
+          "art": "mosca"
+        },
+        {
+          "id": "u3l7e2",
+          "type": "choice",
+          "prompt": "¿Qué trabajo importante hacen muchas moscas?",
+          "options": [
+            "Descomponen restos y limpian la naturaleza",
+            "Hacen miel",
+            "Fabrican seda"
+          ],
+          "answer": 0,
+          "explanation": "Sin moscas, los restos tardarían mucho más en desaparecer.",
+          "art": "mosca"
+        },
+        {
+          "id": "u3l7e3",
+          "type": "tapAll",
+          "prompt": "Toca todos los dípteros.",
+          "items": [
+            {
+              "art": "mosca",
+              "label": "Mosca",
+              "correct": true
+            },
+            {
+              "art": "mosquito",
+              "label": "Mosquito",
+              "correct": true
+            },
+            {
+              "art": "libelula",
+              "label": "Libélula",
+              "correct": false
+            },
+            {
+              "art": "abeja",
+              "label": "Abeja",
+              "correct": false
+            },
+            {
+              "art": "mariposa",
+              "label": "Mariposa",
+              "correct": false
+            }
+          ],
+          "explanation": "Moscas y mosquitos tienen un solo par de alas."
+        },
+        {
+          "id": "u3l7e4",
+          "type": "choice",
+          "prompt": "¿Cómo son las larvas de las moscas?",
+          "options": [
+            "Sin patas",
+            "Con seis patas",
+            "Con muchas patas"
+          ],
+          "answer": 0,
+          "explanation": "Las larvas de los dípteros no tienen patas.",
+          "art": "mosca"
+        },
+        {
+          "id": "u3l7e5",
+          "type": "sort",
+          "prompt": "Pon cada insecto en su grupo.",
+          "bins": [
+            "Lepidópteros",
+            "Coleópteros",
+            "Himenópteros",
+            "Dípteros"
+          ],
+          "sortItems": [
+            {
+              "label": "Mariposa",
+              "bin": 0,
+              "art": "mariposa"
+            },
+            {
+              "label": "Mariquita",
+              "bin": 1,
+              "art": "mariquita"
+            },
+            {
+              "label": "Escarabajo",
+              "bin": 1,
+              "art": "escarabajo"
+            },
+            {
+              "label": "Abeja",
+              "bin": 2,
+              "art": "abeja"
+            },
+            {
+              "label": "Hormiga",
+              "bin": 2,
+              "art": "hormiga"
+            },
+            {
+              "label": "Mosca",
+              "bin": 3,
+              "art": "mosca"
+            },
+            {
+              "label": "Mosquito",
+              "bin": 3,
+              "art": "mosquito"
+            }
+          ],
+          "explanation": "Alas con escamas, alas de estuche, alas de membrana y un solo par de alas."
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u3exam",
+    "title": "Reto de la unidad",
+    "art": "paquito",
+    "intro": "¡Reto de los siete grupos! Diez preguntas para ver si los distingues. Si lo superas, abres la última unidad.",
+    "closing": "¡Ya conoces los siete grupos! Fíjate en sus alas y en su boca y sabrás a qué grupo pertenece cada insecto.",
+    "exercises": [
+      {
+        "id": "u3x1",
+        "type": "choice",
+        "prompt": "¿Qué significa «lepidóptero»?",
+        "options": [
+          "Alas con escamas",
+          "Dos alas",
+          "Alas rectas"
+        ],
+        "answer": 0,
+        "explanation": "Mariposas y polillas: alas con escamas."
+      },
+      {
+        "id": "u3x2",
+        "type": "choice",
+        "prompt": "¿Qué grupo tiene las alas de delante duras como un estuche?",
+        "options": [
+          "Coleópteros",
+          "Dípteros",
+          "Odonatos"
+        ],
+        "answer": 0,
+        "explanation": "Los coleópteros: escarabajos, mariquitas y luciérnagas."
+      },
+      {
+        "id": "u3x3",
+        "type": "match",
+        "prompt": "Une cada grupo con sus ejemplos.",
+        "pairs": [
+          {
+            "left": "Himenópteros",
+            "right": "Abejas y hormigas"
+          },
+          {
+            "left": "Odonatos",
+            "right": "Libélulas"
+          },
+          {
+            "left": "Ortópteros",
+            "right": "Saltamontes y grillos"
+          },
+          {
+            "left": "Hemípteros",
+            "right": "Chinches y cigarras"
+          }
+        ],
+        "explanation": "Cuatro grupos, cuatro formas de alas."
+      },
+      {
+        "id": "u3x4",
+        "type": "choice",
+        "prompt": "¿Cuántos pares de alas tienen los dípteros?",
+        "options": [
+          "Uno",
+          "Dos",
+          "Tres"
+        ],
+        "answer": 0,
+        "explanation": "Un solo par."
+      },
+      {
+        "id": "u3x5",
+        "type": "sort",
+        "prompt": "Pon cada insecto en su grupo.",
+        "bins": [
+          "Lepidópteros",
+          "Odonatos",
+          "Ortópteros"
+        ],
+        "sortItems": [
+          {
+            "label": "Mariposa",
+            "bin": 0,
+            "art": "mariposa"
+          },
+          {
+            "label": "Oruga",
+            "bin": 0,
+            "art": "oruga"
+          },
+          {
+            "label": "Libélula",
+            "bin": 1,
+            "art": "libelula"
+          },
+          {
+            "label": "Saltamontes",
+            "bin": 2,
+            "art": "saltamontes"
+          }
+        ],
+        "explanation": "La oruga es una mariposa joven: también es lepidóptero."
+      },
+      {
+        "id": "u3x6",
+        "type": "choice",
+        "prompt": "Si en un río hay muchas libélulas, ¿qué nos dice?",
+        "options": [
+          "Que el agua está limpia",
+          "Que el agua está sucia",
+          "Que va a llover"
+        ],
+        "answer": 0,
+        "explanation": "Agua limpia.",
+        "art": "libelula"
+      },
+      {
+        "id": "u3x7",
+        "type": "choice",
+        "prompt": "¿Por qué pica una abeja?",
+        "options": [
+          "Porque le gusta",
+          "Para defenderse o defender su colmena",
+          "Para comer"
+        ],
+        "answer": 1,
+        "explanation": "Para defenderse.",
+        "art": "abeja"
+      },
+      {
+        "id": "u3x8",
+        "type": "fill",
+        "prompt": "Completa la frase.",
+        "sentence": "Las chinches se defienden soltando un ___ fuerte.",
+        "bank": [
+          "olor",
+          "ruido",
+          "color"
+        ],
+        "answers": [
+          "olor"
+        ],
+        "explanation": "Un olor fuerte."
+      },
+      {
+        "id": "u3x9",
+        "type": "choice",
+        "prompt": "¿Cómo es la boca de una mariposa adulta?",
+        "options": [
+          "Una trompa enrollada para chupar néctar",
+          "Mandíbulas para morder",
+          "Un aguijón"
+        ],
+        "answer": 0,
+        "explanation": "Una trompa para chupar néctar.",
+        "art": "mariposa"
+      },
+      {
+        "id": "u3x10",
+        "type": "tapAll",
+        "prompt": "Toca todos los coleópteros.",
+        "items": [
+          {
+            "art": "mariquita",
+            "label": "Mariquita",
+            "correct": true
+          },
+          {
+            "art": "escarabajo",
+            "label": "Escarabajo",
+            "correct": true
+          },
+          {
+            "art": "luciernaga",
+            "label": "Luciérnaga",
+            "correct": true
+          },
+          {
+            "art": "chinche",
+            "label": "Chinche",
+            "correct": false
+          },
+          {
+            "art": "mosca",
+            "label": "Mosca",
+            "correct": false
+          }
+        ],
+        "explanation": "Los que tienen élitros."
+      }
+    ]
+  }
+}

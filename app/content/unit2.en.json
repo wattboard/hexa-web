@@ -1,0 +1,499 @@
+{
+  "id": "u2",
+  "order": 2,
+  "title": "Insect life",
+  "intro": "Hi again! Now we'll see where insects live, how they find a mate and how they grow. You'll see that a caterpillar and a butterfly are the same animal.",
+  "lessons": [
+    {
+      "id": "u2l1",
+      "title": "Where they live",
+      "art": "hoja",
+      "intro": "Insects are almost everywhere. Let's find out where they live and why they can live there.",
+      "closing": "Insects live in almost every ecosystem because they adapt, they are small and many can fly. Where there are plants, there is food for them.",
+      "exercises": [
+        {
+          "id": "u2l1e1",
+          "type": "choice",
+          "prompt": "Where can insects live?",
+          "options": [
+            "Only in gardens",
+            "Almost everywhere: deserts, forests, rivers and even snowy mountains",
+            "Only in water"
+          ],
+          "answer": 1,
+          "explanation": "They live in almost every land ecosystem, from deserts to snowy peaks."
+        },
+        {
+          "id": "u2l1e2",
+          "type": "choice",
+          "prompt": "Why can they live in so many places?",
+          "options": [
+            "Because they are very big",
+            "Because they adapt and many can fly",
+            "Because they never eat"
+          ],
+          "answer": 1,
+          "explanation": "Their ability to adapt, their flight and their small size help them get everywhere."
+        },
+        {
+          "id": "u2l1e3",
+          "type": "match",
+          "prompt": "Match each insect with the place where you can find it.",
+          "pairs": [
+            {
+              "left": "Butterfly",
+              "right": "Among flowers, drinking nectar"
+            },
+            {
+              "left": "Dragonfly",
+              "right": "Near rivers, lakes and streams"
+            },
+            {
+              "left": "Ant",
+              "right": "In nests underground"
+            }
+          ],
+          "explanation": "Each insect lives where it finds what it needs: food, water and shelter."
+        },
+        {
+          "id": "u2l1e4",
+          "type": "choice",
+          "prompt": "Where are insects most common?",
+          "options": [
+            "In green, leafy plants",
+            "In places with no plants at all",
+            "Only inside caves"
+          ],
+          "answer": 0,
+          "explanation": "Where there are leaves, seeds, fruit and nectar, there is food for them."
+        },
+        {
+          "id": "u2l1e5",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Some insects live in ___ water like rivers, lakes and streams.",
+          "bank": [
+            "fresh",
+            "frozen",
+            "dry"
+          ],
+          "answers": [
+            "fresh"
+          ],
+          "explanation": "Freshwater insects only come out when they need to breathe."
+        }
+      ]
+    },
+    {
+      "id": "u2l2",
+      "title": "How they find a mate",
+      "art": "luciernaga",
+      "intro": "Insects live a short time and reproduce quickly. To find each other they use light, sounds, scents and even dances.",
+      "closing": "Insects communicate in amazing ways: with light, music and smells. Watching them quietly is the best way to see it.",
+      "exercises": [
+        {
+          "id": "u2l2e1",
+          "type": "choice",
+          "prompt": "How do fireflies communicate to find each other?",
+          "options": [
+            "With flashes of light",
+            "By clapping",
+            "By whistling"
+          ],
+          "answer": 0,
+          "explanation": "Fireflies give off light to call each other.",
+          "art": "luciernaga"
+        },
+        {
+          "id": "u2l2e2",
+          "type": "match",
+          "prompt": "Match each insect with how it communicates.",
+          "pairs": [
+            {
+              "left": "Butterfly",
+              "right": "Its scent travels through the air"
+            },
+            {
+              "left": "Grasshopper",
+              "right": "Rubs its legs against its wings and sings"
+            },
+            {
+              "left": "Firefly (lightning bug)",
+              "right": "Makes flashes of light"
+            },
+            {
+              "left": "Beetle",
+              "right": "The males fight each other"
+            }
+          ],
+          "explanation": "Scent, music, light and strength: each one has its own way."
+        },
+        {
+          "id": "u2l2e3",
+          "type": "choice",
+          "prompt": "How does a male grasshopper \"sing\"?",
+          "options": [
+            "With its mouth",
+            "By rubbing its back legs against its wings",
+            "By hitting the ground"
+          ],
+          "answer": 1,
+          "explanation": "It rubs its back legs against its wings to make a song and court.",
+          "art": "saltamontes"
+        },
+        {
+          "id": "u2l2e4",
+          "type": "choice",
+          "prompt": "How do male butterflies find the females?",
+          "options": [
+            "By following their scent in the air",
+            "By the sound of their wings",
+            "By asking other insects"
+          ],
+          "answer": 0,
+          "explanation": "The females give off a scent and the males follow its trail in the air.",
+          "art": "mariposa"
+        },
+        {
+          "id": "u2l2e5",
+          "type": "choice",
+          "prompt": "Insects live a short time. That's why they reproduce...",
+          "options": [
+            "Very slowly",
+            "Quickly"
+          ],
+          "answer": 1,
+          "explanation": "Their life is short, so they reproduce quickly."
+        }
+      ]
+    },
+    {
+      "id": "u2l3",
+      "title": "Complete metamorphosis",
+      "art": "oruga",
+      "intro": "A caterpillar looks nothing like a butterfly, but it's the same animal! Let's see how it changes.",
+      "closing": "In complete metamorphosis the insect changes completely, like the butterfly. While it is in the chrysalis it doesn't eat or move: it is transforming.",
+      "exercises": [
+        {
+          "id": "u2l3e1",
+          "type": "order",
+          "prompt": "Put the butterfly's life cycle in order.",
+          "steps": [
+            {
+              "art": "huevo",
+              "label": "Egg"
+            },
+            {
+              "art": "oruga",
+              "label": "Larva (caterpillar)"
+            },
+            {
+              "art": "crisalida",
+              "label": "Pupa (chrysalis)"
+            },
+            {
+              "art": "mariposa",
+              "label": "Adult butterfly"
+            }
+          ],
+          "explanation": "Egg, larva (caterpillar), pupa (chrysalis) and adult butterfly."
+        },
+        {
+          "id": "u2l3e2",
+          "type": "choice",
+          "prompt": "What is the stage between the larva and the adult called?",
+          "options": [
+            "Nymph",
+            "Chrysalis or pupa",
+            "Egg"
+          ],
+          "answer": 1,
+          "explanation": "The change happens inside the chrysalis, also called the pupa."
+        },
+        {
+          "id": "u2l3e3",
+          "type": "choice",
+          "prompt": "Most insects start life as...",
+          "options": [
+            "Egg",
+            "A small adult",
+            "A chrysalis"
+          ],
+          "answer": 0,
+          "explanation": "Almost all start as an egg."
+        },
+        {
+          "id": "u2l3e4",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Egg, larva, ___ and adult: that's complete metamorphosis.",
+          "bank": [
+            "pupa",
+            "nymph",
+            "nest"
+          ],
+          "answers": [
+            "pupa"
+          ],
+          "explanation": "The pupa is the chrysalis."
+        },
+        {
+          "id": "u2l3e5",
+          "type": "choice",
+          "prompt": "How long can it take a larva to become an adult?",
+          "options": [
+            "A few minutes",
+            "From several weeks to years"
+          ],
+          "answer": 1,
+          "explanation": "It depends on the insect: it can take several weeks or even years."
+        }
+      ]
+    },
+    {
+      "id": "u2l4",
+      "title": "Incomplete metamorphosis",
+      "art": "ninfa",
+      "intro": "Other insects don't make a chrysalis: they hatch looking almost like their parents and keep growing. Let's see!",
+      "closing": "In incomplete metamorphosis the young are nymphs, small versions of their parents. They grow by changing their exoskeleton, like changing clothes that got too small.",
+      "exercises": [
+        {
+          "id": "u2l4e1",
+          "type": "order",
+          "prompt": "Put the grasshopper's life cycle in order.",
+          "steps": [
+            {
+              "art": "huevo",
+              "label": "Egg"
+            },
+            {
+              "art": "ninfa",
+              "label": "Nymph"
+            },
+            {
+              "art": "saltamontes",
+              "label": "Adult grasshopper"
+            }
+          ],
+          "explanation": "Egg, nymph and adult grasshopper: no chrysalis."
+        },
+        {
+          "id": "u2l4e2",
+          "type": "choice",
+          "prompt": "What are the young called in incomplete metamorphosis?",
+          "options": [
+            "Caterpillar",
+            "Nymph",
+            "Pupa"
+          ],
+          "answer": 1,
+          "explanation": "They are called nymphs."
+        },
+        {
+          "id": "u2l4e3",
+          "type": "choice",
+          "prompt": "A nymph is...",
+          "options": [
+            "A miniature version of its parents",
+            "A worm with no legs",
+            "An egg with wings"
+          ],
+          "answer": 0,
+          "explanation": "It looks like its parents, but smaller and almost always without wings.",
+          "art": "ninfa"
+        },
+        {
+          "id": "u2l4e4",
+          "type": "choice",
+          "prompt": "How does a nymph grow?",
+          "options": [
+            "By shedding its exoskeleton",
+            "By eating leaves from another plant",
+            "Inside a chrysalis"
+          ],
+          "answer": 0,
+          "explanation": "When it gets too small, it changes its exoskeleton: this is called molting.",
+          "art": "ninfa"
+        },
+        {
+          "id": "u2l4e5",
+          "type": "match",
+          "prompt": "Match each type of metamorphosis with what identifies it.",
+          "pairs": [
+            {
+              "left": "Complete",
+              "right": "Goes through a chrysalis or pupa"
+            },
+            {
+              "left": "Incomplete",
+              "right": "The young is a nymph"
+            }
+          ],
+          "explanation": "Complete: with a pupa. Incomplete: with a nymph."
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u2exam",
+    "title": "Unit challenge",
+    "art": "paquito",
+    "intro": "Another challenge! Ten mixed questions about insect life. If you pass, you open the next unit.",
+    "closing": "Now you know where insects live, how they find each other and how they grow! A forest ranger watches without disturbing.",
+    "exercises": [
+      {
+        "id": "u2x1",
+        "type": "choice",
+        "prompt": "Where can insects live?",
+        "options": [
+          "Only in gardens",
+          "Almost everywhere",
+          "Only in water"
+        ],
+        "answer": 1,
+        "explanation": "In almost every ecosystem."
+      },
+      {
+        "id": "u2x2",
+        "type": "match",
+        "prompt": "Match each insect with how it communicates.",
+        "pairs": [
+          {
+            "left": "Butterfly",
+            "right": "Its scent travels through the air"
+          },
+          {
+            "left": "Grasshopper",
+            "right": "Rubs its legs against its wings and sings"
+          },
+          {
+            "left": "Firefly (lightning bug)",
+            "right": "Makes flashes of light"
+          }
+        ],
+        "explanation": "Scent, music and light."
+      },
+      {
+        "id": "u2x3",
+        "type": "order",
+        "prompt": "Put the butterfly's life cycle in order.",
+        "steps": [
+          {
+            "art": "huevo",
+            "label": "Egg"
+          },
+          {
+            "art": "oruga",
+            "label": "Larva (caterpillar)"
+          },
+          {
+            "art": "crisalida",
+            "label": "Pupa (chrysalis)"
+          },
+          {
+            "art": "mariposa",
+            "label": "Adult butterfly"
+          }
+        ],
+        "explanation": "Egg, larva, pupa and adult."
+      },
+      {
+        "id": "u2x4",
+        "type": "choice",
+        "prompt": "What are the young called in incomplete metamorphosis?",
+        "options": [
+          "Caterpillar",
+          "Nymph",
+          "Pupa"
+        ],
+        "answer": 1,
+        "explanation": "Nymph."
+      },
+      {
+        "id": "u2x5",
+        "type": "fill",
+        "prompt": "Complete the sentence.",
+        "sentence": "Some insects live in ___ water like rivers and lakes.",
+        "bank": [
+          "fresh",
+          "frozen",
+          "dry"
+        ],
+        "answers": [
+          "fresh"
+        ],
+        "explanation": "Fresh water."
+      },
+      {
+        "id": "u2x6",
+        "type": "choice",
+        "prompt": "How does a male grasshopper \"sing\"?",
+        "options": [
+          "With its mouth",
+          "By rubbing its back legs against its wings",
+          "By hitting the ground"
+        ],
+        "answer": 1,
+        "explanation": "It rubs its legs and wings.",
+        "art": "saltamontes"
+      },
+      {
+        "id": "u2x7",
+        "type": "order",
+        "prompt": "Put the grasshopper's life cycle in order.",
+        "steps": [
+          {
+            "art": "huevo",
+            "label": "Egg"
+          },
+          {
+            "art": "ninfa",
+            "label": "Nymph"
+          },
+          {
+            "art": "saltamontes",
+            "label": "Adult grasshopper"
+          }
+        ],
+        "explanation": "Egg, nymph and adult."
+      },
+      {
+        "id": "u2x8",
+        "type": "choice",
+        "prompt": "Inside the chrysalis, the insect...",
+        "options": [
+          "Is transforming",
+          "Is asleep forever",
+          "Is eating leaves"
+        ],
+        "answer": 0,
+        "explanation": "It changes from larva to adult.",
+        "art": "crisalida"
+      },
+      {
+        "id": "u2x9",
+        "type": "choice",
+        "prompt": "Most insects start life as...",
+        "options": [
+          "Egg",
+          "A small adult",
+          "A chrysalis"
+        ],
+        "answer": 0,
+        "explanation": "Egg."
+      },
+      {
+        "id": "u2x10",
+        "type": "choice",
+        "prompt": "How does a nymph grow?",
+        "options": [
+          "By shedding its exoskeleton",
+          "Inside a chrysalis"
+        ],
+        "answer": 0,
+        "explanation": "By molting.",
+        "art": "ninfa"
+      }
+    ]
+  }
+}

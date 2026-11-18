@@ -1,0 +1,128 @@
+{
+  "abeja": {
+    "author": "Sequoia Janirella Wrens",
+    "file": "photo_abeja.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/33059755",
+    "source": "iNaturalist",
+    "taxon": "Apis mellifera"
+  },
+  "chinche": {
+    "author": "Jacobo Krauel",
+    "file": "photo_chinche.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/124110715",
+    "source": "iNaturalist",
+    "taxon": "Halyomorpha halys"
+  },
+  "crisalida": {
+    "author": "Erika Mitchell",
+    "file": "photo_crisalida.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/16780601",
+    "source": "iNaturalist",
+    "taxon": "Danaus plexippus"
+  },
+  "escarabajo": {
+    "author": "Stephen Snow",
+    "file": "photo_escarabajo.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/194248995",
+    "source": "iNaturalist",
+    "taxon": "Anoplognathus viriditarsis"
+  },
+  "hormiga": {
+    "author": "Lyn Roueche",
+    "file": "photo_hormiga.jpg",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "observation": "https://www.inaturalist.org/observations/124844189",
+    "source": "iNaturalist",
+    "taxon": "Polyergus longicornis"
+  },
+  "huevo": {
+    "author": "Mariko",
+    "file": "photo_huevo.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/126240159",
+    "source": "iNaturalist",
+    "taxon": "Danaus plexippus"
+  },
+  "libelula": {
+    "author": "Denis Doucet",
+    "file": "photo_libelula.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "http://www.inaturalist.org/observations/1887328",
+    "source": "iNaturalist",
+    "taxon": "Celithemis elisa"
+  },
+  "luciernaga": {
+    "author": "Philipp salzgeber",
+    "file": "photo_luciernaga.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/50474552",
+    "source": "iNaturalist",
+    "taxon": "Lampyris noctiluca"
+  },
+  "mariposa": {
+    "author": "colleendieter",
+    "file": "photo_mariposa.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/46927508",
+    "source": "iNaturalist",
+    "taxon": "Danaus plexippus"
+  },
+  "mariquita": {
+    "author": "Alexander Viduetsky",
+    "file": "photo_mariquita.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/35548045",
+    "source": "iNaturalist",
+    "taxon": "Coccinella septempunctata"
+  },
+  "mosca": {
+    "author": "RAP",
+    "file": "photo_mosca.jpg",
+    "license": "CC BY",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "observation": "https://www.inaturalist.org/observations/21355374",
+    "source": "iNaturalist",
+    "taxon": "Toxomerus mosaicus"
+  },
+  "ninfa": {
+    "author": "Michelle W. （鍾偉瑋）",
+    "file": "photo_ninfa.jpg",
+    "license": "CC BY",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "observation": "https://www.inaturalist.org/observations/20169754",
+    "source": "iNaturalist",
+    "taxon": "Chortophaga viridifasciata"
+  },
+  "oruga": {
+    "author": "burkinstocks",
+    "file": "photo_oruga.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/58517597",
+    "source": "iNaturalist",
+    "taxon": "Danaus plexippus"
+  },
+  "saltamontes": {
+    "author": "Donna Pomeroy",
+    "file": "photo_saltamontes.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "http://www.inaturalist.org/observations/4097562",
+    "source": "iNaturalist",
+    "taxon": "Melanoplus femurrubrum"
+  }
+}

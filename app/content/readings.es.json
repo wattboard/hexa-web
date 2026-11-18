@@ -1,0 +1,294 @@
+{
+ "u1l1": {
+  "text": "Los insectos son animales pequeños con algo que los distingue: tienen seis patas, es decir, tres pares. Por fuera tienen un esqueleto duro, como una armadura, que se llama exoesqueleto y está hecho de quitina. Las arañas tienen ocho patas y los ciempiés muchísimas, así que no son insectos. Casi todos los insectos tienen alas, pero algunos no tienen ninguna.",
+  "pictures": [
+   {
+    "art": "saltamontes",
+    "label": "Insecto: 6 patas"
+   },
+   {
+    "art": "arana",
+    "label": "Araña: 8 patas, no es insecto"
+   },
+   {
+    "art": "ciempies",
+    "label": "Ciempiés: muchas patas, no es insecto"
+   }
+  ]
+ },
+ "u1l2": {
+  "text": "El cuerpo de un insecto tiene tres partes: cabeza, tórax y abdomen. En la cabeza están las antenas, los ojos y la boca: sirve para sentir y comer. Del tórax, la parte del medio, salen las patas por abajo y las alas por arriba. En el abdomen, la parte de atrás, están el corazón y la digestión.",
+  "pictures": [
+   {
+    "art": "hormiga",
+    "label": "Cabeza, tórax y abdomen"
+   },
+   {
+    "art": "abeja",
+    "label": "También tiene tres partes"
+   }
+  ]
+ },
+ "u1l3": {
+  "text": "Todos los insectos tienen tres pares de patas: seis en total, y todas salen del tórax. Las alas también salen del tórax, por la parte de arriba. Lo normal es tener dos pares de alas, pero algunos insectos tienen un solo par y otros no tienen alas.",
+  "pictures": [
+   {
+    "art": "mariposa",
+    "label": "Dos pares de alas"
+   },
+   {
+    "art": "mosca",
+    "label": "Un solo par de alas"
+   },
+   {
+    "art": "hormiga",
+    "label": "Obrera: sin alas"
+   }
+  ]
+ },
+ "u1l4": {
+  "text": "Los insectos sienten el mundo de otra manera. Con las antenas huelen olores muy suaves en el aire. Para ellos, los olores y sabores son lo más importante: les dicen dónde hay comida y quién es otro insecto. Sus ojos tienen muchas lentes y ven menos que nosotros, pero captan muy bien el movimiento. Muchos oyen con oídos que tienen en el abdomen, las alas o las patas, y sienten con pelitos.",
+  "pictures": [
+   {
+    "art": "mariposa",
+    "label": "Antenas para oler"
+   },
+   {
+    "art": "mosca",
+    "label": "Ojos de muchas lentes"
+   },
+   {
+    "art": "saltamontes",
+    "label": "Oye con el abdomen"
+   }
+  ]
+ },
+ "u1l5": {
+  "text": "La boca de un insecto se llama aparato bucal y cambia según lo que come. El masticador tiene mandíbulas para cortar y morder, como el del saltamontes que come hojas. El chupador es un tubo para beber líquidos, como el de la mariposa que bebe néctar. El perforador-chupador pincha y succiona, como el del mosquito: pica para comer, no para atacarte.",
+  "pictures": [
+   {
+    "art": "cabeza_saltamontes",
+    "label": "Masticador"
+   },
+   {
+    "art": "cabeza_mariposa",
+    "label": "Chupador"
+   },
+   {
+    "art": "cabeza_mosquito",
+    "label": "Perforador-\nchupador"
+   }
+  ]
+ },
+ "u2l1": {
+  "text": "Hay insectos en casi todos los lugares: desiertos, bosques, ríos y hasta montañas nevadas. Pueden vivir en tantos sitios porque se adaptan muy bien, son pequeños y muchos pueden volar. Abundan donde hay vegetación verde y frondosa, porque allí encuentran hojas, semillas, frutas y néctar. Algunos viven en el agua dulce y solo salen cuando necesitan respirar.",
+  "pictures": [
+   {
+    "art": "hoja",
+    "label": "Plantas: comida y refugio"
+   },
+   {
+    "art": "libelula",
+    "label": "Junto al agua"
+   },
+   {
+    "art": "hormiga",
+    "label": "Bajo tierra"
+   }
+  ]
+ },
+ "u2l2": {
+  "text": "Los insectos viven poco tiempo, así que se reproducen rápido. Para encontrar pareja cada uno tiene su truco. Las luciérnagas se llaman con destellos de luz. El saltamontes macho «canta» frotando sus patas traseras contra las alas. Las mariposas hembra sueltan un aroma, y los machos siguen ese rastro en el aire.",
+  "pictures": [
+   {
+    "art": "luciernaga",
+    "label": "Se llama con luz"
+   },
+   {
+    "art": "saltamontes",
+    "label": "Canta con las patas"
+   }
+  ]
+ },
+ "u2l3": {
+  "text": "Casi todos los insectos empiezan su vida como un huevo. En la metamorfosis completa hay cuatro etapas: huevo, larva, pupa y adulto. La larva de la mariposa es la oruga. Luego se encierra en una crisálida, que también se llama pupa, y allí se transforma. Pasar de larva a adulto puede tardar desde varias semanas hasta años.",
+  "pictures": [
+   {
+    "art": "huevo",
+    "label": "1. Huevo"
+   },
+   {
+    "art": "oruga",
+    "label": "2. Larva (oruga)"
+   },
+   {
+    "art": "crisalida",
+    "label": "3. Pupa (crisálida)"
+   },
+   {
+    "art": "mariposa",
+    "label": "4. Adulto"
+   }
+  ]
+ },
+ "u2l4": {
+  "text": "En la metamorfosis incompleta no hay pupa ni crisálida: las etapas son huevo, ninfa y adulto. La cría se llama ninfa y es como una versión en miniatura de sus padres, casi siempre sin alas. Para crecer, la ninfa cambia su exoesqueleto cuando se le queda pequeño: eso se llama muda. Así crece, por ejemplo, el saltamontes.",
+  "pictures": [
+   {
+    "art": "huevo",
+    "label": "1. Huevo"
+   },
+   {
+    "art": "ninfa",
+    "label": "2. Ninfa"
+   },
+   {
+    "art": "saltamontes",
+    "label": "3. Adulto"
+   }
+  ]
+ },
+ "u3l1": {
+  "text": "Las mariposas y las polillas son lepidópteros, que quiere decir «alas con escamas»: sus alas están cubiertas de escamas diminutas de colores. De adultas tienen una trompa enrollada que se estira como una pajita para chupar néctar. Las antenas ayudan a distinguirlas: en las mariposas acaban en una bolita y en las polillas suelen parecer plumas o hilos. Tienen metamorfosis completa, polinizan flores y sirven de alimento a los pájaros.",
+  "pictures": [
+   {
+    "art": "mariposa",
+    "label": "Adulta: alas con escamas"
+   },
+   {
+    "art": "oruga",
+    "label": "Su larva: la oruga"
+   }
+  ]
+ },
+ "u3l2": {
+  "text": "Los escarabajos, las mariquitas y las luciérnagas son coleópteros, que quiere decir «alas en estuche». Sus alas de delante son duras y se llaman élitros: protegen, como un estuche, las alas finas que usan para volar. Tienen boca masticadora para morder hojas, madera o pequeñas presas. Es el grupo de animales con más especies del mundo, y muchos son recicladores de la naturaleza.",
+  "pictures": [
+   {
+    "art": "escarabajo",
+    "label": "Escarabajo"
+   },
+   {
+    "art": "mariquita",
+    "label": "Mariquita"
+   },
+   {
+    "art": "luciernaga",
+    "label": "Luciérnaga"
+   }
+  ]
+ },
+ "u3l3": {
+  "text": "Las abejas, las avispas y las hormigas son himenópteros, que quiere decir «alas de membrana». Las abejas tienen dos pares de alas finas, y las hormigas son primas suyas. Muchos viven en grupo y se reparten el trabajo. Las abejas polinizan las flores, y gracias a eso tenemos frutas. Una abeja solo pica para defenderse o defender su colmena: si vuela cerca, quédate quieto y tranquilo.",
+  "pictures": [
+   {
+    "art": "abeja",
+    "label": "Abeja"
+   },
+   {
+    "art": "hormiga",
+    "label": "Hormiga"
+   }
+  ]
+ },
+ "u3l4": {
+  "text": "Las libélulas y los caballitos del diablo son odonatos. Tienen cuatro alas largas, estrechas y transparentes, con nervios como una red, y las mueven por separado: por eso vuelan tan bien. Son cazadoras y atrapan mosquitos al vuelo, pero no pican a las personas. Sus ninfas crecen bajo el agua, y si en un río hay muchas libélulas, el agua está limpia.",
+  "pictures": [
+   {
+    "art": "libelula",
+    "label": "Libélula"
+   }
+  ]
+ },
+ "u3l5": {
+  "text": "Los saltamontes, los grillos y las langostas son ortópteros, que quiere decir «alas rectas». Sus patas traseras son grandes, como resortes, para saltar. Tienen boca masticadora para morder hojas y crecen con metamorfosis incompleta: huevo, ninfa y adulto. Son alimento de pájaros, ranas y lagartijas.",
+  "pictures": [
+   {
+    "art": "saltamontes",
+    "label": "Saltamontes"
+   }
+  ]
+ },
+ "u3l6": {
+  "text": "Las chinches, las cigarras y los pulgones son hemípteros, que quiere decir «media ala»: sus alas de delante son mitad duras y mitad finas. Su boca es como una aguja para pinchar las plantas y chupar su jugo. Muchas chinches sueltan un olor fuerte para defenderse, y la cigarra macho canta muy fuerte en verano. Si ves una chinche, mírala sin tocarla.",
+  "pictures": [
+   {
+    "art": "chinche",
+    "label": "Chinche"
+   }
+  ]
+ },
+ "u3l7": {
+  "text": "Las moscas y los mosquitos son dípteros, que quiere decir «dos alas»: tienen un solo par de alas. Sus larvas no tienen patas. Tienen mala fama, pero muchas moscas hacen un trabajo importante: descomponen restos y limpian la naturaleza, y algunas también polinizan flores.",
+  "pictures": [
+   {
+    "art": "mosca",
+    "label": "Mosca"
+   },
+   {
+    "art": "mosquito",
+    "label": "Mosquito"
+   }
+  ]
+ },
+ "u4l1": {
+  "text": "Los insectos nos ayudan mucho. Polinizar es llevar el polen de una flor a otra para que haya frutos y semillas, y eso lo hacen las abejas, las mariposas y muchas moscas. Otros, como los escarabajos, son recicladores: convierten los restos en tierra fértil. Si desaparecieran los insectos faltarían frutas y muchos pájaros pasarían hambre.",
+  "pictures": [
+   {
+    "art": "abeja",
+    "label": "Poliniza"
+   },
+   {
+    "art": "mariposa",
+    "label": "Poliniza"
+   },
+   {
+    "art": "escarabajo",
+    "label": "Recicla"
+   }
+  ]
+ },
+ "u4l2": {
+  "text": "Una plaga es cuando hay muchísimos insectos de una misma clase dañando cultivos o comida, como los pulgones o los gorgojos. Si echamos insecticida a todo, también mueren las abejas, las mariquitas y otros que nos ayudan. Es mejor el control biológico: usar a sus enemigos naturales, como la mariquita, que se come cientos de pulgones. Y guardar la comida en frascos bien cerrados evita plagas sin venenos.",
+  "pictures": [
+   {
+    "art": "mariquita",
+    "label": "Se come los pulgones"
+   }
+  ]
+ },
+ "u4l3": {
+  "text": "Unos pocos insectos pueden picar o transmitir enfermedades. No son malvados: hacen lo que necesitan para vivir. Solo pica la hembra del mosquito, porque necesita sangre para poner sus huevos, y los pone en agua quieta: por eso hay que vaciar cubos, llantas y floreros. Si te pica una abeja y se te hincha mucho o te cuesta respirar, avisa enseguida a un adulto. Las chinches que pueden enfermar no se tocan: si ves una en casa, avisa a un adulto.",
+  "pictures": [
+   {
+    "art": "mosquito",
+    "label": "Solo pica la hembra"
+   },
+   {
+    "art": "abeja",
+    "label": "Puede picar"
+   },
+   {
+    "art": "chinche",
+    "label": "No se toca"
+   }
+  ]
+ },
+ "u4l4": {
+  "text": "Hoy repasas todo. Hay insectos inofensivos, como la mariposa, la mariquita o la libélula, que no pica y come mosquitos. Otros pueden ser perjudiciales, es decir, pueden dañar cultivos o comida cuando son muchísimos, como la langosta o el gorgojo. Y con otros conviene tener cuidado porque pueden picar o enfermar, como el mosquito, la abeja o la chinche besucona. Un buen guardabosques los observa, los respeta y se protege sin exterminarlos.",
+  "pictures": [
+   {
+    "art": "mariposa",
+    "label": "Inofensiva"
+   },
+   {
+    "art": "libelula",
+    "label": "Inofensiva"
+   },
+   {
+    "art": "mosquito",
+    "label": "Con cuidado"
+   }
+  ]
+ }
+}
