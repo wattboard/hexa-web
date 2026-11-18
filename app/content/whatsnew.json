@@ -1,16 +1,36 @@
 {
  "_info": "Fuente única de novedades: la usan la pantalla «Novedades» de iOS y Android y las notas de TestFlight y Google Play (scripts/release_notes.py). En cada build con cambios para quien prueba: reescribir «news» con lo de ESE build, añadir a «features» lo que pase a ser parte fija de la app y subir «version» (la pantalla vuelve a salir una vez). Iconos: music, book, chat, map, camera, album, people, pictures, mouth, bravery, notebook, computer.",
- "version": 5,
+ "version": 6,
  "news": [
   {
-   "icon": "computer",
-   "es": "Hexa también en el ordenador: ábrela en el navegador o instálala desde wattboard.github.io/hexa-web/app. Lo explica la opción «Hexa en el ordenador» del menú de tu perfil.",
-   "en": "Hexa on computers too: open it in the browser or install it from wattboard.github.io/hexa-web/app. The “Hexa on a computer” option in your profile menu explains how."
+   "icon": "map",
+   "es": "Recorrido guiado: dónde está cada cosa («Ver el recorrido» en el menú).",
+   "en": "Guided tour: where everything is (“Take the tour” in the menu)."
   },
   {
-   "icon": "computer",
-   "es": "En un Mac con chip de Apple también se puede instalar desde TestFlight.",
-   "en": "On a Mac with Apple silicon it can also be installed from TestFlight."
+   "icon": "bravery",
+   "es": "Medallas por unidad y diploma final.",
+   "en": "Medals for each unit and a final diploma."
+  },
+  {
+   "icon": "album",
+   "es": "Mi mariposario: cría tu mariposa con el polen y decóralo.",
+   "en": "My butterfly garden: raise your butterfly with pollen and decorate it."
+  },
+  {
+   "icon": "book",
+   "es": "Al fallar ves la respuesta correcta y repites solo lo fallado.",
+   "en": "When you miss, you see the right answer and retry only what you missed."
+  },
+  {
+   "icon": "people",
+   "es": "Modo docente: la clase en un archivo y vista de la clase.",
+   "en": "Teacher mode: the class in a file and a class overview."
+  },
+  {
+   "icon": "pictures",
+   "es": "Dibujos, fotos y contenido revisados con la beta.",
+   "en": "Drawings, photos and content revised with beta feedback."
   }
  ],
  "features": [
@@ -28,6 +48,16 @@
    "icon": "book",
    "es": "«Antes de empezar»: una lectura corta con dibujos al principio de cada lección.",
    "en": "“Before you start”: a short reading with pictures at the start of each lesson."
+  },
+  {
+   "icon": "album",
+   "es": "Mi mariposario con mascota: el polen sirve para criarla y decorarlo.",
+   "en": "My butterfly garden with a pet: pollen raises it and decorates the garden."
+  },
+  {
+   "icon": "bravery",
+   "es": "Medallas por unidad y diploma final.",
+   "en": "Medals for each unit and a final diploma."
   },
   {
    "icon": "camera",

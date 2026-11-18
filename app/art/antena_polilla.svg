@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<path d="M40 200 Q40 150 100 150 Q160 150 160 200 Z" fill="#8A7A66" stroke="#25332C" stroke-width="4"/>
+<ellipse cx="66" cy="172" rx="14" ry="12" fill="#25332C"/><ellipse cx="134" cy="172" rx="14" ry="12" fill="#25332C"/>
+<g stroke="#25332C" stroke-linecap="round" fill="none">
+<path d="M88 152 Q76 90 50 26" stroke-width="5"/>
+<path d="M112 152 Q124 90 150 26" stroke-width="5"/>
+<g stroke-width="3">
+<path d="M85 140 l-18 -6 M85 140 l14 -10 M82 126 l-20 -6 M82 126 l15 -11 M79 112 l-21 -5 M79 112 l15 -12 M75 98 l-21 -4 M75 98 l15 -13 M71 84 l-20 -3 M71 84 l14 -14 M66 70 l-18 -2 M66 70 l12 -14 M61 57 l-15 -1 M61 57 l10 -13 M56 44 l-11 0 M56 44 l7 -11"/>
+<path d="M115 140 l18 -6 M115 140 l-14 -10 M118 126 l20 -6 M118 126 l-15 -11 M121 112 l21 -5 M121 112 l-15 -12 M125 98 l21 -4 M125 98 l-15 -13 M129 84 l20 -3 M129 84 l-14 -14 M134 70 l18 -2 M134 70 l-12 -14 M139 57 l15 -1 M139 57 l-10 -13 M144 44 l11 0 M144 44 l-7 -11"/>
+</g></g>
+</svg>

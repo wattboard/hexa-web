@@ -47,11 +47,11 @@
   ]
  },
  "u1l4": {
-  "text": "Los insectos sienten el mundo de otra manera. Con las antenas huelen olores muy suaves en el aire. Para ellos, los olores y sabores son lo más importante: les dicen dónde hay comida y quién es otro insecto. Sus ojos tienen muchas lentes y ven menos que nosotros, pero captan muy bien el movimiento. Muchos oyen con oídos que tienen en el abdomen, las alas o las patas, y sienten con pelitos.",
+  "text": "Los insectos sienten el mundo de otra manera. Con las antenas captan olores muy suaves en el aire. Para muchos insectos, los olores y sabores son muy importantes: les dicen dónde hay comida y quién es otro insecto. Sus ojos se llaman ojos compuestos y tienen muchas lentes y ven menos que nosotros, pero captan muy bien el movimiento, y las abejas ven colores que nosotros no vemos. Algunos oyen con oídos que tienen en las patas, el abdomen o las alas, como el grillo; muchos otros sienten el sonido con pelitos.",
   "pictures": [
    {
     "art": "mariposa",
-    "label": "Antenas para oler"
+    "label": "Antenas que captan olores"
    },
    {
     "art": "mosca",
@@ -98,7 +98,7 @@
   ]
  },
  "u2l2": {
-  "text": "Los insectos viven poco tiempo, así que se reproducen rápido. Para encontrar pareja cada uno tiene su truco. Las luciérnagas se llaman con destellos de luz. El saltamontes macho «canta» frotando sus patas traseras contra las alas. Las mariposas hembra sueltan un aroma, y los machos siguen ese rastro en el aire.",
+  "text": "Los insectos viven poco tiempo, así que se reproducen rápido. Para encontrar pareja cada uno tiene su truco. Las luciérnagas se llaman con destellos de luz. El saltamontes macho «canta» frotando sus patas traseras contra las alas. Las mariposas se buscan con la vista, por sus colores, y las polillas hembra sueltan un aroma que los machos siguen en el aire. Las abejas hacen una danza para avisar a sus compañeras dónde hay flores, y algunos escarabajos macho luchan con sus cuernos.",
   "pictures": [
    {
     "art": "luciernaga",
@@ -149,11 +149,27 @@
   ]
  },
  "u3l1": {
-  "text": "Las mariposas y las polillas son lepidópteros, que quiere decir «alas con escamas»: sus alas están cubiertas de escamas diminutas de colores. De adultas tienen una trompa enrollada que se estira como una pajita para chupar néctar. Las antenas ayudan a distinguirlas: en las mariposas acaban en una bolita y en las polillas suelen parecer plumas o hilos. Tienen metamorfosis completa, polinizan flores y sirven de alimento a los pájaros.",
+  "text": "Las mariposas y las polillas son lepidópteros, que quiere decir «alas con escamas»: sus alas están cubiertas de escamas diminutas de colores. De adultas tienen una trompa enrollada que se estira como una pajita para chupar néctar. Las antenas ayudan a distinguirlas: en las mariposas acaban en una bolita y en las polillas suelen parecer plumas o hilos. Sus orugas tienen mandíbulas para masticar hojas. Tienen metamorfosis completa, polinizan flores (llevan el polen de una flor a otra) y sirven de alimento a los pájaros.",
   "pictures": [
    {
     "art": "mariposa",
-    "label": "Adulta: alas con escamas"
+    "label": "Adulta"
+   },
+   {
+    "art": "ala_escamas",
+    "label": "Escamas del ala, con lupa"
+   },
+   {
+    "art": "cabeza_mariposa",
+    "label": "Trompa como una pajita"
+   },
+   {
+    "art": "antena_mariposa",
+    "label": "Mariposa: antena con bolita"
+   },
+   {
+    "art": "antena_polilla",
+    "label": "Polilla: antena como pluma"
    },
    {
     "art": "oruga",
@@ -179,7 +195,7 @@
   ]
  },
  "u3l3": {
-  "text": "Las abejas, las avispas y las hormigas son himenópteros, que quiere decir «alas de membrana». Las abejas tienen dos pares de alas finas, y las hormigas son primas suyas. Muchos viven en grupo y se reparten el trabajo. Las abejas polinizan las flores, y gracias a eso tenemos frutas. Una abeja solo pica para defenderse o defender su colmena: si vuela cerca, quédate quieto y tranquilo.",
+  "text": "Las abejas, las avispas y las hormigas son himenópteros, que quiere decir «alas de membrana». Membrana quiere decir una piel finita y transparente. Las abejas tienen dos pares de alas así, y las hormigas son primas suyas. Muchos viven en grupo y se reparten el trabajo. Las abejas polinizan las flores, y gracias a eso tenemos frutas. Las avispas cazan otros insectos que dañan las plantas y también polinizan. Una abeja o una avispa solo pica para defenderse o defender su nido: si vuela cerca, quédate quieto y tranquilo, y se irá.",
   "pictures": [
    {
     "art": "abeja",
@@ -188,6 +204,10 @@
    {
     "art": "hormiga",
     "label": "Hormiga"
+   },
+   {
+    "art": "ala_membrana",
+    "label": "Ala de membrana, transparente"
    }
   ]
  },
@@ -210,11 +230,19 @@
   ]
  },
  "u3l6": {
-  "text": "Las chinches, las cigarras y los pulgones son hemípteros, que quiere decir «media ala»: sus alas de delante son mitad duras y mitad finas. Su boca es como una aguja para pinchar las plantas y chupar su jugo. Muchas chinches sueltan un olor fuerte para defenderse, y la cigarra macho canta muy fuerte en verano. Si ves una chinche, mírala sin tocarla.",
+  "text": "Las chinches, las cigarras y los pulgones son hemípteros, que quiere decir «media ala», porque en las chinches las alas de delante son mitad duras y mitad finas. Lo que todos comparten es la boca: es como una aguja para pinchar las plantas y chupar su jugo, la savia. Muchas chinches sueltan un olor fuerte para defenderse, y la cigarra macho canta muy fuerte en los días de calor. Si ves una chinche, mírala sin tocarla.",
   "pictures": [
    {
     "art": "chinche",
     "label": "Chinche"
+   },
+   {
+    "art": "cigarra",
+    "label": "Cigarra"
+   },
+   {
+    "art": "pulgon",
+    "label": "Pulgón"
    }
   ]
  },
@@ -269,13 +297,13 @@
     "label": "Puede picar"
    },
    {
-    "art": "chinche",
-    "label": "No se toca"
+    "art": "chipo",
+    "label": "Chipo: no se toca"
    }
   ]
  },
  "u4l4": {
-  "text": "Hoy repasas todo. Hay insectos inofensivos, como la mariposa, la mariquita o la libélula, que no pica y come mosquitos. Otros pueden ser perjudiciales, es decir, pueden dañar cultivos o comida cuando son muchísimos, como la langosta o el gorgojo. Y con otros conviene tener cuidado porque pueden picar o enfermar, como el mosquito, la abeja o la chinche besucona. Un buen guardabosques los observa, los respeta y se protege sin exterminarlos.",
+  "text": "Hoy repasas todo. Hay insectos inofensivos, como la mariposa, la mariquita o la libélula, que no pica y come mosquitos. Otros pueden ser perjudiciales, es decir, pueden dañar cultivos o comida cuando son muchísimos, como la langosta o el gorgojo. Y con otros conviene tener cuidado porque pueden picar o enfermar, como el mosquito, la abeja o la chinche besucona. Un buen guardabosques los observa, los respeta y se protege sin acabar con ellos.",
   "pictures": [
    {
     "art": "mariposa",

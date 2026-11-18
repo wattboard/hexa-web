@@ -96,7 +96,7 @@
         {
           "id": "u1l1e5",
           "type": "choice",
-          "prompt": "Do all insects have wings?",
+          "prompt": "True or false? All insects have wings.",
           "options": [
             "True",
             "False"
@@ -264,7 +264,7 @@
         {
           "id": "u1l3e5",
           "type": "choice",
-          "prompt": "Do all insects have two pairs of wings?",
+          "prompt": "True or false? All insects have two pairs of wings.",
           "options": [
             "True",
             "False"
@@ -339,14 +339,14 @@
         {
           "id": "u1l4e5",
           "type": "choice",
-          "prompt": "Where do most insects have ears?",
+          "prompt": "Crickets hear with tiny ears. Where are they?",
           "options": [
-            "On the abdomen, wings or legs",
+            "On their front legs",
             "Only on the head",
             "They have no ears"
           ],
           "answer": 0,
-          "explanation": "They hear with ears on the abdomen, wings or legs, and find their way by sound."
+          "explanation": "Crickets have ears on their front legs. Other insects have them on the abdomen or wings, and many have no ears at all: they feel sound with tiny hairs."
         }
       ]
     },
@@ -532,7 +532,7 @@
           "The abdomen"
         ],
         "answer": 1,
-        "explanation": "The thorax."
+        "explanation": "The thorax is the middle part: the six legs and the wings come out of it, like branches from a trunk."
       },
       {
         "id": "u1x5",
@@ -564,13 +564,13 @@
       {
         "id": "u1x7",
         "type": "choice",
-        "prompt": "Do all insects have wings?",
+        "prompt": "True or false? All insects have wings.",
         "options": [
           "True",
           "False"
         ],
         "answer": 1,
-        "explanation": "Some have no wings."
+        "explanation": "False: almost all have wings, but some have none, like worker ants or fleas."
       },
       {
         "id": "u1x8",
@@ -602,7 +602,7 @@
           "Piercing-sucking"
         ],
         "answer": 1,
-        "explanation": "Sucking.",
+        "explanation": "Sucking: a butterfly's tongue is a long tube, like a straw, that curls up when it isn't drinking.",
         "art": "mariposa"
       },
       {

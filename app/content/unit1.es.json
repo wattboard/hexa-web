@@ -96,7 +96,7 @@
         {
           "id": "u1l1e5",
           "type": "choice",
-          "prompt": "¿Todos los insectos tienen alas?",
+          "prompt": "¿Verdadero o falso? Todos los insectos tienen alas.",
           "options": [
             "Verdadero",
             "Falso"
@@ -167,7 +167,7 @@
         {
           "id": "u1l2e4",
           "type": "match",
-          "prompt": "Une cada parte con lo que tiene.",
+          "prompt": "Forma parejas: cada parte con lo que tiene.",
           "pairs": [
             {
               "left": "Cabeza",
@@ -264,7 +264,7 @@
         {
           "id": "u1l3e5",
           "type": "choice",
-          "prompt": "¿Todos los insectos tienen dos pares de alas?",
+          "prompt": "¿Verdadero o falso? Todos los insectos tienen dos pares de alas.",
           "options": [
             "Verdadero",
             "Falso"
@@ -279,12 +279,12 @@
       "title": "Antenas y sentidos",
       "art": "mariposa",
       "intro": "Los insectos perciben el mundo de una forma muy distinta a la nuestra. ¡Vamos a descubrirla!",
-      "closing": "Los insectos huelen con las antenas y sienten con todo el cuerpo. Por eso una antena que se mueve no es una amenaza: es un bicho explorando lo que hay a su alrededor.",
+      "closing": "Los insectos captan los olores con las antenas y sienten con todo el cuerpo. Por eso una antena que se mueve no es una amenaza: es un bicho explorando lo que hay a su alrededor.",
       "exercises": [
         {
           "id": "u1l4e1",
           "type": "match",
-          "prompt": "Une cada sentido con lo que hace.",
+          "prompt": "Forma parejas: cada sentido con lo que hace.",
           "pairs": [
             {
               "left": "Antenas",
@@ -299,7 +299,7 @@
               "right": "Tiene muchas lentes, como miniojos"
             }
           ],
-          "explanation": "Antenas para oler, pelos para oír y sentir, y ojos con muchas lentes."
+          "explanation": "Antenas que captan olores, pelos para oír y sentir, y ojos con muchas lentes."
         },
         {
           "id": "u1l4e2",
@@ -339,14 +339,14 @@
         {
           "id": "u1l4e5",
           "type": "choice",
-          "prompt": "¿Dónde tiene oídos la mayoría de los insectos?",
+          "prompt": "El grillo oye con unos oídos muy pequeños. ¿Dónde los tiene?",
           "options": [
-            "En el abdomen, las alas o las patas",
+            "En las patas de delante",
             "Solo en la cabeza",
             "No tienen oídos"
           ],
           "answer": 0,
-          "explanation": "Oyen con oídos en el abdomen, las alas o las patas, y se guían por el sonido."
+          "explanation": "El grillo tiene los oídos en las patas de delante. Otros insectos los tienen en el abdomen o en las alas, y muchos no tienen oídos: sienten el sonido con pelitos."
         }
       ]
     },
@@ -360,7 +360,7 @@
         {
           "id": "u1l5e1",
           "type": "match",
-          "prompt": "Une cada aparato bucal con cómo funciona.",
+          "prompt": "Forma parejas: cada aparato bucal con cómo funciona.",
           "pairs": [
             {
               "left": "Masticador",
@@ -532,7 +532,7 @@
           "El abdomen"
         ],
         "answer": 1,
-        "explanation": "El tórax."
+        "explanation": "El tórax es la parte del medio: de él salen las seis patas y las alas, como de un tronco salen las ramas."
       },
       {
         "id": "u1x5",
@@ -564,18 +564,18 @@
       {
         "id": "u1x7",
         "type": "choice",
-        "prompt": "¿Todos los insectos tienen alas?",
+        "prompt": "¿Verdadero o falso? Todos los insectos tienen alas.",
         "options": [
           "Verdadero",
           "Falso"
         ],
         "answer": 1,
-        "explanation": "Algunos no tienen alas."
+        "explanation": "Falso: casi todos tienen alas, pero algunos no tienen ninguna, como las hormigas obreras o las pulgas."
       },
       {
         "id": "u1x8",
         "type": "match",
-        "prompt": "Une cada aparato bucal con cómo funciona.",
+        "prompt": "Forma parejas: cada aparato bucal con cómo funciona.",
         "pairs": [
           {
             "left": "Masticador",
@@ -602,7 +602,7 @@
           "Perforador-chupador"
         ],
         "answer": 1,
-        "explanation": "Chupador.",
+        "explanation": "Chupador: la trompa de la mariposa es un tubo largo, como un pitillo, que se enrolla cuando no bebe.",
         "art": "mariposa"
       },
       {

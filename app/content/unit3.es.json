@@ -40,7 +40,7 @@
         {
           "id": "u3l1e3",
           "type": "match",
-          "prompt": "Une cada uno con lo que lo distingue.",
+          "prompt": "Forma parejas: cada uno con lo que lo distingue.",
           "pairs": [
             {
               "left": "Mariposa",
@@ -178,7 +178,7 @@
           "id": "u3l2e5",
           "type": "fill",
           "prompt": "Completa la frase.",
-          "sentence": "Los escarabajos ___ hojas, madera y restos, y así abonan la tierra.",
+          "sentence": "Los escarabajos ___ hojas, madera y restos, y así alimentan la tierra.",
           "bank": [
             "reciclan",
             "queman",
@@ -195,7 +195,7 @@
       "id": "u3l3",
       "title": "Himenópteros: abejas, avispas y hormigas",
       "art": "abeja",
-      "intro": "Himenóptero quiere decir «alas de membrana». Son las abejas, las avispas y las hormigas. Muchos viven en grupo y se reparten el trabajo.",
+      "intro": "Himenóptero quiere decir «alas de membrana», es decir, alas finitas y transparentes. Son las abejas, las avispas y las hormigas. Muchos viven en grupo y se reparten el trabajo.",
       "closing": "Las abejas polinizan gran parte de las frutas que comemos. Solo pican para defenderse: si estás tranquilo, siguen su camino.",
       "exercises": [
         {
@@ -290,7 +290,7 @@
       "title": "Odonatos: libélulas",
       "art": "libelula",
       "intro": "Odonato viene de «diente»: tienen una boca fuerte para atrapar presas. Son las libélulas y los caballitos del diablo.",
-      "closing": "Las libélulas comen muchísimos mosquitos y solo viven donde el agua está limpia. Si ves libélulas, ¡el agua de ese lugar está sana!",
+      "closing": "Las libélulas comen muchísimos zancudos y suelen vivir donde el agua está limpia. Si ves muchas libélulas, ¡suele ser buena señal!",
       "exercises": [
         {
           "id": "u3l4e1",
@@ -323,12 +323,12 @@
           "type": "choice",
           "prompt": "Si en un río hay muchas libélulas, ¿qué nos dice?",
           "options": [
-            "Que el agua está limpia",
+            "Que el agua suele estar limpia",
             "Que el agua está sucia",
             "Que va a llover"
           ],
           "answer": 0,
-          "explanation": "Las libélulas indican que el agua está limpia.",
+          "explanation": "Muchas libélulas suelen ser buena señal: sus ninfas necesitan agua limpia para crecer.",
           "art": "libelula"
         },
         {
@@ -394,7 +394,7 @@
         {
           "id": "u3l5e3",
           "type": "match",
-          "prompt": "Une cada uno con lo que lo distingue.",
+          "prompt": "Forma parejas: cada uno con lo que lo distingue.",
           "pairs": [
             {
               "left": "Saltamontes",
@@ -442,8 +442,8 @@
       "id": "u3l6",
       "title": "Hemípteros: chinches y cigarras",
       "art": "chinche",
-      "intro": "Hemíptero quiere decir «media ala»: sus alas de delante son mitad duras y mitad finas. Son las chinches, las cigarras y los pulgones.",
-      "closing": "Muchas chinches son inofensivas y algunas se comen otras plagas. Unas pocas pueden transmitir enfermedades, por eso las miramos sin tocar.",
+      "intro": "Hemíptero quiere decir «media ala», porque en las chinches las alas de delante son mitad duras y mitad finas. Son las chinches, las cigarras y los pulgones, y todos tienen la boca como una aguja.",
+      "closing": "Muchas chinches son inofensivas y algunas se comen otras plagas. Las miramos con calma y sin tocar: así ni las molestamos ni nos molestan.",
       "exercises": [
         {
           "id": "u3l6e1",
@@ -504,7 +504,7 @@
           "type": "choice",
           "prompt": "¿Qué es la cigarra?",
           "options": [
-            "Un hemíptero que canta muy fuerte en verano",
+            "Un hemíptero que canta muy fuerte en los días de calor",
             "Una mariposa",
             "Un escarabajo"
           ],
@@ -691,7 +691,7 @@
       {
         "id": "u3x3",
         "type": "match",
-        "prompt": "Une cada grupo con sus ejemplos.",
+        "prompt": "Forma parejas: cada grupo con sus ejemplos.",
         "pairs": [
           {
             "left": "Himenópteros",
@@ -722,7 +722,7 @@
           "Tres"
         ],
         "answer": 0,
-        "explanation": "Un solo par."
+        "explanation": "Un solo par: en lugar del segundo par tienen dos bolitas que les ayudan a mantener el equilibrio al volar."
       },
       {
         "id": "u3x5",
@@ -762,12 +762,12 @@
         "type": "choice",
         "prompt": "Si en un río hay muchas libélulas, ¿qué nos dice?",
         "options": [
-          "Que el agua está limpia",
+          "Que el agua suele estar limpia",
           "Que el agua está sucia",
           "Que va a llover"
         ],
         "answer": 0,
-        "explanation": "Agua limpia.",
+        "explanation": "Sus ninfas crecen en el agua y necesitan que esté limpia: muchas libélulas suelen ser buena señal.",
         "art": "libelula"
       },
       {

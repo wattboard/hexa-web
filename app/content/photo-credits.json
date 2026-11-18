@@ -8,6 +8,15 @@
     "source": "iNaturalist",
     "taxon": "Apis mellifera"
   },
+  "abeja_angelita": {
+    "author": "Claudio Martins de Souza",
+    "file": "photo_abeja_angelita.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/196956248",
+    "source": "iNaturalist",
+    "taxon": "Tetragonisca angustula"
+  },
   "chinche": {
     "author": "Jacobo Krauel",
     "file": "photo_chinche.jpg",
@@ -34,6 +43,15 @@
     "observation": "https://www.inaturalist.org/observations/194248995",
     "source": "iNaturalist",
     "taxon": "Anoplognathus viriditarsis"
+  },
+  "escarabajo_hercules": {
+    "author": "TOUROULT Julien",
+    "file": "photo_escarabajo_hercules.jpg",
+    "license": "CC BY",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "observation": "https://www.inaturalist.org/observations/12668360",
+    "source": "iNaturalist",
+    "taxon": "Dynastes occidentalis"
   },
   "hormiga": {
     "author": "Lyn Roueche",
@@ -89,6 +107,15 @@
     "source": "iNaturalist",
     "taxon": "Coccinella septempunctata"
   },
+  "morfo": {
+    "author": "Luis Trinchan",
+    "file": "photo_morfo.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/193331588",
+    "source": "iNaturalist",
+    "taxon": "Morpho helenor montezuma"
+  },
   "mosca": {
     "author": "RAP",
     "file": "photo_mosca.jpg",
@@ -97,6 +124,15 @@
     "observation": "https://www.inaturalist.org/observations/21355374",
     "source": "iNaturalist",
     "taxon": "Toxomerus mosaicus"
+  },
+  "mosquito": {
+    "author": "Thomas Shahan",
+    "file": "photo_mosquito.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/93915409",
+    "source": "iNaturalist",
+    "taxon": "Toxorhynchites rutilus septentrionalis"
   },
   "ninfa": {
     "author": "Michelle W. （鍾偉瑋）",
@@ -124,5 +160,14 @@
     "observation": "http://www.inaturalist.org/observations/4097562",
     "source": "iNaturalist",
     "taxon": "Melanoplus femurrubrum"
+  },
+  "santateresa": {
+    "author": "Glenda Walter",
+    "file": "photo_santateresa.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/147015177",
+    "source": "iNaturalist",
+    "taxon": "Inimia nat"
   }
 }

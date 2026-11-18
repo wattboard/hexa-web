@@ -2,7 +2,7 @@
   "id": "u4",
   "order": 4,
   "title": "¿Amigo o cuidado?",
-  "intro": "Casi todos los insectos son inofensivos y muchos nos ayudan. Unos pocos pueden ser plaga o picar. Vamos a aprender a convivir con todos, sin miedo y sin exterminar.",
+  "intro": "Casi todos los insectos son inofensivos y muchos nos ayudan. Unos pocos pueden ser plaga o picar. Vamos a aprender a convivir con todos, sin miedo y sin acabar con ellos.",
   "lessons": [
     {
       "id": "u4l1",
@@ -14,7 +14,7 @@
         {
           "id": "u4l1e1",
           "type": "match",
-          "prompt": "Une cada insecto con su trabajo.",
+          "prompt": "Forma parejas: cada insecto con su trabajo.",
           "pairs": [
             {
               "left": "Abeja",
@@ -114,7 +114,7 @@
       "title": "Las plagas y cómo controlarlas",
       "art": "saltamontes",
       "intro": "Algunos insectos, cuando son muchísimos, dañan cultivos o comida: son las plagas. ¿Cómo se controlan sin hacer daño a los demás?",
-      "closing": "Exterminar a todos los insectos mata también a los que nos ayudan. Es mejor el control biológico: dejar que sus enemigos naturales hagan el trabajo.",
+      "closing": "Acabar con todos los insectos mata también a los que nos ayudan. Es mejor el control biológico: dejar que sus enemigos naturales hagan el trabajo.",
       "exercises": [
         {
           "id": "u4l2e1",
@@ -131,7 +131,7 @@
         {
           "id": "u4l2e2",
           "type": "match",
-          "prompt": "Une cada plaga con lo que hace.",
+          "prompt": "Forma parejas: cada plaga con lo que hace.",
           "pairs": [
             {
               "left": "Langosta",
@@ -143,7 +143,7 @@
             },
             {
               "left": "Pulgón",
-              "right": "Chupa la savia de las plantas"
+              "right": "Chupa la savia (el jugo) de las plantas"
             }
           ],
           "explanation": "Son plaga solo cuando son muchísimos."
@@ -188,8 +188,8 @@
       "id": "u4l3",
       "title": "Los que pueden picar o enfermar",
       "art": "mosquito",
-      "intro": "Unos pocos insectos pueden picar o transmitir enfermedades, como algunos mosquitos y chinches. No son malvados: hacen lo que necesitan para vivir. Aprendamos a protegernos.",
-      "closing": "Protegerse es fácil: no dejar agua estancada, usar mosquitero y ropa larga, y avisar a un adulto si te pica algo. No hace falta matar a todos los insectos.",
+      "intro": "Unos pocos insectos pueden picar o transmitir enfermedades, como algunos zancudos y el chipo. No son malvados: hacen lo que necesitan para vivir. Aprendamos a protegernos.",
+      "closing": "Protegerse es fácil: no dejar agua estancada (quieta), usar mosquitero y ropa larga, y avisar a un adulto si te pica algo. No hace falta matar a todos los insectos.",
       "exercises": [
         {
           "id": "u4l3e1",
@@ -220,14 +220,14 @@
         {
           "id": "u4l3e3",
           "type": "choice",
-          "prompt": "¿Qué NO ayuda a protegerte de los mosquitos?",
+          "prompt": "¿Qué ayuda a que no nazcan zancudos cerca de tu casa?",
           "options": [
             "Usar mosquitero",
             "Vaciar el agua estancada",
-            "Dejar cubos con agua al aire libre"
+            "Dejar tobos con agua al aire libre"
           ],
-          "answer": 2,
-          "explanation": "El agua quieta es donde nacen los mosquitos.",
+          "answer": 1,
+          "explanation": "Vaciar el agua quieta: ahí ponen sus huevos los zancudos. Sin agua estancada, no nacen.",
           "art": "mosquito"
         },
         {
@@ -246,15 +246,15 @@
         {
           "id": "u4l3e5",
           "type": "choice",
-          "prompt": "Algunas chinches pueden transmitir enfermedades. ¿Qué es lo más seguro?",
+          "prompt": "El chipo (chinche besucona) puede transmitir una enfermedad. Si ves uno en casa, ¿qué es lo más seguro?",
           "options": [
-            "No tocarlas y avisar a un adulto si ves una en casa",
+            "No tocarlo y avisar a un adulto",
             "Agarrarlas con la mano",
             "Dejarlas en la cama"
           ],
           "answer": 0,
           "explanation": "Mirar sin tocar y avisar: así estás a salvo.",
-          "art": "chinche"
+          "art": "chipo"
         }
       ]
     },
@@ -361,19 +361,19 @@
               "bin": 1
             },
             {
-              "label": "Chinche besucona",
+              "label": "Chipo (chinche besucona)",
               "bin": 2,
-              "art": "chinche"
+              "art": "chipo"
             }
           ],
-          "explanation": "La chinche besucona puede transmitir una enfermedad: si ves una en casa, avisa a un adulto."
+          "explanation": "El chipo puede transmitir una enfermedad: si ves uno en casa, avisa a un adulto. Casi todas las demás chinches son inofensivas."
         },
         {
           "id": "u4l4e5",
           "type": "choice",
           "prompt": "¿Qué hace un buen guardabosques con los insectos?",
           "options": [
-            "Los observa, los respeta y se protege sin exterminarlos",
+            "Los observa, los respeta y se protege sin acabar con ellos",
             "Los mata a todos",
             "Les tiene miedo"
           ],
@@ -388,12 +388,12 @@
     "title": "Reto de la unidad",
     "art": "paquito",
     "intro": "¡Último reto! Si lo superas, terminas Hexa y podrás contarle a Paquito qué sientes ahora por los insectos.",
-    "closing": "¡Enhorabuena, guardabosques! Ya sabes que casi todos los insectos son amigos y cómo cuidarte de los pocos que pueden picar.",
+    "closing": "¡Felicitaciones, guardabosques! Ya sabes que casi todos los insectos son amigos y cómo cuidarte de los pocos que pueden picar.",
     "exercises": [
       {
         "id": "u4x1",
         "type": "match",
-        "prompt": "Une cada insecto con su trabajo.",
+        "prompt": "Forma parejas: cada insecto con su trabajo.",
         "pairs": [
           {
             "left": "Abeja",
@@ -420,7 +420,7 @@
           "Un insecto bonito"
         ],
         "answer": 0,
-        "explanation": "Muchísimos insectos de una clase."
+        "explanation": "Una plaga es cuando hay muchísimos insectos de una misma clase y dañan cultivos o comida. Un insecto solo no es una plaga."
       },
       {
         "id": "u4x3",
@@ -432,7 +432,7 @@
           "Quemar el jardín"
         ],
         "answer": 0,
-        "explanation": "Usar a sus enemigos naturales."
+        "explanation": "Usar a sus enemigos naturales, como la mariquita que se come los pulgones, sin veneno que dañe a las abejas."
       },
       {
         "id": "u4x4",
@@ -488,14 +488,14 @@
       {
         "id": "u4x6",
         "type": "choice",
-        "prompt": "¿Qué NO ayuda a protegerte de los mosquitos?",
+        "prompt": "¿Qué ayuda a que no nazcan zancudos cerca de tu casa?",
         "options": [
           "Usar mosquitero",
           "Vaciar el agua estancada",
-          "Dejar cubos con agua al aire libre"
+          "Dejar tobos con agua al aire libre"
         ],
-        "answer": 2,
-        "explanation": "Dejar agua quieta.",
+        "answer": 1,
+        "explanation": "Vaciar el agua quieta: ahí ponen sus huevos los zancudos. Sin agua estancada, no nacen.",
         "art": "mosquito"
       },
       {
@@ -522,7 +522,7 @@
         "answers": [
           "polinizan"
         ],
-        "explanation": "Polinizan."
+        "explanation": "Las abejas, las mariposas y muchos otros insectos llevan el polen de flor en flor, y así las plantas dan frutos."
       },
       {
         "id": "u4x9",
@@ -534,7 +534,7 @@
           "Me rasco fuerte"
         ],
         "answer": 0,
-        "explanation": "Avisar a un adulto.",
+        "explanation": "Avisar enseguida a un adulto: si se hincha mucho o cuesta respirar, hay que ir al médico.",
         "art": "abeja"
       },
       {
@@ -542,7 +542,7 @@
         "type": "choice",
         "prompt": "¿Qué hace un buen guardabosques con los insectos?",
         "options": [
-          "Los observa, los respeta y se protege sin exterminarlos",
+          "Los observa, los respeta y se protege sin acabar con ellos",
           "Los mata a todos",
           "Les tiene miedo"
         ],

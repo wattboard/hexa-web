@@ -47,11 +47,11 @@
   ]
  },
  "u1l4": {
-  "text": "Insects sense the world differently. With their antennae they smell very faint scents in the air. For them, smells and tastes matter most: they tell them where food is and who another insect is. Their eyes have many lenses and see less than ours, but they catch movement very well. Many hear with ears on their abdomen, wings or legs, and feel with tiny hairs.",
+  "text": "Insects sense the world differently. With their antennae they pick up very faint smells in the air. For many insects, smells and tastes matter a lot: they tell them where food is and who another insect is. Their eyes are called compound eyes and have many lenses and see less than ours, but they catch movement very well, and bees see colors we can't see. Some hear with ears on their legs, abdomen or wings, like crickets; many others feel sound with tiny hairs.",
   "pictures": [
    {
     "art": "mariposa",
-    "label": "Antennae to smell"
+    "label": "Antennae that pick up smells"
    },
    {
     "art": "mosca",
@@ -98,7 +98,7 @@
   ]
  },
  "u2l2": {
-  "text": "Insects live a short time, so they reproduce quickly. Each one has its own trick to find a mate. Fireflies call each other with flashes of light. Male grasshoppers “sing” by rubbing their back legs against their wings. Female butterflies give off a scent, and males follow that trail through the air.",
+  "text": "Insects live a short time, so they reproduce quickly. Each one has its own trick to find a mate. Fireflies call each other with flashes of light. Male grasshoppers “sing” by rubbing their back legs against their wings. Butterflies find each other by sight, by their colors, and female moths give off a scent that males follow through the air. Bees do a dance to tell their nestmates where the flowers are, and some male beetles fight with their horns.",
   "pictures": [
    {
     "art": "luciernaga",
@@ -149,11 +149,27 @@
   ]
  },
  "u3l1": {
-  "text": "Butterflies and moths are lepidopterans, which means “scaly wings”: their wings are covered with tiny colored scales. As adults they have a coiled proboscis that stretches like a straw to drink nectar. Antennae help tell them apart: butterflies' end in a little knob, while moths' usually look like feathers or threads. They have complete metamorphosis, pollinate flowers and are food for birds.",
+  "text": "Butterflies and moths are lepidopterans, which means “scaly wings”: their wings are covered with tiny colored scales. As adults they have a coiled proboscis that stretches like a straw to drink nectar. Antennae help tell them apart: butterflies' end in a little knob, while moths' usually look like feathers or threads. Their caterpillars have jaws to chew leaves. They have complete metamorphosis, pollinate flowers (carry pollen from one flower to another) and are food for birds.",
   "pictures": [
    {
     "art": "mariposa",
-    "label": "Adult: scaly wings"
+    "label": "Adult"
+   },
+   {
+    "art": "ala_escamas",
+    "label": "Wing scales, magnified"
+   },
+   {
+    "art": "cabeza_mariposa",
+    "label": "Tongue like a straw"
+   },
+   {
+    "art": "antena_mariposa",
+    "label": "Butterfly: knobbed antenna"
+   },
+   {
+    "art": "antena_polilla",
+    "label": "Moth: feathery antenna"
    },
    {
     "art": "oruga",
@@ -179,7 +195,7 @@
   ]
  },
  "u3l3": {
-  "text": "Bees, wasps and ants are hymenopterans, which means “membrane wings”. Bees have two pairs of thin wings, and ants are their cousins. Many live in groups and share the work. Bees pollinate flowers, and that's why we have fruit. A bee only stings to defend itself or its hive: if one flies near you, stay still and calm.",
+  "text": "Bees, wasps and ants are hymenopterans, which means “membrane wings”. A membrane is a thin, see-through skin. Bees have two pairs of wings like that, and ants are their cousins. Many live in groups and share the work. Bees pollinate flowers, and that's why we have fruit. Wasps hunt other insects that harm plants, and they pollinate too. A bee or a wasp only stings to defend itself or its nest: if one flies near you, stay still and calm, and it will leave.",
   "pictures": [
    {
     "art": "abeja",
@@ -188,6 +204,10 @@
    {
     "art": "hormiga",
     "label": "Ant"
+   },
+   {
+    "art": "ala_membrana",
+    "label": "Membrane wing, see-through"
    }
   ]
  },
@@ -210,11 +230,19 @@
   ]
  },
  "u3l6": {
-  "text": "Stink bugs, cicadas and aphids are hemipterans, which means “half wing”: their front wings are half hard and half thin. Their mouth is like a needle to pierce plants and suck their juice. Many stink bugs give off a strong smell to defend themselves, and male cicadas sing very loudly in summer. If you see a stink bug, look at it without touching it.",
+  "text": "Stink bugs, cicadas and aphids are hemipterans, which means “half wing”, because in true bugs the front wings are half hard and half thin. What they all share is the mouth: it's like a needle to pierce plants and suck their juice, the sap. Many stink bugs give off a strong smell to defend themselves, and male cicadas sing very loudly on hot days. If you see a stink bug, look at it without touching it.",
   "pictures": [
    {
     "art": "chinche",
     "label": "Stink bug"
+   },
+   {
+    "art": "cigarra",
+    "label": "Cicada"
+   },
+   {
+    "art": "pulgon",
+    "label": "Aphid"
    }
   ]
  },
@@ -269,8 +297,8 @@
     "label": "Can sting"
    },
    {
-    "art": "chinche",
-    "label": "Don't touch"
+    "art": "chipo",
+    "label": "Kissing bug: don't touch"
    }
   ]
  },

@@ -195,7 +195,7 @@
       "id": "u3l3",
       "title": "Hymenoptera: bees, wasps and ants",
       "art": "abeja",
-      "intro": "Hymenoptera means “membrane wings”. They are bees, wasps and ants. Many live in groups and share the work.",
+      "intro": "Hymenoptera means “membrane wings”, that is, thin see-through wings. They are bees, wasps and ants. Many live in groups and share the work.",
       "closing": "Bees pollinate many of the fruits we eat. They only sting to defend themselves: if you stay calm, they go on their way.",
       "exercises": [
         {
@@ -290,7 +290,7 @@
       "title": "Odonata: dragonflies",
       "art": "libelula",
       "intro": "Odonata comes from “tooth”: they have strong mouths to catch prey. They are dragonflies and damselflies.",
-      "closing": "Dragonflies eat loads of mosquitoes and only live where the water is clean. If you see dragonflies, the water there is healthy!",
+      "closing": "Dragonflies eat loads of mosquitoes and usually live where the water is clean. If you see lots of dragonflies, it's usually a good sign!",
       "exercises": [
         {
           "id": "u3l4e1",
@@ -323,12 +323,12 @@
           "type": "choice",
           "prompt": "If there are lots of dragonflies at a river, what does it tell us?",
           "options": [
-            "That the water is clean",
+            "That the water is usually clean",
             "That the water is dirty",
             "That it's going to rain"
           ],
           "answer": 0,
-          "explanation": "Dragonflies show that the water is clean.",
+          "explanation": "Lots of dragonflies is usually a good sign: their nymphs need clean water to grow.",
           "art": "libelula"
         },
         {
@@ -442,8 +442,8 @@
       "id": "u3l6",
       "title": "Hemiptera: true bugs and cicadas",
       "art": "chinche",
-      "intro": "Hemiptera means “half wing”: their front wings are half hard and half thin. They are stink bugs, cicadas and aphids.",
-      "closing": "Many bugs are harmless and some eat other pests. A few can spread disease, so we look at them without touching.",
+      "intro": "Hemiptera means “half wing”, because in true bugs the front wings are half hard and half thin. They are true bugs, cicadas and aphids, and they all have a needle-like mouth.",
+      "closing": "Many bugs are harmless and some eat other pests. We look at them calmly without touching: that way we don't bother them and they don't bother us.",
       "exercises": [
         {
           "id": "u3l6e1",
@@ -504,7 +504,7 @@
           "type": "choice",
           "prompt": "What is a cicada?",
           "options": [
-            "A Hemiptera that sings very loudly in summer",
+            "A Hemiptera that sings very loudly on hot days",
             "A butterfly",
             "A beetle"
           ],
@@ -722,7 +722,7 @@
           "Three"
         ],
         "answer": 0,
-        "explanation": "Just one pair."
+        "explanation": "Only one pair: instead of a second pair they have two little knobs that help them keep their balance when flying."
       },
       {
         "id": "u3x5",
@@ -762,12 +762,12 @@
         "type": "choice",
         "prompt": "If there are lots of dragonflies at a river, what does it tell us?",
         "options": [
-          "That the water is clean",
+          "That the water is usually clean",
           "That the water is dirty",
           "That it's going to rain"
         ],
         "answer": 0,
-        "explanation": "Clean water.",
+        "explanation": "Their nymphs grow in the water and need it clean: lots of dragonflies is usually a good sign.",
         "art": "libelula"
       },
       {

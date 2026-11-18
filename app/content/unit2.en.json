@@ -9,7 +9,7 @@
       "title": "Where they live",
       "art": "hoja",
       "intro": "Insects are almost everywhere. Let's find out where they live and why they can live there.",
-      "closing": "Insects live in almost every ecosystem because they adapt, they are small and many can fly. Where there are plants, there is food for them.",
+      "closing": "Insects live in almost every ecosystem (each place with its plants and animals) because they adapt, they are small and many can fly. Where there are plants, there is food for them.",
       "exercises": [
         {
           "id": "u2l1e1",
@@ -60,7 +60,7 @@
           "type": "choice",
           "prompt": "Where are insects most common?",
           "options": [
-            "In green, leafy plants",
+            "Where there are lots of green, leafy plants",
             "In places with no plants at all",
             "Only inside caves"
           ],
@@ -80,7 +80,7 @@
           "answers": [
             "fresh"
           ],
-          "explanation": "Freshwater insects only come out when they need to breathe."
+          "explanation": "Some breathe underwater with gills, like dragonfly nymphs; others come up for air."
         }
       ]
     },
@@ -110,7 +110,7 @@
           "prompt": "Match each insect with how it communicates.",
           "pairs": [
             {
-              "left": "Butterfly",
+              "left": "Moth",
               "right": "Its scent travels through the air"
             },
             {
@@ -138,20 +138,20 @@
             "By hitting the ground"
           ],
           "answer": 1,
-          "explanation": "It rubs its back legs against its wings to make a song and court.",
+          "explanation": "It rubs its back legs against its wings to make a song and win over a female.",
           "art": "saltamontes"
         },
         {
           "id": "u2l2e4",
           "type": "choice",
-          "prompt": "How do male butterflies find the females?",
+          "prompt": "How do many butterflies find a partner?",
           "options": [
-            "By following their scent in the air",
+            "By looking at their colors and wings",
             "By the sound of their wings",
             "By asking other insects"
           ],
           "answer": 0,
-          "explanation": "The females give off a scent and the males follow its trail in the air.",
+          "explanation": "Butterflies mostly use their eyes: they look at colors and wings. Moths, which fly at night, follow a scent in the air.",
           "art": "mariposa"
         },
         {
@@ -359,7 +359,7 @@
         "prompt": "Match each insect with how it communicates.",
         "pairs": [
           {
-            "left": "Butterfly",
+            "left": "Moth",
             "right": "Its scent travels through the air"
           },
           {
@@ -407,7 +407,7 @@
           "Pupa"
         ],
         "answer": 1,
-        "explanation": "Nymph."
+        "explanation": "Nymph: it looks like the adult but without wings, and it grows with each molt."
       },
       {
         "id": "u2x5",
@@ -422,7 +422,7 @@
         "answers": [
           "fresh"
         ],
-        "explanation": "Fresh water."
+        "explanation": "Many larvae and nymphs live in the fresh water of rivers and ponds, like those of dragonflies and mosquitoes."
       },
       {
         "id": "u2x6",
@@ -480,7 +480,7 @@
           "A chrysalis"
         ],
         "answer": 0,
-        "explanation": "Egg."
+        "explanation": "Egg: almost all insects start life inside a tiny egg."
       },
       {
         "id": "u2x10",
@@ -491,7 +491,7 @@
           "Inside a chrysalis"
         ],
         "answer": 0,
-        "explanation": "By molting.",
+        "explanation": "By molting: it sheds the exoskeleton that's too small and grows a new, bigger one.",
         "art": "ninfa"
       }
     ]

@@ -9,7 +9,7 @@
       "title": "Dónde viven",
       "art": "hoja",
       "intro": "Los insectos están en casi todas partes. Vamos a descubrir dónde viven y por qué pueden vivir allí.",
-      "closing": "Los insectos viven en casi todos los ecosistemas porque se adaptan, son pequeños y muchos vuelan. Donde hay plantas, hay comida para ellos.",
+      "closing": "Los insectos viven en casi todos los ecosistemas (cada lugar con sus plantas y animales) porque se adaptan, son pequeños y muchos vuelan. Donde hay plantas, hay comida para ellos.",
       "exercises": [
         {
           "id": "u2l1e1",
@@ -38,7 +38,7 @@
         {
           "id": "u2l1e3",
           "type": "match",
-          "prompt": "Une cada insecto con el lugar donde lo puedes encontrar.",
+          "prompt": "Forma parejas: cada insecto con el lugar donde lo puedes encontrar.",
           "pairs": [
             {
               "left": "Mariposa",
@@ -60,7 +60,7 @@
           "type": "choice",
           "prompt": "¿Dónde abundan los insectos?",
           "options": [
-            "En la vegetación verde y frondosa",
+            "Donde hay muchas plantas verdes con hojas",
             "En lugares sin ninguna planta",
             "Solo dentro de las cuevas"
           ],
@@ -80,7 +80,7 @@
           "answers": [
             "dulce"
           ],
-          "explanation": "Los de agua dulce solo salen de ella cuando necesitan respirar."
+          "explanation": "Unos respiran bajo el agua con branquias, como las ninfas de libélula; otros suben a tomar aire."
         }
       ]
     },
@@ -107,10 +107,10 @@
         {
           "id": "u2l2e2",
           "type": "match",
-          "prompt": "Une cada insecto con su forma de comunicarse.",
+          "prompt": "Forma parejas: cada insecto con su forma de comunicarse.",
           "pairs": [
             {
-              "left": "Mariposa",
+              "left": "Polilla",
               "right": "Su aroma viaja por el aire"
             },
             {
@@ -138,20 +138,20 @@
             "Golpeando el suelo"
           ],
           "answer": 1,
-          "explanation": "Frota las patas traseras contra las alas para componer una canción y cortejar.",
+          "explanation": "Frota las patas traseras contra las alas para hacer una canción y conquistar a la hembra.",
           "art": "saltamontes"
         },
         {
           "id": "u2l2e4",
           "type": "choice",
-          "prompt": "¿Cómo encuentran los machos de mariposa a las hembras?",
+          "prompt": "¿Cómo se encuentran muchas mariposas para formar pareja?",
           "options": [
-            "Siguiendo su aroma en el aire",
+            "Mirando sus colores y sus alas",
             "Por el sonido de sus alas",
             "Preguntando a otros insectos"
           ],
           "answer": 0,
-          "explanation": "Las hembras desprenden un aroma y los machos siguen su rastro en el aire.",
+          "explanation": "Las mariposas se buscan sobre todo con la vista: miran colores y alas. Las polillas, que vuelan de noche, siguen un aroma en el aire.",
           "art": "mariposa"
         },
         {
@@ -318,7 +318,7 @@
         {
           "id": "u2l4e5",
           "type": "match",
-          "prompt": "Une cada tipo de metamorfosis con lo que lo identifica.",
+          "prompt": "Forma parejas: cada tipo de metamorfosis con lo que lo identifica.",
           "pairs": [
             {
               "left": "Completa",
@@ -356,10 +356,10 @@
       {
         "id": "u2x2",
         "type": "match",
-        "prompt": "Une cada insecto con su forma de comunicarse.",
+        "prompt": "Forma parejas: cada insecto con su forma de comunicarse.",
         "pairs": [
           {
-            "left": "Mariposa",
+            "left": "Polilla",
             "right": "Su aroma viaja por el aire"
           },
           {
@@ -407,7 +407,7 @@
           "Pupa"
         ],
         "answer": 1,
-        "explanation": "Ninfa."
+        "explanation": "Ninfa: se parece al adulto pero sin alas, y va creciendo con cada muda."
       },
       {
         "id": "u2x5",
@@ -422,7 +422,7 @@
         "answers": [
           "dulce"
         ],
-        "explanation": "Agua dulce."
+        "explanation": "En el agua dulce de ríos y lagunas viven muchas larvas y ninfas, como las de libélula y zancudo."
       },
       {
         "id": "u2x6",
@@ -480,7 +480,7 @@
           "Crisálida"
         ],
         "answer": 0,
-        "explanation": "Huevo."
+        "explanation": "Huevo: casi todos los insectos empiezan su vida dentro de un huevo pequeñito."
       },
       {
         "id": "u2x10",
@@ -491,7 +491,7 @@
           "Dentro de una crisálida"
         ],
         "answer": 0,
-        "explanation": "Con la muda.",
+        "explanation": "Con la muda: se quita el exoesqueleto que le queda pequeño y le sale uno nuevo, más grande.",
         "art": "ninfa"
       }
     ]

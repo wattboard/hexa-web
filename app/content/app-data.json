@@ -52,8 +52,8 @@
     "en": "It recycles leftovers, turns the soil and spreads seeds."
    },
    "calm": {
-    "es": "Casi todas las hormigas solo buscan comida. Si una sube a tu mano, déjala bajar a una hoja.",
-    "en": "Most ants are just looking for food. If one climbs onto your hand, let it walk off onto a leaf."
+    "es": "Casi todas las hormigas solo buscan comida. Las hormigas rojas pequeñas y los bachacos pueden morder: a esas, mejor mirarlas de lejos.",
+    "en": "Most ants are just looking for food. Small red ants and leafcutter ants can bite: watch those from a distance."
    }
   },
   {
@@ -123,8 +123,8 @@
     "en": "It flies backwards and hovers in the air."
    },
    "helps": {
-    "es": "Se come los mosquitos y avisa de que el agua está limpia.",
-    "en": "It eats mosquitoes and shows that the water is clean."
+    "es": "Se come los zancudos, y si hay muchas suele ser señal de agua limpia.",
+    "en": "It eats mosquitoes, and lots of them is usually a sign of clean water."
    },
    "calm": {
     "es": "Las libélulas no pican a las personas. ¡Se comen a los mosquitos!",
@@ -264,8 +264,8 @@
     "en": "It recycles leftovers, and many flies pollinate flowers."
    },
    "calm": {
-    "es": "Las moscas no pican. Solo hay que tapar la comida para que no se posen en ella.",
-    "en": "Flies don't sting. Just cover your food so they don't land on it."
+    "es": "La mosca de casa y la de las flores no pican. Solo hay que tapar la comida para que no se posen en ella.",
+    "en": "House flies and flower flies don't bite. Just cover your food so they don't land on it."
    }
   },
   {
@@ -702,8 +702,8 @@
    "id": "b_touch",
    "art": "mariquita",
    "prompt": {
-    "es": "¿Te animarías a tocar un insecto que no hace daño?",
-    "en": "Would you dare to touch an insect that is harmless?"
+    "es": "¿Te acercarías a mirar de cerca un insecto que no hace daño?",
+    "en": "Would you go closer to look at a harmless insect?"
    },
    "options": [
     {
@@ -757,10 +757,10 @@
      "score": 1
     },
     {
-     "emoji": "🫙",
+     "emoji": "🥛",
      "text": {
-      "es": "Lo saco con cuidado",
-      "en": "I take it outside carefully"
+      "es": "Lo saco con un vaso y una cartulina",
+      "en": "I take it outside with a cup and a card"
      },
      "score": 2
     }

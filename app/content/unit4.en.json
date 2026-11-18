@@ -188,7 +188,7 @@
       "id": "u4l3",
       "title": "The ones that can sting or spread disease",
       "art": "mosquito",
-      "intro": "A few insects can sting or spread disease, like some mosquitoes and bugs. They aren't evil: they do what they need to live. Let's learn to protect ourselves.",
+      "intro": "A few insects can sting or spread disease, like some mosquitoes and the kissing bug. They aren't evil: they do what they need to live. Let's learn to protect ourselves.",
       "closing": "Staying safe is easy: no standing water, use a mosquito net and long clothes, and tell an adult if something bites you. There's no need to kill every insect.",
       "exercises": [
         {
@@ -220,14 +220,14 @@
         {
           "id": "u4l3e3",
           "type": "choice",
-          "prompt": "What does NOT help protect you from mosquitoes?",
+          "prompt": "What helps stop mosquitoes from hatching near your home?",
           "options": [
             "Using a mosquito net",
             "Emptying standing water",
             "Leaving buckets of water outside"
           ],
-          "answer": 2,
-          "explanation": "Still water is where mosquitoes are born.",
+          "answer": 1,
+          "explanation": "Emptying still water: that's where mosquitoes lay their eggs. Without standing water, they can't hatch.",
           "art": "mosquito"
         },
         {
@@ -246,15 +246,15 @@
         {
           "id": "u4l3e5",
           "type": "choice",
-          "prompt": "Some bugs can spread disease. What's the safest thing?",
+          "prompt": "The kissing bug can spread a disease. If you see one at home, what's the safest thing?",
           "options": [
-            "Don't touch them and tell an adult if you see one at home",
+            "Don't touch it and tell an adult",
             "Grab them with your hand",
             "Leave them in the bed"
           ],
           "answer": 0,
           "explanation": "Look without touching and tell someone: that keeps you safe.",
-          "art": "chinche"
+          "art": "chipo"
         }
       ]
     },
@@ -363,10 +363,10 @@
             {
               "label": "Kissing bug",
               "bin": 2,
-              "art": "chinche"
+              "art": "chipo"
             }
           ],
-          "explanation": "The kissing bug can spread a disease: if you see one at home, tell an adult."
+          "explanation": "The kissing bug can spread a disease: if you see one at home, tell an adult. Almost all other bugs are harmless."
         },
         {
           "id": "u4l4e5",
@@ -420,7 +420,7 @@
           "A pretty insect"
         ],
         "answer": 0,
-        "explanation": "Huge numbers of one kind of insect."
+        "explanation": "A pest outbreak is when there are huge numbers of one kind of insect damaging crops or food. One insect alone isn't a pest outbreak."
       },
       {
         "id": "u4x3",
@@ -432,7 +432,7 @@
           "Burning the garden"
         ],
         "answer": 0,
-        "explanation": "Using their natural enemies."
+        "explanation": "Using their natural enemies, like the ladybug that eats aphids, without poison that harms bees."
       },
       {
         "id": "u4x4",
@@ -488,14 +488,14 @@
       {
         "id": "u4x6",
         "type": "choice",
-        "prompt": "What does NOT help protect you from mosquitoes?",
+        "prompt": "What helps stop mosquitoes from hatching near your home?",
         "options": [
           "Using a mosquito net",
           "Emptying standing water",
           "Leaving buckets of water outside"
         ],
-        "answer": 2,
-        "explanation": "Leaving still water.",
+        "answer": 1,
+        "explanation": "Emptying still water: that's where mosquitoes lay their eggs. Without standing water, they can't hatch.",
         "art": "mosquito"
       },
       {
@@ -522,7 +522,7 @@
         "answers": [
           "pollinate"
         ],
-        "explanation": "They pollinate."
+        "explanation": "Bees, butterflies and many other insects carry pollen from flower to flower, and that's how plants make fruit."
       },
       {
         "id": "u4x9",
@@ -534,7 +534,7 @@
           "I scratch hard"
         ],
         "answer": 0,
-        "explanation": "Tell an adult.",
+        "explanation": "Tell an adult right away: if it swells a lot or it's hard to breathe, you need to see a doctor.",
         "art": "abeja"
       },
       {
