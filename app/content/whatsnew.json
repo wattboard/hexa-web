@@ -1,26 +1,16 @@
 {
- "_info": "Fuente única de novedades: la usan la pantalla «Novedades» de iOS y Android y las notas de TestFlight y Google Play (scripts/release_notes.py). En cada build con cambios para quien prueba: reescribir «news» con lo de ESE build, añadir a «features» lo que pase a ser parte fija de la app y subir «version» (la pantalla vuelve a salir una vez). Iconos: music, book, chat, map, camera, album, people, pictures, mouth, bravery, notebook.",
- "version": 4,
+ "_info": "Fuente única de novedades: la usan la pantalla «Novedades» de iOS y Android y las notas de TestFlight y Google Play (scripts/release_notes.py). En cada build con cambios para quien prueba: reescribir «news» con lo de ESE build, añadir a «features» lo que pase a ser parte fija de la app y subir «version» (la pantalla vuelve a salir una vez). Iconos: music, book, chat, map, camera, album, people, pictures, mouth, bravery, notebook, computer.",
+ "version": 5,
  "news": [
   {
-   "icon": "bravery",
-   "es": "Escalera de valentía: la foto real se ve primero de lejos y te acercas cuando quieras.",
-   "en": "Bravery ladder: the real photo starts far away and you get closer when you want."
+   "icon": "computer",
+   "es": "Hexa también en el ordenador: ábrela en el navegador o instálala desde wattboard.github.io/hexa-web/app. Lo explica la opción «Hexa en el ordenador» del menú de tu perfil.",
+   "en": "Hexa on computers too: open it in the browser or install it from wattboard.github.io/hexa-web/app. The “Hexa on a computer” option in your profile menu explains how."
   },
   {
-   "icon": "notebook",
-   "es": "Cuaderno de campo: en cada misión puedes apuntar y dibujar lo que viste.",
-   "en": "Field notebook: in each mission you can write and draw what you saw."
-  },
-  {
-   "icon": "pictures",
-   "es": "Más dibujos en las preguntas y un juego nuevo para reconocer bocas.",
-   "en": "More pictures in the questions and a new game to recognise mouths."
-  },
-  {
-   "icon": "album",
-   "es": "Cuatro fichas nuevas de insectos de Venezuela, como la abeja angelita.",
-   "en": "Four new cards of Venezuelan insects, like the angelita bee."
+   "icon": "computer",
+   "es": "En un Mac con chip de Apple también se puede instalar desde TestFlight.",
+   "en": "On a Mac with Apple silicon it can also be installed from TestFlight."
   }
  ],
  "features": [
@@ -28,6 +18,11 @@
    "icon": "map",
    "es": "Cuatro unidades con lecciones y juegos para conocer los insectos.",
    "en": "Four units with lessons and games to get to know insects."
+  },
+  {
+   "icon": "computer",
+   "es": "En el móvil, la tableta o el ordenador: también en el navegador e instalable.",
+   "en": "On phones, tablets and computers: also in the browser and installable."
   },
   {
    "icon": "book",
