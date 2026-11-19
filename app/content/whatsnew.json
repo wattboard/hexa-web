@@ -1,36 +1,21 @@
 {
  "_info": "Fuente única de novedades: la usan la pantalla «Novedades» de iOS y Android y las notas de TestFlight y Google Play (scripts/release_notes.py). En cada build con cambios para quien prueba: reescribir «news» con lo de ESE build, añadir a «features» lo que pase a ser parte fija de la app y subir «version» (la pantalla vuelve a salir una vez). Iconos: music, book, chat, map, camera, album, people, pictures, mouth, bravery, notebook, computer.",
- "version": 7,
+ "version": 8,
  "news": [
   {
-   "icon": "map",
-   "es": "Segunda parte: 4 unidades nuevas (Venezuela, arañas y primos, la red de la vida y pequeños científicos).",
-   "en": "Part two: 4 new units (Venezuela, spiders and cousins, the web of life and little scientists)."
-  },
-  {
-   "icon": "bravery",
-   "es": "Medallas de la 5 a la 8 y diploma de guardabosques experto.",
-   "en": "Medals 5 to 8 and an expert forest ranger diploma."
-  },
-  {
-   "icon": "pictures",
-   "es": "«¿Quién suena?» con sonidos reales y «Toca dónde está».",
-   "en": "“Who's that sound?” with real sounds, and “Tap where it is”."
+   "icon": "camera",
+   "es": "Cada lección enseña la foto real de su propio insecto (polilla, libélula, pulgón…).",
+   "en": "Each lesson shows the real photo of its own insect (moth, dragonfly, aphid…)."
   },
   {
    "icon": "book",
-   "es": "Reto del día y un repaso que vuelve cuando toca.",
-   "en": "A daily challenge and review that comes back at the right time."
+   "es": "Corregido: el grillo oye con las patas y el saltamontes con el abdomen.",
+   "en": "Fixed: crickets hear with their legs and grasshoppers with their abdomen."
   },
   {
-   "icon": "album",
-   "es": "Mariposario: mueve la decoración a donde quieras.",
-   "en": "Butterfly garden: move decorations wherever you like."
-  },
-  {
-   "icon": "people",
-   "es": "Docentes: guía didáctica y retos en familia.",
-   "en": "Teachers: a teaching guide and family challenges."
+   "icon": "chat",
+   "es": "La versión web también tiene «Enviar comentario» en el Modo docente.",
+   "en": "The web version now has “Send feedback” in Teacher mode too."
   }
  ],
  "features": [

@@ -47,11 +47,11 @@
   ]
  },
  "u1l4": {
-  "text": "Insects sense the world differently. With their antennae they pick up very faint smells in the air. For many insects, smells and tastes matter a lot: they tell them where food is and who another insect is. Their eyes are called compound eyes and have many lenses and see less than ours, but they catch movement very well, and bees see colors we can't see. Some hear with ears on their legs, abdomen or wings, like crickets; many others feel sound with tiny hairs.",
+  "text": "Insects sense the world differently. With their antennae they pick up very faint smells in the air. For many insects, smells and tastes matter a lot: they tell them where food is and who another insect is. Their eyes are called compound eyes and have many lenses and see less than ours, but they catch movement very well, and bees see colors we can't see. Crickets hear with ears on their front legs, and grasshoppers on their abdomen. Many other insects feel sound with tiny hairs.",
   "pictures": [
    {
-    "art": "mariposa",
-    "label": "Antennae that pick up smells"
+    "art": "polilla",
+    "label": "Moth: feathery antennae that pick up smells"
    },
    {
     "art": "mosca",
@@ -59,7 +59,7 @@
    },
    {
     "art": "saltamontes",
-    "label": "Hears with its abdomen"
+    "label": "Grasshopper: hears with its abdomen"
    }
   ]
  },

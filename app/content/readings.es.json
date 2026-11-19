@@ -47,11 +47,11 @@
   ]
  },
  "u1l4": {
-  "text": "Los insectos sienten el mundo de otra manera. Con las antenas captan olores muy suaves en el aire. Para muchos insectos, los olores y sabores son muy importantes: les dicen dónde hay comida y quién es otro insecto. Sus ojos se llaman ojos compuestos y tienen muchas lentes y ven menos que nosotros, pero captan muy bien el movimiento, y las abejas ven colores que nosotros no vemos. Algunos oyen con oídos que tienen en las patas, el abdomen o las alas, como el grillo; muchos otros sienten el sonido con pelitos.",
+  "text": "Los insectos sienten el mundo de otra manera. Con las antenas captan olores muy suaves en el aire. Para muchos insectos, los olores y sabores son muy importantes: les dicen dónde hay comida y quién es otro insecto. Sus ojos se llaman ojos compuestos y tienen muchas lentes y ven menos que nosotros, pero captan muy bien el movimiento, y las abejas ven colores que nosotros no vemos. El grillo oye con unos oídos que tiene en las patas de delante, y el saltamontes, en el abdomen. Muchos otros insectos sienten el sonido con pelitos.",
   "pictures": [
    {
-    "art": "mariposa",
-    "label": "Antenas que captan olores"
+    "art": "polilla",
+    "label": "Polilla: antenas de pluma que captan olores"
    },
    {
     "art": "mosca",
@@ -59,7 +59,7 @@
    },
    {
     "art": "saltamontes",
-    "label": "Oye con el abdomen"
+    "label": "Saltamontes: oye con el abdomen"
    }
   ]
  },

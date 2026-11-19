@@ -224,6 +224,24 @@
     "source": "iNaturalist",
     "taxon": "Decidia magnifica"
   },
+  "polilla": {
+    "author": "Christine Young",
+    "file": "photo_polilla.jpg",
+    "license": "CC BY",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "observation": "https://www.inaturalist.org/observations/61261328",
+    "source": "iNaturalist",
+    "taxon": "Dryocampa rubicunda"
+  },
+  "pulgon": {
+    "author": "Ina Siebert",
+    "file": "photo_pulgon.jpg",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "observation": "https://www.inaturalist.org/observations/30443521",
+    "source": "iNaturalist",
+    "taxon": "Rhopalosiphum nymphaeae"
+  },
   "saltamontes": {
     "author": "Donna Pomeroy",
     "file": "photo_saltamontes.jpg",
