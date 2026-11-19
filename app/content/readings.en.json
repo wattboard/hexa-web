@@ -318,5 +318,437 @@
     "label": "Be careful"
    }
   ]
+ },
+ "u5l1": {
+  "text": "Venezuela has many landscapes: plains, mountains, rainforest, coast and islands. The plains (los llanos) are flat, hot grasslands; in the rainy season they fill with ponds, and dragonfly and mosquito young grow in the water. The Andes have cold mountains with páramo, where fuzzy bumblebees visit the flowers of the frailejón plant. In the rainforest it rains a lot, the trees are very tall and the blue morpho flies. On the coast and the islands it is hot and it rarely rains. Each landscape has its own living things: that great variety of life is called biodiversity, and because Venezuela has so much of it, it is one of the few megadiverse countries in the world.",
+  "pictures": [
+   {
+    "art": "paisaje_llano",
+    "label": "Plains"
+   },
+   {
+    "art": "paisaje_andes",
+    "label": "Andes"
+   },
+   {
+    "art": "paisaje_selva",
+    "label": "Rainforest"
+   },
+   {
+    "art": "paisaje_costa",
+    "label": "Coast"
+   }
+  ]
+ },
+ "u5l2": {
+  "text": "The cocuyo is a beetle that makes light. The firefly is also a beetle and also makes light, but they are not the same (in many places people call fireflies cocuyos, too). The cocuyo has two green lights on its thorax, like two headlights, and when it flies an orange light shows underneath, on its belly. The firefly, on the other hand, lights up the tip of its abdomen and makes it blink. Making light with the body is called bioluminescence, and it is cold light: it doesn't burn. Before there was electric light, people used cocuyos to light their way at night: with several together you could see the path.",
+  "pictures": [
+   {
+    "art": "cocuyo",
+    "label": "Cocuyo: lights on the thorax"
+   },
+   {
+    "art": "luciernaga",
+    "label": "Firefly: light at the tip"
+   }
+  ]
+ },
+ "u5l3": {
+  "text": "The blue morpho is a big butterfly with bright blue wings. That blue isn't paint: the scales on its wings have a tiny shape that bounces back blue light, like the colors that shine on a soap bubble. Underneath, its wings are brown with circles that look like eyes: when it closes them it hides, and the “eyes” confuse birds that want to eat it. The 88 butterfly is small and has an 88 drawn under its back wings. The monarch, orange and black, also lives in Venezuela; in North America, monarchs travel thousands of miles every year to escape the cold, and that is called migrating.",
+  "pictures": [
+   {
+    "art": "morfo",
+    "label": "Blue morpho"
+   },
+   {
+    "art": "mariposa_88",
+    "label": "88 butterfly"
+   },
+   {
+    "art": "mariposa",
+    "label": "Monarch: travels far"
+   }
+  ]
+ },
+ "u5l4": {
+  "text": "The angelita is a very small bee from here: its stinger is so tiny that it doesn't work, so it can't sting. It lives in a group inside holes in trees or walls, and the entrance to its nest is a little wax tube. It makes a much-loved honey, which many people use as a home remedy, and it pollinates flowers in forests and small farms. The bachaco is a big leafcutter ant that cuts little pieces of leaf and carries them in a line to its underground nest. It doesn't eat the leaves: it uses them to grow a fungus, and that fungus is its food. Leafcutter ants are farmers! They can bite hard with their jaws, so it's best to watch them from a distance, without putting your hand in their line or their nest.",
+  "pictures": [
+   {
+    "art": "abeja_angelita",
+    "label": "Angelita: can't sting"
+   },
+   {
+    "art": "bachaco",
+    "label": "Leafcutter ant with its leaf"
+   },
+   {
+    "art": "hongo",
+    "label": "The fungus they grow"
+   }
+  ]
+ },
+ "u5l5": {
+  "text": "The Hercules beetle lives in Venezuela's humid forests and is one of the biggest beetles in the world: counting its horn, it can be longer than your hand! Only the males have horns, and they use them to push other males, not to attack people. The stick insect looks like a twig: it stays still or sways slowly, like a branch moved by the wind, so birds don't see it. The praying mantis is green or brown like leaves, has a triangle-shaped head and waits very still, with its front legs folded as if it were praying. Those legs have little spines and snap shut fast to catch flies and mosquitoes. None of the three stings or has venom.",
+  "pictures": [
+   {
+    "art": "escarabajo_hercules",
+    "label": "Hercules beetle"
+   },
+   {
+    "art": "palito",
+    "label": "Stick insect: looks like a twig"
+   },
+   {
+    "art": "santateresa",
+    "label": "Praying mantis, a hunter"
+   }
+  ]
+ },
+ "u5l6": {
+  "text": "Venezuela's insects are in danger when forests are cut down or burned, because they lose their home and their food. Poison sprayed on plants also harms them, because it doesn't kill only pests: it also kills bees, butterflies and ladybugs. To protect them, Venezuela has national parks, places where nature is protected by law. Canaima, in the south, has tepuis (flat-topped mountains) and Angel Falls, the highest waterfall in the world. Henri Pittier, in Aragua, was the country's first national park, and every year huge numbers of insects and birds fly through its Portachuelo pass. You can help too: plant flowers, don't use poison, leave insects free and teach others not to be afraid of them.",
+  "pictures": [
+   {
+    "art": "paisaje_selva",
+    "label": "Canaima: tepuis and rainforest"
+   },
+   {
+    "art": "flor_rosa",
+    "label": "Planting flowers helps"
+   },
+   {
+    "art": "hoja",
+    "label": "Leaves without poison"
+   }
+  ]
+ },
+ "u6l1": {
+  "text": "Insects have cousins: spiders, scorpions, centipedes, millipedes and pill bugs. Together they make up one big family, the arthropods, which means “jointed legs”: their legs bend in sections, like your fingers. They all have their skeleton on the outside, hard armor that can't stretch, so to grow they swap it for a new one: that's molting, or shedding. To tell who's who, count legs: insects have 6; spiders and scorpions, 8 (a scorpion's pincers aren't legs); the pill bug, 14; and centipedes and millipedes, lots and lots. Frogs, birds and we also have a skeleton, but on the inside: we aren't arthropods.",
+  "pictures": [
+   {
+    "art": "saltamontes",
+    "label": "Insect: 6 legs"
+   },
+   {
+    "art": "arana",
+    "label": "Spider: 8 legs"
+   },
+   {
+    "art": "cochinita",
+    "label": "Pill bug: 14 legs"
+   },
+   {
+    "art": "ciempies",
+    "label": "Centipede: lots and lots of legs"
+   }
+  ]
+ },
+ "u6l2": {
+  "text": "Spiders aren't insects: they're arachnids. They have 8 legs, a body in 2 parts (the cephalothorax in front, where the legs come out, and the abdomen behind) and no antennae or wings, while insects have 6 legs, 3 parts and antennae. All spiders make silk in their abdomen and let it out through the spinnerets, tiny tubes at the tip, but not all of them spin webs: some hunt by jumping or running. A web is a trap with sticky threads: when an insect gets caught, the spider feels the thread shake with its legs. Almost all spiders are harmless to people and eat mosquitoes, flies and cockroaches: they guard our homes and gardens!",
+  "pictures": [
+   {
+    "art": "arana",
+    "label": "Spider: 8 legs and 2 parts"
+   },
+   {
+    "art": "telarana",
+    "label": "Web: a trap"
+   },
+   {
+    "art": "mosquito",
+    "label": "Spider food"
+   }
+  ]
+ },
+ "u6l3": {
+  "text": "Almost all spiders are so small, or have such weak venom, that they can't harm a person; they're also shy and only bite if they're squashed or grabbed. In Venezuela there are a few that can be dangerous, like the black widow (shiny black with red marks) and the recluse spider (brown, it hides in dark places and in clothes that are put away). Those, and any spider you don't know, are watched from a distance and you tell an adult. If a spider is inside the house, an adult can cover it with a glass, slide a piece of card underneath and let it go outside, among the plants. So you don't get a fright, shake out shoes and stored clothes before putting them on, look before you put your hand into a dark corner and, if you see a web, look at it without breaking it. And if a spider ever bites you, tell an adult right away.",
+  "pictures": [
+   {
+    "art": "arana",
+    "label": "Almost all are harmless"
+   },
+   {
+    "art": "telarana",
+    "label": "Look without breaking it"
+   }
+  ]
+ },
+ "u6l4": {
+  "text": "Centipedes and millipedes are myriapods, which means “many legs”. They have a long body made of many rings (segments) and two antennae on their head. The centipede is fast and a hunter: it has one pair of legs on each ring and goes out at night to hunt insects with venomous claws next to its mouth; its bite hurts, so you watch it from a distance. The millipede is slow and calm: it has two pairs of legs on almost every ring, eats dead leaves and rotting wood, and when it's scared it curls up like a snail shell. Despite their names, a centipede has between 30 and more than 300 legs, but never exactly one hundred, and almost no millipede reaches a thousand.",
+  "pictures": [
+   {
+    "art": "ciempies",
+    "label": "Centipede: 1 pair per ring"
+   },
+   {
+    "art": "milpies",
+    "label": "Millipede: 2 pairs per ring"
+   }
+  ]
+ },
+ "u6l5": {
+  "text": "The pill bug, or roly-poly, isn't an insect: it's a crustacean, a cousin of shrimp and crabs. It has 14 legs and breathes with special gills that must stay damp, so it lives in damp, dark places, like under stones and flowerpots. It eats dead leaves and plant scraps and turns them into soil: it's a recycler, and when it's scared it rolls into a ball to protect itself with its armor. The scorpion is an arachnid, a cousin of spiders: it has 8 legs, two pincers in front and a tail with a stinger at the tip, and it goes out at night to hunt insects. Some scorpions in Venezuela have strong venom, especially for children: watch them from a distance, tell an adult and shake out your shoes before putting them on. If one stings you, tell an adult right away so you can go to the doctor.",
+  "pictures": [
+   {
+    "art": "cochinita",
+    "label": "Pill bug: crustacean"
+   },
+   {
+    "art": "alacran",
+    "label": "Scorpion: watch from a distance"
+   }
+  ]
+ },
+ "u6l6": {
+  "text": "To tell whether a critter is an insect or a cousin, count its legs and its parts. Insects have 6 legs, 3 parts (head, thorax and abdomen) and two antennae, and many have wings. Arachnids, like the spider and the scorpion, have 8 legs, 2 parts and no antennae. Myriapods, like the centipede and the millipede, have lots and lots of legs and a body made of rings; the pill bug, with 14 legs, is a crustacean. Many insects sing, like the cricket, which rubs its wings; a frog, on the other hand, croaks with an air sac in its throat and is an amphibian, with its skeleton on the inside. They all have a job: some hunt bugs, like the spider, and others recycle dead leaves, like the millipede and the pill bug.",
+  "pictures": [
+   {
+    "art": "saltamontes",
+    "label": "Insect: 6 legs"
+   },
+   {
+    "art": "arana",
+    "label": "Arachnid: 8 legs"
+   },
+   {
+    "art": "milpies",
+    "label": "Myriapod: lots and lots"
+   },
+   {
+    "art": "cochinita",
+    "label": "Crustacean: 14 legs"
+   },
+   {
+    "art": "rana",
+    "label": "Frog: not an arthropod"
+   }
+  ]
+ },
+ "u7l1": {
+  "text": "A food chain tells who eats whom. It always starts with a plant, which makes its own food from sunlight. Next comes whoever eats the plant, like the caterpillar that chews leaves, and then whoever eats the caterpillar, like the bird that takes it to its chicks. Lots of animals eat insects: frogs catch them with their sticky tongues, lizards and praying mantises hunt them by day, and bats hunt them at night. Frogs sing (croak) near water, especially at dusk. A grown-up butterfly, on the other hand, doesn't hunt: it drinks nectar from flowers.",
+  "pictures": [
+   {
+    "art": "hoja",
+    "label": "Plant: makes its own food"
+   },
+   {
+    "art": "oruga",
+    "label": "Eats leaves"
+   },
+   {
+    "art": "pajaro",
+    "label": "Eats caterpillars"
+   },
+   {
+    "art": "rana",
+    "label": "Eats insects"
+   }
+  ]
+ },
+ "u7l2": {
+  "text": "A flower has several parts. The brightly colored petals and the flower's scent attract insects from far away. The stamens are thin threads that hold the pollen, a yellow dust, and in the middle is the pistil: at its base the fruit and the seeds will grow. The bee goes in to drink nectar, a sweet juice, and to collect pollen for its young, and the pollen sticks to the little hairs on its body. When it visits another flower of the same kind, some pollen falls on the pistil: that's pollination, and that's how the flower can turn into a fruit with seeds. The stem holds the flower up and brings it water.",
+  "pictures": [
+   {
+    "art": "flor_partes",
+    "label": "Petals, stamens and pistil"
+   },
+   {
+    "art": "abeja",
+    "label": "Carries pollen on its hairs"
+   }
+  ]
+ },
+ "u7l3": {
+  "text": "Every day, leaves, branches, fruit and dead animals fall in the forest. Recyclers eat those leftovers and break them into smaller and smaller pieces: that's called decomposing. Some recyclers are insects, like many beetles, fly larvae, ants and termites, which eat wood. Fungi and earthworms recycle too, but they aren't insects: a fungus isn't even an animal, and an earthworm is a worm. In the end, the leftovers turn into new soil, full of food for plants. Without recyclers, the forest would be covered in mountains of dry leaves.",
+  "pictures": [
+   {
+    "art": "escarabajo",
+    "label": "Recycles wood and leaves"
+   },
+   {
+    "art": "hongo",
+    "label": "Recycles, but isn't an insect"
+   },
+   {
+    "art": "hoja",
+    "label": "Dry leaf: food for recyclers"
+   }
+  ]
+ },
+ "u7l4": {
+  "text": "Many insects escape from whoever wants to eat them without having to fight. With camouflage they look like their surroundings: the stick insect looks like a twig, the praying mantis blends in with the leaves (that's also how it surprises the insects it hunts) and some caterpillars stay stiff like a branch. With mimicry they dress up as another animal: the flower fly has yellow and black stripes like a wasp, but it doesn't sting. Some tasty butterflies copy the colors of others that taste bad, so birds leave them alone. Other insects do the opposite and show off warning colors, like the ladybug's red with black spots, which says “I taste bad, don't eat me”.",
+  "pictures": [
+   {
+    "art": "palito",
+    "label": "Camouflage: looks like a twig"
+   },
+   {
+    "art": "santateresa",
+    "label": "Camouflage: blends in with leaves"
+   },
+   {
+    "art": "mosca",
+    "label": "Mimicry: looks like a wasp"
+   },
+   {
+    "art": "mariquita",
+    "label": "Warning colors"
+   }
+  ]
+ },
+ "u7l5": {
+  "text": "Some insects live in big families called colonies: honey bees, ants and termites. In the colony there is a queen who lays the eggs (termites also have a king) and lots and lots of workers who look for food, care for the young and clean the nest. Some ants and termites also have soldiers, with big heads, who defend the nest. Each one does its part, and together they achieve what none could alone, like the bees' honeycomb or the termites' huge nests. The leafcutter ant cuts leaves, but it doesn't eat them: it carries them to the nest to grow a fungus, which is its food. Some ants protect aphids from their enemies, and in return the aphids give them sweet little drops.",
+  "pictures": [
+   {
+    "art": "abeja",
+    "label": "Colony: the honeycomb"
+   },
+   {
+    "art": "hormiga",
+    "label": "Colony: the anthill"
+   },
+   {
+    "art": "comejen",
+    "label": "Colony with a queen and a king"
+   },
+   {
+    "art": "bachaco",
+    "label": "Grows a fungus"
+   },
+   {
+    "art": "pulgon",
+    "label": "Gives ants sweet drops"
+   }
+  ]
+ },
+ "u7l6": {
+  "text": "All the threads of the web are tied together: if one breaks, the others feel it. Without insect pollinators there would be very few mangoes, passion fruits and watermelons, and no chocolate at all: cacao flowers are pollinated by tiny midges. Corn and rice, on the other hand, don't need insects: the wind carries their pollen. Without recyclers, leftovers would pile up and the soil would run out of food for plants. Without insects, many birds, frogs and bats would go hungry, because many birds feed their chicks with insects. To help them, we can plant flowers, not spray poison everywhere and leave a corner with dry leaves in the garden.",
+  "pictures": [
+   {
+    "art": "abeja",
+    "label": "Without pollinators, few fruits"
+   },
+   {
+    "art": "pajaro",
+    "label": "Feeds its chicks insects"
+   },
+   {
+    "art": "hongo",
+    "label": "Without recyclers, piles of leftovers"
+   }
+  ]
+ },
+ "u8l1": {
+  "text": "Scientists start by observing: looking calmly, quietly and without hurrying. A magnifying glass makes small things look bigger, but never hold it in the sun over an insect: it focuses the light and can burn it. In a field notebook you write the date, the place and what the insect is doing, and you draw what you see. To measure without touching, you place a ruler next to the insect, and a watch tells you how long you observed. You also observe with your ears: a cricket sings by rubbing its wings together.",
+  "pictures": [
+   {
+    "art": "lupa",
+    "label": "Magnifying glass: makes small things bigger"
+   },
+   {
+    "art": "cuaderno",
+    "label": "Field notebook"
+   },
+   {
+    "art": "saltamontes",
+    "label": "Listen: many of them sing"
+   }
+  ]
+ },
+ "u8l2": {
+  "text": "After observing, a scientist asks a question that can be checked by looking or counting, like “Which flower do bees visit most?”. Questions like “Which insect is the prettiest?” can't be checked, because it depends on each person's taste. Then they make a hypothesis: what they think will happen, and why. Next they check it: they observe, count and write down the results. At the end they draw a conclusion: what they learned. If the hypothesis was wrong, that's okay!: you still learn, and a new question comes up.",
+  "pictures": [
+   {
+    "art": "lupa",
+    "label": "1. Observe"
+   },
+   {
+    "art": "paquito",
+    "label": "2. Ask"
+   },
+   {
+    "art": "angelica",
+    "label": "3. Hypothesis"
+   },
+   {
+    "art": "abeja",
+    "label": "4. Check"
+   },
+   {
+    "art": "cuaderno",
+    "label": "5. Conclusion"
+   }
+  ]
+ },
+ "u8l3": {
+  "text": "An experiment is a way to check a hypothesis. To make it fair, you change only one thing and keep everything else the same: for example, counting for 5 minutes at each flower, at the same time of day. Bees see blue, purple and yellow very well, but red looks dark to them. Pill bugs need damp to breathe, so they are usually in the shade, under leaves and stones. In a good experiment insects are not caught or shut in: you observe them where they are and leave everything as it was.",
+  "pictures": [
+   {
+    "art": "girasol",
+    "label": "Sunflower"
+   },
+   {
+    "art": "flor_rosa",
+    "label": "Pink flower"
+   },
+   {
+    "art": "abeja",
+    "label": "Sees blue and yellow"
+   },
+   {
+    "art": "cochinita",
+    "label": "Likes damp shade"
+   }
+  ]
+ },
+ "u8l4": {
+  "text": "An insect hotel is a shelter made of natural things: hollow canes, pine cones, twigs, bark and wood with holes. In the canes, solitary bees make their nests: each mother leaves her eggs with pollen and seals the entrance with mud or bits of leaf. They live alone, with no hive to defend, so they almost never sting; ladybugs shelter among the pine cones and bark. Mosquitoes and dragonflies don't use it, because their young grow up in water. The hotel goes where it gets the morning sun, sheltered from the rain, at least three feet off the ground and near flowers.",
+  "pictures": [
+   {
+    "art": "hotel_insectos",
+    "label": "Insect hotel"
+   },
+   {
+    "art": "abeja",
+    "label": "Solitary bee: in the canes"
+   },
+   {
+    "art": "mariquita",
+    "label": "Ladybug: among the pine cones"
+   }
+  ]
+ },
+ "u8l5": {
+  "text": "Insects have a hard time where there is poison, trash, few plants or too much heat. Poison sprayed all over the garden doesn't just kill pests: it also kills the bees and ladybugs that help us. Lights left on at night confuse moths and fireflies, which look for each other with their own light. When the planet warms up, some flowers and puddles dry out, and insects have less food and water. The good news is that small actions help!: planting flowers, leaving a corner with wild plants and dry leaves, not spraying everything, picking up trash and turning off lights that aren't being used.",
+  "pictures": [
+   {
+    "art": "planeta",
+    "label": "Our planet"
+   },
+   {
+    "art": "flor_rosa",
+    "label": "Plant flowers"
+   },
+   {
+    "art": "luciernaga",
+    "label": "Looks for others with its light"
+   }
+  ]
+ },
+ "u8l6": {
+  "text": "An expert forest ranger does four things: observes, respects, cares and teaches. They observe calmly, with their notebook, like a scientist. They respect: they don't catch or squash, and they leave each insect in its home; they care: they plant flowers, don't use poison and turn off lights that aren't being used. They teach: they help others not to be afraid, telling them that almost all insects are harmless and it's enough to watch them from a distance. If an insect gets into the house, you take it out with a cup and a piece of cardboard and let it go outside; if it's one that stings, you tell an adult.",
+  "pictures": [
+   {
+    "art": "lupa",
+    "label": "Observes"
+   },
+   {
+    "art": "paquito",
+    "label": "Respects and cares"
+   },
+   {
+    "art": "angelica",
+    "label": "Teaches not to be afraid"
+   }
+  ]
  }
 }

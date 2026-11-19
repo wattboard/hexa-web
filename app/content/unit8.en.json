@@ -1,0 +1,960 @@
+{
+  "id": "u8",
+  "order": 8,
+  "title": "Little scientists",
+  "intro": "Scientists observe, wonder and check. You can too!",
+  "lessons": [
+    {
+      "id": "u8l1",
+      "title": "Looking like a scientist",
+      "art": "lupa",
+      "intro": "A scientist looks calmly and notices what others miss. Today we'll learn to observe with a magnifying glass and a notebook.",
+      "closing": "Observing means looking calmly, writing and drawing, without touching. With that, you're already becoming a scientist!",
+      "exercises": [
+        {
+          "id": "u8l1e1",
+          "type": "choice",
+          "prompt": "Listen. A scientist also observes with their ears. Who's making that sound?",
+          "options": [
+            "A cricket",
+            "A bee",
+            "A frog"
+          ],
+          "answer": 0,
+          "explanation": "It's a cricket: the male sings by rubbing one wing against the other. Listening carefully is observing too.",
+          "sound": "grillo"
+        },
+        {
+          "id": "u8l1e2",
+          "type": "sort",
+          "prompt": "Is this how a scientist observes? Put each one in its box.",
+          "bins": [
+            "This is how a scientist observes",
+            "Not like this"
+          ],
+          "sortItems": [
+            {
+              "label": "Looking calmly and quietly",
+              "bin": 0
+            },
+            {
+              "label": "Writing and drawing what they see",
+              "bin": 0
+            },
+            {
+              "label": "Using the magnifying glass in the shade",
+              "bin": 0
+            },
+            {
+              "label": "Grabbing the insect to see it better",
+              "bin": 1
+            },
+            {
+              "label": "Making noise so it moves",
+              "bin": 1
+            },
+            {
+              "label": "Holding the magnifying glass in the sun over the insect",
+              "bin": 1
+            }
+          ],
+          "explanation": "If you grab it or scare it, the insect stops what it was doing and you can't see how it really lives. And a magnifying glass in the sun focuses the light and can burn it."
+        },
+        {
+          "id": "u8l1e3",
+          "type": "choice",
+          "prompt": "What is a magnifying glass for?",
+          "options": [
+            "To make small things look bigger",
+            "To catch insects",
+            "To light things up at night"
+          ],
+          "answer": 0,
+          "explanation": "Its lens enlarges what you look at: that's how you discover legs, tiny hairs and eyes you can barely see with your eyes alone.",
+          "art": "lupa"
+        },
+        {
+          "id": "u8l1e4",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "In my field notebook I write the ___, the ___ and what the insect is doing, and I ___ it.",
+          "bank": [
+            "date",
+            "place",
+            "draw",
+            "squash",
+            "hide"
+          ],
+          "answers": [
+            "date",
+            "place",
+            "draw"
+          ],
+          "explanation": "With the date and place you can compare with another day or another spot, and drawing makes you notice every detail."
+        },
+        {
+          "id": "u8l1e5",
+          "type": "match",
+          "prompt": "Make pairs: each tool with what it helps you do.",
+          "pairs": [
+            {
+              "left": "Magnifying glass",
+              "right": "See small things bigger"
+            },
+            {
+              "left": "Notebook",
+              "right": "Write and draw"
+            },
+            {
+              "left": "Ruler",
+              "right": "Measure without touching"
+            },
+            {
+              "left": "Watch",
+              "right": "Know how long you observed"
+            }
+          ],
+          "explanation": "They're simple tools that help you observe better without bothering anyone: the ruler, for example, goes next to the insect, never on top of it."
+        }
+      ]
+    },
+    {
+      "id": "u8l2",
+      "title": "Asking and guessing",
+      "art": "paquito",
+      "intro": "Paquito wonders about lots of things. So do scientists: they ask a question, think about what will happen and check it.",
+      "closing": "Observe, ask, make a hypothesis, check and conclude: that's the scientific method. And being wrong teaches you too!",
+      "exercises": [
+        {
+          "id": "u8l2e1",
+          "type": "order",
+          "prompt": "Put the steps of the scientific method in order.",
+          "steps": [
+            {
+              "art": "lupa",
+              "label": "Observe"
+            },
+            {
+              "art": "paquito",
+              "label": "Ask a question"
+            },
+            {
+              "art": "angelica",
+              "label": "Make a hypothesis"
+            },
+            {
+              "art": "abeja",
+              "label": "Check and write it down"
+            },
+            {
+              "art": "cuaderno",
+              "label": "Draw a conclusion"
+            }
+          ],
+          "explanation": "First you look, which gives you a question; then you think about what will happen, you check it, and at the end you work out what you learned."
+        },
+        {
+          "id": "u8l2e2",
+          "type": "sort",
+          "prompt": "Can it be checked? Put each question in its box.",
+          "bins": [
+            "Can be checked by looking or counting",
+            "Can't be checked"
+          ],
+          "sortItems": [
+            {
+              "label": "Which flower do bees visit most?",
+              "bin": 0
+            },
+            {
+              "label": "Are there more pill bugs in the sun or in the shade?",
+              "bin": 0
+            },
+            {
+              "label": "At what time do crickets sing most?",
+              "bin": 0
+            },
+            {
+              "label": "Which insect is the prettiest?",
+              "bin": 1
+            },
+            {
+              "label": "What do ants think of me?",
+              "bin": 1
+            }
+          ],
+          "explanation": "Flower visits, pill bugs and songs can be counted. What's pretty depends on each person's taste, and what an ant thinks can't be seen or counted."
+        },
+        {
+          "id": "u8l2e3",
+          "type": "choice",
+          "prompt": "What is a hypothesis?",
+          "options": [
+            "What I think will happen, and why",
+            "The sure answer",
+            "A very rare insect"
+          ],
+          "answer": 0,
+          "explanation": "It's an idea to put to the test: you don't know yet if it's true, and that's why you do the experiment."
+        },
+        {
+          "id": "u8l2e4",
+          "type": "choice",
+          "prompt": "Your hypothesis was wrong. What does a good scientist do?",
+          "options": [
+            "Writes down what happened and learns from it",
+            "Erases the results",
+            "Gives up"
+          ],
+          "answer": 0,
+          "explanation": "A hypothesis that turns out wrong still teaches you something: now you know something new, and you get another question to keep exploring."
+        },
+        {
+          "id": "u8l2e5",
+          "type": "match",
+          "prompt": "Make pairs: each step with its example.",
+          "pairs": [
+            {
+              "left": "Question",
+              "right": "“Which flower do bees visit most?”"
+            },
+            {
+              "left": "Hypothesis",
+              "right": "“I think the sunflower, because it's yellow”"
+            },
+            {
+              "left": "Result",
+              "right": "“We counted 7 bees on the sunflower and 2 on the other one”"
+            },
+            {
+              "left": "Conclusion",
+              "right": "“This time, the bees preferred the sunflower”"
+            }
+          ],
+          "explanation": "Each step answers something different: what I want to know, what I think, what I saw and what I learned."
+        }
+      ]
+    },
+    {
+      "id": "u8l3",
+      "title": "Experiments that do no harm",
+      "art": "girasol",
+      "intro": "Which flower do bees prefer? Where are there more pill bugs? Let's find out with experiments that don't hurt anyone.",
+      "closing": "A good experiment is fair and respectful: you change only one thing, and the insects stay free and at home.",
+      "exercises": [
+        {
+          "id": "u8l3e1",
+          "type": "tapAll",
+          "prompt": "Tap what you can do in an experiment with insects.",
+          "items": [
+            {
+              "art": "lupa",
+              "label": "Look at them with a magnifying glass, in the shade",
+              "correct": true
+            },
+            {
+              "art": "cuaderno",
+              "label": "Count them and write it down",
+              "correct": true
+            },
+            {
+              "art": "girasol",
+              "label": "Compare the visits to two flowers",
+              "correct": true
+            },
+            {
+              "art": "hoja",
+              "label": "Lift a leaf gently and put it back as it was",
+              "correct": true
+            },
+            {
+              "art": "cochinita",
+              "label": "Put pill bugs in a closed jar",
+              "correct": false
+            }
+          ],
+          "explanation": "In a closed jar a pill bug gets scared and dries out, and you no longer see how it really lives. Everything else is done without touching it and leaving things in place."
+        },
+        {
+          "id": "u8l3e2",
+          "type": "choice",
+          "prompt": "You want to find out which flower bees prefer. Which experiment is fair?",
+          "options": [
+            "Count for 5 minutes at each flower, at the same time of day",
+            "Watch one flower for 1 minute and the other for 1 hour",
+            "Catch the bees and release them onto one flower"
+          ],
+          "answer": 0,
+          "explanation": "If you watch one flower longer, it will get more visits even if it isn't the favorite. With the same time and the same hour, only the flower changes, so the comparison is fair.",
+          "art": "abeja"
+        },
+        {
+          "id": "u8l3e3",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Pill bugs need ___ to breathe, so they are usually in the ___.",
+          "bank": [
+            "damp",
+            "shade",
+            "sun",
+            "sand"
+          ],
+          "answers": [
+            "damp",
+            "shade"
+          ],
+          "explanation": "They're cousins of shrimp and breathe through body parts that must stay damp. In the sun they'd dry out, so they look for shade under leaves and stones."
+        },
+        {
+          "id": "u8l3e4",
+          "type": "choice",
+          "prompt": "Which flower color is hardest for a bee to see?",
+          "options": [
+            "Red",
+            "Blue",
+            "Yellow"
+          ],
+          "answer": 0,
+          "explanation": "A bee's eyes pick up blue, purple and yellow very well, but red looks dark to them. That's why many of the flowers they visit are blue, purple or yellow.",
+          "art": "flor_rosa"
+        },
+        {
+          "id": "u8l3e5",
+          "type": "order",
+          "prompt": "Put the pill bug experiment in order.",
+          "steps": [
+            {
+              "art": "paquito",
+              "label": "Make the hypothesis: “There will be more in the shade”"
+            },
+            {
+              "art": "hoja",
+              "label": "With an adult, gently lift leaves in the sun and in the shade"
+            },
+            {
+              "art": "cuaderno",
+              "label": "Count the pill bugs and write it down"
+            },
+            {
+              "art": "cochinita",
+              "label": "Put everything back as it was"
+            }
+          ],
+          "explanation": "First you think, then you check and write it down. And always, at the end, everything goes back in place so the pill bugs stay in their home."
+        }
+      ]
+    },
+    {
+      "id": "u8l4",
+      "title": "A hotel for insects",
+      "art": "hotel_insectos",
+      "intro": "With canes, pine cones and wood you can build a shelter for solitary bees and ladybugs. Who will come to stay?",
+      "closing": "An insect hotel, near flowers and without poison, is a gift for the bugs in your neighborhood. And it lets you watch them up close!",
+      "exercises": [
+        {
+          "id": "u8l4e1",
+          "type": "spot",
+          "prompt": "Where will a solitary bee hide? Tap the spot.",
+          "art": "hotel_insectos",
+          "spot": {
+            "x": 0.3,
+            "y": 0.3,
+            "r": 0.2,
+            "label": "The hollow canes"
+          },
+          "explanation": "Solitary bees look for narrow tunnels, like the canes, to leave their eggs with pollen and seal the entrance."
+        },
+        {
+          "id": "u8l4e2",
+          "type": "sort",
+          "prompt": "Is it good for the hotel? Put each one in its box.",
+          "bins": [
+            "Good for the hotel",
+            "Not good"
+          ],
+          "sortItems": [
+            {
+              "label": "Hollow canes",
+              "bin": 0
+            },
+            {
+              "label": "Pine cones",
+              "bin": 0
+            },
+            {
+              "label": "Wood with holes",
+              "bin": 0
+            },
+            {
+              "label": "Twigs and bark",
+              "bin": 0
+            },
+            {
+              "label": "Plastic bags",
+              "bin": 1
+            },
+            {
+              "label": "Closed bottles",
+              "bin": 1
+            }
+          ],
+          "explanation": "Insects look for natural materials with holes and gaps that let air through. Plastic doesn't breathe, it traps damp and whatever is inside goes moldy."
+        },
+        {
+          "id": "u8l4e3",
+          "type": "tapAll",
+          "prompt": "Tap the ones that can stay at the hotel.",
+          "items": [
+            {
+              "art": "abeja",
+              "label": "Solitary bee",
+              "correct": true
+            },
+            {
+              "art": "mariquita",
+              "label": "Ladybug",
+              "correct": true
+            },
+            {
+              "art": "mosquito",
+              "label": "Mosquito",
+              "correct": false
+            },
+            {
+              "art": "libelula",
+              "label": "Dragonfly",
+              "correct": false
+            }
+          ],
+          "explanation": "The solitary bee nests in the canes and the ladybug shelters among pine cones and bark. Mosquitoes and dragonflies don't use it: their young grow up in water."
+        },
+        {
+          "id": "u8l4e4",
+          "type": "choice",
+          "prompt": "Where is the best place for the hotel?",
+          "options": [
+            "Where it gets the morning sun, out of the rain and near flowers",
+            "Inside a dark closet",
+            "On the ground, where puddles form"
+          ],
+          "answer": 0,
+          "explanation": "Bees need the sun's warmth to start flying in the morning, a dry hotel doesn't rot, and nearby flowers give them food.",
+          "art": "hotel_insectos"
+        },
+        {
+          "id": "u8l4e5",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Solitary bees almost never sting because they have no ___ to defend. Each mother seals her nest with ___.",
+          "bank": [
+            "hive",
+            "mud",
+            "plastic",
+            "honey"
+          ],
+          "answers": [
+            "hive",
+            "mud"
+          ],
+          "explanation": "Hive bees defend their whole family; a solitary bee lives alone and has no reason to attack. The mud protects her eggs while they grow."
+        }
+      ]
+    },
+    {
+      "id": "u8l5",
+      "title": "The planet and insects",
+      "art": "planeta",
+      "intro": "Insects need a planet with plants, clean water and dark nights. And there are lots of small things we can do for them.",
+      "closing": "A flower planted, a light turned off, a wild corner: every small action counts. Insects notice!",
+      "exercises": [
+        {
+          "id": "u8l5e1",
+          "type": "sort",
+          "prompt": "Put each action in its box.",
+          "bins": [
+            "Helps insects",
+            "Harms them"
+          ],
+          "sortItems": [
+            {
+              "label": "Planting flowers",
+              "bin": 0
+            },
+            {
+              "label": "Turning off lights that aren't being used at night",
+              "bin": 0
+            },
+            {
+              "label": "Leaving a corner with wild plants",
+              "bin": 0
+            },
+            {
+              "label": "Spraying poison all over the garden",
+              "bin": 1
+            },
+            {
+              "label": "Leaving trash in the park",
+              "bin": 1
+            },
+            {
+              "label": "Cutting down every plant in the yard",
+              "bin": 1
+            }
+          ],
+          "explanation": "Flowers and wild plants give them food and shelter, and dark nights let them find each other. Poison, trash and removing every plant take away their home and food."
+        },
+        {
+          "id": "u8l5e2",
+          "type": "choice",
+          "prompt": "Why does turning off unused lights at night help?",
+          "options": [
+            "Fireflies look for each other with their light, and moths get confused by lamps",
+            "Because that makes all insects go away",
+            "Because insects are afraid of the dark"
+          ],
+          "answer": 0,
+          "explanation": "With fewer lamps on, fireflies can see their partner's light and moths go on their way instead of circling a light bulb.",
+          "art": "luciernaga"
+        },
+        {
+          "id": "u8l5e3",
+          "type": "match",
+          "prompt": "Make pairs: each problem with something we can do.",
+          "pairs": [
+            {
+              "left": "Aphids on the plants",
+              "right": "Let ladybugs eat them"
+            },
+            {
+              "left": "Few flowers",
+              "right": "Plant flowers in a pot"
+            },
+            {
+              "left": "Trash in the park",
+              "right": "Pick it up and recycle"
+            },
+            {
+              "left": "Lights on all night",
+              "right": "Turn off the ones not in use"
+            }
+          ],
+          "explanation": "For every problem there's something small we can do. Ladybugs, for example, control aphids without poison and without harming bees."
+        },
+        {
+          "id": "u8l5e4",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "A pot of ___ on the windowsill gives food to ___.",
+          "bank": [
+            "flowers",
+            "bees",
+            "stones",
+            "clouds"
+          ],
+          "answers": [
+            "flowers",
+            "bees"
+          ],
+          "explanation": "Even a small pot of flowers offers nectar and pollen to bees and other pollinators passing through the city."
+        },
+        {
+          "id": "u8l5e5",
+          "type": "tapAll",
+          "prompt": "Tap what you can do this week to help insects.",
+          "items": [
+            {
+              "art": "flor_rosa",
+              "label": "Plant a flower",
+              "correct": true
+            },
+            {
+              "art": "luciernaga",
+              "label": "Turn off lights I'm not using",
+              "correct": true
+            },
+            {
+              "art": "hoja",
+              "label": "Leave dry leaves in a corner of the yard",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Catch butterflies in a jar",
+              "correct": false
+            },
+            {
+              "art": "girasol",
+              "label": "Cut all the flowers in the yard",
+              "correct": false
+            }
+          ],
+          "explanation": "Planting, turning off lights and leaving dry leaves (where beetles and pill bugs shelter) are small actions you can do yourself. Catching or cutting everything takes away their freedom and food."
+        }
+      ]
+    },
+    {
+      "id": "u8l6",
+      "title": "Expert forest ranger",
+      "art": "angelica",
+      "intro": "You've learned so much about insects. Now it's time to make the expert forest ranger's promise.",
+      "closing": "Observe, respect, care and teach: that's your promise. Insects have a great friend in you!",
+      "exercises": [
+        {
+          "id": "u8l6e1",
+          "type": "match",
+          "prompt": "Make pairs: each part of the promise with what it means.",
+          "pairs": [
+            {
+              "left": "Observe",
+              "right": "Look calmly and write in the notebook"
+            },
+            {
+              "left": "Respect",
+              "right": "Leave each insect in its home"
+            },
+            {
+              "left": "Care",
+              "right": "Plant flowers and not use poison"
+            },
+            {
+              "left": "Teach",
+              "right": "Help others not to be afraid"
+            }
+          ],
+          "explanation": "All four go together: when you observe you learn, when you learn you respect, and what you know you can care for and teach."
+        },
+        {
+          "id": "u8l6e2",
+          "type": "choice",
+          "prompt": "Your cousin screams when he sees a butterfly. What do you do as an expert forest ranger?",
+          "options": [
+            "I calmly explain it's harmless and we watch it together from a distance",
+            "I make fun of him",
+            "I chase the butterfly away with a newspaper"
+          ],
+          "answer": 0,
+          "explanation": "Fear goes away as you get to know something: if you tell him what you know and you watch it calmly together, he may start to like it.",
+          "art": "mariposa"
+        },
+        {
+          "id": "u8l6e3",
+          "type": "order",
+          "prompt": "Put in order how to take an insect out of the house without hurting it.",
+          "steps": [
+            {
+              "art": "escarabajo",
+              "label": "Gently place a cup over it"
+            },
+            {
+              "art": "cuaderno",
+              "label": "Slide a piece of cardboard underneath"
+            },
+            {
+              "art": "angelica",
+              "label": "Carry it outside without squeezing"
+            },
+            {
+              "art": "hoja",
+              "label": "Let it go near some plants"
+            }
+          ],
+          "explanation": "The cup covers it without touching it and the cardboard acts as a door; that way it travels safely to the plants, where it can go on with its life."
+        },
+        {
+          "id": "u8l6e4",
+          "type": "sort",
+          "prompt": "Does an expert forest ranger do it? Put each one in its box.",
+          "bins": [
+            "Does it",
+            "Doesn't do it"
+          ],
+          "sortItems": [
+            {
+              "label": "Watch calmly from a distance",
+              "bin": 0
+            },
+            {
+              "label": "Tell a friend what they learned",
+              "bin": 0
+            },
+            {
+              "label": "Plant flowers",
+              "bin": 0
+            },
+            {
+              "label": "Tell an adult if they see one that stings",
+              "bin": 0
+            },
+            {
+              "label": "Keep insects in a jar",
+              "bin": 1
+            },
+            {
+              "label": "Spray poison all over the yard",
+              "bin": 1
+            }
+          ],
+          "explanation": "A forest ranger takes care of insects and of themselves too: that's why they watch from a distance and tell an adult. Shutting them in or poisoning them causes harm."
+        },
+        {
+          "id": "u8l6e5",
+          "type": "fill",
+          "prompt": "Complete your promise.",
+          "sentence": "An expert forest ranger observes, ___, cares and ___ others not to be afraid.",
+          "bank": [
+            "respects",
+            "teaches",
+            "catches",
+            "squashes"
+          ],
+          "answers": [
+            "respects",
+            "teaches"
+          ],
+          "explanation": "These are the four promises of an expert forest ranger. With them you take care of insects and help others love them too."
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u8exam",
+    "title": "Unit challenge",
+    "art": "lupa",
+    "intro": "Hexa's very last challenge! Show everything a little scientist does. If you pass it, you'll be an expert forest ranger.",
+    "closing": "You did it! You observe, ask, check and take care of insects. Now it's your turn to teach others to love them.",
+    "exercises": [
+      {
+        "id": "u8x1",
+        "type": "order",
+        "prompt": "Put the steps of the scientific method in order.",
+        "steps": [
+          {
+            "art": "lupa",
+            "label": "Observe"
+          },
+          {
+            "art": "paquito",
+            "label": "Ask a question"
+          },
+          {
+            "art": "angelica",
+            "label": "Make a hypothesis"
+          },
+          {
+            "art": "abeja",
+            "label": "Check and write it down"
+          },
+          {
+            "art": "cuaderno",
+            "label": "Draw a conclusion"
+          }
+        ],
+        "explanation": "Each step comes from the one before: what you observe gives you a question, the hypothesis gets checked and the result leads you to the conclusion."
+      },
+      {
+        "id": "u8x2",
+        "type": "choice",
+        "prompt": "Listen. Who's making that sound?",
+        "options": [
+          "A bee",
+          "A cricket",
+          "A frog"
+        ],
+        "answer": 0,
+        "explanation": "It's a bee's buzz: it beats its wings about 200 times a second, and that super-fast flapping is what we hear.",
+        "sound": "abeja"
+      },
+      {
+        "id": "u8x3",
+        "type": "fill",
+        "prompt": "Complete the sentence.",
+        "sentence": "What I think will happen is called a ___, and what I learn at the end is called a ___.",
+        "bank": [
+          "hypothesis",
+          "conclusion",
+          "magnifying glass",
+          "hive"
+        ],
+        "answers": [
+          "hypothesis",
+          "conclusion"
+        ],
+        "explanation": "The hypothesis comes before checking, when you don't know yet; the conclusion comes after, once you've looked and counted."
+      },
+      {
+        "id": "u8x4",
+        "type": "tapAll",
+        "prompt": "Tap what helps insects.",
+        "items": [
+          {
+            "art": "flor_rosa",
+            "label": "Plant flowers",
+            "correct": true
+          },
+          {
+            "art": "hotel_insectos",
+            "label": "Put up an insect hotel",
+            "correct": true
+          },
+          {
+            "art": "luciernaga",
+            "label": "Turn off unused lights at night",
+            "correct": true
+          },
+          {
+            "art": "mariposa",
+            "label": "Catch butterflies",
+            "correct": false
+          },
+          {
+            "art": "girasol",
+            "label": "Cut all the flowers",
+            "correct": false
+          }
+        ],
+        "explanation": "Flowers, shelters and dark nights give them food, a home and a way to find each other. Catching them or cutting all the flowers takes exactly that away."
+      },
+      {
+        "id": "u8x5",
+        "type": "choice",
+        "prompt": "You want to find out what time crickets sing most. What is the fairest way?",
+        "options": [
+          "Listen for the same amount of time at each hour and write it down",
+          "Listen only when you remember",
+          "Catch a cricket and listen to it at home"
+        ],
+        "answer": 0,
+        "explanation": "If you listen for the same time every time, only the hour changes and you can compare. And the crickets stay free, singing where they live."
+      },
+      {
+        "id": "u8x6",
+        "type": "sort",
+        "prompt": "Put each action in its box.",
+        "bins": [
+          "Helps insects",
+          "Harms them"
+        ],
+        "sortItems": [
+          {
+            "label": "Picking up trash in the park",
+            "bin": 0
+          },
+          {
+            "label": "Leaving dry leaves in a corner",
+            "bin": 0
+          },
+          {
+            "label": "Letting ladybugs eat the aphids",
+            "bin": 0
+          },
+          {
+            "label": "Spraying the whole garden",
+            "bin": 1
+          },
+          {
+            "label": "Leaving lights on all night",
+            "bin": 1
+          }
+        ],
+        "explanation": "Clean places, wild corners and natural helpers keep insects safe. Poison everywhere and lights all night harm or confuse them."
+      },
+      {
+        "id": "u8x7",
+        "type": "match",
+        "prompt": "Make pairs: each tool with its use.",
+        "pairs": [
+          {
+            "left": "Magnifying glass",
+            "right": "See small things bigger"
+          },
+          {
+            "left": "Field notebook",
+            "right": "Write and draw"
+          },
+          {
+            "left": "Ruler",
+            "right": "Measure without touching"
+          },
+          {
+            "left": "Cup and cardboard",
+            "right": "Take an insect out of the house without harming it"
+          }
+        ],
+        "explanation": "They all help you get to know and care for insects without harming them: looking, writing, measuring from a distance and returning them to their place."
+      },
+      {
+        "id": "u8x8",
+        "type": "choice",
+        "prompt": "Where would you put the insect hotel?",
+        "options": [
+          "In the morning sun, out of the rain and near flowers",
+          "In a dark, wet corner",
+          "Next to a lamp that's on all night"
+        ],
+        "answer": 0,
+        "explanation": "The morning sun warms the bees so they can head out to fly, a dry spot keeps the hotel from rotting, and the flowers give them food nearby.",
+        "art": "hotel_insectos"
+      },
+      {
+        "id": "u8x9",
+        "type": "sort",
+        "prompt": "Does an expert forest ranger do it? Put each one in its box.",
+        "bins": [
+          "Does it",
+          "Doesn't do it"
+        ],
+        "sortItems": [
+          {
+            "label": "Observe calmly and take notes",
+            "bin": 0
+          },
+          {
+            "label": "Help a friend not to be afraid",
+            "bin": 0
+          },
+          {
+            "label": "Let insects go free",
+            "bin": 0
+          },
+          {
+            "label": "Squash a bug for no reason",
+            "bin": 1
+          },
+          {
+            "label": "Hold a magnifying glass in the sun over an insect",
+            "bin": 1
+          }
+        ],
+        "explanation": "Observing, teaching and letting go is caring. Squashing for no reason or burning with a magnifying glass harms a living thing that has its role in nature."
+      },
+      {
+        "id": "u8x10",
+        "type": "tapAll",
+        "prompt": "Tap the ones that can stay at an insect hotel.",
+        "items": [
+          {
+            "art": "mariquita",
+            "label": "Ladybug",
+            "correct": true
+          },
+          {
+            "art": "abeja",
+            "label": "Solitary bee",
+            "correct": true
+          },
+          {
+            "art": "libelula",
+            "label": "Dragonfly",
+            "correct": false
+          },
+          {
+            "art": "mosquito",
+            "label": "Mosquito",
+            "correct": false
+          }
+        ],
+        "explanation": "Solitary bees nest in the canes and ladybugs shelter among pine cones and bark. Dragonflies and mosquitoes grow up in water, so they look for puddles and ponds."
+      }
+    ]
+  }
+}

@@ -1,0 +1,834 @@
+{
+  "id": "u5",
+  "order": 5,
+  "title": "Insectos de Venezuela",
+  "intro": "Viajamos por Venezuela —los llanos, los Andes, la selva y la costa— conociendo insectos de aquí. ¡Prepara tu mochila de guardabosques!",
+  "lessons": [
+    {
+      "id": "u5l1",
+      "title": "Un país con muchos paisajes",
+      "art": "paisaje_selva",
+      "intro": "Venezuela tiene llanos, montañas, selva, costa e islas. ¡Y cada lugar tiene sus propios insectos!",
+      "closing": "Como cada paisaje es distinto, en Venezuela viven muchísimas clases de insectos. ¡Vivimos en un tesoro de biodiversidad!",
+      "exercises": [
+        {
+          "id": "u5l1e1",
+          "type": "match",
+          "prompt": "Forma parejas: cada paisaje con cómo es.",
+          "pairs": [
+            {
+              "left": "Llanos",
+              "right": "Sabanas planas que se llenan de lagunas con las lluvias"
+            },
+            {
+              "left": "Andes",
+              "right": "Montañas frías con páramo"
+            },
+            {
+              "left": "Selva",
+              "right": "Árboles altísimos y mucha lluvia"
+            },
+            {
+              "left": "Costa",
+              "right": "Mar, calor y poca lluvia"
+            }
+          ],
+          "explanation": "Cada paisaje tiene su clima: frío o calor, mucha o poca lluvia. Por eso en cada uno viven insectos distintos."
+        },
+        {
+          "id": "u5l1e2",
+          "type": "sort",
+          "prompt": "¿Andes o llanos? Pon cada cosa en su paisaje.",
+          "bins": [
+            "Andes",
+            "Llanos"
+          ],
+          "sortItems": [
+            {
+              "label": "Hace frío",
+              "bin": 0
+            },
+            {
+              "label": "Páramo con frailejones",
+              "bin": 0
+            },
+            {
+              "label": "Abejorros en las flores del frailejón",
+              "bin": 0,
+              "art": "abeja"
+            },
+            {
+              "label": "Sabana plana",
+              "bin": 1
+            },
+            {
+              "label": "Lagunas en la época de lluvias",
+              "bin": 1
+            },
+            {
+              "label": "Crías de libélula en las lagunas",
+              "bin": 1,
+              "art": "libelula"
+            }
+          ],
+          "explanation": "Los Andes son altos y fríos, y allí los abejorros peludos aguantan el frío y visitan el frailejón. Los llanos son planos y calientes, y sus lagunas son la casa de las crías de libélula."
+        },
+        {
+          "id": "u5l1e3",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "A la gran variedad de seres vivos de un lugar se le llama ___.",
+          "bank": [
+            "biodiversidad",
+            "contaminación",
+            "metamorfosis"
+          ],
+          "answers": [
+            "biodiversidad"
+          ],
+          "explanation": "«Bio» quiere decir vida y «diversidad», variedad: muchas formas de vida distintas en un mismo lugar."
+        },
+        {
+          "id": "u5l1e4",
+          "type": "choice",
+          "prompt": "¿Por qué en Venezuela hay tantas clases de insectos?",
+          "options": [
+            "Porque tiene muchos paisajes distintos, y cada uno tiene sus insectos",
+            "Porque todos los insectos del mundo viven aquí",
+            "Porque en todo el país hace el mismo clima"
+          ],
+          "answer": 0,
+          "explanation": "Un insecto del páramo frío no vive igual que uno de la selva caliente. Muchos paisajes distintos dan casa a muchos insectos distintos.",
+          "art": "paisaje_andes"
+        },
+        {
+          "id": "u5l1e5",
+          "type": "choice",
+          "prompt": "¿Verdadero o falso? Venezuela es uno de los pocos países megadiversos del mundo.",
+          "options": [
+            "Verdadero",
+            "Falso"
+          ],
+          "answer": 0,
+          "explanation": "Megadiverso quiere decir que tiene muchísimas clases de seres vivos. Venezuela lo es gracias a sus paisajes tan distintos.",
+          "art": "paisaje_selva"
+        }
+      ]
+    },
+    {
+      "id": "u5l2",
+      "title": "El cocuyo",
+      "art": "cocuyo",
+      "intro": "El cocuyo es un escarabajo venezolano que lleva sus propias lucecitas. ¿Será lo mismo que una luciérnaga?",
+      "closing": "La luz del cocuyo es fría y le sirve para hablar con otros cocuyos. Si ves una, apaga tu linterna y disfruta del espectáculo.",
+      "exercises": [
+        {
+          "id": "u5l2e1",
+          "type": "spot",
+          "prompt": "Toca dónde enciende su luz la luciérnaga.",
+          "art": "luciernaga",
+          "spot": {
+            "x": 0.5,
+            "y": 0.75,
+            "r": 0.2,
+            "label": "La punta del abdomen"
+          },
+          "explanation": "La luciérnaga tiene su farol al final del abdomen. El cocuyo, en cambio, tiene sus dos luces verdes en el tórax: así se distinguen."
+        },
+        {
+          "id": "u5l2e2",
+          "type": "match",
+          "prompt": "Forma parejas.",
+          "pairs": [
+            {
+              "left": "Cocuyo",
+              "right": "Dos luces verdes en el tórax"
+            },
+            {
+              "left": "Luciérnaga",
+              "right": "Luz que parpadea en la punta del abdomen"
+            },
+            {
+              "left": "Bioluminiscencia",
+              "right": "Hacer luz con el cuerpo"
+            }
+          ],
+          "explanation": "Los dos son escarabajos que hacen luz, pero la tienen en partes distintas del cuerpo. Bioluminiscencia viene de «bio», vida, y «lumen», luz."
+        },
+        {
+          "id": "u5l2e3",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "La luz del cocuyo es ___: no quema.",
+          "bank": [
+            "fría",
+            "de fuego",
+            "eléctrica"
+          ],
+          "answers": [
+            "fría"
+          ],
+          "explanation": "La bioluminiscencia casi no da calor: casi toda la energía se vuelve luz. Por eso el cocuyo no se quema con sus propios faroles."
+        },
+        {
+          "id": "u5l2e4",
+          "type": "choice",
+          "prompt": "¿Para qué usaba la gente los cocuyos antes de que hubiera luz eléctrica?",
+          "options": [
+            "Para alumbrarse de noche",
+            "Para hacer miel",
+            "Para calentar la comida"
+          ],
+          "answer": 0,
+          "explanation": "Su luz es fuerte: con varios cocuyos juntos se podía ver el camino. Hoy tenemos linternas, así que podemos dejarlos libres.",
+          "art": "cocuyo"
+        },
+        {
+          "id": "u5l2e5",
+          "type": "choice",
+          "prompt": "¿Verdadero o falso? El cocuyo y la luciérnaga son escarabajos.",
+          "options": [
+            "Verdadero",
+            "Falso"
+          ],
+          "answer": 0,
+          "explanation": "Los dos tienen élitros, las alas duras de delante, así que son coleópteros. Son primos, pero no la misma clase de escarabajo.",
+          "art": "luciernaga"
+        }
+      ]
+    },
+    {
+      "id": "u5l3",
+      "title": "Mariposas de aquí",
+      "art": "morfo",
+      "intro": "En Venezuela vuelan mariposas de muchísimos colores. Hoy conocerás tres: el morfo azul, la 88 y la monarca.",
+      "closing": "Cada mariposa tiene su truco: brillar, esconderse o viajar lejos. Mirarlas sin atraparlas es la mejor manera de disfrutarlas.",
+      "exercises": [
+        {
+          "id": "u5l3e1",
+          "type": "choice",
+          "prompt": "¿Por qué brillan de azul las alas del morfo?",
+          "options": [
+            "Por la forma diminuta de sus escamas, que rebota la luz azul",
+            "Porque tienen pintura azul por dentro",
+            "Porque reflejan el cielo como un espejo"
+          ],
+          "answer": 0,
+          "explanation": "El azul nace de la forma de las escamas, no de una pintura. Por eso brilla y cambia según cómo le dé la luz, como una pompa de jabón.",
+          "art": "morfo"
+        },
+        {
+          "id": "u5l3e2",
+          "type": "match",
+          "prompt": "Forma parejas: cada mariposa con lo que la distingue.",
+          "pairs": [
+            {
+              "left": "Morfo azul",
+              "right": "Alas de un azul brillante"
+            },
+            {
+              "left": "Mariposa 88",
+              "right": "Un 88 dibujado debajo de las alas"
+            },
+            {
+              "left": "Monarca",
+              "right": "Naranja con negro, y en Norteamérica viaja muy lejos"
+            }
+          ],
+          "explanation": "Mirando los colores y los dibujos de las alas se reconoce cada mariposa."
+        },
+        {
+          "id": "u5l3e3",
+          "type": "tapAll",
+          "prompt": "Toca todas las mariposas.",
+          "items": [
+            {
+              "art": "morfo",
+              "label": "Morfo azul",
+              "correct": true
+            },
+            {
+              "art": "mariposa_88",
+              "label": "Mariposa 88",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Monarca",
+              "correct": true
+            },
+            {
+              "art": "cocuyo",
+              "label": "Cocuyo",
+              "correct": false
+            },
+            {
+              "art": "abeja_angelita",
+              "label": "Angelita",
+              "correct": false
+            }
+          ],
+          "explanation": "Morfo, 88 y monarca tienen las alas cubiertas de escamas: son lepidópteros. El cocuyo es un escarabajo y la angelita, una abeja."
+        },
+        {
+          "id": "u5l3e4",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Cuando las monarcas viajan muy lejos cada año para escapar del frío, decimos que ___.",
+          "bank": [
+            "migran",
+            "duermen",
+            "mudan"
+          ],
+          "answers": [
+            "migran"
+          ],
+          "explanation": "Migrar es viajar de un lugar a otro según la época del año. Las monarcas de Norteamérica recorren miles de kilómetros hasta un lugar más cálido."
+        },
+        {
+          "id": "u5l3e5",
+          "type": "choice",
+          "prompt": "Cuando el morfo cierra las alas, ¿para qué le sirven los círculos que parecen ojos?",
+          "options": [
+            "Para confundir a los pájaros que quieren comérselo",
+            "Para ver mejor",
+            "Para hacer luz"
+          ],
+          "answer": 0,
+          "explanation": "No son ojos de verdad: son dibujos. Con las alas cerradas el morfo es marrón y se esconde, y si un pájaro lo ve, los «ojos» lo confunden.",
+          "art": "morfo"
+        }
+      ]
+    },
+    {
+      "id": "u5l4",
+      "title": "Abejas sin aguijón y bachacos",
+      "art": "bachaco",
+      "intro": "Hoy conocerás a dos trabajadoras de aquí: una abejita que no pica y una hormiga que cultiva su comida.",
+      "closing": "Angelitas y bachacos viven en grupo y cada uno hace su trabajo. Mirarlos de lejos es como ver una ciudad en miniatura.",
+      "exercises": [
+        {
+          "id": "u5l4e1",
+          "type": "order",
+          "prompt": "Ordena el trabajo de los bachacos.",
+          "steps": [
+            {
+              "art": "hoja",
+              "label": "Cortan un pedacito de hoja"
+            },
+            {
+              "art": "bachaco",
+              "label": "Lo llevan en fila hasta el nido"
+            },
+            {
+              "art": "hongo",
+              "label": "Con las hojas cultivan un hongo"
+            },
+            {
+              "art": "bachaco",
+              "label": "Se comen el hongo"
+            }
+          ],
+          "explanation": "Los bachacos no se comen las hojas: las usan para alimentar su huerto de hongos, y el hongo es su comida."
+        },
+        {
+          "id": "u5l4e2",
+          "type": "sort",
+          "prompt": "¿Angelita o bachaco? Pon cada cosa en su lugar.",
+          "bins": [
+            "Angelita",
+            "Bachaco"
+          ],
+          "sortItems": [
+            {
+              "label": "Hace miel",
+              "bin": 0
+            },
+            {
+              "label": "No puede picar",
+              "bin": 0
+            },
+            {
+              "label": "La entrada de su nido es un tubito de cera",
+              "bin": 0
+            },
+            {
+              "label": "Corta hojas",
+              "bin": 1
+            },
+            {
+              "label": "Cultiva un hongo",
+              "bin": 1
+            },
+            {
+              "label": "Puede morder fuerte",
+              "bin": 1
+            }
+          ],
+          "explanation": "La angelita es una abeja: hace miel en un nido con entrada de cera. El bachaco es una hormiga: corta hojas para su hongo y se defiende mordiendo."
+        },
+        {
+          "id": "u5l4e3",
+          "type": "choice",
+          "prompt": "¿Verdadero o falso? La angelita puede picar con su aguijón.",
+          "options": [
+            "Verdadero",
+            "Falso"
+          ],
+          "answer": 1,
+          "explanation": "Su aguijón es tan diminuto que no le sirve. Por eso a las angelitas y a sus primas se les llama abejas sin aguijón.",
+          "art": "abeja_angelita"
+        },
+        {
+          "id": "u5l4e4",
+          "type": "choice",
+          "prompt": "Ves una fila de bachacos cargando hojas. ¿Qué es mejor hacer?",
+          "options": [
+            "Mirarlos de lejos sin meter la mano",
+            "Agarrar uno para verlo de cerca",
+            "Ponerles un palito para que se desvíen"
+          ],
+          "answer": 0,
+          "explanation": "Los bachacos defienden su fila mordiendo fuerte. Desde lejos se ve igual de bien cómo trabajan, y nadie sale herido.",
+          "art": "bachaco"
+        },
+        {
+          "id": "u5l4e5",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Los bachacos son ___: cultivan un hongo para comer.",
+          "bank": [
+            "agricultores",
+            "cazadores",
+            "pescadores"
+          ],
+          "answers": [
+            "agricultores"
+          ],
+          "explanation": "Un agricultor siembra y cuida lo que va a comer. Los bachacos hacen lo mismo con su hongo, ¡desde mucho antes que las personas!"
+        }
+      ]
+    },
+    {
+      "id": "u5l5",
+      "title": "Gigantes y disfrazados",
+      "art": "escarabajo_hercules",
+      "intro": "En nuestros bosques vive un escarabajo gigante, un insecto que parece una ramita y una cazadora muy paciente.",
+      "closing": "Grandes o disfrazados, ninguno de los tres pica ni tiene veneno. Si te encuentras uno, obsérvalo con calma: ¡es un regalo del bosque!",
+      "exercises": [
+        {
+          "id": "u5l5e1",
+          "type": "spot",
+          "prompt": "Toca el cuerno del escarabajo hércules.",
+          "art": "escarabajo_hercules",
+          "spot": {
+            "x": 0.5,
+            "y": 0.2,
+            "r": 0.15,
+            "label": "El cuerno"
+          },
+          "explanation": "Solo los machos tienen cuernos. Los usan para empujar y levantar a otros machos, no para atacar a las personas."
+        },
+        {
+          "id": "u5l5e2",
+          "type": "label",
+          "prompt": "Pon cada nombre en su sitio.",
+          "art": "santateresa",
+          "slots": [
+            {
+              "id": "cabeza",
+              "label": "cabeza en triángulo",
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "id": "patas",
+              "label": "patas cazadoras",
+              "x": 0.36,
+              "y": 0.36
+            },
+            {
+              "id": "abdomen",
+              "label": "abdomen",
+              "x": 0.5,
+              "y": 0.8
+            }
+          ],
+          "explanation": "Las patas de delante tienen espinitas y se cierran rápido como una trampa. Su cabeza en triángulo gira para vigilar a sus presas."
+        },
+        {
+          "id": "u5l5e3",
+          "type": "match",
+          "prompt": "Forma parejas.",
+          "pairs": [
+            {
+              "left": "Escarabajo hércules",
+              "right": "De los escarabajos más grandes del mundo"
+            },
+            {
+              "left": "Palito",
+              "right": "Parece una ramita"
+            },
+            {
+              "left": "Santateresa",
+              "right": "Caza con sus patas de delante"
+            }
+          ],
+          "explanation": "Cada uno tiene su manera de vivir: el hércules es grande y fuerte, el palito se esconde y la santateresa espera para cazar."
+        },
+        {
+          "id": "u5l5e4",
+          "type": "choice",
+          "prompt": "¿Por qué el palito se mece despacio de un lado a otro?",
+          "options": [
+            "Para parecer una rama movida por el viento y que no lo vean",
+            "Porque está mareado",
+            "Para llamar a otros palitos"
+          ],
+          "answer": 0,
+          "explanation": "Una rama quieta no se mueve, pero con viento se mece. Al imitarla, los pájaros que buscan insectos no lo descubren.",
+          "art": "palito"
+        },
+        {
+          "id": "u5l5e5",
+          "type": "tapAll",
+          "prompt": "Toca los insectos que se disfrazan para que no los vean.",
+          "items": [
+            {
+              "art": "palito",
+              "label": "Palito",
+              "correct": true
+            },
+            {
+              "art": "santateresa",
+              "label": "Santateresa",
+              "correct": true
+            },
+            {
+              "art": "mariquita",
+              "label": "Mariquita",
+              "correct": false
+            },
+            {
+              "art": "cocuyo",
+              "label": "Cocuyo",
+              "correct": false
+            },
+            {
+              "art": "abeja",
+              "label": "Abeja",
+              "correct": false
+            }
+          ],
+          "explanation": "El palito parece una ramita y la santateresa es del color de las hojas. La mariquita, en cambio, tiene colores llamativos para avisar que sabe mal."
+        }
+      ]
+    },
+    {
+      "id": "u5l6",
+      "title": "Cuidar lo nuestro",
+      "art": "paisaje_selva",
+      "intro": "Los insectos de Venezuela son un tesoro, pero necesitan que los cuidemos. ¿Qué podemos hacer?",
+      "closing": "Cada flor que siembras y cada insecto que dejas libre ayuda. ¡Un guardabosques cuida lo nuestro!",
+      "exercises": [
+        {
+          "id": "u5l6e1",
+          "type": "sort",
+          "prompt": "¿Ayuda o hace daño? Pon cada cosa en su lugar.",
+          "bins": [
+            "Ayuda",
+            "Hace daño"
+          ],
+          "sortItems": [
+            {
+              "label": "Sembrar flores",
+              "bin": 0,
+              "art": "flor_rosa"
+            },
+            {
+              "label": "Dejar libres a los insectos",
+              "bin": 0
+            },
+            {
+              "label": "Enseñar a otros a no tenerles miedo",
+              "bin": 0
+            },
+            {
+              "label": "Echar veneno a todas las plantas",
+              "bin": 1
+            },
+            {
+              "label": "Quemar el bosque",
+              "bin": 1
+            },
+            {
+              "label": "Cortar los árboles del bosque",
+              "bin": 1
+            }
+          ],
+          "explanation": "Sin bosque, los insectos pierden su casa y su comida, y el veneno mata también a los que nos ayudan. Las flores, en cambio, les dan alimento."
+        },
+        {
+          "id": "u5l6e2",
+          "type": "match",
+          "prompt": "Forma parejas.",
+          "pairs": [
+            {
+              "left": "Canaima",
+              "right": "Tepuyes y el Salto Ángel"
+            },
+            {
+              "left": "Henri Pittier",
+              "right": "El primer parque nacional de Venezuela"
+            },
+            {
+              "left": "Parque nacional",
+              "right": "Lugar donde la naturaleza se cuida por ley"
+            }
+          ],
+          "explanation": "En los parques nacionales no se puede cortar ni quemar el bosque, y así los insectos y los demás seres vivos tienen un hogar seguro."
+        },
+        {
+          "id": "u5l6e3",
+          "type": "choice",
+          "prompt": "¿Por qué cortar el bosque pone en peligro a los insectos?",
+          "options": [
+            "Porque pierden su casa y su comida",
+            "Porque les da mucho frío",
+            "Porque se quedan sin luz eléctrica"
+          ],
+          "answer": 0,
+          "explanation": "Muchos insectos viven y comen en un solo tipo de planta o de árbol. Si el bosque desaparece, no tienen a dónde ir.",
+          "art": "paisaje_selva"
+        },
+        {
+          "id": "u5l6e4",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "El veneno para plagas también mata a las ___, que polinizan las flores.",
+          "bank": [
+            "abejas",
+            "piedras",
+            "nubes"
+          ],
+          "answers": [
+            "abejas"
+          ],
+          "explanation": "El veneno no sabe cuál insecto es plaga y cuál es amigo: mata a todos los que toca, también a las abejas y las mariposas."
+        },
+        {
+          "id": "u5l6e5",
+          "type": "choice",
+          "prompt": "¿Verdadero o falso? Por el paso de Portachuelo, en el parque Henri Pittier, cruzan cada año muchísimos insectos y aves.",
+          "options": [
+            "Verdadero",
+            "Falso"
+          ],
+          "answer": 0,
+          "explanation": "Portachuelo es un paso bajo entre las montañas, y por ahí es más fácil cruzarlas. Por eso tantos insectos y aves lo usan en sus viajes.",
+          "art": "paisaje_andes"
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u5exam",
+    "title": "Reto de la unidad",
+    "art": "cocuyo",
+    "intro": "¡Hora del reto! Recorre otra vez Venezuela y demuestra cuánto sabes de nuestros insectos.",
+    "closing": "¡Muy bien, guardabosques! Ya conoces los insectos de aquí y sabes cómo cuidarlos.",
+    "exercises": [
+      {
+        "id": "u5x1",
+        "type": "choice",
+        "prompt": "Escucha. ¿Quién hace este zumbido al volar de flor en flor?",
+        "options": [
+          "Una abeja",
+          "Un palito",
+          "Una santateresa"
+        ],
+        "answer": 0,
+        "explanation": "Las abejas baten sus alas muy rápido, cientos de veces por segundo, y eso hace el zumbido. Los abejorros del páramo también zumban al visitar las flores del frailejón.",
+        "sound": "abeja"
+      },
+      {
+        "id": "u5x2",
+        "type": "choice",
+        "prompt": "¿Dónde tiene el cocuyo sus dos luces verdes?",
+        "options": [
+          "En el tórax",
+          "En la punta del abdomen",
+          "En las antenas"
+        ],
+        "answer": 0,
+        "explanation": "Las lleva en el tórax, como dos faroles. La luz en la punta del abdomen es la de la luciérnaga.",
+        "art": "cocuyo"
+      },
+      {
+        "id": "u5x3",
+        "type": "match",
+        "prompt": "Forma parejas.",
+        "pairs": [
+          {
+            "left": "Angelita",
+            "right": "Abejita sin aguijón que hace miel"
+          },
+          {
+            "left": "Bachaco",
+            "right": "Corta hojas para cultivar un hongo"
+          },
+          {
+            "left": "Santateresa",
+            "right": "Caza con sus patas de delante"
+          }
+        ],
+        "explanation": "Cada insecto tiene su trabajo: la angelita poliniza y hace miel, el bachaco cultiva y la santateresa caza."
+      },
+      {
+        "id": "u5x4",
+        "type": "sort",
+        "prompt": "¿Escarabajo o mariposa?",
+        "bins": [
+          "Escarabajo",
+          "Mariposa"
+        ],
+        "sortItems": [
+          {
+            "label": "Cocuyo",
+            "bin": 0,
+            "art": "cocuyo"
+          },
+          {
+            "label": "Escarabajo hércules",
+            "bin": 0,
+            "art": "escarabajo_hercules"
+          },
+          {
+            "label": "Luciérnaga",
+            "bin": 0,
+            "art": "luciernaga"
+          },
+          {
+            "label": "Morfo azul",
+            "bin": 1,
+            "art": "morfo"
+          },
+          {
+            "label": "Mariposa 88",
+            "bin": 1,
+            "art": "mariposa_88"
+          },
+          {
+            "label": "Monarca",
+            "bin": 1,
+            "art": "mariposa"
+          }
+        ],
+        "explanation": "Los escarabajos tienen élitros, alas duras como un estuche. Las mariposas tienen alas cubiertas de escamas."
+      },
+      {
+        "id": "u5x5",
+        "type": "fill",
+        "prompt": "Completa la frase.",
+        "sentence": "El azul del morfo no es pintura: nace de la forma de sus ___.",
+        "bank": [
+          "escamas",
+          "plumas",
+          "patas"
+        ],
+        "answers": [
+          "escamas"
+        ],
+        "explanation": "Las escamas diminutas de sus alas rebotan la luz azul. Por eso el azul brilla y cambia cuando el morfo se mueve."
+      },
+      {
+        "id": "u5x6",
+        "type": "choice",
+        "prompt": "¿Verdadero o falso? El palito parece una ramita para que los pájaros no lo vean.",
+        "options": [
+          "Verdadero",
+          "Falso"
+        ],
+        "answer": 0,
+        "explanation": "Su disfraz es su defensa: no pica ni muerde, así que su mejor truco es que nadie lo descubra.",
+        "art": "palito"
+      },
+      {
+        "id": "u5x7",
+        "type": "tapAll",
+        "prompt": "Toca lo que ayuda a cuidar a los insectos de Venezuela.",
+        "items": [
+          {
+            "art": "flor_rosa",
+            "label": "Sembrar flores",
+            "correct": true
+          },
+          {
+            "art": "paisaje_selva",
+            "label": "Cuidar los parques nacionales",
+            "correct": true
+          },
+          {
+            "art": "hoja",
+            "label": "Echar veneno a las hojas",
+            "correct": false
+          },
+          {
+            "art": "mariposa",
+            "label": "Atrapar mariposas en un frasco",
+            "correct": false
+          }
+        ],
+        "explanation": "Las flores les dan comida y los parques les dan un hogar seguro. El veneno y los frascos, en cambio, les hacen daño."
+      },
+      {
+        "id": "u5x8",
+        "type": "choice",
+        "prompt": "¿Qué comen los bachacos?",
+        "options": [
+          "Un hongo que cultivan con hojas",
+          "Las hojas que cortan",
+          "Miel de angelita"
+        ],
+        "answer": 0,
+        "explanation": "Parece que comen hojas, pero no: las hojas son el abono de su huerto de hongos, y el hongo es lo que comen.",
+        "art": "bachaco"
+      },
+      {
+        "id": "u5x9",
+        "type": "fill",
+        "prompt": "Completa la frase.",
+        "sentence": "Venezuela es un país ___: tiene muchísimas clases de seres vivos.",
+        "bank": [
+          "megadiverso",
+          "pequeño",
+          "helado"
+        ],
+        "answers": [
+          "megadiverso"
+        ],
+        "explanation": "Sus llanos, montañas, selvas, costas e islas dan casa a muchísimos seres vivos distintos."
+      },
+      {
+        "id": "u5x10",
+        "type": "match",
+        "prompt": "Forma parejas: cada lugar con lo que hay allí.",
+        "pairs": [
+          {
+            "left": "Canaima",
+            "right": "El Salto Ángel"
+          },
+          {
+            "left": "Páramo andino",
+            "right": "Abejorros en el frailejón"
+          },
+          {
+            "left": "Llanos",
+            "right": "Lagunas en la época de lluvias"
+          }
+        ],
+        "explanation": "Cada rincón de Venezuela es distinto, y por eso cada uno tiene su propia vida."
+      }
+    ]
+  }
+}

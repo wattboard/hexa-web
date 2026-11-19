@@ -1,0 +1,908 @@
+{
+  "id": "u7",
+  "order": 7,
+  "title": "The web of life",
+  "intro": "Every insect is a thread in a great web. If one breaks, the others feel it.",
+  "lessons": [
+    {
+      "id": "u7l1",
+      "title": "Who eats whom?",
+      "art": "oruga",
+      "intro": "What does a frog eat? What does a bird feed its chicks? Let's follow the trail of food.",
+      "closing": "Plants feed insects, and insects feed lots and lots of animals. They're a very important thread in the web!",
+      "exercises": [
+        {
+          "id": "u7l1e1",
+          "type": "order",
+          "prompt": "Put the food chain in order, from first to last.",
+          "steps": [
+            {
+              "art": "hoja",
+              "label": "Plant"
+            },
+            {
+              "art": "oruga",
+              "label": "Caterpillar"
+            },
+            {
+              "art": "pajaro",
+              "label": "Bird"
+            }
+          ],
+          "explanation": "The plant comes first, because it makes its food from sunlight; the caterpillar eats its leaves and the bird eats the caterpillar."
+        },
+        {
+          "id": "u7l1e2",
+          "type": "choice",
+          "prompt": "Listen. Who's making that sound?",
+          "options": [
+            "A cricket",
+            "A frog",
+            "A bee"
+          ],
+          "answer": 1,
+          "explanation": "It's a frog croaking. Frogs sing near water, especially at dusk, and they catch insects with their sticky tongues.",
+          "sound": "rana"
+        },
+        {
+          "id": "u7l1e3",
+          "type": "tapAll",
+          "prompt": "Tap the animals that eat insects.",
+          "items": [
+            {
+              "art": "pajaro",
+              "label": "Bird",
+              "correct": true
+            },
+            {
+              "art": "rana",
+              "label": "Frog",
+              "correct": true
+            },
+            {
+              "art": "santateresa",
+              "label": "Praying mantis",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Butterfly",
+              "correct": false
+            },
+            {
+              "art": "hoja",
+              "label": "Plant",
+              "correct": false
+            }
+          ],
+          "explanation": "Birds, frogs and mantises hunt insects. A grown-up butterfly drinks nectar, and a plant makes its food from sunlight."
+        },
+        {
+          "id": "u7l1e4",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Every food chain starts with a ___, which makes its food from the light of the ___.",
+          "bank": [
+            "plant",
+            "rock",
+            "sun",
+            "moon"
+          ],
+          "answers": [
+            "plant",
+            "sun"
+          ],
+          "explanation": "Plants are the only ones in the chain that make their own food, from sunlight; everyone else eats someone else."
+        },
+        {
+          "id": "u7l1e5",
+          "type": "match",
+          "prompt": "Match each animal with what it eats.",
+          "pairs": [
+            {
+              "left": "Caterpillar",
+              "right": "Chews leaves"
+            },
+            {
+              "left": "Frog",
+              "right": "Catches insects with its tongue"
+            },
+            {
+              "left": "Bat",
+              "right": "Hunts insects at night"
+            },
+            {
+              "left": "Bird",
+              "right": "Takes caterpillars to its chicks"
+            }
+          ],
+          "explanation": "Each one eats something different, and that's what makes a web: the leaf feeds the caterpillar, and the caterpillar feeds the bird."
+        }
+      ]
+    },
+    {
+      "id": "u7l2",
+      "title": "The flower and the bee",
+      "art": "abeja",
+      "intro": "Flowers and bees are great partners: one gives food and the other carries pollen. Let's see how.",
+      "closing": "Every time you eat a fruit, remember it was once a flower visited by an insect. Thank you, pollinators!",
+      "exercises": [
+        {
+          "id": "u7l2e1",
+          "type": "label",
+          "prompt": "Put each name in its place.",
+          "art": "flor_partes",
+          "slots": [
+            {
+              "id": "petalo",
+              "label": "petal",
+              "x": 0.2,
+              "y": 0.35
+            },
+            {
+              "id": "estambre",
+              "label": "stamen",
+              "x": 0.62,
+              "y": 0.22
+            },
+            {
+              "id": "pistilo",
+              "label": "pistil",
+              "x": 0.5,
+              "y": 0.12
+            },
+            {
+              "id": "tallo",
+              "label": "stem",
+              "x": 0.5,
+              "y": 0.85
+            }
+          ],
+          "explanation": "The pistil is right in the middle, surrounded by stamens with pollen; the colorful petals go all around, and the stem holds it up from below."
+        },
+        {
+          "id": "u7l2e2",
+          "type": "match",
+          "prompt": "Match each part with its job.",
+          "pairs": [
+            {
+              "left": "Petals",
+              "right": "Attract insects with their color"
+            },
+            {
+              "left": "Stamens",
+              "right": "Hold the pollen"
+            },
+            {
+              "left": "Pistil",
+              "right": "Where the fruit and seeds grow"
+            },
+            {
+              "left": "Stem",
+              "right": "Holds the flower up and brings it water"
+            }
+          ],
+          "explanation": "Each part has its task: the petals call the insect, the stamens give it pollen and the pistil receives it to make the fruit."
+        },
+        {
+          "id": "u7l2e3",
+          "type": "order",
+          "prompt": "Put in order how the bee pollinates.",
+          "steps": [
+            {
+              "art": "flor_rosa",
+              "label": "It reaches a flower, drawn by its color and scent"
+            },
+            {
+              "art": "abeja",
+              "label": "It drinks nectar and pollen sticks to its hairs"
+            },
+            {
+              "art": "flor_partes",
+              "label": "It visits another flower of the same kind and leaves pollen on the pistil"
+            }
+          ],
+          "explanation": "First the flower attracts it, then pollen sticks to it while it feeds and, when it visits another flower of the same kind, it leaves pollen on the pistil."
+        },
+        {
+          "id": "u7l2e4",
+          "type": "choice",
+          "prompt": "Why do flowers have bright colors and a nice scent?",
+          "options": [
+            "To scare birds away",
+            "To attract the insects that pollinate them",
+            "So they don't dry out"
+          ],
+          "answer": 1,
+          "explanation": "From far away, the insect sees the color and smells the scent; when it arrives it finds nectar and, along the way, carries pollen to another flower."
+        },
+        {
+          "id": "u7l2e5",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "The bee leaves ___ on another flower's pistil, and that's how the ___ and the seeds form.",
+          "bank": [
+            "pollen",
+            "water",
+            "fruit",
+            "stem"
+          ],
+          "answers": [
+            "pollen",
+            "fruit"
+          ],
+          "explanation": "When pollen reaches the pistil of a flower of the same kind, the flower can turn into a fruit with seeds: that's pollination."
+        }
+      ]
+    },
+    {
+      "id": "u7l3",
+      "title": "The recyclers",
+      "art": "escarabajo",
+      "intro": "Every day piles of leaves and branches fall to the forest floor. Why don't they cover everything? Thanks to the recyclers.",
+      "closing": "Recyclers turn old things into new soil so more plants can grow. They work for everyone, nonstop!",
+      "exercises": [
+        {
+          "id": "u7l3e1",
+          "type": "tapAll",
+          "prompt": "Tap the recyclers.",
+          "items": [
+            {
+              "art": "escarabajo",
+              "label": "Beetle",
+              "correct": true
+            },
+            {
+              "art": "mosca",
+              "label": "Fly (its larvae)",
+              "correct": true
+            },
+            {
+              "art": "hongo",
+              "label": "Fungus",
+              "correct": true
+            },
+            {
+              "art": "hormiga",
+              "label": "Ant",
+              "correct": true
+            },
+            {
+              "art": "libelula",
+              "label": "Dragonfly",
+              "correct": false
+            },
+            {
+              "art": "abeja",
+              "label": "Bee",
+              "correct": false
+            }
+          ],
+          "explanation": "Beetles, fly larvae, ants and fungi eat leftovers and break them down. The dragonfly hunts live insects and the bee pollinates flowers."
+        },
+        {
+          "id": "u7l3e2",
+          "type": "sort",
+          "prompt": "Put each recycler in its box.",
+          "bins": [
+            "Insect recycler",
+            "Recycler that isn't an insect"
+          ],
+          "sortItems": [
+            {
+              "label": "Beetle",
+              "bin": 0,
+              "art": "escarabajo"
+            },
+            {
+              "label": "Fly",
+              "bin": 0,
+              "art": "mosca"
+            },
+            {
+              "label": "Termite",
+              "bin": 0,
+              "art": "comejen"
+            },
+            {
+              "label": "Fungus",
+              "bin": 1,
+              "art": "hongo"
+            },
+            {
+              "label": "Earthworm",
+              "bin": 1
+            }
+          ],
+          "explanation": "Insects have six legs. A fungus isn't an animal and an earthworm is a worm with no legs, but both recycle too."
+        },
+        {
+          "id": "u7l3e3",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Recyclers ___ leftovers and turn them into ___ soil.",
+          "bank": [
+            "break down",
+            "paint",
+            "new",
+            "salty"
+          ],
+          "answers": [
+            "break down",
+            "new"
+          ],
+          "explanation": "By eating leftovers they break them into smaller and smaller pieces, until they become soil again, with food for plants."
+        },
+        {
+          "id": "u7l3e4",
+          "type": "choice",
+          "prompt": "What would happen in the forest without recyclers?",
+          "options": [
+            "There would be mountains of leaves and the soil would have less food for plants",
+            "There would be more flowers",
+            "Nothing"
+          ],
+          "answer": 0,
+          "explanation": "Nobody would break the leftovers down: they would pile up and never go back to the soil as food for new plants."
+        },
+        {
+          "id": "u7l3e5",
+          "type": "choice",
+          "prompt": "True or false? A fungus is an insect.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "False: a fungus has no legs and isn't even an animal; it's a group of its own. But it recycles just like beetles do."
+        }
+      ]
+    },
+    {
+      "id": "u7l4",
+      "title": "Hide and trick",
+      "art": "palito",
+      "intro": "Most insects can't fight a bird. So how do they survive? With disguises and tricks!",
+      "closing": "Hiding, dressing up or warning: every insect has its trick to stay alive. Now you know how to spot them!",
+      "exercises": [
+        {
+          "id": "u7l4e1",
+          "type": "spot",
+          "prompt": "Where is the stick insect hiding?",
+          "art": "palito",
+          "spot": {
+            "x": 0.5,
+            "y": 0.5,
+            "r": 0.25,
+            "label": "Stick insect"
+          },
+          "explanation": "Its long, thin, brown body looks like a twig: that's camouflage. That way birds go right past without seeing it."
+        },
+        {
+          "id": "u7l4e2",
+          "type": "sort",
+          "prompt": "Put each insect in the box for its trick.",
+          "bins": [
+            "Camouflage: hides",
+            "Mimicry: dresses up as another",
+            "Warning colors"
+          ],
+          "sortItems": [
+            {
+              "label": "Stick insect",
+              "bin": 0,
+              "art": "palito"
+            },
+            {
+              "label": "Praying mantis",
+              "bin": 0,
+              "art": "santateresa"
+            },
+            {
+              "label": "Caterpillar that looks like a twig",
+              "bin": 0,
+              "art": "oruga"
+            },
+            {
+              "label": "Fly with wasp stripes",
+              "bin": 1,
+              "art": "mosca"
+            },
+            {
+              "label": "Butterfly that copies a bad-tasting one",
+              "bin": 1,
+              "art": "mariposa"
+            },
+            {
+              "label": "Ladybug",
+              "bin": 2,
+              "art": "mariquita"
+            }
+          ],
+          "explanation": "Camouflaged ones look like twigs or leaves; mimics look like another animal that stings or tastes bad; and the ladybug does the opposite: it lets itself be seen as a warning."
+        },
+        {
+          "id": "u7l4e3",
+          "type": "match",
+          "prompt": "Match each trick with what it achieves.",
+          "pairs": [
+            {
+              "left": "Camouflage",
+              "right": "Not being seen"
+            },
+            {
+              "left": "Mimicry",
+              "right": "Being mistaken for another animal"
+            },
+            {
+              "left": "Warning colors",
+              "right": "Saying “I taste bad, don't eat me”"
+            }
+          ],
+          "explanation": "All three tricks do the same job, keeping them from being eaten, but each one works in a different way."
+        },
+        {
+          "id": "u7l4e4",
+          "type": "choice",
+          "prompt": "On a flower you see a fly with yellow and black stripes. Why does it look like a wasp?",
+          "options": [
+            "Because it is a wasp",
+            "To warm up in the sun",
+            "So birds think it stings and don't eat it"
+          ],
+          "answer": 2,
+          "explanation": "It's mimicry: the flower fly doesn't sting, but birds learn to avoid wasp stripes, so they leave it alone.",
+          "art": "mosca"
+        },
+        {
+          "id": "u7l4e5",
+          "type": "choice",
+          "prompt": "What does camouflage do for the praying mantis?",
+          "options": [
+            "It hides it from birds and helps it surprise the insects it hunts",
+            "It lets others see it from far away",
+            "It helps it make honey"
+          ],
+          "answer": 0,
+          "explanation": "Still among the leaves, birds don't see it and insects don't see their hunter until it's too late.",
+          "art": "santateresa"
+        }
+      ]
+    },
+    {
+      "id": "u7l5",
+      "title": "Teamwork",
+      "art": "hormiga",
+      "intro": "One ant alone can't build an anthill, but thousands together can. Let's meet the insects that live as a team.",
+      "closing": "In a colony everyone does their part and everyone wins. Just like a good class team!",
+      "exercises": [
+        {
+          "id": "u7l5e1",
+          "type": "tapAll",
+          "prompt": "Tap the insects that live in colonies.",
+          "items": [
+            {
+              "art": "abeja",
+              "label": "Honey bee",
+              "correct": true
+            },
+            {
+              "art": "hormiga",
+              "label": "Ant",
+              "correct": true
+            },
+            {
+              "art": "comejen",
+              "label": "Termite",
+              "correct": true
+            },
+            {
+              "art": "bachaco",
+              "label": "Leafcutter ant",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Butterfly",
+              "correct": false
+            },
+            {
+              "art": "saltamontes",
+              "label": "Grasshopper",
+              "correct": false
+            }
+          ],
+          "explanation": "Honey bees, ants, leafcutter ants and termites live in huge families with a queen. Butterflies and grasshoppers live on their own."
+        },
+        {
+          "id": "u7l5e2",
+          "type": "match",
+          "prompt": "Match each colony member with its job.",
+          "pairs": [
+            {
+              "left": "Queen",
+              "right": "Lays the eggs"
+            },
+            {
+              "left": "Workers",
+              "right": "Find food and care for the young"
+            },
+            {
+              "left": "Soldiers",
+              "right": "Defend the nest"
+            }
+          ],
+          "explanation": "They share the work: the queen only lays eggs, so the workers feed her and the young, and the big-headed soldiers guard the entrance."
+        },
+        {
+          "id": "u7l5e3",
+          "type": "choice",
+          "prompt": "Why does the leafcutter ant cut leaves and take them to its nest?",
+          "options": [
+            "To make a bed",
+            "To grow a fungus on them, which is its food",
+            "To eat them whole"
+          ],
+          "answer": 1,
+          "explanation": "The leafcutter ant is a farmer: it can't digest leaves well, so it uses them to grow a fungus in the nest, and eats the fungus.",
+          "art": "bachaco"
+        },
+        {
+          "id": "u7l5e4",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Some ants ___ aphids, and the aphids give them ___ drops.",
+          "bank": [
+            "protect",
+            "scare",
+            "sweet",
+            "salty"
+          ],
+          "answers": [
+            "protect",
+            "sweet"
+          ],
+          "explanation": "It's a deal between species: the ants protect the aphids from their enemies and, in return, drink the sweet drops the aphids give off."
+        },
+        {
+          "id": "u7l5e5",
+          "type": "choice",
+          "prompt": "True or false? Termites live in a colony with a queen and also a king.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "True: in termite colonies, the queen and king live together in the nest for many years. Bees and ants have no king: only the queen lays the eggs.",
+          "art": "comejen"
+        }
+      ]
+    },
+    {
+      "id": "u7l6",
+      "title": "If insects disappear",
+      "art": "pajaro",
+      "intro": "You already know many threads of the web. What would happen if the insect threads broke?",
+      "closing": "Without insects, the whole web goes slack. That's why caring for them means caring for fruit, birds and soil. You can help!",
+      "exercises": [
+        {
+          "id": "u7l6e1",
+          "type": "sort",
+          "prompt": "Who carries its pollen? Put each plant in its box.",
+          "bins": [
+            "Insects",
+            "The wind"
+          ],
+          "sortItems": [
+            {
+              "label": "Mango",
+              "bin": 0
+            },
+            {
+              "label": "Passion fruit",
+              "bin": 0
+            },
+            {
+              "label": "Cacao (chocolate)",
+              "bin": 0
+            },
+            {
+              "label": "Watermelon",
+              "bin": 0
+            },
+            {
+              "label": "Corn",
+              "bin": 1
+            },
+            {
+              "label": "Rice",
+              "bin": 1
+            }
+          ],
+          "explanation": "Mango, passion fruit, cacao and watermelon flowers need insects to carry their pollen. Corn and rice have flowers without showy petals because the wind carries their pollen."
+        },
+        {
+          "id": "u7l6e2",
+          "type": "match",
+          "prompt": "Match them up: if we lost…",
+          "pairs": [
+            {
+              "left": "Pollinators",
+              "right": "There would be few fruits and no chocolate"
+            },
+            {
+              "left": "Recyclers",
+              "right": "Leaves and leftovers would pile up"
+            },
+            {
+              "left": "Insects that are food",
+              "right": "Many birds and frogs would go hungry"
+            }
+          ],
+          "explanation": "Each group of insects holds up a part of the web: without it, the part that depended on its work falls apart."
+        },
+        {
+          "id": "u7l6e3",
+          "type": "choice",
+          "prompt": "Who pollinates the cacao flower, which chocolate comes from?",
+          "options": [
+            "The wind",
+            "Tiny midges",
+            "Big butterflies"
+          ],
+          "answer": 1,
+          "explanation": "The cacao flower is tiny, and it's visited by tiny midges that fit inside it. Without them, there would be no cacao beans."
+        },
+        {
+          "id": "u7l6e4",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "To help insects, we can plant ___ and not spray ___ everywhere.",
+          "bank": [
+            "flowers",
+            "cement",
+            "poison",
+            "water"
+          ],
+          "answers": [
+            "flowers",
+            "poison"
+          ],
+          "explanation": "Flowers give nectar and pollen to pollinators, and poison can't tell the difference: it also kills the insects that help us."
+        },
+        {
+          "id": "u7l6e5",
+          "type": "choice",
+          "prompt": "Why would many birds go hungry without insects?",
+          "options": [
+            "Because they feed their chicks insects",
+            "Because insects build their nests",
+            "Because insects teach them to fly"
+          ],
+          "answer": 0,
+          "explanation": "Caterpillars and other insects are soft and full of nutrients: many birds hunt them to raise their chicks.",
+          "art": "pajaro"
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u7exam",
+    "title": "Unit challenge",
+    "art": "paquito",
+    "intro": "Web of life challenge! Show that you know how all the threads are tied together.",
+    "closing": "Well done, ranger! Now you know that every insect, however small, holds up a thread in the web of life.",
+    "exercises": [
+      {
+        "id": "u7x1",
+        "type": "order",
+        "prompt": "Put the food chain in order, from first to last.",
+        "steps": [
+          {
+            "art": "hoja",
+            "label": "Plant"
+          },
+          {
+            "art": "saltamontes",
+            "label": "Grasshopper"
+          },
+          {
+            "art": "rana",
+            "label": "Frog"
+          }
+        ],
+        "explanation": "The plant makes its food from sunlight, the grasshopper eats the plant and the frog catches the grasshopper with its tongue."
+      },
+      {
+        "id": "u7x2",
+        "type": "label",
+        "prompt": "Put each name in its place.",
+        "art": "flor_partes",
+        "slots": [
+          {
+            "id": "petalo",
+            "label": "petal",
+            "x": 0.2,
+            "y": 0.35
+          },
+          {
+            "id": "estambre",
+            "label": "stamen",
+            "x": 0.62,
+            "y": 0.22
+          },
+          {
+            "id": "pistilo",
+            "label": "pistil",
+            "x": 0.5,
+            "y": 0.12
+          },
+          {
+            "id": "tallo",
+            "label": "stem",
+            "x": 0.5,
+            "y": 0.85
+          }
+        ],
+        "explanation": "The pistil, in the middle, receives the pollen; the stamens around it hold it; the petals attract insects and the stem holds the flower up."
+      },
+      {
+        "id": "u7x3",
+        "type": "spot",
+        "prompt": "Where is the stick insect hiding?",
+        "art": "palito",
+        "spot": {
+          "x": 0.5,
+          "y": 0.5,
+          "r": 0.25,
+          "label": "Stick insect"
+        },
+        "explanation": "It's hard to see because it looks like just another twig: that's its camouflage against birds."
+      },
+      {
+        "id": "u7x4",
+        "type": "choice",
+        "prompt": "Listen. Who's making that sound?",
+        "options": [
+          "A frog",
+          "A bee",
+          "A cricket"
+        ],
+        "answer": 1,
+        "explanation": "It's a bee buzzing: the sound comes from its wings, which beat super fast as it flies from flower to flower carrying pollen.",
+        "sound": "abeja"
+      },
+      {
+        "id": "u7x5",
+        "type": "sort",
+        "prompt": "Put each one in its box.",
+        "bins": [
+          "Pollinates",
+          "Recycles"
+        ],
+        "sortItems": [
+          {
+            "label": "Bee",
+            "bin": 0,
+            "art": "abeja"
+          },
+          {
+            "label": "Butterfly",
+            "bin": 0,
+            "art": "mariposa"
+          },
+          {
+            "label": "Angelita bee",
+            "bin": 0,
+            "art": "abeja_angelita"
+          },
+          {
+            "label": "Termite",
+            "bin": 1,
+            "art": "comejen"
+          },
+          {
+            "label": "Fungus",
+            "bin": 1,
+            "art": "hongo"
+          }
+        ],
+        "explanation": "Bees and butterflies carry pollen while looking for nectar; termites eat dead wood and fungi break down leftovers, so both make new soil."
+      },
+      {
+        "id": "u7x6",
+        "type": "match",
+        "prompt": "Match each insect with its trick.",
+        "pairs": [
+          {
+            "left": "Stick insect",
+            "right": "Camouflage: looks like a twig"
+          },
+          {
+            "left": "Flower fly",
+            "right": "Mimicry: looks like a wasp"
+          },
+          {
+            "left": "Ladybug",
+            "right": "Warning colors: tastes bad"
+          }
+        ],
+        "explanation": "One hides, one dresses up as something that stings and the other warns with bright colors: three ways not to get eaten."
+      },
+      {
+        "id": "u7x7",
+        "type": "choice",
+        "prompt": "What does the queen do in a bee colony?",
+        "options": [
+          "She lays the eggs",
+          "She defends the nest all by herself",
+          "She grows fungi"
+        ],
+        "answer": 0,
+        "explanation": "The queen lays all the colony's eggs; the workers find food, care for the young and defend the hive.",
+        "art": "abeja"
+      },
+      {
+        "id": "u7x8",
+        "type": "fill",
+        "prompt": "Complete the sentence.",
+        "sentence": "Pollinators carry ___ from flower to flower, and recyclers turn leftovers into new ___.",
+        "bank": [
+          "pollen",
+          "water",
+          "soil",
+          "sand"
+        ],
+        "answers": [
+          "pollen",
+          "soil"
+        ],
+        "explanation": "Thanks to the pollen they carry, flowers make fruit; and thanks to recyclers, leftovers become soil full of food again."
+      },
+      {
+        "id": "u7x9",
+        "type": "tapAll",
+        "prompt": "Tap the animals that eat insects.",
+        "items": [
+          {
+            "art": "rana",
+            "label": "Frog",
+            "correct": true
+          },
+          {
+            "art": "pajaro",
+            "label": "Bird",
+            "correct": true
+          },
+          {
+            "art": "santateresa",
+            "label": "Praying mantis",
+            "correct": true
+          },
+          {
+            "art": "abeja",
+            "label": "Bee",
+            "correct": false
+          },
+          {
+            "art": "flor_rosa",
+            "label": "Flower",
+            "correct": false
+          }
+        ],
+        "explanation": "Frogs, birds and mantises hunt insects. Bees eat nectar and pollen, and a flower is a plant: it makes its food from sunlight."
+      },
+      {
+        "id": "u7x10",
+        "type": "choice",
+        "prompt": "True or false? If insects disappeared, the whole web of life would feel it.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 0,
+        "explanation": "True: there would be fewer fruits, leftovers would pile up and many birds and frogs would go hungry."
+      }
+    ]
+  }
+}

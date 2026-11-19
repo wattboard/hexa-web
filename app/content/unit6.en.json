@@ -1,0 +1,942 @@
+{
+  "id": "u6",
+  "order": 6,
+  "title": "The insects' cousins",
+  "intro": "Not every little critter is an insect. Let's meet their cousins —spiders, scorpions, centipedes, millipedes and pill bugs— and learn not to be afraid of them.",
+  "lessons": [
+    {
+      "id": "u6l1",
+      "title": "Arthropods: one big family",
+      "art": "ciempies",
+      "intro": "Not every little critter is an insect. Today you'll meet the big arthropod family… and learn to count legs!",
+      "closing": "Insects, spiders, scorpions, centipedes, millipedes and pill bugs are cousins: they all wear their skeleton on the outside. Counting legs tells you who's who!",
+      "exercises": [
+        {
+          "id": "u6l1e1",
+          "type": "match",
+          "prompt": "Make pairs: match each animal with its legs.",
+          "pairs": [
+            {
+              "left": "Insect",
+              "right": "6 legs"
+            },
+            {
+              "left": "Spider",
+              "right": "8 legs"
+            },
+            {
+              "left": "Pill bug",
+              "right": "14 legs"
+            },
+            {
+              "left": "Centipede",
+              "right": "Lots and lots of legs"
+            }
+          ],
+          "explanation": "Counting legs is the quickest clue to who's who: 6 means an insect, 8 a spider, 14 a pill bug, and lots and lots, a centipede or a millipede."
+        },
+        {
+          "id": "u6l1e2",
+          "type": "choice",
+          "prompt": "What do all arthropods have in common?",
+          "options": [
+            "A skeleton on the outside and jointed legs",
+            "Wings and antennae",
+            "Fur and feathers"
+          ],
+          "answer": 0,
+          "explanation": "That's why they're one family: they wear armor on the outside and their legs bend in sections. Only many insects have wings, and spiders don't even have antennae."
+        },
+        {
+          "id": "u6l1e3",
+          "type": "tapAll",
+          "prompt": "Tap the ones that are arthropods.",
+          "items": [
+            {
+              "art": "saltamontes",
+              "label": "Grasshopper",
+              "correct": true
+            },
+            {
+              "art": "arana",
+              "label": "Spider",
+              "correct": true
+            },
+            {
+              "art": "rana",
+              "label": "Frog",
+              "correct": false
+            },
+            {
+              "art": "ciempies",
+              "label": "Centipede",
+              "correct": true
+            },
+            {
+              "art": "cochinita",
+              "label": "Pill bug",
+              "correct": true
+            },
+            {
+              "art": "pajaro",
+              "label": "Bird",
+              "correct": false
+            }
+          ],
+          "explanation": "The frog and the bird have their skeleton on the inside, like us, so they aren't arthropods. The other four wear their armor on the outside and have jointed legs."
+        },
+        {
+          "id": "u6l1e4",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "To grow, arthropods ___ their skeleton, because they have it ___.",
+          "bank": [
+            "shed",
+            "paint",
+            "on the outside",
+            "on the inside"
+          ],
+          "answers": [
+            "shed",
+            "on the outside"
+          ],
+          "explanation": "Hard armor can't stretch: so they take off the old one and a new, bigger one grows underneath. That's shedding, or molting."
+        },
+        {
+          "id": "u6l1e5",
+          "type": "sort",
+          "prompt": "Count legs and put each one in its box.",
+          "bins": [
+            "6 legs: insect",
+            "8 legs: arachnid",
+            "More than 8 legs"
+          ],
+          "sortItems": [
+            {
+              "label": "Bee",
+              "bin": 0,
+              "art": "abeja"
+            },
+            {
+              "label": "Ladybug",
+              "bin": 0,
+              "art": "mariquita"
+            },
+            {
+              "label": "Spider",
+              "bin": 1,
+              "art": "arana"
+            },
+            {
+              "label": "Scorpion",
+              "bin": 1,
+              "art": "alacran"
+            },
+            {
+              "label": "Centipede",
+              "bin": 2,
+              "art": "ciempies"
+            },
+            {
+              "label": "Millipede",
+              "bin": 2,
+              "art": "milpies"
+            },
+            {
+              "label": "Pill bug",
+              "bin": 2,
+              "art": "cochinita"
+            }
+          ],
+          "explanation": "With 6 legs it's an insect; with 8, an arachnid (a scorpion's pincers aren't legs); and with more than 8, another cousin: a centipede, a millipede or a pill bug."
+        }
+      ]
+    },
+    {
+      "id": "u6l2",
+      "title": "Spiders",
+      "art": "arana",
+      "intro": "Lots of people are scared of spiders, but it's almost always because we don't know them. Let's get to know them!",
+      "closing": "A spider isn't an insect, but it's a great ally: it hunts mosquitoes and flies. Its web is a trap… and a work of art, too!",
+      "exercises": [
+        {
+          "id": "u6l2e1",
+          "type": "label",
+          "prompt": "Put each name in its place on the spider.",
+          "art": "arana",
+          "slots": [
+            {
+              "id": "cefalotorax",
+              "label": "cephalothorax",
+              "x": 0.5,
+              "y": 0.38
+            },
+            {
+              "id": "abdomen",
+              "label": "abdomen",
+              "x": 0.5,
+              "y": 0.66
+            },
+            {
+              "id": "pata",
+              "label": "leg",
+              "x": 0.24,
+              "y": 0.25
+            }
+          ],
+          "explanation": "A spider has only two parts: in front, the cephalothorax, which is head and thorax together and where its 8 legs come out; behind, the abdomen, where it makes silk."
+        },
+        {
+          "id": "u6l2e2",
+          "type": "sort",
+          "prompt": "Whose clue is it?",
+          "bins": [
+            "Insect",
+            "Spider"
+          ],
+          "sortItems": [
+            {
+              "label": "6 legs",
+              "bin": 0
+            },
+            {
+              "label": "8 legs",
+              "bin": 1
+            },
+            {
+              "label": "3 body parts",
+              "bin": 0
+            },
+            {
+              "label": "2 body parts",
+              "bin": 1
+            },
+            {
+              "label": "Has antennae",
+              "bin": 0
+            },
+            {
+              "label": "Has no antennae or wings",
+              "bin": 1
+            }
+          ],
+          "explanation": "An insect has 6 legs, 3 parts (head, thorax and abdomen) and antennae. A spider has 8 legs, only 2 parts and no antennae: that's why it's an arachnid and not an insect."
+        },
+        {
+          "id": "u6l2e3",
+          "type": "spot",
+          "prompt": "Tap the part of the body where the spider makes silk.",
+          "art": "arana",
+          "spot": {
+            "x": 0.5,
+            "y": 0.66,
+            "r": 0.17,
+            "label": "abdomen"
+          },
+          "explanation": "Silk is made in the abdomen and comes out through the spinnerets, tiny tubes at its tip. That's why, when it spins, the spider lets the thread out from behind."
+        },
+        {
+          "id": "u6l2e4",
+          "type": "choice",
+          "prompt": "Why does a spider spin its web?",
+          "options": [
+            "To catch insects and eat them",
+            "To scare people",
+            "To store honey"
+          ],
+          "answer": 0,
+          "explanation": "A web is a trap with sticky threads: when an insect gets caught, the spider feels the thread shake with its legs and goes to get it. It doesn't make it against us."
+        },
+        {
+          "id": "u6l2e5",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Almost all spiders are ___ to people and they eat ___ and flies.",
+          "bank": [
+            "harmless",
+            "dangerous",
+            "mosquitoes",
+            "flowers"
+          ],
+          "answers": [
+            "harmless",
+            "mosquitoes"
+          ],
+          "explanation": "A spider in a corner of the garden is a hunter that works for free: every day it catches insects that bite or bother us, like mosquitoes, flies and cockroaches."
+        }
+      ]
+    },
+    {
+      "id": "u6l3",
+      "title": "Spiders: looking without fear",
+      "art": "telarana",
+      "intro": "Are you scared of spiders? That's normal. Today you'll see why almost all of them are harmless and what to do about the few that aren't.",
+      "closing": "Now you know: almost all spiders are shy and harmless. Looking without touching and telling an adult when needed: that's being brave!",
+      "exercises": [
+        {
+          "id": "u6l3e1",
+          "type": "choice",
+          "prompt": "True or false? Most spiders can't harm a person.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "True: almost all of them are very small or have venom that's too weak for us. Their venom is for hunting insects, not for attacking people."
+        },
+        {
+          "id": "u6l3e2",
+          "type": "sort",
+          "prompt": "What do we do with each spider?",
+          "bins": [
+            "Watch it calmly, without touching",
+            "Watch from a distance and tell an adult"
+          ],
+          "sortItems": [
+            {
+              "label": "Garden spider in its web",
+              "bin": 0,
+              "art": "telarana"
+            },
+            {
+              "label": "Jumping spider on the wall",
+              "bin": 0,
+              "art": "arana"
+            },
+            {
+              "label": "Black widow: shiny black with red marks",
+              "bin": 1
+            },
+            {
+              "label": "Recluse spider: brown, in a dark corner",
+              "bin": 1
+            },
+            {
+              "label": "A spider you don't know",
+              "bin": 1
+            }
+          ],
+          "explanation": "You can calmly watch almost all of them without touching. The few dangerous ones, and any spider you don't know, are watched from a distance and you tell an adult: that way you're safe, and so is the spider."
+        },
+        {
+          "id": "u6l3e3",
+          "type": "order",
+          "prompt": "There's a spider in your room. Put the steps in order to take it out without hurting it.",
+          "steps": [
+            {
+              "art": "angelica",
+              "label": "I tell an adult"
+            },
+            {
+              "art": "arana",
+              "label": "The adult covers it with a glass and slides a piece of card underneath"
+            },
+            {
+              "art": "helecho",
+              "label": "They let it go outside, among the plants"
+            }
+          ],
+          "explanation": "With the glass and the card the spider is trapped without being squashed, and outside it can keep hunting insects. An adult does it, in case it's one that bites."
+        },
+        {
+          "id": "u6l3e4",
+          "type": "match",
+          "prompt": "Make pairs: match each situation with the best thing to do.",
+          "pairs": [
+            {
+              "left": "You're about to put on shoes that were stored away",
+              "right": "Shake them out first"
+            },
+            {
+              "left": "You see a black spider with red marks",
+              "right": "Move away and tell an adult"
+            },
+            {
+              "left": "You're looking for something in a dark corner",
+              "right": "Look before you put your hand in"
+            },
+            {
+              "left": "You see a web with dew in the garden",
+              "right": "Look at it without breaking it"
+            }
+          ],
+          "explanation": "Spiders look for dark, quiet places to hide, like shoes and corners. If you look first and shake out your clothes, neither you nor the spider gets a fright."
+        },
+        {
+          "id": "u6l3e5",
+          "type": "choice",
+          "prompt": "If a spider bites you, what do you do?",
+          "options": [
+            "I tell an adult right away",
+            "I keep quiet about it",
+            "I look for the spider to squash it"
+          ],
+          "answer": 0,
+          "explanation": "Most of the time it's nothing, but an adult will know whether to wash the bite or go to the doctor. And remember: a spider only bites when it feels trapped, so it's best not to touch them."
+        }
+      ]
+    },
+    {
+      "id": "u6l4",
+      "title": "Centipedes and millipedes",
+      "art": "milpies",
+      "intro": "They have so many legs it seems impossible to count them. But there's a trick to tell the centipede from the millipede.",
+      "closing": "The centipede hunts and the millipede recycles: both help the garden. Watch the centipede from a distance; leave the millipede in peace with its leaves.",
+      "exercises": [
+        {
+          "id": "u6l4e1",
+          "type": "sort",
+          "prompt": "Centipede or millipede? Put each clue in its box.",
+          "bins": [
+            "Centipede",
+            "Millipede"
+          ],
+          "sortItems": [
+            {
+              "label": "Fast hunter",
+              "bin": 0
+            },
+            {
+              "label": "One pair of legs on each ring",
+              "bin": 0
+            },
+            {
+              "label": "Can bite: watch it from a distance",
+              "bin": 0
+            },
+            {
+              "label": "Slow and calm",
+              "bin": 1
+            },
+            {
+              "label": "Two pairs of legs on each ring",
+              "bin": 1
+            },
+            {
+              "label": "Eats dead leaves",
+              "bin": 1
+            },
+            {
+              "label": "Curls up when it's scared",
+              "bin": 1
+            }
+          ],
+          "explanation": "The trick is in the rings: a centipede has one pair of legs on each and runs to hunt; a millipede has two pairs, moves slowly and curls up to protect itself."
+        },
+        {
+          "id": "u6l4e2",
+          "type": "spot",
+          "prompt": "Tap the centipede's head: that's where its antennae and hunting claws are.",
+          "art": "ciempies",
+          "spot": {
+            "x": 0.2,
+            "y": 0.2,
+            "r": 0.13,
+            "label": "head"
+          },
+          "explanation": "The head is at the end where the two antennae come out. Next to its mouth it has venomous claws to catch insects: that's why you watch a centipede from a distance."
+        },
+        {
+          "id": "u6l4e3",
+          "type": "choice",
+          "prompt": "True or false? A centipede has exactly one hundred legs.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "False: depending on the kind, it has from 30 to more than 300 legs, but never exactly one hundred. Its name just means “lots of legs”."
+        },
+        {
+          "id": "u6l4e4",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "A millipede has ___ pairs of legs on almost every ring and eats ___.",
+          "bank": [
+            "two",
+            "one",
+            "dead leaves",
+            "insects"
+          ],
+          "answers": [
+            "two",
+            "dead leaves"
+          ],
+          "explanation": "By eating dead leaves and rotting wood, the millipede turns them into new soil for plants: it's a soil recycler."
+        },
+        {
+          "id": "u6l4e5",
+          "type": "match",
+          "prompt": "Make pairs.",
+          "pairs": [
+            {
+              "left": "Myriapod",
+              "right": "Means “many legs”"
+            },
+            {
+              "left": "Centipede",
+              "right": "Goes out hunting at night"
+            },
+            {
+              "left": "Millipede",
+              "right": "Curls up like a snail shell"
+            },
+            {
+              "left": "Ring (segment)",
+              "right": "Each little piece of its long body"
+            }
+          ],
+          "explanation": "Centipedes and millipedes are myriapods: they have a long body made of many rings, and lots and lots of legs. One is a night hunter, and the other curls up when it's scared."
+        }
+      ]
+    },
+    {
+      "id": "u6l5",
+      "title": "Pill bugs and scorpions",
+      "art": "cochinita",
+      "intro": "One rolls into a ball and the other has pincers and a tail with a stinger. Neither of them is an insect: let's see whose cousins they are!",
+      "closing": "The pill bug recycles and the scorpion hunts bugs at night. You can look at a pill bug up close; a scorpion, from a distance and telling an adult.",
+      "exercises": [
+        {
+          "id": "u6l5e1",
+          "type": "choice",
+          "prompt": "Which group does the pill bug belong to?",
+          "options": [
+            "Crustaceans, like shrimp and crabs",
+            "Insects, like the ladybug",
+            "Arachnids, like the spider"
+          ],
+          "answer": 0,
+          "explanation": "Even though it lives on land, the pill bug is a cousin of shrimp: it has 14 legs and breathes with special gills, which is why it needs damp places."
+        },
+        {
+          "id": "u6l5e2",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "The pill bug lives under stones and flowerpots because it needs ___, and when it's scared it rolls into a ___.",
+          "bank": [
+            "dampness",
+            "sun",
+            "ball",
+            "web"
+          ],
+          "answers": [
+            "dampness",
+            "ball"
+          ],
+          "explanation": "Its gills have to stay damp to breathe, so it looks for dark, wet places. Rolled into a ball, its armor protects it on every side."
+        },
+        {
+          "id": "u6l5e3",
+          "type": "sort",
+          "prompt": "Pill bug or scorpion? Put each clue in its box.",
+          "bins": [
+            "Pill bug",
+            "Scorpion"
+          ],
+          "sortItems": [
+            {
+              "label": "Has 14 legs",
+              "bin": 0
+            },
+            {
+              "label": "Is a crustacean",
+              "bin": 0
+            },
+            {
+              "label": "Recycles dead leaves",
+              "bin": 0
+            },
+            {
+              "label": "Has 8 legs and two pincers",
+              "bin": 1
+            },
+            {
+              "label": "Has a stinger on its tail",
+              "bin": 1
+            },
+            {
+              "label": "Is a cousin of spiders",
+              "bin": 1
+            }
+          ],
+          "explanation": "The pill bug is a recycling crustacean with 14 legs. The scorpion is an arachnid, like the spider: 8 legs, pincers to grab its prey and a stinger at the tip of its tail."
+        },
+        {
+          "id": "u6l5e4",
+          "type": "choice",
+          "prompt": "You see a scorpion in the yard. What do you do?",
+          "options": [
+            "I move away and tell an adult",
+            "I grab it by the tail",
+            "I put it in a jar"
+          ],
+          "answer": 0,
+          "explanation": "Some scorpions in Venezuela have strong venom, especially for children. Moving away and telling an adult is the safest thing for you… and for the scorpion too."
+        },
+        {
+          "id": "u6l5e5",
+          "type": "tapAll",
+          "prompt": "Tap the ones that are arachnids.",
+          "items": [
+            {
+              "art": "arana",
+              "label": "Spider",
+              "correct": true
+            },
+            {
+              "art": "cochinita",
+              "label": "Pill bug",
+              "correct": false
+            },
+            {
+              "art": "alacran",
+              "label": "Scorpion",
+              "correct": true
+            },
+            {
+              "art": "mosca",
+              "label": "Fly",
+              "correct": false
+            },
+            {
+              "art": "milpies",
+              "label": "Millipede",
+              "correct": false
+            }
+          ],
+          "explanation": "Arachnids have 8 legs and no antennae: the spider and the scorpion. The pill bug is a crustacean, the fly an insect and the millipede a myriapod."
+        }
+      ]
+    },
+    {
+      "id": "u6l6",
+      "title": "Insect or cousin?",
+      "art": "lupa",
+      "intro": "Today you're a detective: count legs, look at the body parts and listen carefully. Insect or cousin?",
+      "closing": "Now you can tell insects from their cousins! Each one has its job, and none of them needs us to be afraid: just respectful.",
+      "exercises": [
+        {
+          "id": "u6l6e1",
+          "type": "sort",
+          "prompt": "Insect or cousin? Put each one in its box.",
+          "bins": [
+            "Insect",
+            "Cousin (not an insect)"
+          ],
+          "sortItems": [
+            {
+              "label": "Ladybug",
+              "bin": 0,
+              "art": "mariquita"
+            },
+            {
+              "label": "Butterfly",
+              "bin": 0,
+              "art": "mariposa"
+            },
+            {
+              "label": "Dragonfly",
+              "bin": 0,
+              "art": "libelula"
+            },
+            {
+              "label": "Spider",
+              "bin": 1,
+              "art": "arana"
+            },
+            {
+              "label": "Scorpion",
+              "bin": 1,
+              "art": "alacran"
+            },
+            {
+              "label": "Millipede",
+              "bin": 1,
+              "art": "milpies"
+            },
+            {
+              "label": "Pill bug",
+              "bin": 1,
+              "art": "cochinita"
+            }
+          ],
+          "explanation": "Insects have 6 legs and 3 parts. The spider and the scorpion have 8 legs, the millipede lots and lots, and the pill bug 14: they're cousins, but not insects."
+        },
+        {
+          "id": "u6l6e2",
+          "type": "choice",
+          "prompt": "Who's making that sound? An insect or not? Listen and choose.",
+          "options": [
+            "A cricket: it's an insect",
+            "A frog: it's not an insect"
+          ],
+          "answer": 1,
+          "explanation": "It's a frog: it croaks by puffing up an air sac in its throat. It's an amphibian, with its skeleton on the inside, so it's not an insect or an arthropod. A cricket, on the other hand, sings by rubbing its wings.",
+          "sound": "rana"
+        },
+        {
+          "id": "u6l6e3",
+          "type": "match",
+          "prompt": "Make pairs: match each animal with its group.",
+          "pairs": [
+            {
+              "left": "Grasshopper",
+              "right": "Insect"
+            },
+            {
+              "left": "Spider",
+              "right": "Arachnid"
+            },
+            {
+              "left": "Millipede",
+              "right": "Myriapod"
+            },
+            {
+              "left": "Pill bug",
+              "right": "Crustacean"
+            }
+          ],
+          "explanation": "They're four groups of the same arthropod family: insects with 6 legs, arachnids with 8, myriapods with lots and lots, and crustaceans like the pill bug, with 14."
+        },
+        {
+          "id": "u6l6e4",
+          "type": "choice",
+          "prompt": "You find a critter with 8 legs, no antennae and a body in 2 parts. What is it?",
+          "options": [
+            "An arachnid, like a spider",
+            "An insect",
+            "A myriapod"
+          ],
+          "answer": 0,
+          "explanation": "8 legs, 2 parts and no antennae are the clues for arachnids. An insect would have 6 legs and antennae, and a myriapod, lots and lots of legs."
+        },
+        {
+          "id": "u6l6e5",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "They all have a job: the spider ___ mosquitoes, and the millipede and the pill bug ___ dead leaves.",
+          "bank": [
+            "hunts",
+            "paints",
+            "recycle",
+            "freeze"
+          ],
+          "answers": [
+            "hunts",
+            "recycle"
+          ],
+          "explanation": "None of them is extra: the hunters keep biting and pesky bugs in check, and the recyclers turn leaves into soil for plants."
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u6exam",
+    "title": "Unit challenge",
+    "art": "arana",
+    "intro": "The cousins challenge! Count legs, look at body parts and remember how to live alongside them without fear.",
+    "closing": "Well done, forest ranger! You know the insects' cousins and you know almost none of them is dangerous. With calm and respect, they all have their place.",
+    "exercises": [
+      {
+        "id": "u6x1",
+        "type": "match",
+        "prompt": "Make pairs: match each animal with its legs.",
+        "pairs": [
+          {
+            "left": "Insect",
+            "right": "6 legs"
+          },
+          {
+            "left": "Spider",
+            "right": "8 legs"
+          },
+          {
+            "left": "Pill bug",
+            "right": "14 legs"
+          },
+          {
+            "left": "Millipede",
+            "right": "Lots and lots of legs"
+          }
+        ],
+        "explanation": "Counting legs is the first clue: 6 for insects, 8 for arachnids, 14 for the pill bug and lots and lots for myriapods."
+      },
+      {
+        "id": "u6x2",
+        "type": "fill",
+        "prompt": "Complete the sentence.",
+        "sentence": "All arthropods have their skeleton on the ___ and legs with ___.",
+        "bank": [
+          "outside",
+          "inside",
+          "joints",
+          "feathers"
+        ],
+        "answers": [
+          "outside",
+          "joints"
+        ],
+        "explanation": "Their outside armor protects them, and the joints let their legs bend in sections. We, on the other hand, have our skeleton on the inside."
+      },
+      {
+        "id": "u6x3",
+        "type": "label",
+        "prompt": "Put each name in its place on the spider.",
+        "art": "arana",
+        "slots": [
+          {
+            "id": "cefalotorax",
+            "label": "cephalothorax",
+            "x": 0.5,
+            "y": 0.38
+          },
+          {
+            "id": "abdomen",
+            "label": "abdomen",
+            "x": 0.5,
+            "y": 0.66
+          },
+          {
+            "id": "pata",
+            "label": "leg",
+            "x": 0.24,
+            "y": 0.25
+          }
+        ],
+        "explanation": "Two parts: the cephalothorax, where the 8 legs come out, and the abdomen, where silk is made."
+      },
+      {
+        "id": "u6x4",
+        "type": "choice",
+        "prompt": "Who's making that sound? An insect or not? Listen and choose.",
+        "options": [
+          "A cricket: it's an insect",
+          "A frog: it's not an insect"
+        ],
+        "answer": 0,
+        "explanation": "It's a cricket: the male sings by rubbing one wing against the other, like a violin. It's an insect: 6 legs, 3 parts and antennae.",
+        "sound": "grillo"
+      },
+      {
+        "id": "u6x5",
+        "type": "fill",
+        "prompt": "Complete the sentence.",
+        "sentence": "If there's a spider in the house, an adult covers it with a ___ and slides a ___ underneath to take it out.",
+        "bank": [
+          "glass",
+          "shoe",
+          "piece of card",
+          "broom"
+        ],
+        "answers": [
+          "glass",
+          "piece of card"
+        ],
+        "explanation": "That way the spider leaves the house without anyone getting hurt, and outside it keeps hunting mosquitoes and flies."
+      },
+      {
+        "id": "u6x6",
+        "type": "sort",
+        "prompt": "Centipede or millipede? Put each clue in its box.",
+        "bins": [
+          "Centipede",
+          "Millipede"
+        ],
+        "sortItems": [
+          {
+            "label": "One pair of legs on each ring",
+            "bin": 0
+          },
+          {
+            "label": "Hunts insects and can bite",
+            "bin": 0
+          },
+          {
+            "label": "Two pairs of legs on each ring",
+            "bin": 1
+          },
+          {
+            "label": "Eats dead leaves and curls up",
+            "bin": 1
+          }
+        ],
+        "explanation": "The centipede, with one pair per ring, is a fast hunter; the millipede, with two pairs, is a slow recycler that curls up to protect itself."
+      },
+      {
+        "id": "u6x7",
+        "type": "choice",
+        "prompt": "Which group does the pill bug belong to?",
+        "options": [
+          "Crustaceans, like shrimp and crabs",
+          "Insects, like the ladybug",
+          "Arachnids, like the spider"
+        ],
+        "answer": 0,
+        "explanation": "It's a land crustacean: it has 14 legs and breathes with special gills that need moisture. That's why it lives under stones and flowerpots."
+      },
+      {
+        "id": "u6x8",
+        "type": "choice",
+        "prompt": "You see a scorpion in the yard. What do you do?",
+        "options": [
+          "I move away and tell an adult",
+          "I grab it by the tail",
+          "I put it in a jar"
+        ],
+        "answer": 0,
+        "explanation": "Some scorpions in Venezuela have strong venom, especially for children: watch from a distance and tell an adult. And if one stings you, you need to go to the doctor."
+      },
+      {
+        "id": "u6x9",
+        "type": "tapAll",
+        "prompt": "Tap the ones that are insects.",
+        "items": [
+          {
+            "art": "abeja",
+            "label": "Bee",
+            "correct": true
+          },
+          {
+            "art": "arana",
+            "label": "Spider",
+            "correct": false
+          },
+          {
+            "art": "mariquita",
+            "label": "Ladybug",
+            "correct": true
+          },
+          {
+            "art": "cochinita",
+            "label": "Pill bug",
+            "correct": false
+          },
+          {
+            "art": "saltamontes",
+            "label": "Grasshopper",
+            "correct": true
+          },
+          {
+            "art": "ciempies",
+            "label": "Centipede",
+            "correct": false
+          }
+        ],
+        "explanation": "The bee, the ladybug and the grasshopper have 6 legs and 3 parts: they're insects. The spider (8 legs), the pill bug (14) and the centipede (lots and lots) are their cousins."
+      },
+      {
+        "id": "u6x10",
+        "type": "choice",
+        "prompt": "What does a good forest ranger do with the insects' cousins?",
+        "options": [
+          "Watches them with respect, doesn't touch the ones that can bite or sting, and tells an adult if needed",
+          "Squashes them all",
+          "Is afraid of all of them"
+        ],
+        "answer": 0,
+        "explanation": "Almost all of them are harmless and help us by hunting bugs or recycling leaves. With the few dangerous ones, it's enough to know them, watch from a distance and tell an adult."
+      }
+    ]
+  }
+}

@@ -139,7 +139,7 @@
     "en": "Firefly"
    },
    "alsoCalled": {
-    "es": "cocuyo",
+    "es": null,
     "en": "lightning bug"
    },
    "group": {
@@ -404,6 +404,224 @@
     "es": "No es venenosa ni pica a las personas. Si levanta las patas, es que también se asusta: déjala tranquila.",
     "en": "It isn't poisonous and doesn't bite people. If it raises its legs, it's scared too: leave it alone."
    }
+  },
+  {
+   "id": "cocuyo",
+   "lessonID": "u5l2",
+   "name": {
+    "es": "Cocuyo",
+    "en": "Headlight beetle"
+   },
+   "alsoCalled": {
+    "es": "cucuyo",
+    "en": "cocuyo"
+   },
+   "group": {
+    "es": "Coleóptero (escarabajos)",
+    "en": "Coleoptera (beetles)"
+   },
+   "superpower": {
+    "es": "Tiene dos faroles verdes en el tórax y una luz naranja en la panza.",
+    "en": "It has two green headlights on its thorax and an orange light on its belly."
+   },
+   "helps": {
+    "es": "Sus larvas cazan larvas de otros insectos en la tierra y la madera podrida.",
+    "en": "Its larvae hunt the larvae of other insects in soil and rotting wood."
+   },
+   "calm": {
+    "es": "El cocuyo no pica ni muerde. Su luz es fría: no quema.",
+    "en": "The cocuyo doesn't sting or bite. Its light is cold: it doesn't burn."
+   }
+  },
+  {
+   "id": "mariposa_88",
+   "lessonID": "u5l3",
+   "name": {
+    "es": "Mariposa 88",
+    "en": "88 butterfly"
+   },
+   "alsoCalled": {
+    "es": "ochenta y ocho",
+    "en": "eighty-eight"
+   },
+   "group": {
+    "es": "Lepidóptero",
+    "en": "Lepidoptera"
+   },
+   "superpower": {
+    "es": "Lleva un 88 dibujado debajo de sus alas de atrás.",
+    "en": "It has an 88 drawn under its back wings."
+   },
+   "helps": {
+    "es": "Es alimento de pájaros y lagartijas.",
+    "en": "It is food for birds and lizards."
+   },
+   "calm": {
+    "es": "No pica ni muerde. Si se posa en tu piel, solo está tomando un poquito de sudor salado: ¡tenía sed!",
+    "en": "It doesn't sting or bite. If it lands on your skin, it's just sipping a little salty sweat: it was thirsty!"
+   }
+  },
+  {
+   "id": "bachaco",
+   "lessonID": "u5l4",
+   "name": {
+    "es": "Bachaco",
+    "en": "Leafcutter ant"
+   },
+   "alsoCalled": {
+    "es": "hormiga cortadora",
+    "en": null
+   },
+   "group": {
+    "es": "Himenóptero (hormigas)",
+    "en": "Hymenoptera (ants)"
+   },
+   "superpower": {
+    "es": "Cultiva su propia comida: un huerto de hongos bajo tierra.",
+    "en": "It grows its own food: an underground fungus garden."
+   },
+   "helps": {
+    "es": "Remueve la tierra y lleva hojas al fondo del suelo, y así lo abona.",
+    "en": "It turns the soil and carries leaves deep underground, which feeds the soil."
+   },
+   "calm": {
+    "es": "Puede morder fuerte si lo molestas. Míralo de lejos: no viene a buscarte, va a su trabajo.",
+    "en": "It can bite hard if you bother it. Watch from a distance: it isn't coming for you, it's going to work."
+   }
+  },
+  {
+   "id": "palito",
+   "lessonID": "u5l5",
+   "name": {
+    "es": "Palito",
+    "en": "Stick insect"
+   },
+   "alsoCalled": {
+    "es": "insecto palo",
+    "en": "walking stick"
+   },
+   "group": {
+    "es": "Fásmido",
+    "en": "Phasmatodea"
+   },
+   "superpower": {
+    "es": "Parece tanto una ramita que los pájaros no lo ven.",
+    "en": "It looks so much like a twig that birds don't see it."
+   },
+   "helps": {
+    "es": "Es alimento de pájaros, lagartijas y monos.",
+    "en": "It is food for birds, lizards and monkeys."
+   },
+   "calm": {
+    "es": "El palito no pica ni muerde. Es tímido: si lo molestas, se queda quieto como una rama.",
+    "en": "Stick insects don't sting or bite. They're shy: if you bother one, it freezes like a branch."
+   }
+  },
+  {
+   "id": "arana",
+   "lessonID": "u6l2",
+   "name": {
+    "es": "Araña",
+    "en": "Spider"
+   },
+   "alsoCalled": null,
+   "group": {
+    "es": "Arácnido",
+    "en": "Arachnid"
+   },
+   "superpower": {
+    "es": "Fabrica seda: un hilo finísimo, pero muy fuerte y elástico.",
+    "en": "It makes silk: a super-thin thread that's very strong and stretchy."
+   },
+   "helps": {
+    "es": "Se come zancudos, moscas y cucarachas de la casa y del jardín.",
+    "en": "It eats mosquitoes, flies and cockroaches at home and in the garden."
+   },
+   "calm": {
+    "es": "Casi todas son tímidas e inofensivas: si te ven, se esconden. Mírala sin tocarla, y si no sabes qué araña es, avisa a un adulto.",
+    "en": "Almost all spiders are shy and harmless: if they see you, they hide. Look without touching, and if you don't know what spider it is, tell an adult."
+   }
+  },
+  {
+   "id": "milpies",
+   "lessonID": "u6l4",
+   "name": {
+    "es": "Milpiés",
+    "en": "Millipede"
+   },
+   "alsoCalled": null,
+   "group": {
+    "es": "Miriápodo",
+    "en": "Myriapod"
+   },
+   "superpower": {
+    "es": "Cuando se asusta, se enrolla como la concha de un caracol para proteger sus patas.",
+    "en": "When it's scared, it curls up like a snail shell to protect its legs."
+   },
+   "helps": {
+    "es": "Come hojas muertas y madera podrida y las convierte en tierra para las plantas.",
+    "en": "It eats dead leaves and rotting wood and turns them into soil for plants."
+   },
+   "calm": {
+    "es": "No pica ni muerde. Algunos sueltan un líquido que huele fuerte para defenderse: mejor mirarlo sin tocarlo, y si lo tocas, lávate las manos.",
+    "en": "It doesn't bite or sting. Some give off a strong-smelling liquid to defend themselves: it's best to look without touching, and if you do touch one, wash your hands."
+   }
+  },
+  {
+   "id": "cochinita",
+   "lessonID": "u6l5",
+   "name": {
+    "es": "Cochinita",
+    "en": "Pill bug"
+   },
+   "alsoCalled": {
+    "es": "bicho bolita",
+    "en": "roly-poly"
+   },
+   "group": {
+    "es": "Crustáceo (como los camarones)",
+    "en": "Crustacean (like shrimp)"
+   },
+   "superpower": {
+    "es": "Se hace una bolita perfecta y su armadura la protege por todos lados.",
+    "en": "It rolls into a perfect ball and its armor protects it on every side."
+   },
+   "helps": {
+    "es": "Recicla hojas muertas y restos de plantas, y abona la tierra.",
+    "en": "It recycles dead leaves and plant scraps, and feeds the soil."
+   },
+   "calm": {
+    "es": "No pica ni muerde. Puedes mirarla de cerca y dejarla donde estaba, en su rincón húmedo.",
+    "en": "It doesn't bite or sting. You can look at it up close and leave it where it was, in its damp corner."
+   }
+  },
+  {
+   "id": "comejen",
+   "lessonID": "u7l5",
+   "name": {
+    "es": "Comején",
+    "en": "Termite"
+   },
+   "alsoCalled": {
+    "es": "termita",
+    "en": null
+   },
+   "group": {
+    "es": "Blatodeo (primo de las cucarachas)",
+    "en": "Blattodea (cousin of cockroaches)"
+   },
+   "superpower": {
+    "es": "Vive en colonias de miles con una reina y un rey, y construye nidos enormes.",
+    "en": "It lives in colonies of thousands with a queen and a king, and builds huge nests."
+   },
+   "helps": {
+    "es": "Recicla la madera muerta y las hojas secas, y con sus túneles deja pasar el aire y el agua en la tierra.",
+    "en": "It recycles dead wood and dry leaves, and its tunnels let air and water into the soil."
+   },
+   "calm": {
+    "es": "El comején no pica a las personas. Si ves muchos en la madera de la casa, avisa a un adulto: pueden dañar los muebles, pero a ti no te hacen daño.",
+    "en": "Termites don't sting people. If you see lots of them in the wood at home, tell an adult: they can damage furniture, but they won't hurt you."
+   }
   }
  ],
  "missions": [
@@ -586,12 +804,148 @@
     "en": "Mosquito patrol"
    },
    "task": {
-    "es": "Con un adulto, busca en casa o en el patio agua quieta (cubos, macetas, llantas) y vaciadla juntos.",
+    "es": "Con un adulto, busca en la casa o en el patio agua quieta (tobos, matas, cauchos) y vacíenla juntos.",
     "en": "With an adult, look at home or in the playground for still water (buckets, flowerpots, tires) and empty it together."
    },
    "safety": {
     "es": "Hazlo siempre con un adulto y lávate las manos al terminar.",
     "en": "Always do it with an adult and wash your hands afterwards."
+   }
+  },
+  {
+   "id": "m_lights",
+   "lessonID": "u5l2",
+   "art": "cocuyo",
+   "title": {
+    "es": "Noche de luces",
+    "en": "Night of lights"
+   },
+   "task": {
+    "es": "Una noche, con un adulto, busca lucecitas en el jardín o el campo. ¿Son verdes y fijas, como las del cocuyo, o parpadean, como las de la luciérnaga?",
+    "en": "One night, with an adult, look for little lights in the yard or the countryside. Are they green and steady, like a cocuyo's, or do they blink, like a firefly's?"
+   },
+   "safety": {
+    "es": "Míralos sin atraparlos: su luz les sirve para encontrarse entre ellos.",
+    "en": "Watch them without catching them: they use their light to find each other."
+   }
+  },
+  {
+   "id": "m_leafcutters",
+   "lessonID": "u5l4",
+   "art": "bachaco",
+   "title": {
+    "es": "Camino de bachacos",
+    "en": "Leafcutter trail"
+   },
+   "task": {
+    "es": "Busca una fila de bachacos y síguela desde lejos. ¿Qué cargan: hojas, flores? ¿Hacia dónde van?",
+    "en": "Find a line of leafcutter ants and follow it from a distance. What are they carrying: leaves, flowers? Where are they going?"
+   },
+   "safety": {
+    "es": "Quédate a un paso de la fila y no metas la mano: los bachacos muerden fuerte.",
+    "en": "Stay one step away from the line and don't put your hand in: leafcutter ants bite hard."
+   }
+  },
+  {
+   "id": "m_webs",
+   "lessonID": "u6l2",
+   "art": "telarana",
+   "title": {
+    "es": "Cazadores de telarañas",
+    "en": "Web hunters"
+   },
+   "task": {
+    "es": "Busca una telaraña con rocío por la mañana o con el sol detrás y dibújala en tu cuaderno. ¿Ves los hilos que salen del centro como rayos?",
+    "en": "Look for a spider web with morning dew or with the sun behind it and draw it in your notebook. Can you see the threads coming out from the center like rays?"
+   },
+   "safety": {
+    "es": "Mírala sin romperla ni tocar a la araña: es su casa y su trampa para comer.",
+    "en": "Look at it without breaking it or touching the spider: it's the spider's home and its trap for food."
+   }
+  },
+  {
+   "id": "m_stone",
+   "lessonID": "u6l5",
+   "art": "cochinita",
+   "title": {
+    "es": "Bajo la piedra",
+    "en": "Under the stone"
+   },
+   "task": {
+    "es": "Con un adulto, levanten despacio una piedra o una maceta. ¿Ves cochinitas o milpiés? Cuéntalos y vuelvan a dejarla como estaba.",
+    "en": "With an adult, slowly lift a stone or a flowerpot. Can you see pill bugs or millipedes? Count them and put it back the way it was."
+   },
+   "safety": {
+    "es": "Siempre con un adulto, que es quien levanta la piedra, por si debajo hay un alacrán o un ciempiés. Miren sin tocar.",
+    "en": "Always with an adult, who lifts the stone, in case there's a scorpion or a centipede underneath. Look without touching."
+   }
+  },
+  {
+   "id": "m_yard_web",
+   "lessonID": "u7l1",
+   "art": "pajaro",
+   "title": {
+    "es": "Red del patio",
+    "en": "Backyard food web"
+   },
+   "task": {
+    "es": "Mira con calma el patio o un parque y anota los seres vivos que veas: plantas, insectos, pájaros… Luego dibuja con flechas una cadena de quién se come a quién.",
+    "en": "Look calmly around the yard or a park and write down the living things you see: plants, insects, birds… Then draw a chain of who eats whom with arrows."
+   },
+   "safety": {
+    "es": "Observa desde lejos, sin tocar ni molestar a nadie de la red.",
+    "en": "Watch from a distance, without touching or bothering anyone in the web."
+   }
+  },
+  {
+   "id": "m_flower_detective",
+   "lessonID": "u7l2",
+   "art": "flor_rosa",
+   "title": {
+    "es": "Detective de flores",
+    "en": "Flower detective"
+   },
+   "task": {
+    "es": "Elige 3 flores distintas y mira cada una durante 5 minutos. ¿Cuántos insectos la visitan? ¿Cuál tiene más visitas?",
+    "en": "Pick 3 different flowers and watch each one for 5 minutes. How many insects visit it? Which one gets the most visits?"
+   },
+   "safety": {
+    "es": "Quédate quieto a un paso de distancia: las abejas solo pican si se sienten atacadas.",
+    "en": "Stay still one step away: bees only sting if they feel attacked."
+   }
+  },
+  {
+   "id": "m_experiment",
+   "lessonID": "u8l3",
+   "art": "cuaderno",
+   "title": {
+    "es": "Mi experimento",
+    "en": "My experiment"
+   },
+   "task": {
+    "es": "Elige una pregunta sobre los insectos, como «¿Qué flor visitan más?». Escribe tu hipótesis en el cuaderno, observa y cuenta, y anota qué pasó.",
+    "en": "Choose a question about insects, like “Which flower do they visit most?”. Write your hypothesis in your notebook, watch and count, and write down what happened."
+   },
+   "safety": {
+    "es": "Obsérvalos sin atraparlos: un buen experimento deja a los insectos libres y todo como estaba.",
+    "en": "Watch without catching them: a good experiment leaves the insects free and everything as it was."
+   }
+  },
+  {
+   "id": "m_insect_hotel",
+   "lessonID": "u8l4",
+   "art": "hotel_insectos",
+   "title": {
+    "es": "Hotel de insectos",
+    "en": "Insect hotel"
+   },
+   "task": {
+    "es": "Con tu familia o tu clase, construye un hotel de insectos con cañas huecas, piñas de pino y palitos. Durante un mes, anota quién llega a hospedarse.",
+    "en": "With your family or your class, build an insect hotel with hollow canes, pine cones and twigs. For a month, write down who comes to stay."
+   },
+   "safety": {
+    "es": "Un adulto corta las cañas y cuelga el hotel. Mira a los huéspedes de lejos y déjalos tranquilos.",
+    "en": "An adult cuts the canes and hangs the hotel. Watch the guests from a distance and leave them in peace."
    }
   }
  ],

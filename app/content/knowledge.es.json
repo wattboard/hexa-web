@@ -1,0 +1,114 @@
+{
+ "items": [
+  {
+   "id": "k1",
+   "prompt": "¿Cuántas patas tiene un insecto?",
+   "options": [
+    "Cuatro",
+    "Seis",
+    "Ocho"
+   ],
+   "answer": 1,
+   "art": "saltamontes"
+  },
+  {
+   "id": "k2",
+   "prompt": "¿Cuáles son las tres partes del cuerpo de un insecto?",
+   "options": [
+    "Cabeza, cola y patas",
+    "Alas, antenas y ojos",
+    "Cabeza, tórax y abdomen"
+   ],
+   "answer": 2,
+   "art": "hormiga"
+  },
+  {
+   "id": "k3",
+   "prompt": "¿La araña es un insecto?",
+   "options": [
+    "No, porque tiene ocho patas",
+    "Sí, porque es pequeña",
+    "Sí, porque caza moscas"
+   ],
+   "answer": 0,
+   "art": "arana"
+  },
+  {
+   "id": "k4",
+   "prompt": "¿Para qué le sirven las antenas a un insecto?",
+   "options": [
+    "Para volar",
+    "Para comer",
+    "Para captar olores y tocar"
+   ],
+   "answer": 2,
+   "art": "mariposa"
+  },
+  {
+   "id": "k5",
+   "prompt": "¿Cómo come una mariposa?",
+   "options": [
+    "Masticando hojas",
+    "Chupando néctar con su trompa",
+    "Pinchando la piel"
+   ],
+   "answer": 1,
+   "art": "cabeza_mariposa"
+  },
+  {
+   "id": "k6",
+   "prompt": "¿En qué orden crece una mariposa?",
+   "options": [
+    "Huevo, oruga, crisálida y mariposa",
+    "Oruga, huevo, mariposa y crisálida",
+    "Crisálida, mariposa, huevo y oruga"
+   ],
+   "answer": 0,
+   "art": "crisalida"
+  },
+  {
+   "id": "k7",
+   "prompt": "¿Qué es polinizar?",
+   "options": [
+    "Comerse las hojas",
+    "Picar a las personas",
+    "Llevar el polen de una flor a otra"
+   ],
+   "answer": 2,
+   "art": "abeja"
+  },
+  {
+   "id": "k8",
+   "prompt": "¿Qué hace la mariquita en un jardín?",
+   "options": [
+    "Daña las flores",
+    "Se come los pulgones",
+    "Pica a las personas"
+   ],
+   "answer": 1,
+   "art": "mariquita"
+  },
+  {
+   "id": "k9",
+   "prompt": "¿Qué ayuda a que no nazcan zancudos?",
+   "options": [
+    "Vaciar el agua quieta",
+    "Dejar tobos con agua",
+    "Encender la luz"
+   ],
+   "answer": 0,
+   "art": "mosquito"
+  },
+  {
+   "id": "k10",
+   "prompt": "Si ves un insecto que no conoces, ¿qué es lo mejor?",
+   "options": [
+    "Aplastarlo",
+    "Gritar y correr",
+    "Mirarlo con calma, sin tocarlo"
+   ],
+   "answer": 2,
+   "art": "lupa"
+  }
+ ]
+}

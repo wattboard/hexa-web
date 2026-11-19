@@ -1,0 +1,908 @@
+{
+  "id": "u7",
+  "order": 7,
+  "title": "La red de la vida",
+  "intro": "Cada insecto es un hilo de una gran red. Si se rompe uno, se notan los demás.",
+  "lessons": [
+    {
+      "id": "u7l1",
+      "title": "¿Quién se come a quién?",
+      "art": "oruga",
+      "intro": "¿Qué come una rana? ¿Qué le da un pájaro a sus pichones? Sigamos la pista de la comida.",
+      "closing": "Las plantas alimentan a los insectos y los insectos alimentan a muchísimos animales. ¡Son un hilo importantísimo de la red!",
+      "exercises": [
+        {
+          "id": "u7l1e1",
+          "type": "order",
+          "prompt": "Ordena la cadena alimentaria, de la primera a la última.",
+          "steps": [
+            {
+              "art": "hoja",
+              "label": "Planta"
+            },
+            {
+              "art": "oruga",
+              "label": "Oruga"
+            },
+            {
+              "art": "pajaro",
+              "label": "Pájaro"
+            }
+          ],
+          "explanation": "Empieza la planta, que fabrica su comida con la luz del sol; la oruga se come sus hojas y el pájaro se come a la oruga."
+        },
+        {
+          "id": "u7l1e2",
+          "type": "choice",
+          "prompt": "Escucha. ¿Quién suena?",
+          "options": [
+            "Un grillo",
+            "Una rana",
+            "Una abeja"
+          ],
+          "answer": 1,
+          "explanation": "Es una rana croando. Las ranas cantan cerca del agua, sobre todo al anochecer, y atrapan insectos con su lengua pegajosa.",
+          "sound": "rana"
+        },
+        {
+          "id": "u7l1e3",
+          "type": "tapAll",
+          "prompt": "Toca los animales que comen insectos.",
+          "items": [
+            {
+              "art": "pajaro",
+              "label": "Pájaro",
+              "correct": true
+            },
+            {
+              "art": "rana",
+              "label": "Rana",
+              "correct": true
+            },
+            {
+              "art": "santateresa",
+              "label": "Santateresa",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Mariposa",
+              "correct": false
+            },
+            {
+              "art": "hoja",
+              "label": "Planta",
+              "correct": false
+            }
+          ],
+          "explanation": "Pájaros, ranas y santateresas cazan insectos. La mariposa adulta bebe néctar y la planta fabrica su comida con el sol."
+        },
+        {
+          "id": "u7l1e4",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Toda cadena alimentaria empieza por una ___, que fabrica su comida con la luz del ___.",
+          "bank": [
+            "planta",
+            "piedra",
+            "sol",
+            "luna"
+          ],
+          "answers": [
+            "planta",
+            "sol"
+          ],
+          "explanation": "Las plantas son las únicas de la cadena que hacen su propia comida, con la luz del sol; todos los demás comen a otro."
+        },
+        {
+          "id": "u7l1e5",
+          "type": "match",
+          "prompt": "Forma parejas: cada animal con lo que come.",
+          "pairs": [
+            {
+              "left": "Oruga",
+              "right": "Mastica hojas"
+            },
+            {
+              "left": "Rana",
+              "right": "Atrapa insectos con la lengua"
+            },
+            {
+              "left": "Murciélago",
+              "right": "Caza insectos de noche"
+            },
+            {
+              "left": "Pájaro",
+              "right": "Lleva orugas a sus pichones"
+            }
+          ],
+          "explanation": "Cada uno come algo distinto, y por eso se forma una red: la hoja alimenta a la oruga, y la oruga, al pájaro."
+        }
+      ]
+    },
+    {
+      "id": "u7l2",
+      "title": "La flor y la abeja",
+      "art": "abeja",
+      "intro": "Las flores y las abejas son grandes socias: una da comida y la otra lleva el polen. Veamos cómo.",
+      "closing": "Cada vez que comes una fruta, recuerda que antes fue una flor visitada por un insecto. ¡Gracias, polinizadores!",
+      "exercises": [
+        {
+          "id": "u7l2e1",
+          "type": "label",
+          "prompt": "Pon cada nombre en su sitio.",
+          "art": "flor_partes",
+          "slots": [
+            {
+              "id": "petalo",
+              "label": "pétalo",
+              "x": 0.2,
+              "y": 0.35
+            },
+            {
+              "id": "estambre",
+              "label": "estambre",
+              "x": 0.62,
+              "y": 0.22
+            },
+            {
+              "id": "pistilo",
+              "label": "pistilo",
+              "x": 0.5,
+              "y": 0.12
+            },
+            {
+              "id": "tallo",
+              "label": "tallo",
+              "x": 0.5,
+              "y": 0.85
+            }
+          ],
+          "explanation": "El pistilo está justo en el centro, rodeado de estambres con polen; los pétalos de colores lo rodean todo, y el tallo la sostiene desde abajo."
+        },
+        {
+          "id": "u7l2e2",
+          "type": "match",
+          "prompt": "Forma parejas: cada parte con su trabajo.",
+          "pairs": [
+            {
+              "left": "Pétalos",
+              "right": "Atraen a los insectos con su color"
+            },
+            {
+              "left": "Estambres",
+              "right": "Tienen el polen"
+            },
+            {
+              "left": "Pistilo",
+              "right": "Ahí crecen el fruto y las semillas"
+            },
+            {
+              "left": "Tallo",
+              "right": "Sostiene la flor y le lleva agua"
+            }
+          ],
+          "explanation": "Cada parte tiene su tarea: los pétalos llaman al insecto, los estambres le dan polen y el pistilo lo recibe para hacer el fruto."
+        },
+        {
+          "id": "u7l2e3",
+          "type": "order",
+          "prompt": "Ordena cómo poliniza la abeja.",
+          "steps": [
+            {
+              "art": "flor_rosa",
+              "label": "Llega a una flor atraída por su color y su aroma"
+            },
+            {
+              "art": "abeja",
+              "label": "Bebe néctar y el polen se le pega a los pelitos"
+            },
+            {
+              "art": "flor_partes",
+              "label": "Visita otra flor igual y deja polen en el pistilo"
+            }
+          ],
+          "explanation": "Primero la flor la atrae, luego el polen se le pega mientras come y, al visitar otra flor igual, lo deja en el pistilo."
+        },
+        {
+          "id": "u7l2e4",
+          "type": "choice",
+          "prompt": "¿Para qué tienen las flores colores vivos y buen aroma?",
+          "options": [
+            "Para asustar a los pájaros",
+            "Para atraer a los insectos que las polinizan",
+            "Para no secarse"
+          ],
+          "answer": 1,
+          "explanation": "Desde lejos, el insecto ve el color y huele el aroma; al llegar encuentra néctar y, de paso, se lleva polen a otra flor."
+        },
+        {
+          "id": "u7l2e5",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "La abeja deja ___ en el pistilo de otra flor, y así se forman el ___ y las semillas.",
+          "bank": [
+            "polen",
+            "agua",
+            "fruto",
+            "tallo"
+          ],
+          "answers": [
+            "polen",
+            "fruto"
+          ],
+          "explanation": "Cuando el polen llega al pistilo de una flor de la misma clase, la flor puede convertirse en fruto con semillas: eso es polinizar."
+        }
+      ]
+    },
+    {
+      "id": "u7l3",
+      "title": "Los recicladores",
+      "art": "escarabajo",
+      "intro": "Cada día caen al suelo del bosque montones de hojas y ramas. ¿Por qué no lo tapan todo? Gracias a los recicladores.",
+      "closing": "Los recicladores convierten lo viejo en tierra nueva para que crezcan más plantas. ¡Trabajan para todos sin descanso!",
+      "exercises": [
+        {
+          "id": "u7l3e1",
+          "type": "tapAll",
+          "prompt": "Toca los recicladores.",
+          "items": [
+            {
+              "art": "escarabajo",
+              "label": "Escarabajo",
+              "correct": true
+            },
+            {
+              "art": "mosca",
+              "label": "Mosca (sus larvas)",
+              "correct": true
+            },
+            {
+              "art": "hongo",
+              "label": "Hongo",
+              "correct": true
+            },
+            {
+              "art": "hormiga",
+              "label": "Hormiga",
+              "correct": true
+            },
+            {
+              "art": "libelula",
+              "label": "Libélula",
+              "correct": false
+            },
+            {
+              "art": "abeja",
+              "label": "Abeja",
+              "correct": false
+            }
+          ],
+          "explanation": "Escarabajos, larvas de mosca, hormigas y hongos comen restos y los deshacen. La libélula caza insectos vivos y la abeja poliniza flores."
+        },
+        {
+          "id": "u7l3e2",
+          "type": "sort",
+          "prompt": "Pon cada reciclador en su caja.",
+          "bins": [
+            "Insecto reciclador",
+            "Reciclador que no es insecto"
+          ],
+          "sortItems": [
+            {
+              "label": "Escarabajo",
+              "bin": 0,
+              "art": "escarabajo"
+            },
+            {
+              "label": "Mosca",
+              "bin": 0,
+              "art": "mosca"
+            },
+            {
+              "label": "Comején",
+              "bin": 0,
+              "art": "comejen"
+            },
+            {
+              "label": "Hongo",
+              "bin": 1,
+              "art": "hongo"
+            },
+            {
+              "label": "Lombriz",
+              "bin": 1
+            }
+          ],
+          "explanation": "Los insectos tienen seis patas. El hongo no es un animal y la lombriz es un gusano sin patas, pero los dos también reciclan."
+        },
+        {
+          "id": "u7l3e3",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Los recicladores ___ los restos y los convierten en tierra ___.",
+          "bank": [
+            "descomponen",
+            "pintan",
+            "nueva",
+            "salada"
+          ],
+          "answers": [
+            "descomponen",
+            "nueva"
+          ],
+          "explanation": "Al comer los restos los deshacen en pedacitos cada vez más pequeños, hasta que vuelven a ser tierra con alimento para las plantas."
+        },
+        {
+          "id": "u7l3e4",
+          "type": "choice",
+          "prompt": "¿Qué pasaría en el bosque sin recicladores?",
+          "options": [
+            "Habría montañas de hojas y la tierra tendría menos alimento para las plantas",
+            "Habría más flores",
+            "Nada"
+          ],
+          "answer": 0,
+          "explanation": "Nadie desharía los restos: se amontonarían y no volverían a la tierra como alimento para nuevas plantas."
+        },
+        {
+          "id": "u7l3e5",
+          "type": "choice",
+          "prompt": "¿Verdadero o falso? El hongo es un insecto.",
+          "options": [
+            "Verdadero",
+            "Falso"
+          ],
+          "answer": 1,
+          "explanation": "Falso: el hongo no tiene patas y ni siquiera es un animal; forma su propio grupo. Pero recicla igual que los escarabajos."
+        }
+      ]
+    },
+    {
+      "id": "u7l4",
+      "title": "Esconderse y engañar",
+      "art": "palito",
+      "intro": "Muchos insectos no pueden pelear contra un pájaro. Entonces, ¿cómo se salvan? ¡Con disfraces y trucos!",
+      "closing": "Esconderse, disfrazarse o avisar: cada insecto tiene su truco para seguir vivo. ¡Ahora sabes descubrirlos!",
+      "exercises": [
+        {
+          "id": "u7l4e1",
+          "type": "spot",
+          "prompt": "¿Dónde se esconde el insecto palo?",
+          "art": "palito",
+          "spot": {
+            "x": 0.5,
+            "y": 0.5,
+            "r": 0.25,
+            "label": "Insecto palo"
+          },
+          "explanation": "Su cuerpo largo, fino y marrón parece una ramita: es camuflaje. Así los pájaros pasan a su lado sin verlo."
+        },
+        {
+          "id": "u7l4e2",
+          "type": "sort",
+          "prompt": "Pon cada insecto en la caja de su truco.",
+          "bins": [
+            "Camuflaje: se esconde",
+            "Mimetismo: se disfraza de otro",
+            "Colores de aviso"
+          ],
+          "sortItems": [
+            {
+              "label": "Insecto palo",
+              "bin": 0,
+              "art": "palito"
+            },
+            {
+              "label": "Santateresa",
+              "bin": 0,
+              "art": "santateresa"
+            },
+            {
+              "label": "Oruga que parece una rama",
+              "bin": 0,
+              "art": "oruga"
+            },
+            {
+              "label": "Mosca con rayas de avispa",
+              "bin": 1,
+              "art": "mosca"
+            },
+            {
+              "label": "Mariposa que copia a otra de mal sabor",
+              "bin": 1,
+              "art": "mariposa"
+            },
+            {
+              "label": "Mariquita",
+              "bin": 2,
+              "art": "mariquita"
+            }
+          ],
+          "explanation": "Los del camuflaje se parecen a ramas u hojas; los del mimetismo se parecen a otro animal que pica o sabe mal; y la mariquita hace lo contrario: se deja ver para avisar."
+        },
+        {
+          "id": "u7l4e3",
+          "type": "match",
+          "prompt": "Forma parejas: cada truco con lo que consigue.",
+          "pairs": [
+            {
+              "left": "Camuflaje",
+              "right": "Que no lo vean"
+            },
+            {
+              "left": "Mimetismo",
+              "right": "Que lo confundan con otro animal"
+            },
+            {
+              "left": "Colores de aviso",
+              "right": "Decir «sé mal, no me comas»"
+            }
+          ],
+          "explanation": "Los tres trucos sirven para lo mismo, que no se los coman, pero cada uno lo logra de una forma distinta."
+        },
+        {
+          "id": "u7l4e4",
+          "type": "choice",
+          "prompt": "En una flor ves una mosca con rayas amarillas y negras. ¿Por qué se parece a una avispa?",
+          "options": [
+            "Porque es una avispa",
+            "Para calentarse al sol",
+            "Para que los pájaros crean que pica y no se la coman"
+          ],
+          "answer": 2,
+          "explanation": "Es mimetismo: la mosca de las flores no pica, pero los pájaros aprenden a evitar las rayas de las avispas y la dejan en paz.",
+          "art": "mosca"
+        },
+        {
+          "id": "u7l4e5",
+          "type": "choice",
+          "prompt": "¿Para qué le sirve el camuflaje a la santateresa?",
+          "options": [
+            "Para esconderse de los pájaros y sorprender a los insectos que caza",
+            "Para que la vean desde lejos",
+            "Para hacer miel"
+          ],
+          "answer": 0,
+          "explanation": "Quieta entre las hojas, ni los pájaros la ven a ella ni los insectos ven a su cazadora hasta que es tarde.",
+          "art": "santateresa"
+        }
+      ]
+    },
+    {
+      "id": "u7l5",
+      "title": "Vivir en equipo",
+      "art": "hormiga",
+      "intro": "Una hormiga sola no puede hacer un hormiguero, pero miles juntas, sí. Conozcamos a los insectos que viven en equipo.",
+      "closing": "En una colonia cada uno hace su parte y todos salen ganando. ¡Igual que en un buen equipo de clase!",
+      "exercises": [
+        {
+          "id": "u7l5e1",
+          "type": "tapAll",
+          "prompt": "Toca los insectos que viven en colonias.",
+          "items": [
+            {
+              "art": "abeja",
+              "label": "Abeja de la miel",
+              "correct": true
+            },
+            {
+              "art": "hormiga",
+              "label": "Hormiga",
+              "correct": true
+            },
+            {
+              "art": "comejen",
+              "label": "Comején",
+              "correct": true
+            },
+            {
+              "art": "bachaco",
+              "label": "Bachaco",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Mariposa",
+              "correct": false
+            },
+            {
+              "art": "saltamontes",
+              "label": "Saltamontes",
+              "correct": false
+            }
+          ],
+          "explanation": "Las abejas de la miel, las hormigas, los bachacos y los comejenes viven en familias enormes con reina. La mariposa y el saltamontes viven por su cuenta."
+        },
+        {
+          "id": "u7l5e2",
+          "type": "match",
+          "prompt": "Forma parejas: cada miembro de la colonia con su trabajo.",
+          "pairs": [
+            {
+              "left": "Reina",
+              "right": "Pone los huevos"
+            },
+            {
+              "left": "Obreras",
+              "right": "Buscan comida y cuidan a las crías"
+            },
+            {
+              "left": "Soldados",
+              "right": "Defienden el nido"
+            }
+          ],
+          "explanation": "Se reparten el trabajo: la reina solo pone huevos, así que las obreras la alimentan a ella y a las crías, y los soldados, con su cabeza grande, cuidan la entrada."
+        },
+        {
+          "id": "u7l5e3",
+          "type": "choice",
+          "prompt": "¿Por qué el bachaco corta hojas y las lleva al nido?",
+          "options": [
+            "Para hacerse una cama",
+            "Para cultivar con ellas un hongo, que es su alimento",
+            "Para comérselas enteras"
+          ],
+          "answer": 1,
+          "explanation": "El bachaco es agricultor: no puede digerir bien las hojas, así que las usa para cultivar un hongo en el nido, y come de ese hongo.",
+          "art": "bachaco"
+        },
+        {
+          "id": "u7l5e4",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Algunas hormigas ___ a los pulgones, y los pulgones les dan gotitas ___.",
+          "bank": [
+            "cuidan",
+            "asustan",
+            "dulces",
+            "saladas"
+          ],
+          "answers": [
+            "cuidan",
+            "dulces"
+          ],
+          "explanation": "Es un trato entre especies: las hormigas protegen a los pulgones de sus enemigos y, a cambio, beben las gotitas dulces que ellos sueltan."
+        },
+        {
+          "id": "u7l5e5",
+          "type": "choice",
+          "prompt": "¿Verdadero o falso? El comején vive en una colonia con una reina y también un rey.",
+          "options": [
+            "Verdadero",
+            "Falso"
+          ],
+          "answer": 0,
+          "explanation": "Verdadero: en los comejenes, la reina y el rey viven juntos muchos años en el nido. En las abejas y las hormigas no hay rey: solo la reina pone los huevos.",
+          "art": "comejen"
+        }
+      ]
+    },
+    {
+      "id": "u7l6",
+      "title": "Si faltan los insectos",
+      "art": "pajaro",
+      "intro": "Ya conoces muchos hilos de la red. ¿Qué pasaría si se rompieran los de los insectos?",
+      "closing": "Sin insectos, la red entera se afloja. Por eso cuidarlos es cuidar las frutas, los pájaros y la tierra. ¡Tú puedes ayudar!",
+      "exercises": [
+        {
+          "id": "u7l6e1",
+          "type": "sort",
+          "prompt": "¿Quién lleva su polen? Pon cada planta en su caja.",
+          "bins": [
+            "Insectos",
+            "El viento"
+          ],
+          "sortItems": [
+            {
+              "label": "Mango",
+              "bin": 0
+            },
+            {
+              "label": "Parchita",
+              "bin": 0
+            },
+            {
+              "label": "Cacao (chocolate)",
+              "bin": 0
+            },
+            {
+              "label": "Patilla",
+              "bin": 0
+            },
+            {
+              "label": "Maíz",
+              "bin": 1
+            },
+            {
+              "label": "Arroz",
+              "bin": 1
+            }
+          ],
+          "explanation": "Las flores del mango, la parchita, el cacao y la patilla necesitan insectos que lleven su polen. El maíz y el arroz tienen flores sin pétalos vistosos porque su polen lo lleva el viento."
+        },
+        {
+          "id": "u7l6e2",
+          "type": "match",
+          "prompt": "Forma parejas: si faltaran…",
+          "pairs": [
+            {
+              "left": "Los polinizadores",
+              "right": "Habría pocas frutas y nada de chocolate"
+            },
+            {
+              "left": "Los recicladores",
+              "right": "Se amontonarían hojas y restos"
+            },
+            {
+              "left": "Los insectos que son comida",
+              "right": "Muchos pájaros y ranas pasarían hambre"
+            }
+          ],
+          "explanation": "Cada grupo de insectos sostiene una parte de la red: sin él, la parte que dependía de su trabajo se viene abajo."
+        },
+        {
+          "id": "u7l6e3",
+          "type": "choice",
+          "prompt": "¿Quién poliniza la flor del cacao, de la que sale el chocolate?",
+          "options": [
+            "El viento",
+            "Unas mosquitas diminutas",
+            "Las mariposas grandes"
+          ],
+          "answer": 1,
+          "explanation": "La flor del cacao es pequeñita y la visitan unas mosquitas diminutas que caben en ella. Sin ellas, no habría granos de cacao."
+        },
+        {
+          "id": "u7l6e4",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Para ayudar a los insectos podemos sembrar ___ y no echar ___ a todo.",
+          "bank": [
+            "flores",
+            "cemento",
+            "veneno",
+            "agua"
+          ],
+          "answers": [
+            "flores",
+            "veneno"
+          ],
+          "explanation": "Las flores dan néctar y polen a los polinizadores, y el veneno no distingue: mata también a los insectos que nos ayudan."
+        },
+        {
+          "id": "u7l6e5",
+          "type": "choice",
+          "prompt": "¿Por qué muchos pájaros pasarían hambre sin insectos?",
+          "options": [
+            "Porque alimentan a sus pichones con insectos",
+            "Porque los insectos les hacen el nido",
+            "Porque los insectos les enseñan a volar"
+          ],
+          "answer": 0,
+          "explanation": "Las orugas y otros insectos son blanditos y nutritivos: muchos pájaros los cazan para criar a sus pichones.",
+          "art": "pajaro"
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u7exam",
+    "title": "Reto de la unidad",
+    "art": "paquito",
+    "intro": "¡Reto de la red de la vida! Demuestra que sabes cómo se unen todos los hilos.",
+    "closing": "¡Muy bien, guardabosques! Ya sabes que cada insecto, por pequeño que sea, sostiene un hilo de la red de la vida.",
+    "exercises": [
+      {
+        "id": "u7x1",
+        "type": "order",
+        "prompt": "Ordena la cadena alimentaria, de la primera a la última.",
+        "steps": [
+          {
+            "art": "hoja",
+            "label": "Planta"
+          },
+          {
+            "art": "saltamontes",
+            "label": "Saltamontes"
+          },
+          {
+            "art": "rana",
+            "label": "Rana"
+          }
+        ],
+        "explanation": "La planta fabrica su comida con el sol, el saltamontes se come la planta y la rana atrapa al saltamontes con su lengua."
+      },
+      {
+        "id": "u7x2",
+        "type": "label",
+        "prompt": "Pon cada nombre en su sitio.",
+        "art": "flor_partes",
+        "slots": [
+          {
+            "id": "petalo",
+            "label": "pétalo",
+            "x": 0.2,
+            "y": 0.35
+          },
+          {
+            "id": "estambre",
+            "label": "estambre",
+            "x": 0.62,
+            "y": 0.22
+          },
+          {
+            "id": "pistilo",
+            "label": "pistilo",
+            "x": 0.5,
+            "y": 0.12
+          },
+          {
+            "id": "tallo",
+            "label": "tallo",
+            "x": 0.5,
+            "y": 0.85
+          }
+        ],
+        "explanation": "El pistilo, en el centro, recibe el polen; los estambres, a su alrededor, lo tienen; los pétalos atraen a los insectos y el tallo sostiene la flor."
+      },
+      {
+        "id": "u7x3",
+        "type": "spot",
+        "prompt": "¿Dónde se esconde el insecto palo?",
+        "art": "palito",
+        "spot": {
+          "x": 0.5,
+          "y": 0.5,
+          "r": 0.25,
+          "label": "Insecto palo"
+        },
+        "explanation": "Cuesta verlo porque parece una ramita más: ese es su camuflaje contra los pájaros."
+      },
+      {
+        "id": "u7x4",
+        "type": "choice",
+        "prompt": "Escucha. ¿Quién suena?",
+        "options": [
+          "Una rana",
+          "Una abeja",
+          "Un grillo"
+        ],
+        "answer": 1,
+        "explanation": "Es el zumbido de una abeja: lo hacen sus alas, que se mueven rapidísimo mientras vuela de flor en flor llevando polen.",
+        "sound": "abeja"
+      },
+      {
+        "id": "u7x5",
+        "type": "sort",
+        "prompt": "Pon cada uno en su caja.",
+        "bins": [
+          "Poliniza",
+          "Recicla"
+        ],
+        "sortItems": [
+          {
+            "label": "Abeja",
+            "bin": 0,
+            "art": "abeja"
+          },
+          {
+            "label": "Mariposa",
+            "bin": 0,
+            "art": "mariposa"
+          },
+          {
+            "label": "Abeja angelita",
+            "bin": 0,
+            "art": "abeja_angelita"
+          },
+          {
+            "label": "Comején",
+            "bin": 1,
+            "art": "comejen"
+          },
+          {
+            "label": "Hongo",
+            "bin": 1,
+            "art": "hongo"
+          }
+        ],
+        "explanation": "Las abejas y las mariposas llevan polen al buscar néctar; el comején come madera muerta y el hongo deshace restos, y así los dos hacen tierra nueva."
+      },
+      {
+        "id": "u7x6",
+        "type": "match",
+        "prompt": "Forma parejas: cada insecto con su truco.",
+        "pairs": [
+          {
+            "left": "Insecto palo",
+            "right": "Camuflaje: parece una rama"
+          },
+          {
+            "left": "Mosca de las flores",
+            "right": "Mimetismo: parece una avispa"
+          },
+          {
+            "left": "Mariquita",
+            "right": "Colores de aviso: sabe mal"
+          }
+        ],
+        "explanation": "Uno se esconde, otro se disfraza de alguien que pica y la otra avisa con colores vivos: tres formas de que no se los coman."
+      },
+      {
+        "id": "u7x7",
+        "type": "choice",
+        "prompt": "¿Qué hace la reina en una colonia de abejas?",
+        "options": [
+          "Pone los huevos",
+          "Defiende el nido ella sola",
+          "Cultiva hongos"
+        ],
+        "answer": 0,
+        "explanation": "La reina pone todos los huevos de la colonia; las obreras buscan comida, cuidan a las crías y defienden el panal.",
+        "art": "abeja"
+      },
+      {
+        "id": "u7x8",
+        "type": "fill",
+        "prompt": "Completa la frase.",
+        "sentence": "Los polinizadores llevan ___ de flor en flor, y los recicladores convierten los restos en ___ nueva.",
+        "bank": [
+          "polen",
+          "agua",
+          "tierra",
+          "arena"
+        ],
+        "answers": [
+          "polen",
+          "tierra"
+        ],
+        "explanation": "Gracias al polen que llevan, las flores dan frutos; y gracias a los recicladores, los restos vuelven a ser tierra con alimento."
+      },
+      {
+        "id": "u7x9",
+        "type": "tapAll",
+        "prompt": "Toca los animales que comen insectos.",
+        "items": [
+          {
+            "art": "rana",
+            "label": "Rana",
+            "correct": true
+          },
+          {
+            "art": "pajaro",
+            "label": "Pájaro",
+            "correct": true
+          },
+          {
+            "art": "santateresa",
+            "label": "Santateresa",
+            "correct": true
+          },
+          {
+            "art": "abeja",
+            "label": "Abeja",
+            "correct": false
+          },
+          {
+            "art": "flor_rosa",
+            "label": "Flor",
+            "correct": false
+          }
+        ],
+        "explanation": "Ranas, pájaros y santateresas cazan insectos. La abeja come néctar y polen, y la flor es una planta: fabrica su comida con el sol."
+      },
+      {
+        "id": "u7x10",
+        "type": "choice",
+        "prompt": "¿Verdadero o falso? Si faltaran los insectos, se notaría en toda la red de la vida.",
+        "options": [
+          "Verdadero",
+          "Falso"
+        ],
+        "answer": 0,
+        "explanation": "Verdadero: habría menos frutas, los restos se amontonarían y muchos pájaros y ranas pasarían hambre."
+      }
+    ]
+  }
+}

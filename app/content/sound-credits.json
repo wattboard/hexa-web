@@ -1,0 +1,38 @@
+{
+  "abeja": {
+    "author": "José Gabriel Sodré",
+    "file": "abeja.m4a",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/341134218",
+    "source": "iNaturalist",
+    "taxon": "Apis mellifera"
+  },
+  "cigarra": {
+    "author": "James Bailey",
+    "file": "cigarra.m4a",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/27962501",
+    "source": "iNaturalist",
+    "taxon": "Hewlettia nigriviridis"
+  },
+  "grillo": {
+    "author": "ShaunLee",
+    "file": "grillo.m4a",
+    "license": "CC BY",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "observation": "http://naturewatch.org.nz/observations/2777927",
+    "source": "iNaturalist",
+    "taxon": "Lepidogryllus parvulus"
+  },
+  "rana": {
+    "author": "Ty Smith",
+    "file": "rana.m4a",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/97524274",
+    "source": "iNaturalist",
+    "taxon": "Lithobates catesbeianus"
+  }
+}

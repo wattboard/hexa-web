@@ -1,0 +1,834 @@
+{
+  "id": "u5",
+  "order": 5,
+  "title": "Insects of Venezuela",
+  "intro": "Let's travel across Venezuela —the plains, the Andes, the rainforest and the coast— meeting insects from here. Pack your ranger backpack!",
+  "lessons": [
+    {
+      "id": "u5l1",
+      "title": "A country with many landscapes",
+      "art": "paisaje_selva",
+      "intro": "Venezuela has plains, mountains, rainforest, coast and islands. And each place has its own insects!",
+      "closing": "Because every landscape is different, a huge number of kinds of insects live in Venezuela. We live in a treasure of biodiversity!",
+      "exercises": [
+        {
+          "id": "u5l1e1",
+          "type": "match",
+          "prompt": "Make pairs: each landscape with what it's like.",
+          "pairs": [
+            {
+              "left": "Plains",
+              "right": "Flat grasslands that fill with ponds when it rains"
+            },
+            {
+              "left": "Andes",
+              "right": "Cold mountains with páramo"
+            },
+            {
+              "left": "Rainforest",
+              "right": "Very tall trees and lots of rain"
+            },
+            {
+              "left": "Coast",
+              "right": "Sea, heat and little rain"
+            }
+          ],
+          "explanation": "Each landscape has its own weather: cold or hot, lots of rain or little. That's why different insects live in each one."
+        },
+        {
+          "id": "u5l1e2",
+          "type": "sort",
+          "prompt": "Andes or plains? Put each thing in its landscape.",
+          "bins": [
+            "Andes",
+            "Plains"
+          ],
+          "sortItems": [
+            {
+              "label": "It's cold",
+              "bin": 0
+            },
+            {
+              "label": "Páramo with frailejón plants",
+              "bin": 0
+            },
+            {
+              "label": "Bumblebees on frailejón flowers",
+              "bin": 0,
+              "art": "abeja"
+            },
+            {
+              "label": "Flat grassland",
+              "bin": 1
+            },
+            {
+              "label": "Ponds in the rainy season",
+              "bin": 1
+            },
+            {
+              "label": "Dragonfly young in the ponds",
+              "bin": 1,
+              "art": "libelula"
+            }
+          ],
+          "explanation": "The Andes are high and cold, and fuzzy bumblebees there can handle the cold and visit the frailejón. The plains are flat and hot, and their ponds are home to young dragonflies."
+        },
+        {
+          "id": "u5l1e3",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "The great variety of living things in a place is called ___.",
+          "bank": [
+            "biodiversity",
+            "pollution",
+            "metamorphosis"
+          ],
+          "answers": [
+            "biodiversity"
+          ],
+          "explanation": "“Bio” means life and “diversity” means variety: many different kinds of life in the same place."
+        },
+        {
+          "id": "u5l1e4",
+          "type": "choice",
+          "prompt": "Why are there so many kinds of insects in Venezuela?",
+          "options": [
+            "Because it has many different landscapes, and each one has its own insects",
+            "Because all the insects in the world live here",
+            "Because the whole country has the same weather"
+          ],
+          "answer": 0,
+          "explanation": "An insect from the cold páramo doesn't live like one from the hot rainforest. Many different landscapes give a home to many different insects.",
+          "art": "paisaje_andes"
+        },
+        {
+          "id": "u5l1e5",
+          "type": "choice",
+          "prompt": "True or false? Venezuela is one of the few megadiverse countries in the world.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "Megadiverse means it has a huge number of kinds of living things. Venezuela is one thanks to its very different landscapes.",
+          "art": "paisaje_selva"
+        }
+      ]
+    },
+    {
+      "id": "u5l2",
+      "title": "The cocuyo",
+      "art": "cocuyo",
+      "intro": "The cocuyo is a Venezuelan beetle that carries its own little lights. Is it the same as a firefly?",
+      "closing": "The cocuyo's light is cold and helps it talk to other cocuyos. If you see one, turn off your flashlight and enjoy the show.",
+      "exercises": [
+        {
+          "id": "u5l2e1",
+          "type": "spot",
+          "prompt": "Tap where the firefly turns on its light.",
+          "art": "luciernaga",
+          "spot": {
+            "x": 0.5,
+            "y": 0.75,
+            "r": 0.2,
+            "label": "The tip of the abdomen"
+          },
+          "explanation": "The firefly has its lantern at the end of its abdomen. The cocuyo, instead, has its two green lights on its thorax: that's how you tell them apart."
+        },
+        {
+          "id": "u5l2e2",
+          "type": "match",
+          "prompt": "Make pairs.",
+          "pairs": [
+            {
+              "left": "Cocuyo",
+              "right": "Two green lights on the thorax"
+            },
+            {
+              "left": "Firefly",
+              "right": "A blinking light at the tip of the abdomen"
+            },
+            {
+              "left": "Bioluminescence",
+              "right": "Making light with the body"
+            }
+          ],
+          "explanation": "Both are beetles that make light, but they have it in different parts of the body. Bioluminescence comes from “bio,” life, and “lumen,” light."
+        },
+        {
+          "id": "u5l2e3",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "The cocuyo's light is ___: it doesn't burn.",
+          "bank": [
+            "cold",
+            "fire",
+            "electric"
+          ],
+          "answers": [
+            "cold"
+          ],
+          "explanation": "Bioluminescence gives off almost no heat: nearly all the energy turns into light. That's why the cocuyo doesn't get burned by its own headlights."
+        },
+        {
+          "id": "u5l2e4",
+          "type": "choice",
+          "prompt": "What did people use cocuyos for before there was electric light?",
+          "options": [
+            "To light their way at night",
+            "To make honey",
+            "To heat up food"
+          ],
+          "answer": 0,
+          "explanation": "Their light is strong: with several cocuyos together you could see the path. Today we have flashlights, so we can leave them free.",
+          "art": "cocuyo"
+        },
+        {
+          "id": "u5l2e5",
+          "type": "choice",
+          "prompt": "True or false? The cocuyo and the firefly are both beetles.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "Both have elytra, the hard front wings, so they are beetles. They're cousins, but not the same kind of beetle.",
+          "art": "luciernaga"
+        }
+      ]
+    },
+    {
+      "id": "u5l3",
+      "title": "Butterflies from here",
+      "art": "morfo",
+      "intro": "Butterflies of so many colors fly in Venezuela. Today you'll meet three: the blue morpho, the 88 and the monarch.",
+      "closing": "Every butterfly has its trick: shining, hiding or traveling far. Watching them without catching them is the best way to enjoy them.",
+      "exercises": [
+        {
+          "id": "u5l3e1",
+          "type": "choice",
+          "prompt": "Why do the morpho's wings shine blue?",
+          "options": [
+            "Because of the tiny shape of its scales, which bounces back blue light",
+            "Because they have blue paint inside",
+            "Because they reflect the sky like a mirror"
+          ],
+          "answer": 0,
+          "explanation": "The blue comes from the shape of the scales, not from paint. That's why it shines and changes depending on the light, like a soap bubble.",
+          "art": "morfo"
+        },
+        {
+          "id": "u5l3e2",
+          "type": "match",
+          "prompt": "Make pairs: each butterfly with what makes it special.",
+          "pairs": [
+            {
+              "left": "Blue morpho",
+              "right": "Bright blue wings"
+            },
+            {
+              "left": "88 butterfly",
+              "right": "An 88 drawn under its wings"
+            },
+            {
+              "left": "Monarch",
+              "right": "Orange and black, and in North America it travels very far"
+            }
+          ],
+          "explanation": "By looking at the colors and patterns on the wings you can recognize each butterfly."
+        },
+        {
+          "id": "u5l3e3",
+          "type": "tapAll",
+          "prompt": "Tap all the butterflies.",
+          "items": [
+            {
+              "art": "morfo",
+              "label": "Blue morpho",
+              "correct": true
+            },
+            {
+              "art": "mariposa_88",
+              "label": "88 butterfly",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Monarch",
+              "correct": true
+            },
+            {
+              "art": "cocuyo",
+              "label": "Cocuyo",
+              "correct": false
+            },
+            {
+              "art": "abeja_angelita",
+              "label": "Angelita",
+              "correct": false
+            }
+          ],
+          "explanation": "The morpho, the 88 and the monarch have wings covered in scales: they're Lepidoptera. The cocuyo is a beetle and the angelita is a bee."
+        },
+        {
+          "id": "u5l3e4",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "When monarchs travel very far every year to escape the cold, we say they ___.",
+          "bank": [
+            "migrate",
+            "sleep",
+            "molt"
+          ],
+          "answers": [
+            "migrate"
+          ],
+          "explanation": "Migrating means traveling from one place to another depending on the time of year. North American monarchs fly thousands of miles to a warmer place."
+        },
+        {
+          "id": "u5l3e5",
+          "type": "choice",
+          "prompt": "When the morpho closes its wings, what are the eye-like circles for?",
+          "options": [
+            "To confuse birds that want to eat it",
+            "To see better",
+            "To make light"
+          ],
+          "answer": 0,
+          "explanation": "They aren't real eyes: they're patterns. With its wings closed the morpho is brown and hides, and if a bird spots it, the “eyes” confuse the bird.",
+          "art": "morfo"
+        }
+      ]
+    },
+    {
+      "id": "u5l4",
+      "title": "Stingless bees and leafcutter ants",
+      "art": "bachaco",
+      "intro": "Today you'll meet two hard workers from here: a little bee that can't sting and an ant that grows its own food.",
+      "closing": "Angelitas and leafcutter ants live in groups and each one does its job. Watching them from a distance is like seeing a tiny city.",
+      "exercises": [
+        {
+          "id": "u5l4e1",
+          "type": "order",
+          "prompt": "Put the leafcutter ants' work in order.",
+          "steps": [
+            {
+              "art": "hoja",
+              "label": "They cut a little piece of leaf"
+            },
+            {
+              "art": "bachaco",
+              "label": "They carry it in a line to the nest"
+            },
+            {
+              "art": "hongo",
+              "label": "They use the leaves to grow a fungus"
+            },
+            {
+              "art": "bachaco",
+              "label": "They eat the fungus"
+            }
+          ],
+          "explanation": "Leafcutter ants don't eat the leaves: they use them to feed their fungus garden, and the fungus is their food."
+        },
+        {
+          "id": "u5l4e2",
+          "type": "sort",
+          "prompt": "Angelita or leafcutter ant? Put each thing in its place.",
+          "bins": [
+            "Angelita",
+            "Leafcutter ant"
+          ],
+          "sortItems": [
+            {
+              "label": "Makes honey",
+              "bin": 0
+            },
+            {
+              "label": "Can't sting",
+              "bin": 0
+            },
+            {
+              "label": "Its nest entrance is a little wax tube",
+              "bin": 0
+            },
+            {
+              "label": "Cuts leaves",
+              "bin": 1
+            },
+            {
+              "label": "Grows a fungus",
+              "bin": 1
+            },
+            {
+              "label": "Can bite hard",
+              "bin": 1
+            }
+          ],
+          "explanation": "The angelita is a bee: it makes honey in a nest with a wax entrance. The leafcutter ant cuts leaves for its fungus and defends itself by biting."
+        },
+        {
+          "id": "u5l4e3",
+          "type": "choice",
+          "prompt": "True or false? The angelita can sting with its stinger.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "Its stinger is so tiny that it doesn't work. That's why angelitas and their cousins are called stingless bees.",
+          "art": "abeja_angelita"
+        },
+        {
+          "id": "u5l4e4",
+          "type": "choice",
+          "prompt": "You see a line of leafcutter ants carrying leaves. What's the best thing to do?",
+          "options": [
+            "Watch them from a distance without putting your hand in",
+            "Pick one up to look at it closely",
+            "Put a stick in their way to make them turn"
+          ],
+          "answer": 0,
+          "explanation": "Leafcutter ants defend their line by biting hard. From a distance you can see just as well how they work, and nobody gets hurt.",
+          "art": "bachaco"
+        },
+        {
+          "id": "u5l4e5",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Leafcutter ants are ___: they grow a fungus to eat.",
+          "bank": [
+            "farmers",
+            "hunters",
+            "fishers"
+          ],
+          "answers": [
+            "farmers"
+          ],
+          "explanation": "A farmer plants and takes care of what they're going to eat. Leafcutter ants do the same with their fungus, since long before people did!"
+        }
+      ]
+    },
+    {
+      "id": "u5l5",
+      "title": "Giants and masters of disguise",
+      "art": "escarabajo_hercules",
+      "intro": "In our forests live a giant beetle, an insect that looks like a twig and a very patient hunter.",
+      "closing": "Big or disguised, none of the three stings or has venom. If you find one, watch it calmly: it's a gift from the forest!",
+      "exercises": [
+        {
+          "id": "u5l5e1",
+          "type": "spot",
+          "prompt": "Tap the Hercules beetle's horn.",
+          "art": "escarabajo_hercules",
+          "spot": {
+            "x": 0.5,
+            "y": 0.2,
+            "r": 0.15,
+            "label": "The horn"
+          },
+          "explanation": "Only males have horns. They use them to push and lift other males, not to attack people."
+        },
+        {
+          "id": "u5l5e2",
+          "type": "label",
+          "prompt": "Put each name in its place.",
+          "art": "santateresa",
+          "slots": [
+            {
+              "id": "cabeza",
+              "label": "triangle head",
+              "x": 0.5,
+              "y": 0.2
+            },
+            {
+              "id": "patas",
+              "label": "hunting legs",
+              "x": 0.36,
+              "y": 0.36
+            },
+            {
+              "id": "abdomen",
+              "label": "abdomen",
+              "x": 0.5,
+              "y": 0.8
+            }
+          ],
+          "explanation": "Its front legs have little spines and snap shut like a trap. Its triangle-shaped head turns to keep an eye on its prey."
+        },
+        {
+          "id": "u5l5e3",
+          "type": "match",
+          "prompt": "Make pairs.",
+          "pairs": [
+            {
+              "left": "Hercules beetle",
+              "right": "One of the biggest beetles in the world"
+            },
+            {
+              "left": "Stick insect",
+              "right": "Looks like a twig"
+            },
+            {
+              "left": "Praying mantis",
+              "right": "Hunts with its front legs"
+            }
+          ],
+          "explanation": "Each one has its own way of living: the Hercules is big and strong, the stick insect hides and the mantis waits to hunt."
+        },
+        {
+          "id": "u5l5e4",
+          "type": "choice",
+          "prompt": "Why does the stick insect sway slowly from side to side?",
+          "options": [
+            "To look like a branch moved by the wind so nobody sees it",
+            "Because it's dizzy",
+            "To call other stick insects"
+          ],
+          "answer": 0,
+          "explanation": "A branch sways when the wind blows. By copying it, birds looking for insects don't find it.",
+          "art": "palito"
+        },
+        {
+          "id": "u5l5e5",
+          "type": "tapAll",
+          "prompt": "Tap the insects that disguise themselves so nobody sees them.",
+          "items": [
+            {
+              "art": "palito",
+              "label": "Stick insect",
+              "correct": true
+            },
+            {
+              "art": "santateresa",
+              "label": "Praying mantis",
+              "correct": true
+            },
+            {
+              "art": "mariquita",
+              "label": "Ladybug",
+              "correct": false
+            },
+            {
+              "art": "cocuyo",
+              "label": "Cocuyo",
+              "correct": false
+            },
+            {
+              "art": "abeja",
+              "label": "Bee",
+              "correct": false
+            }
+          ],
+          "explanation": "The stick insect looks like a twig and the mantis is the color of leaves. The ladybug, instead, has bright colors to warn that it tastes bad."
+        }
+      ]
+    },
+    {
+      "id": "u5l6",
+      "title": "Taking care of what's ours",
+      "art": "paisaje_selva",
+      "intro": "Venezuela's insects are a treasure, but they need us to take care of them. What can we do?",
+      "closing": "Every flower you plant and every insect you leave free helps. A ranger takes care of what's ours!",
+      "exercises": [
+        {
+          "id": "u5l6e1",
+          "type": "sort",
+          "prompt": "Does it help or harm? Put each thing in its place.",
+          "bins": [
+            "Helps",
+            "Harms"
+          ],
+          "sortItems": [
+            {
+              "label": "Planting flowers",
+              "bin": 0,
+              "art": "flor_rosa"
+            },
+            {
+              "label": "Leaving insects free",
+              "bin": 0
+            },
+            {
+              "label": "Teaching others not to be afraid of them",
+              "bin": 0
+            },
+            {
+              "label": "Spraying poison on every plant",
+              "bin": 1
+            },
+            {
+              "label": "Burning the forest",
+              "bin": 1
+            },
+            {
+              "label": "Cutting down the forest's trees",
+              "bin": 1
+            }
+          ],
+          "explanation": "Without forests, insects lose their home and their food, and poison also kills the ones that help us. Flowers, instead, give them food."
+        },
+        {
+          "id": "u5l6e2",
+          "type": "match",
+          "prompt": "Make pairs.",
+          "pairs": [
+            {
+              "left": "Canaima",
+              "right": "Tepuis and Angel Falls"
+            },
+            {
+              "left": "Henri Pittier",
+              "right": "Venezuela's first national park"
+            },
+            {
+              "left": "National park",
+              "right": "A place where nature is protected by law"
+            }
+          ],
+          "explanation": "In national parks the forest can't be cut or burned, so insects and other living things have a safe home."
+        },
+        {
+          "id": "u5l6e3",
+          "type": "choice",
+          "prompt": "Why does cutting down the forest put insects in danger?",
+          "options": [
+            "Because they lose their home and their food",
+            "Because they get too cold",
+            "Because they lose electric light"
+          ],
+          "answer": 0,
+          "explanation": "Many insects live on and eat just one kind of plant or tree. If the forest disappears, they have nowhere to go.",
+          "art": "paisaje_selva"
+        },
+        {
+          "id": "u5l6e4",
+          "type": "fill",
+          "prompt": "Complete the sentence.",
+          "sentence": "Pest poison also kills ___, which pollinate flowers.",
+          "bank": [
+            "bees",
+            "rocks",
+            "clouds"
+          ],
+          "answers": [
+            "bees"
+          ],
+          "explanation": "Poison can't tell a pest from a friend: it kills every insect it touches, including bees and butterflies."
+        },
+        {
+          "id": "u5l6e5",
+          "type": "choice",
+          "prompt": "True or false? Every year, huge numbers of insects and birds fly through the Portachuelo pass in Henri Pittier park.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "Portachuelo is a low gap between the mountains, where it's easier to cross them. That's why so many insects and birds use it on their journeys.",
+          "art": "paisaje_andes"
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u5exam",
+    "title": "Unit challenge",
+    "art": "cocuyo",
+    "intro": "Challenge time! Travel across Venezuela again and show how much you know about our insects.",
+    "closing": "Well done, ranger! Now you know the insects from here and how to take care of them.",
+    "exercises": [
+      {
+        "id": "u5x1",
+        "type": "choice",
+        "prompt": "Listen. Who makes this buzz while flying from flower to flower?",
+        "options": [
+          "A bee",
+          "A stick insect",
+          "A praying mantis"
+        ],
+        "answer": 0,
+        "explanation": "Bees beat their wings very fast, hundreds of times a second, and that makes the buzz. The páramo's bumblebees also buzz as they visit frailejón flowers.",
+        "sound": "abeja"
+      },
+      {
+        "id": "u5x2",
+        "type": "choice",
+        "prompt": "Where does the cocuyo have its two green lights?",
+        "options": [
+          "On its thorax",
+          "At the tip of its abdomen",
+          "On its antennae"
+        ],
+        "answer": 0,
+        "explanation": "It carries them on its thorax, like two headlights. A light at the tip of the abdomen belongs to the firefly.",
+        "art": "cocuyo"
+      },
+      {
+        "id": "u5x3",
+        "type": "match",
+        "prompt": "Make pairs.",
+        "pairs": [
+          {
+            "left": "Angelita",
+            "right": "A tiny stingless bee that makes honey"
+          },
+          {
+            "left": "Leafcutter ant",
+            "right": "Cuts leaves to grow a fungus"
+          },
+          {
+            "left": "Praying mantis",
+            "right": "Hunts with its front legs"
+          }
+        ],
+        "explanation": "Each insect has its job: the angelita pollinates and makes honey, the leafcutter ant farms and the mantis hunts."
+      },
+      {
+        "id": "u5x4",
+        "type": "sort",
+        "prompt": "Beetle or butterfly?",
+        "bins": [
+          "Beetle",
+          "Butterfly"
+        ],
+        "sortItems": [
+          {
+            "label": "Cocuyo",
+            "bin": 0,
+            "art": "cocuyo"
+          },
+          {
+            "label": "Hercules beetle",
+            "bin": 0,
+            "art": "escarabajo_hercules"
+          },
+          {
+            "label": "Firefly",
+            "bin": 0,
+            "art": "luciernaga"
+          },
+          {
+            "label": "Blue morpho",
+            "bin": 1,
+            "art": "morfo"
+          },
+          {
+            "label": "88 butterfly",
+            "bin": 1,
+            "art": "mariposa_88"
+          },
+          {
+            "label": "Monarch",
+            "bin": 1,
+            "art": "mariposa"
+          }
+        ],
+        "explanation": "Beetles have elytra, hard wings like a case. Butterflies have wings covered in scales."
+      },
+      {
+        "id": "u5x5",
+        "type": "fill",
+        "prompt": "Complete the sentence.",
+        "sentence": "The morpho's blue isn't paint: it comes from the shape of its ___.",
+        "bank": [
+          "scales",
+          "feathers",
+          "legs"
+        ],
+        "answers": [
+          "scales"
+        ],
+        "explanation": "The tiny scales on its wings bounce back blue light. That's why the blue shines and changes as the morpho moves."
+      },
+      {
+        "id": "u5x6",
+        "type": "choice",
+        "prompt": "True or false? The stick insect looks like a twig so birds don't see it.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 0,
+        "explanation": "Its disguise is its defense: it doesn't sting or bite, so its best trick is not being found.",
+        "art": "palito"
+      },
+      {
+        "id": "u5x7",
+        "type": "tapAll",
+        "prompt": "Tap what helps take care of Venezuela's insects.",
+        "items": [
+          {
+            "art": "flor_rosa",
+            "label": "Planting flowers",
+            "correct": true
+          },
+          {
+            "art": "paisaje_selva",
+            "label": "Protecting national parks",
+            "correct": true
+          },
+          {
+            "art": "hoja",
+            "label": "Spraying poison on leaves",
+            "correct": false
+          },
+          {
+            "art": "mariposa",
+            "label": "Catching butterflies in a jar",
+            "correct": false
+          }
+        ],
+        "explanation": "Flowers give them food and parks give them a safe home. Poison and jars, on the other hand, harm them."
+      },
+      {
+        "id": "u5x8",
+        "type": "choice",
+        "prompt": "What do leafcutter ants eat?",
+        "options": [
+          "A fungus they grow with leaves",
+          "The leaves they cut",
+          "Angelita honey"
+        ],
+        "answer": 0,
+        "explanation": "It looks like they eat leaves, but they don't: the leaves feed their fungus garden, and the fungus is what they eat.",
+        "art": "bachaco"
+      },
+      {
+        "id": "u5x9",
+        "type": "fill",
+        "prompt": "Complete the sentence.",
+        "sentence": "Venezuela is a ___ country: it has a huge number of kinds of living things.",
+        "bank": [
+          "megadiverse",
+          "tiny",
+          "frozen"
+        ],
+        "answers": [
+          "megadiverse"
+        ],
+        "explanation": "Its plains, mountains, rainforests, coasts and islands are home to a huge number of different living things."
+      },
+      {
+        "id": "u5x10",
+        "type": "match",
+        "prompt": "Make pairs: each place with what you find there.",
+        "pairs": [
+          {
+            "left": "Canaima",
+            "right": "Angel Falls"
+          },
+          {
+            "left": "Andean páramo",
+            "right": "Bumblebees on the frailejón"
+          },
+          {
+            "left": "Plains",
+            "right": "Ponds in the rainy season"
+          }
+        ],
+        "explanation": "Every corner of Venezuela is different, and that's why each one has its own life."
+      }
+    ]
+  }
+}

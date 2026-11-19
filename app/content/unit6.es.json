@@ -1,0 +1,942 @@
+{
+  "id": "u6",
+  "order": 6,
+  "title": "Los primos de los insectos",
+  "intro": "No todos los bichos pequeños son insectos. Conozcamos a sus primos —arañas, alacranes, ciempiés, milpiés y cochinitas— y aprendamos a no tenerles miedo.",
+  "lessons": [
+    {
+      "id": "u6l1",
+      "title": "Artrópodos: una gran familia",
+      "art": "ciempies",
+      "intro": "No todos los bichos pequeños son insectos. Hoy conocerás a la gran familia de los artrópodos… ¡y aprenderás a contar patas!",
+      "closing": "Insectos, arañas, alacranes, ciempiés, milpiés y cochinitas son primos: todos llevan el esqueleto por fuera. ¡Contar patas te dice quién es quién!",
+      "exercises": [
+        {
+          "id": "u6l1e1",
+          "type": "match",
+          "prompt": "Forma parejas: cada animal con sus patas.",
+          "pairs": [
+            {
+              "left": "Insecto",
+              "right": "6 patas"
+            },
+            {
+              "left": "Araña",
+              "right": "8 patas"
+            },
+            {
+              "left": "Cochinita",
+              "right": "14 patas"
+            },
+            {
+              "left": "Ciempiés",
+              "right": "Muchísimas patas"
+            }
+          ],
+          "explanation": "Contar patas es la pista más rápida para saber quién es quién: 6 es un insecto, 8 una araña, 14 una cochinita y muchísimas, un ciempiés o un milpiés."
+        },
+        {
+          "id": "u6l1e2",
+          "type": "choice",
+          "prompt": "¿Qué tienen en común todos los artrópodos?",
+          "options": [
+            "El esqueleto por fuera y patas con articulaciones",
+            "Alas y antenas",
+            "Pelo y plumas"
+          ],
+          "answer": 0,
+          "explanation": "Por eso son una sola familia: llevan una armadura por fuera y sus patas se doblan por partes. Las alas solo las tienen muchos insectos, y las arañas ni siquiera tienen antenas."
+        },
+        {
+          "id": "u6l1e3",
+          "type": "tapAll",
+          "prompt": "Toca los que son artrópodos.",
+          "items": [
+            {
+              "art": "saltamontes",
+              "label": "Saltamontes",
+              "correct": true
+            },
+            {
+              "art": "arana",
+              "label": "Araña",
+              "correct": true
+            },
+            {
+              "art": "rana",
+              "label": "Rana",
+              "correct": false
+            },
+            {
+              "art": "ciempies",
+              "label": "Ciempiés",
+              "correct": true
+            },
+            {
+              "art": "cochinita",
+              "label": "Cochinita",
+              "correct": true
+            },
+            {
+              "art": "pajaro",
+              "label": "Pájaro",
+              "correct": false
+            }
+          ],
+          "explanation": "La rana y el pájaro tienen el esqueleto por dentro, como nosotros, así que no son artrópodos. Los otros cuatro llevan su armadura por fuera y tienen patas articuladas."
+        },
+        {
+          "id": "u6l1e4",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Para crecer, los artrópodos ___ su esqueleto, porque lo tienen ___.",
+          "bank": [
+            "mudan",
+            "pintan",
+            "por fuera",
+            "por dentro"
+          ],
+          "answers": [
+            "mudan",
+            "por fuera"
+          ],
+          "explanation": "Una armadura dura no se puede estirar: por eso se quitan la vieja y debajo les crece una nueva, más grande. Eso es mudar."
+        },
+        {
+          "id": "u6l1e5",
+          "type": "sort",
+          "prompt": "Cuenta patas y pon cada uno en su caja.",
+          "bins": [
+            "6 patas: insecto",
+            "8 patas: arácnido",
+            "Más de 8 patas"
+          ],
+          "sortItems": [
+            {
+              "label": "Abeja",
+              "bin": 0,
+              "art": "abeja"
+            },
+            {
+              "label": "Mariquita",
+              "bin": 0,
+              "art": "mariquita"
+            },
+            {
+              "label": "Araña",
+              "bin": 1,
+              "art": "arana"
+            },
+            {
+              "label": "Alacrán",
+              "bin": 1,
+              "art": "alacran"
+            },
+            {
+              "label": "Ciempiés",
+              "bin": 2,
+              "art": "ciempies"
+            },
+            {
+              "label": "Milpiés",
+              "bin": 2,
+              "art": "milpies"
+            },
+            {
+              "label": "Cochinita",
+              "bin": 2,
+              "art": "cochinita"
+            }
+          ],
+          "explanation": "Con 6 patas es un insecto; con 8, un arácnido (las pinzas del alacrán no son patas); y con más de 8, otro primo: ciempiés, milpiés o cochinita."
+        }
+      ]
+    },
+    {
+      "id": "u6l2",
+      "title": "Las arañas",
+      "art": "arana",
+      "intro": "Las arañas dan miedo a mucha gente, pero casi siempre es porque no las conocemos. ¡Vamos a conocerlas de cerca!",
+      "closing": "La araña no es un insecto, pero sí una gran aliada: caza zancudos y moscas. Su telaraña es una trampa… ¡y también una obra de arte!",
+      "exercises": [
+        {
+          "id": "u6l2e1",
+          "type": "label",
+          "prompt": "Pon cada nombre en su sitio de la araña.",
+          "art": "arana",
+          "slots": [
+            {
+              "id": "cefalotorax",
+              "label": "cefalotórax",
+              "x": 0.5,
+              "y": 0.38
+            },
+            {
+              "id": "abdomen",
+              "label": "abdomen",
+              "x": 0.5,
+              "y": 0.66
+            },
+            {
+              "id": "pata",
+              "label": "pata",
+              "x": 0.24,
+              "y": 0.25
+            }
+          ],
+          "explanation": "La araña tiene solo dos partes: delante, el cefalotórax, que es cabeza y tórax juntos y de donde salen sus 8 patas; detrás, el abdomen, donde fabrica la seda."
+        },
+        {
+          "id": "u6l2e2",
+          "type": "sort",
+          "prompt": "¿De quién es cada pista?",
+          "bins": [
+            "Insecto",
+            "Araña"
+          ],
+          "sortItems": [
+            {
+              "label": "6 patas",
+              "bin": 0
+            },
+            {
+              "label": "8 patas",
+              "bin": 1
+            },
+            {
+              "label": "3 partes del cuerpo",
+              "bin": 0
+            },
+            {
+              "label": "2 partes del cuerpo",
+              "bin": 1
+            },
+            {
+              "label": "Tiene antenas",
+              "bin": 0
+            },
+            {
+              "label": "No tiene antenas ni alas",
+              "bin": 1
+            }
+          ],
+          "explanation": "El insecto tiene 6 patas, 3 partes (cabeza, tórax y abdomen) y antenas. La araña tiene 8 patas, solo 2 partes y ninguna antena: por eso es un arácnido y no un insecto."
+        },
+        {
+          "id": "u6l2e3",
+          "type": "spot",
+          "prompt": "Toca la parte del cuerpo donde la araña fabrica la seda.",
+          "art": "arana",
+          "spot": {
+            "x": 0.5,
+            "y": 0.66,
+            "r": 0.17,
+            "label": "abdomen"
+          },
+          "explanation": "La seda se fabrica en el abdomen y sale por las hileras, unos tubitos que la araña tiene en la punta. Por eso, al tejer, va soltando el hilo por detrás."
+        },
+        {
+          "id": "u6l2e4",
+          "type": "choice",
+          "prompt": "¿Para qué teje la araña su telaraña?",
+          "options": [
+            "Para atrapar insectos y comérselos",
+            "Para asustar a las personas",
+            "Para guardar miel"
+          ],
+          "answer": 0,
+          "explanation": "La telaraña es una trampa con hilos pegajosos: cuando un insecto cae, la araña siente con sus patas cómo tiembla el hilo y va a buscarlo. No la hace contra nosotros."
+        },
+        {
+          "id": "u6l2e5",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Casi todas las arañas son ___ para las personas y se comen ___ y moscas.",
+          "bank": [
+            "inofensivas",
+            "peligrosas",
+            "zancudos",
+            "flores"
+          ],
+          "answers": [
+            "inofensivas",
+            "zancudos"
+          ],
+          "explanation": "Una araña en un rincón del jardín es una cazadora que trabaja gratis: cada día atrapa insectos que pican o molestan, como zancudos, moscas y cucarachas."
+        }
+      ]
+    },
+    {
+      "id": "u6l3",
+      "title": "Arañas: mirar sin miedo",
+      "art": "telarana",
+      "intro": "¿Te da miedo una araña? Es normal. Hoy verás por qué casi todas son inofensivas y qué hacer con las pocas que no lo son.",
+      "closing": "Ahora lo sabes: casi todas las arañas son tímidas e inofensivas. Mirar sin tocar y avisar a un adulto cuando hace falta: ¡eso es ser valiente!",
+      "exercises": [
+        {
+          "id": "u6l3e1",
+          "type": "choice",
+          "prompt": "¿Verdadero o falso? La mayoría de las arañas no puede hacerle daño a una persona.",
+          "options": [
+            "Verdadero",
+            "Falso"
+          ],
+          "answer": 0,
+          "explanation": "Verdadero: casi todas son muy pequeñas o tienen un veneno muy débil para nosotros. Su veneno sirve para cazar insectos, no para atacar personas."
+        },
+        {
+          "id": "u6l3e2",
+          "type": "sort",
+          "prompt": "¿Qué hacemos con cada araña?",
+          "bins": [
+            "Mirarla con calma, sin tocarla",
+            "Mirarla de lejos y avisar a un adulto"
+          ],
+          "sortItems": [
+            {
+              "label": "Araña de jardín en su telaraña",
+              "bin": 0,
+              "art": "telarana"
+            },
+            {
+              "label": "Araña saltarina en la pared",
+              "bin": 0,
+              "art": "arana"
+            },
+            {
+              "label": "Viuda negra: negra y brillante, con manchas rojas",
+              "bin": 1
+            },
+            {
+              "label": "Araña de rincón: marrón, en un rincón oscuro",
+              "bin": 1
+            },
+            {
+              "label": "Una araña que no conoces",
+              "bin": 1
+            }
+          ],
+          "explanation": "Casi todas se pueden mirar tranquilamente sin tocarlas. A las pocas peligrosas, y a cualquiera que no conozcas, se las mira de lejos y se avisa a un adulto: así estás a salvo tú, y la araña también."
+        },
+        {
+          "id": "u6l3e3",
+          "type": "order",
+          "prompt": "Hay una araña en tu cuarto. Ordena los pasos para sacarla sin hacerle daño.",
+          "steps": [
+            {
+              "art": "angelica",
+              "label": "Aviso a un adulto"
+            },
+            {
+              "art": "arana",
+              "label": "El adulto la tapa con un vaso y pasa una cartulina por debajo"
+            },
+            {
+              "art": "helecho",
+              "label": "La suelta afuera, entre las plantas"
+            }
+          ],
+          "explanation": "Con el vaso y la cartulina la araña queda encerrada sin aplastarla, y afuera puede seguir cazando insectos. Lo hace un adulto, por si es de las que pican."
+        },
+        {
+          "id": "u6l3e4",
+          "type": "match",
+          "prompt": "Forma parejas: cada situación con lo mejor que puedes hacer.",
+          "pairs": [
+            {
+              "left": "Vas a ponerte unos zapatos que estaban guardados",
+              "right": "Sacudirlos primero"
+            },
+            {
+              "left": "Ves una araña negra con manchas rojas",
+              "right": "Alejarte y avisar a un adulto"
+            },
+            {
+              "left": "Buscas algo en un rincón oscuro",
+              "right": "Mirar antes de meter la mano"
+            },
+            {
+              "left": "Ves una telaraña con rocío en el jardín",
+              "right": "Mirarla sin romperla"
+            }
+          ],
+          "explanation": "Las arañas buscan sitios oscuros y tranquilos para esconderse, como zapatos y rincones. Con mirar antes y sacudir la ropa, ni tú te llevas un susto ni la araña tampoco."
+        },
+        {
+          "id": "u6l3e5",
+          "type": "choice",
+          "prompt": "Si una araña te pica, ¿qué haces?",
+          "options": [
+            "Aviso enseguida a un adulto",
+            "Me lo callo",
+            "Busco la araña para aplastarla"
+          ],
+          "answer": 0,
+          "explanation": "Casi siempre no pasa nada, pero un adulto sabrá si hay que lavar la picada o ir al médico. Y recuerda: la araña solo pica cuando se siente atrapada, por eso es mejor no tocarlas."
+        }
+      ]
+    },
+    {
+      "id": "u6l4",
+      "title": "Ciempiés y milpiés",
+      "art": "milpies",
+      "intro": "Tienen tantas patas que parece imposible contarlas. Pero hay un truco para saber cuál es el ciempiés y cuál el milpiés.",
+      "closing": "El ciempiés caza y el milpiés recicla: los dos ayudan al jardín. Al ciempiés, mirarlo de lejos; al milpiés, dejarlo tranquilo con sus hojas.",
+      "exercises": [
+        {
+          "id": "u6l4e1",
+          "type": "sort",
+          "prompt": "¿Ciempiés o milpiés? Pon cada pista en su caja.",
+          "bins": [
+            "Ciempiés",
+            "Milpiés"
+          ],
+          "sortItems": [
+            {
+              "label": "Rápido y cazador",
+              "bin": 0
+            },
+            {
+              "label": "Un par de patas en cada anillo",
+              "bin": 0
+            },
+            {
+              "label": "Puede morder: se mira de lejos",
+              "bin": 0
+            },
+            {
+              "label": "Lento y tranquilo",
+              "bin": 1
+            },
+            {
+              "label": "Dos pares de patas en cada anillo",
+              "bin": 1
+            },
+            {
+              "label": "Come hojas muertas",
+              "bin": 1
+            },
+            {
+              "label": "Se enrolla cuando se asusta",
+              "bin": 1
+            }
+          ],
+          "explanation": "El truco está en los anillos: el ciempiés tiene un par de patas en cada uno y corre para cazar; el milpiés tiene dos pares, va despacio y se enrolla para protegerse."
+        },
+        {
+          "id": "u6l4e2",
+          "type": "spot",
+          "prompt": "Toca la cabeza del ciempiés: ahí tiene sus antenas y sus uñas para cazar.",
+          "art": "ciempies",
+          "spot": {
+            "x": 0.2,
+            "y": 0.2,
+            "r": 0.13,
+            "label": "cabeza"
+          },
+          "explanation": "La cabeza está en la punta de donde salen las dos antenas. Junto a la boca tiene unas uñas venenosas para atrapar insectos: por eso al ciempiés se le mira de lejos."
+        },
+        {
+          "id": "u6l4e3",
+          "type": "choice",
+          "prompt": "¿Verdadero o falso? El ciempiés tiene exactamente cien patas.",
+          "options": [
+            "Verdadero",
+            "Falso"
+          ],
+          "answer": 1,
+          "explanation": "Falso: según la especie tiene desde 30 hasta más de 300 patas, pero nunca justo cien. Su nombre solo quiere decir «muchas patas»."
+        },
+        {
+          "id": "u6l4e4",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "El milpiés tiene ___ pares de patas en casi cada anillo y come ___.",
+          "bank": [
+            "dos",
+            "un",
+            "hojas muertas",
+            "insectos"
+          ],
+          "answers": [
+            "dos",
+            "hojas muertas"
+          ],
+          "explanation": "Al comer hojas muertas y madera podrida, el milpiés las convierte en tierra nueva para las plantas: es un reciclador del suelo."
+        },
+        {
+          "id": "u6l4e5",
+          "type": "match",
+          "prompt": "Forma parejas.",
+          "pairs": [
+            {
+              "left": "Miriápodo",
+              "right": "Quiere decir «muchas patas»"
+            },
+            {
+              "left": "Ciempiés",
+              "right": "Sale de noche a cazar"
+            },
+            {
+              "left": "Milpiés",
+              "right": "Se enrolla como un caracol"
+            },
+            {
+              "left": "Anillo (segmento)",
+              "right": "Cada pedacito de su cuerpo largo"
+            }
+          ],
+          "explanation": "Ciempiés y milpiés son miriápodos: tienen el cuerpo largo, hecho de muchos anillos, y muchísimas patas. Uno es cazador nocturno y el otro, cuando se asusta, se enrolla."
+        }
+      ]
+    },
+    {
+      "id": "u6l5",
+      "title": "Cochinitas y alacranes",
+      "art": "cochinita",
+      "intro": "Una se hace bolita y el otro lleva pinzas y una cola con aguijón. Ninguno de los dos es insecto: ¡veamos de quién son primos!",
+      "closing": "La cochinita recicla y el alacrán caza bichos de noche. A la cochinita la puedes mirar de cerca; al alacrán, de lejos y avisando a un adulto.",
+      "exercises": [
+        {
+          "id": "u6l5e1",
+          "type": "choice",
+          "prompt": "¿A qué grupo pertenece la cochinita?",
+          "options": [
+            "Crustáceos, como el camarón y el cangrejo",
+            "Insectos, como la mariquita",
+            "Arácnidos, como la araña"
+          ],
+          "answer": 0,
+          "explanation": "Aunque vive en la tierra, la cochinita es prima de los camarones: tiene 14 patas y respira con unas branquias especiales, por eso necesita sitios húmedos."
+        },
+        {
+          "id": "u6l5e2",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "La cochinita vive debajo de piedras y macetas porque necesita ___, y cuando se asusta se hace una ___.",
+          "bank": [
+            "humedad",
+            "sol",
+            "bolita",
+            "telaraña"
+          ],
+          "answers": [
+            "humedad",
+            "bolita"
+          ],
+          "explanation": "Sus branquias tienen que estar húmedas para respirar, por eso busca sitios oscuros y mojados. Hecha bolita, su armadura la protege por todos lados."
+        },
+        {
+          "id": "u6l5e3",
+          "type": "sort",
+          "prompt": "¿Cochinita o alacrán? Pon cada pista en su caja.",
+          "bins": [
+            "Cochinita",
+            "Alacrán"
+          ],
+          "sortItems": [
+            {
+              "label": "Tiene 14 patas",
+              "bin": 0
+            },
+            {
+              "label": "Es un crustáceo",
+              "bin": 0
+            },
+            {
+              "label": "Recicla hojas muertas",
+              "bin": 0
+            },
+            {
+              "label": "Tiene 8 patas y dos pinzas",
+              "bin": 1
+            },
+            {
+              "label": "Tiene un aguijón en la cola",
+              "bin": 1
+            },
+            {
+              "label": "Es primo de las arañas",
+              "bin": 1
+            }
+          ],
+          "explanation": "La cochinita es una crustácea recicladora con 14 patas. El alacrán es un arácnido, como la araña: 8 patas, pinzas para agarrar a sus presas y un aguijón en la punta de la cola."
+        },
+        {
+          "id": "u6l5e4",
+          "type": "choice",
+          "prompt": "Ves un alacrán en el patio. ¿Qué haces?",
+          "options": [
+            "Me alejo y aviso a un adulto",
+            "Lo agarro por la cola",
+            "Lo meto en un frasco"
+          ],
+          "answer": 0,
+          "explanation": "Algunos alacranes de Venezuela tienen un veneno fuerte, sobre todo para los niños. Alejarte y avisar a un adulto es lo más seguro para ti… y también para el alacrán."
+        },
+        {
+          "id": "u6l5e5",
+          "type": "tapAll",
+          "prompt": "Toca los que son arácnidos.",
+          "items": [
+            {
+              "art": "arana",
+              "label": "Araña",
+              "correct": true
+            },
+            {
+              "art": "cochinita",
+              "label": "Cochinita",
+              "correct": false
+            },
+            {
+              "art": "alacran",
+              "label": "Alacrán",
+              "correct": true
+            },
+            {
+              "art": "mosca",
+              "label": "Mosca",
+              "correct": false
+            },
+            {
+              "art": "milpies",
+              "label": "Milpiés",
+              "correct": false
+            }
+          ],
+          "explanation": "Los arácnidos tienen 8 patas y ninguna antena: la araña y el alacrán. La cochinita es un crustáceo, la mosca un insecto y el milpiés un miriápodo."
+        }
+      ]
+    },
+    {
+      "id": "u6l6",
+      "title": "¿Insecto o primo?",
+      "art": "lupa",
+      "intro": "Hoy eres detective: cuenta patas, mira las partes del cuerpo y escucha con atención. ¿Insecto o primo?",
+      "closing": "¡Ya distingues a los insectos de sus primos! Cada uno tiene su papel, y ninguno necesita que le tengamos miedo: solo respeto.",
+      "exercises": [
+        {
+          "id": "u6l6e1",
+          "type": "sort",
+          "prompt": "¿Insecto o primo? Pon cada uno en su caja.",
+          "bins": [
+            "Insecto",
+            "Primo (no es insecto)"
+          ],
+          "sortItems": [
+            {
+              "label": "Mariquita",
+              "bin": 0,
+              "art": "mariquita"
+            },
+            {
+              "label": "Mariposa",
+              "bin": 0,
+              "art": "mariposa"
+            },
+            {
+              "label": "Libélula",
+              "bin": 0,
+              "art": "libelula"
+            },
+            {
+              "label": "Araña",
+              "bin": 1,
+              "art": "arana"
+            },
+            {
+              "label": "Alacrán",
+              "bin": 1,
+              "art": "alacran"
+            },
+            {
+              "label": "Milpiés",
+              "bin": 1,
+              "art": "milpies"
+            },
+            {
+              "label": "Cochinita",
+              "bin": 1,
+              "art": "cochinita"
+            }
+          ],
+          "explanation": "Los insectos tienen 6 patas y 3 partes. La araña y el alacrán tienen 8 patas, el milpiés muchísimas y la cochinita 14: son primos, pero no insectos."
+        },
+        {
+          "id": "u6l6e2",
+          "type": "choice",
+          "prompt": "¿Quién suena? ¿Un insecto o no? Escucha y elige.",
+          "options": [
+            "Un grillo: es un insecto",
+            "Una rana: no es un insecto"
+          ],
+          "answer": 1,
+          "explanation": "Es una rana: croa inflando un saco de aire en la garganta. Es un anfibio, con el esqueleto por dentro, así que no es insecto ni artrópodo. El grillo, en cambio, canta frotando sus alas.",
+          "sound": "rana"
+        },
+        {
+          "id": "u6l6e3",
+          "type": "match",
+          "prompt": "Forma parejas: cada animal con su grupo.",
+          "pairs": [
+            {
+              "left": "Saltamontes",
+              "right": "Insecto"
+            },
+            {
+              "left": "Araña",
+              "right": "Arácnido"
+            },
+            {
+              "left": "Milpiés",
+              "right": "Miriápodo"
+            },
+            {
+              "left": "Cochinita",
+              "right": "Crustáceo"
+            }
+          ],
+          "explanation": "Son cuatro grupos de la misma familia de artrópodos: insectos con 6 patas, arácnidos con 8, miriápodos con muchísimas y crustáceos como la cochinita, con 14."
+        },
+        {
+          "id": "u6l6e4",
+          "type": "choice",
+          "prompt": "Encuentras un bicho con 8 patas, sin antenas y con el cuerpo en 2 partes. ¿Qué es?",
+          "options": [
+            "Un arácnido, como la araña",
+            "Un insecto",
+            "Un miriápodo"
+          ],
+          "answer": 0,
+          "explanation": "8 patas, 2 partes y ninguna antena son las pistas de los arácnidos. Un insecto tendría 6 patas y antenas, y un miriápodo, muchísimas patas."
+        },
+        {
+          "id": "u6l6e5",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Todos tienen su papel: la araña ___ zancudos, y el milpiés y la cochinita ___ las hojas muertas.",
+          "bank": [
+            "caza",
+            "pinta",
+            "reciclan",
+            "congelan"
+          ],
+          "answers": [
+            "caza",
+            "reciclan"
+          ],
+          "explanation": "Ninguno sobra: los cazadores mantienen a raya a los bichos que pican o molestan, y los recicladores convierten las hojas en tierra para las plantas."
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u6exam",
+    "title": "Reto de la unidad",
+    "art": "arana",
+    "intro": "¡Reto de los primos! Cuenta patas, mira las partes del cuerpo y recuerda cómo convivir con ellos sin miedo.",
+    "closing": "¡Muy bien, guardabosques! Conoces a los primos de los insectos y sabes que casi ninguno es peligroso. Con calma y respeto, todos tienen su lugar.",
+    "exercises": [
+      {
+        "id": "u6x1",
+        "type": "match",
+        "prompt": "Forma parejas: cada animal con sus patas.",
+        "pairs": [
+          {
+            "left": "Insecto",
+            "right": "6 patas"
+          },
+          {
+            "left": "Araña",
+            "right": "8 patas"
+          },
+          {
+            "left": "Cochinita",
+            "right": "14 patas"
+          },
+          {
+            "left": "Milpiés",
+            "right": "Muchísimas patas"
+          }
+        ],
+        "explanation": "Contar patas es la primera pista: 6 para los insectos, 8 para los arácnidos, 14 para la cochinita y muchísimas para los miriápodos."
+      },
+      {
+        "id": "u6x2",
+        "type": "fill",
+        "prompt": "Completa la frase.",
+        "sentence": "Todos los artrópodos tienen el esqueleto por ___ y patas con ___.",
+        "bank": [
+          "fuera",
+          "dentro",
+          "articulaciones",
+          "plumas"
+        ],
+        "answers": [
+          "fuera",
+          "articulaciones"
+        ],
+        "explanation": "Su armadura por fuera los protege, y las articulaciones dejan que sus patas se doblen por partes. Nosotros, en cambio, tenemos el esqueleto por dentro."
+      },
+      {
+        "id": "u6x3",
+        "type": "label",
+        "prompt": "Pon cada nombre en su sitio de la araña.",
+        "art": "arana",
+        "slots": [
+          {
+            "id": "cefalotorax",
+            "label": "cefalotórax",
+            "x": 0.5,
+            "y": 0.38
+          },
+          {
+            "id": "abdomen",
+            "label": "abdomen",
+            "x": 0.5,
+            "y": 0.66
+          },
+          {
+            "id": "pata",
+            "label": "pata",
+            "x": 0.24,
+            "y": 0.25
+          }
+        ],
+        "explanation": "Dos partes: el cefalotórax, de donde salen las 8 patas, y el abdomen, donde se fabrica la seda."
+      },
+      {
+        "id": "u6x4",
+        "type": "choice",
+        "prompt": "¿Quién suena? ¿Un insecto o no? Escucha y elige.",
+        "options": [
+          "Un grillo: es un insecto",
+          "Una rana: no es un insecto"
+        ],
+        "answer": 0,
+        "explanation": "Es un grillo: el macho canta frotando un ala contra la otra, como un violín. Es un insecto: 6 patas, 3 partes y antenas.",
+        "sound": "grillo"
+      },
+      {
+        "id": "u6x5",
+        "type": "fill",
+        "prompt": "Completa la frase.",
+        "sentence": "Si hay una araña en casa, un adulto la tapa con un ___ y pasa una ___ por debajo para sacarla.",
+        "bank": [
+          "vaso",
+          "zapato",
+          "cartulina",
+          "escoba"
+        ],
+        "answers": [
+          "vaso",
+          "cartulina"
+        ],
+        "explanation": "Así la araña sale de casa sin que nadie se haga daño, y afuera sigue cazando zancudos y moscas."
+      },
+      {
+        "id": "u6x6",
+        "type": "sort",
+        "prompt": "¿Ciempiés o milpiés? Pon cada pista en su caja.",
+        "bins": [
+          "Ciempiés",
+          "Milpiés"
+        ],
+        "sortItems": [
+          {
+            "label": "Un par de patas en cada anillo",
+            "bin": 0
+          },
+          {
+            "label": "Caza insectos y puede morder",
+            "bin": 0
+          },
+          {
+            "label": "Dos pares de patas en cada anillo",
+            "bin": 1
+          },
+          {
+            "label": "Come hojas muertas y se enrolla",
+            "bin": 1
+          }
+        ],
+        "explanation": "El ciempiés, con un par por anillo, es un cazador rápido; el milpiés, con dos pares, es un reciclador lento que se enrolla para protegerse."
+      },
+      {
+        "id": "u6x7",
+        "type": "choice",
+        "prompt": "¿A qué grupo pertenece la cochinita?",
+        "options": [
+          "Crustáceos, como el camarón y el cangrejo",
+          "Insectos, como la mariquita",
+          "Arácnidos, como la araña"
+        ],
+        "answer": 0,
+        "explanation": "Es una crustácea de tierra: tiene 14 patas y respira con unas branquias especiales que necesitan humedad. Por eso vive debajo de piedras y macetas."
+      },
+      {
+        "id": "u6x8",
+        "type": "choice",
+        "prompt": "Ves un alacrán en el patio. ¿Qué haces?",
+        "options": [
+          "Me alejo y aviso a un adulto",
+          "Lo agarro por la cola",
+          "Lo meto en un frasco"
+        ],
+        "answer": 0,
+        "explanation": "Algunos alacranes de Venezuela tienen un veneno fuerte, sobre todo para los niños: se miran de lejos y se avisa a un adulto. Y si alguno te pica, hay que ir al médico."
+      },
+      {
+        "id": "u6x9",
+        "type": "tapAll",
+        "prompt": "Toca los que son insectos.",
+        "items": [
+          {
+            "art": "abeja",
+            "label": "Abeja",
+            "correct": true
+          },
+          {
+            "art": "arana",
+            "label": "Araña",
+            "correct": false
+          },
+          {
+            "art": "mariquita",
+            "label": "Mariquita",
+            "correct": true
+          },
+          {
+            "art": "cochinita",
+            "label": "Cochinita",
+            "correct": false
+          },
+          {
+            "art": "saltamontes",
+            "label": "Saltamontes",
+            "correct": true
+          },
+          {
+            "art": "ciempies",
+            "label": "Ciempiés",
+            "correct": false
+          }
+        ],
+        "explanation": "La abeja, la mariquita y el saltamontes tienen 6 patas y 3 partes: son insectos. La araña (8 patas), la cochinita (14) y el ciempiés (muchísimas) son sus primos."
+      },
+      {
+        "id": "u6x10",
+        "type": "choice",
+        "prompt": "¿Qué hace un buen guardabosques con los primos de los insectos?",
+        "options": [
+          "Los mira con respeto, no toca a los que pueden picar y avisa a un adulto si hace falta",
+          "Los aplasta a todos",
+          "Les tiene miedo a todos"
+        ],
+        "answer": 0,
+        "explanation": "Casi todos son inofensivos y nos ayudan cazando bichos o reciclando hojas. Con los pocos peligrosos basta con conocerlos, mirarlos de lejos y avisar a un adulto."
+      }
+    ]
+  }
+}

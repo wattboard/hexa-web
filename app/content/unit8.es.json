@@ -1,0 +1,960 @@
+{
+  "id": "u8",
+  "order": 8,
+  "title": "Pequeños científicos",
+  "intro": "Los científicos observan, se preguntan y comprueban. ¡Ustedes también pueden!",
+  "lessons": [
+    {
+      "id": "u8l1",
+      "title": "Mirar como un científico",
+      "art": "lupa",
+      "intro": "Un científico mira con calma y se fija en lo que otros no ven. Hoy aprenderemos a observar con la lupa y el cuaderno.",
+      "closing": "Observar es mirar con calma, anotar y dibujar, sin tocar. ¡Con eso ya empiezas a ser científico!",
+      "exercises": [
+        {
+          "id": "u8l1e1",
+          "type": "choice",
+          "prompt": "Escucha. Un científico también observa con los oídos. ¿Quién suena?",
+          "options": [
+            "Un grillo",
+            "Una abeja",
+            "Una rana"
+          ],
+          "answer": 0,
+          "explanation": "Es un grillo: el macho canta frotando una ala contra la otra. Escuchar con atención también es observar.",
+          "sound": "grillo"
+        },
+        {
+          "id": "u8l1e2",
+          "type": "sort",
+          "prompt": "¿Así observa un científico? Pon cada cosa en su caja.",
+          "bins": [
+            "Así observa un científico",
+            "Así no"
+          ],
+          "sortItems": [
+            {
+              "label": "Mirar con calma y en silencio",
+              "bin": 0
+            },
+            {
+              "label": "Anotar y dibujar lo que ve",
+              "bin": 0
+            },
+            {
+              "label": "Usar la lupa a la sombra",
+              "bin": 0
+            },
+            {
+              "label": "Agarrar el insecto para verlo mejor",
+              "bin": 1
+            },
+            {
+              "label": "Hacer ruido para que se mueva",
+              "bin": 1
+            },
+            {
+              "label": "Poner la lupa al sol sobre el insecto",
+              "bin": 1
+            }
+          ],
+          "explanation": "Si lo agarras o lo asustas, el insecto deja de hacer lo que hacía y ya no ves cómo vive. Y la lupa al sol concentra la luz y lo puede quemar."
+        },
+        {
+          "id": "u8l1e3",
+          "type": "choice",
+          "prompt": "¿Para qué sirve la lupa?",
+          "options": [
+            "Para que lo pequeño se vea más grande",
+            "Para atrapar insectos",
+            "Para alumbrar de noche"
+          ],
+          "answer": 0,
+          "explanation": "Su lente agranda lo que miras: así descubres patas, pelitos y ojos que a simple vista casi no se notan.",
+          "art": "lupa"
+        },
+        {
+          "id": "u8l1e4",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "En el cuaderno de campo anoto la ___, el ___ y lo que hace el insecto, y lo ___.",
+          "bank": [
+            "fecha",
+            "lugar",
+            "dibujo",
+            "aplasto",
+            "escondo"
+          ],
+          "answers": [
+            "fecha",
+            "lugar",
+            "dibujo"
+          ],
+          "explanation": "Con la fecha y el lugar podrás comparar con otro día o con otro sitio, y dibujar te obliga a fijarte en cada detalle."
+        },
+        {
+          "id": "u8l1e5",
+          "type": "match",
+          "prompt": "Forma parejas: cada herramienta con lo que te ayuda a hacer.",
+          "pairs": [
+            {
+              "left": "Lupa",
+              "right": "Ver lo pequeño más grande"
+            },
+            {
+              "left": "Cuaderno",
+              "right": "Anotar y dibujar"
+            },
+            {
+              "left": "Regla",
+              "right": "Medir sin tocar"
+            },
+            {
+              "left": "Reloj",
+              "right": "Saber cuánto rato observaste"
+            }
+          ],
+          "explanation": "Son herramientas sencillas que te ayudan a observar mejor sin molestar: la regla, por ejemplo, se pone al lado del insecto, nunca encima."
+        }
+      ]
+    },
+    {
+      "id": "u8l2",
+      "title": "Preguntar y adivinar",
+      "art": "paquito",
+      "intro": "Paquito se pregunta muchas cosas. Los científicos también: hacen una pregunta, piensan qué pasará y lo comprueban.",
+      "closing": "Observar, preguntar, proponer una hipótesis, comprobar y concluir: es el método científico. ¡Y equivocarse también enseña!",
+      "exercises": [
+        {
+          "id": "u8l2e1",
+          "type": "order",
+          "prompt": "Ordena los pasos del método científico.",
+          "steps": [
+            {
+              "art": "lupa",
+              "label": "Observar"
+            },
+            {
+              "art": "paquito",
+              "label": "Hacer una pregunta"
+            },
+            {
+              "art": "angelica",
+              "label": "Proponer una hipótesis"
+            },
+            {
+              "art": "abeja",
+              "label": "Comprobar y anotar"
+            },
+            {
+              "art": "cuaderno",
+              "label": "Sacar una conclusión"
+            }
+          ],
+          "explanation": "Primero miras, eso te da una pregunta; luego piensas qué pasará, lo compruebas y al final sacas lo que aprendiste."
+        },
+        {
+          "id": "u8l2e2",
+          "type": "sort",
+          "prompt": "¿Se puede comprobar? Pon cada pregunta en su caja.",
+          "bins": [
+            "Se puede comprobar mirando o contando",
+            "No se puede comprobar"
+          ],
+          "sortItems": [
+            {
+              "label": "¿Qué flor visitan más las abejas?",
+              "bin": 0
+            },
+            {
+              "label": "¿Hay más cochinitas al sol o a la sombra?",
+              "bin": 0
+            },
+            {
+              "label": "¿A qué hora cantan más los grillos?",
+              "bin": 0
+            },
+            {
+              "label": "¿Cuál es el insecto más bonito?",
+              "bin": 1
+            },
+            {
+              "label": "¿Qué piensan de mí las hormigas?",
+              "bin": 1
+            }
+          ],
+          "explanation": "Las flores, las cochinitas y los cantos se pueden contar. Lo bonito depende del gusto de cada quien, y lo que piensa una hormiga no se puede ver ni contar."
+        },
+        {
+          "id": "u8l2e3",
+          "type": "choice",
+          "prompt": "¿Qué es una hipótesis?",
+          "options": [
+            "Lo que creo que pasará, y por qué",
+            "La respuesta segura",
+            "Un insecto muy raro"
+          ],
+          "answer": 0,
+          "explanation": "Es una idea para poner a prueba: todavía no sabes si es cierta, y por eso haces el experimento."
+        },
+        {
+          "id": "u8l2e4",
+          "type": "choice",
+          "prompt": "Tu hipótesis no acertó. ¿Qué hace un buen científico?",
+          "options": [
+            "Anota lo que pasó y aprende de ello",
+            "Borra los resultados",
+            "Se rinde"
+          ],
+          "answer": 0,
+          "explanation": "Una hipótesis que no acierta también enseña: ahora sabes algo nuevo y te surge otra pregunta para seguir investigando."
+        },
+        {
+          "id": "u8l2e5",
+          "type": "match",
+          "prompt": "Forma parejas: cada paso con su ejemplo.",
+          "pairs": [
+            {
+              "left": "Pregunta",
+              "right": "«¿Qué flor visitan más las abejas?»"
+            },
+            {
+              "left": "Hipótesis",
+              "right": "«Creo que el girasol, porque es amarillo»"
+            },
+            {
+              "left": "Resultado",
+              "right": "«Contamos 7 abejas en el girasol y 2 en la otra»"
+            },
+            {
+              "left": "Conclusión",
+              "right": "«Esta vez, las abejas prefirieron el girasol»"
+            }
+          ],
+          "explanation": "Cada paso responde a algo distinto: qué quiero saber, qué creo, qué vi y qué aprendí."
+        }
+      ]
+    },
+    {
+      "id": "u8l3",
+      "title": "Experimentos sin hacer daño",
+      "art": "girasol",
+      "intro": "¿Qué flor prefieren las abejas? ¿Dónde hay más cochinitas? Vamos a comprobarlo con experimentos que no le hacen daño a nadie.",
+      "closing": "Un buen experimento es justo y respetuoso: se cambia una sola cosa, y los insectos siguen libres y en su casa.",
+      "exercises": [
+        {
+          "id": "u8l3e1",
+          "type": "tapAll",
+          "prompt": "Toca lo que se puede hacer en un experimento con insectos.",
+          "items": [
+            {
+              "art": "lupa",
+              "label": "Mirarlos con lupa, a la sombra",
+              "correct": true
+            },
+            {
+              "art": "cuaderno",
+              "label": "Contarlos y anotarlo",
+              "correct": true
+            },
+            {
+              "art": "girasol",
+              "label": "Comparar las visitas a dos flores",
+              "correct": true
+            },
+            {
+              "art": "hoja",
+              "label": "Levantar una hoja despacio y dejarla como estaba",
+              "correct": true
+            },
+            {
+              "art": "cochinita",
+              "label": "Meter cochinitas en un frasco cerrado",
+              "correct": false
+            }
+          ],
+          "explanation": "En un frasco cerrado la cochinita se asusta y se seca, y ya no ves cómo vive de verdad. Lo demás se hace sin tocarla y dejando todo en su sitio."
+        },
+        {
+          "id": "u8l3e2",
+          "type": "choice",
+          "prompt": "Quieren saber qué flor prefieren las abejas. ¿Qué experimento es justo?",
+          "options": [
+            "Contar 5 minutos en cada flor, a la misma hora",
+            "Mirar una flor 1 minuto y la otra 1 hora",
+            "Atrapar las abejas y soltarlas en una flor"
+          ],
+          "answer": 0,
+          "explanation": "Si una flor se mira más rato, tendrá más visitas aunque no sea la preferida. Con el mismo tiempo y a la misma hora, solo cambia la flor y la comparación es justa.",
+          "art": "abeja"
+        },
+        {
+          "id": "u8l3e3",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Las cochinitas necesitan ___ para respirar, por eso suelen estar a la ___.",
+          "bank": [
+            "humedad",
+            "sombra",
+            "sol",
+            "arena"
+          ],
+          "answers": [
+            "humedad",
+            "sombra"
+          ],
+          "explanation": "Son primas de los camarones y respiran por unas partes que deben estar húmedas. Al sol se secarían, así que buscan la sombra bajo hojas y piedras."
+        },
+        {
+          "id": "u8l3e4",
+          "type": "choice",
+          "prompt": "¿Qué color de flor ve peor una abeja?",
+          "options": [
+            "Rojo",
+            "Azul",
+            "Amarillo"
+          ],
+          "answer": 0,
+          "explanation": "Los ojos de la abeja captan muy bien el azul, el morado y el amarillo, pero el rojo lo ven oscuro. Por eso muchas flores que visitan son azules, moradas o amarillas.",
+          "art": "flor_rosa"
+        },
+        {
+          "id": "u8l3e5",
+          "type": "order",
+          "prompt": "Ordena el experimento de las cochinitas.",
+          "steps": [
+            {
+              "art": "paquito",
+              "label": "Pensar la hipótesis: «Habrá más a la sombra»"
+            },
+            {
+              "art": "hoja",
+              "label": "Con un adulto, levantar despacio hojas al sol y a la sombra"
+            },
+            {
+              "art": "cuaderno",
+              "label": "Contar las cochinitas y anotarlo"
+            },
+            {
+              "art": "cochinita",
+              "label": "Dejar todo como estaba"
+            }
+          ],
+          "explanation": "Primero se piensa, luego se comprueba y se anota. Y siempre, al final, todo vuelve a su sitio para que las cochinitas sigan en su casa."
+        }
+      ]
+    },
+    {
+      "id": "u8l4",
+      "title": "Un hotel para insectos",
+      "art": "hotel_insectos",
+      "intro": "Con cañas, piñas y madera se puede construir un refugio para abejas solitarias y mariquitas. ¿Quién vendrá a hospedarse?",
+      "closing": "Un hotel de insectos, cerca de flores y sin venenos, es un regalo para los bichos de tu barrio. ¡Y te deja observarlos de cerca!",
+      "exercises": [
+        {
+          "id": "u8l4e1",
+          "type": "spot",
+          "prompt": "¿Dónde se esconderá una abeja solitaria? Toca el sitio.",
+          "art": "hotel_insectos",
+          "spot": {
+            "x": 0.3,
+            "y": 0.3,
+            "r": 0.2,
+            "label": "Las cañas huecas"
+          },
+          "explanation": "Las abejas solitarias buscan túneles estrechos, como las cañas, para dejar sus huevos con polen y tapar la entrada."
+        },
+        {
+          "id": "u8l4e2",
+          "type": "sort",
+          "prompt": "¿Sirve para el hotel? Pon cada cosa en su caja.",
+          "bins": [
+            "Sirve para el hotel",
+            "No sirve"
+          ],
+          "sortItems": [
+            {
+              "label": "Cañas huecas",
+              "bin": 0
+            },
+            {
+              "label": "Piñas de pino",
+              "bin": 0
+            },
+            {
+              "label": "Madera con agujeros",
+              "bin": 0
+            },
+            {
+              "label": "Palitos y corteza",
+              "bin": 0
+            },
+            {
+              "label": "Bolsas de plástico",
+              "bin": 1
+            },
+            {
+              "label": "Botellas cerradas",
+              "bin": 1
+            }
+          ],
+          "explanation": "Los insectos buscan materiales naturales con huecos y rendijas por donde pasa el aire. El plástico no deja respirar, guarda la humedad y lo de dentro se pudre."
+        },
+        {
+          "id": "u8l4e3",
+          "type": "tapAll",
+          "prompt": "Toca a los que pueden hospedarse en el hotel.",
+          "items": [
+            {
+              "art": "abeja",
+              "label": "Abeja solitaria",
+              "correct": true
+            },
+            {
+              "art": "mariquita",
+              "label": "Mariquita",
+              "correct": true
+            },
+            {
+              "art": "mosquito",
+              "label": "Zancudo",
+              "correct": false
+            },
+            {
+              "art": "libelula",
+              "label": "Libélula",
+              "correct": false
+            }
+          ],
+          "explanation": "La abeja solitaria anida en las cañas y la mariquita se refugia entre piñas y corteza. El zancudo y la libélula no lo usan: sus crías crecen en el agua."
+        },
+        {
+          "id": "u8l4e4",
+          "type": "choice",
+          "prompt": "¿Dónde es mejor poner el hotel?",
+          "options": [
+            "Donde le dé el sol de la mañana, sin lluvia y cerca de flores",
+            "Dentro de un armario oscuro",
+            "En el suelo, donde se hacen charcos"
+          ],
+          "answer": 0,
+          "explanation": "Las abejas necesitan el calor del sol para empezar a volar por la mañana, el hotel seco no se pudre y las flores cercanas les dan comida.",
+          "art": "hotel_insectos"
+        },
+        {
+          "id": "u8l4e5",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Las abejas solitarias casi nunca pican porque no tienen una ___ que defender. Cada mamá tapa su nido con ___.",
+          "bank": [
+            "colmena",
+            "barro",
+            "plástico",
+            "miel"
+          ],
+          "answers": [
+            "colmena",
+            "barro"
+          ],
+          "explanation": "Las abejas de colmena defienden a toda su familia; la solitaria vive sola y no tiene por qué atacar. El barro protege sus huevos mientras crecen."
+        }
+      ]
+    },
+    {
+      "id": "u8l5",
+      "title": "El planeta y los insectos",
+      "art": "planeta",
+      "intro": "Los insectos necesitan un planeta con plantas, agua limpia y noches oscuras. Y hay muchas cosas pequeñas que podemos hacer por ellos.",
+      "closing": "Una flor sembrada, una luz apagada, un rincón silvestre: cada acción pequeña cuenta. ¡Los insectos lo notan!",
+      "exercises": [
+        {
+          "id": "u8l5e1",
+          "type": "sort",
+          "prompt": "Pon cada acción en su caja.",
+          "bins": [
+            "Ayuda a los insectos",
+            "Les hace daño"
+          ],
+          "sortItems": [
+            {
+              "label": "Sembrar flores",
+              "bin": 0
+            },
+            {
+              "label": "Apagar las luces que no se usan de noche",
+              "bin": 0
+            },
+            {
+              "label": "Dejar un rincón con plantas silvestres",
+              "bin": 0
+            },
+            {
+              "label": "Echar veneno por todo el jardín",
+              "bin": 1
+            },
+            {
+              "label": "Dejar basura en el parque",
+              "bin": 1
+            },
+            {
+              "label": "Cortar todas las plantas del patio",
+              "bin": 1
+            }
+          ],
+          "explanation": "Las flores y las plantas silvestres les dan comida y refugio, y la noche oscura les deja encontrarse. El veneno, la basura y quitar todas las plantas les quitan su casa y su comida."
+        },
+        {
+          "id": "u8l5e2",
+          "type": "choice",
+          "prompt": "¿Por qué ayuda apagar las luces que no se usan de noche?",
+          "options": [
+            "Las luciérnagas se buscan con su luz y las polillas se confunden con las lámparas",
+            "Porque así se van todos los insectos",
+            "Porque los insectos le tienen miedo a la oscuridad"
+          ],
+          "answer": 0,
+          "explanation": "Con menos lámparas encendidas, las luciérnagas ven las luces de su pareja y las polillas siguen su camino en vez de dar vueltas alrededor de un bombillo.",
+          "art": "luciernaga"
+        },
+        {
+          "id": "u8l5e3",
+          "type": "match",
+          "prompt": "Forma parejas: cada problema con algo que podemos hacer.",
+          "pairs": [
+            {
+              "left": "Pulgones en las plantas",
+              "right": "Dejar que las mariquitas se los coman"
+            },
+            {
+              "left": "Pocas flores",
+              "right": "Sembrar flores en una maceta"
+            },
+            {
+              "left": "Basura en el parque",
+              "right": "Recogerla y reciclar"
+            },
+            {
+              "left": "Luces encendidas toda la noche",
+              "right": "Apagar las que no se usan"
+            }
+          ],
+          "explanation": "Para cada problema hay algo pequeño y posible. Las mariquitas, por ejemplo, controlan los pulgones sin veneno y sin dañar a las abejas."
+        },
+        {
+          "id": "u8l5e4",
+          "type": "fill",
+          "prompt": "Completa la frase.",
+          "sentence": "Una maceta con ___ en la ventana da comida a las ___.",
+          "bank": [
+            "flores",
+            "abejas",
+            "piedras",
+            "nubes"
+          ],
+          "answers": [
+            "flores",
+            "abejas"
+          ],
+          "explanation": "Aunque sea pequeña, una maceta con flores ofrece néctar y polen a las abejas y otros polinizadores que pasan por la ciudad."
+        },
+        {
+          "id": "u8l5e5",
+          "type": "tapAll",
+          "prompt": "Toca lo que tú puedes hacer esta semana para ayudar a los insectos.",
+          "items": [
+            {
+              "art": "flor_rosa",
+              "label": "Sembrar una flor",
+              "correct": true
+            },
+            {
+              "art": "luciernaga",
+              "label": "Apagar las luces que no uso",
+              "correct": true
+            },
+            {
+              "art": "hoja",
+              "label": "Dejar hojas secas en un rincón del patio",
+              "correct": true
+            },
+            {
+              "art": "mariposa",
+              "label": "Atrapar mariposas en un frasco",
+              "correct": false
+            },
+            {
+              "art": "girasol",
+              "label": "Cortar todas las flores del patio",
+              "correct": false
+            }
+          ],
+          "explanation": "Sembrar, apagar luces y dejar hojas secas (donde se refugian escarabajos y cochinitas) son acciones pequeñas que están en tus manos. Atrapar o cortar todo les quita su libertad y su comida."
+        }
+      ]
+    },
+    {
+      "id": "u8l6",
+      "title": "Guardabosques experto",
+      "art": "angelica",
+      "intro": "Has aprendido muchísimo sobre los insectos. Ahora toca hacer el compromiso del guardabosques experto.",
+      "closing": "Observar, respetar, cuidar y enseñar: esa es tu promesa. ¡Los insectos tienen en ti un gran amigo!",
+      "exercises": [
+        {
+          "id": "u8l6e1",
+          "type": "match",
+          "prompt": "Forma parejas: cada parte del compromiso con lo que significa.",
+          "pairs": [
+            {
+              "left": "Observar",
+              "right": "Mirar con calma y anotar en el cuaderno"
+            },
+            {
+              "left": "Respetar",
+              "right": "Dejar a cada insecto en su casa"
+            },
+            {
+              "left": "Cuidar",
+              "right": "Sembrar flores y no usar venenos"
+            },
+            {
+              "left": "Enseñar",
+              "right": "Ayudar a otros a no tener miedo"
+            }
+          ],
+          "explanation": "Las cuatro van juntas: si observas aprendes, si aprendes respetas, y lo que sabes lo puedes cuidar y enseñar."
+        },
+        {
+          "id": "u8l6e2",
+          "type": "choice",
+          "prompt": "Tu primo grita al ver una mariposa. ¿Qué haces como guardabosques experto?",
+          "options": [
+            "Le explico con calma que es inofensiva y la miramos juntos de lejos",
+            "Me burlo de él",
+            "Espanto la mariposa con un periódico"
+          ],
+          "answer": 0,
+          "explanation": "El miedo se pasa conociendo: si le cuentas lo que sabes y la miran juntos con calma, quizás empiece a gustarle.",
+          "art": "mariposa"
+        },
+        {
+          "id": "u8l6e3",
+          "type": "order",
+          "prompt": "Ordena cómo sacar un insecto de casa sin hacerle daño.",
+          "steps": [
+            {
+              "art": "escarabajo",
+              "label": "Poner un vaso encima, despacio"
+            },
+            {
+              "art": "cuaderno",
+              "label": "Pasar una cartulina por debajo"
+            },
+            {
+              "art": "angelica",
+              "label": "Llevarlo afuera sin apretar"
+            },
+            {
+              "art": "hoja",
+              "label": "Dejarlo libre junto a unas plantas"
+            }
+          ],
+          "explanation": "El vaso lo cubre sin tocarlo y la cartulina hace de puerta; así viaja seguro hasta las plantas, donde puede seguir su vida."
+        },
+        {
+          "id": "u8l6e4",
+          "type": "sort",
+          "prompt": "¿Lo hace un guardabosques experto? Pon cada cosa en su caja.",
+          "bins": [
+            "Lo hace",
+            "No lo hace"
+          ],
+          "sortItems": [
+            {
+              "label": "Mirar de lejos y con calma",
+              "bin": 0
+            },
+            {
+              "label": "Contarle a un amigo lo que aprendió",
+              "bin": 0
+            },
+            {
+              "label": "Sembrar flores",
+              "bin": 0
+            },
+            {
+              "label": "Avisar a un adulto si ve uno que pica",
+              "bin": 0
+            },
+            {
+              "label": "Guardar insectos en un frasco",
+              "bin": 1
+            },
+            {
+              "label": "Echar veneno en todo el patio",
+              "bin": 1
+            }
+          ],
+          "explanation": "Un guardabosques cuida a los insectos y también se cuida a sí mismo: por eso mira de lejos y avisa a un adulto. Encerrarlos o envenenarlos les hace daño."
+        },
+        {
+          "id": "u8l6e5",
+          "type": "fill",
+          "prompt": "Completa tu compromiso.",
+          "sentence": "Un guardabosques experto observa, ___, cuida y ___ a otros a no tener miedo.",
+          "bank": [
+            "respeta",
+            "enseña",
+            "atrapa",
+            "aplasta"
+          ],
+          "answers": [
+            "respeta",
+            "enseña"
+          ],
+          "explanation": "Son las cuatro promesas del guardabosques experto. Con ellas cuidas a los insectos y ayudas a que otros los quieran también."
+        }
+      ]
+    }
+  ],
+  "exam": {
+    "id": "u8exam",
+    "title": "Reto de la unidad",
+    "art": "lupa",
+    "intro": "¡El último reto de Hexa! Demuestra todo lo que hace un pequeño científico. Si lo superas, serás guardabosques experto.",
+    "closing": "¡Lo lograste! Observas, preguntas, compruebas y cuidas a los insectos. Ahora te toca enseñar a otros a quererlos.",
+    "exercises": [
+      {
+        "id": "u8x1",
+        "type": "order",
+        "prompt": "Ordena los pasos del método científico.",
+        "steps": [
+          {
+            "art": "lupa",
+            "label": "Observar"
+          },
+          {
+            "art": "paquito",
+            "label": "Hacer una pregunta"
+          },
+          {
+            "art": "angelica",
+            "label": "Proponer una hipótesis"
+          },
+          {
+            "art": "abeja",
+            "label": "Comprobar y anotar"
+          },
+          {
+            "art": "cuaderno",
+            "label": "Sacar una conclusión"
+          }
+        ],
+        "explanation": "Cada paso nace del anterior: lo que observas te da una pregunta, la hipótesis se comprueba y el resultado te lleva a la conclusión."
+      },
+      {
+        "id": "u8x2",
+        "type": "choice",
+        "prompt": "Escucha. ¿Quién suena?",
+        "options": [
+          "Una abeja",
+          "Un grillo",
+          "Una rana"
+        ],
+        "answer": 0,
+        "explanation": "Es el zumbido de una abeja: mueve las alas unas 200 veces por segundo, y ese aleteo tan rápido es lo que oímos.",
+        "sound": "abeja"
+      },
+      {
+        "id": "u8x3",
+        "type": "fill",
+        "prompt": "Completa la frase.",
+        "sentence": "Lo que creo que pasará se llama ___, y lo que aprendo al final se llama ___.",
+        "bank": [
+          "hipótesis",
+          "conclusión",
+          "lupa",
+          "colmena"
+        ],
+        "answers": [
+          "hipótesis",
+          "conclusión"
+        ],
+        "explanation": "La hipótesis va antes de comprobar, cuando aún no lo sabes; la conclusión va después, cuando ya miraste y contaste."
+      },
+      {
+        "id": "u8x4",
+        "type": "tapAll",
+        "prompt": "Toca lo que ayuda a los insectos.",
+        "items": [
+          {
+            "art": "flor_rosa",
+            "label": "Sembrar flores",
+            "correct": true
+          },
+          {
+            "art": "hotel_insectos",
+            "label": "Poner un hotel de insectos",
+            "correct": true
+          },
+          {
+            "art": "luciernaga",
+            "label": "Apagar las luces que no se usan de noche",
+            "correct": true
+          },
+          {
+            "art": "mariposa",
+            "label": "Atrapar mariposas",
+            "correct": false
+          },
+          {
+            "art": "girasol",
+            "label": "Cortar todas las flores",
+            "correct": false
+          }
+        ],
+        "explanation": "Flores, refugios y noches oscuras les dan comida, casa y la forma de encontrarse. Atraparlos o cortar todas las flores les quita justo eso."
+      },
+      {
+        "id": "u8x5",
+        "type": "choice",
+        "prompt": "Quieres saber a qué hora cantan más los grillos. ¿Qué es lo más justo?",
+        "options": [
+          "Escuchar el mismo rato a cada hora y anotarlo",
+          "Escuchar solo cuando te acuerdes",
+          "Atrapar un grillo y escucharlo en casa"
+        ],
+        "answer": 0,
+        "explanation": "Si cada vez escuchas el mismo tiempo, solo cambia la hora y puedes comparar. Y los grillos siguen libres, cantando donde viven."
+      },
+      {
+        "id": "u8x6",
+        "type": "sort",
+        "prompt": "Pon cada acción en su caja.",
+        "bins": [
+          "Ayuda a los insectos",
+          "Les hace daño"
+        ],
+        "sortItems": [
+          {
+            "label": "Recoger la basura del parque",
+            "bin": 0
+          },
+          {
+            "label": "Dejar hojas secas en un rincón",
+            "bin": 0
+          },
+          {
+            "label": "Dejar que las mariquitas se coman los pulgones",
+            "bin": 0
+          },
+          {
+            "label": "Fumigar todo el jardín",
+            "bin": 1
+          },
+          {
+            "label": "Dejar luces encendidas toda la noche",
+            "bin": 1
+          }
+        ],
+        "explanation": "Lo limpio, lo silvestre y los ayudantes naturales mantienen a los insectos a salvo. El veneno por todas partes y las luces toda la noche los dañan o los confunden."
+      },
+      {
+        "id": "u8x7",
+        "type": "match",
+        "prompt": "Forma parejas: cada herramienta con su uso.",
+        "pairs": [
+          {
+            "left": "Lupa",
+            "right": "Ver lo pequeño más grande"
+          },
+          {
+            "left": "Cuaderno de campo",
+            "right": "Anotar y dibujar"
+          },
+          {
+            "left": "Regla",
+            "right": "Medir sin tocar"
+          },
+          {
+            "left": "Vaso y cartulina",
+            "right": "Sacar un insecto de casa sin dañarlo"
+          }
+        ],
+        "explanation": "Todas sirven para conocer y cuidar a los insectos sin hacerles daño: mirar, anotar, medir de lejos y devolverlos a su sitio."
+      },
+      {
+        "id": "u8x8",
+        "type": "choice",
+        "prompt": "¿Dónde pondrías el hotel de insectos?",
+        "options": [
+          "Al sol de la mañana, sin lluvia y cerca de flores",
+          "En un rincón oscuro y mojado",
+          "Junto a una lámpara encendida toda la noche"
+        ],
+        "answer": 0,
+        "explanation": "El sol de la mañana calienta a las abejas para que salgan a volar, el lugar seco evita que el hotel se pudra y las flores les dan comida cerca.",
+        "art": "hotel_insectos"
+      },
+      {
+        "id": "u8x9",
+        "type": "sort",
+        "prompt": "¿Lo hace un guardabosques experto? Pon cada cosa en su caja.",
+        "bins": [
+          "Lo hace",
+          "No lo hace"
+        ],
+        "sortItems": [
+          {
+            "label": "Observar con calma y anotar",
+            "bin": 0
+          },
+          {
+            "label": "Ayudar a un amigo a no tener miedo",
+            "bin": 0
+          },
+          {
+            "label": "Dejar libres a los insectos",
+            "bin": 0
+          },
+          {
+            "label": "Aplastar un bicho porque sí",
+            "bin": 1
+          },
+          {
+            "label": "Poner la lupa al sol sobre un insecto",
+            "bin": 1
+          }
+        ],
+        "explanation": "Observar, enseñar y dejar libres es cuidar. Aplastar sin motivo o quemar con la lupa le hace daño a un ser vivo que tiene su papel en la naturaleza."
+      },
+      {
+        "id": "u8x10",
+        "type": "tapAll",
+        "prompt": "Toca a los que pueden hospedarse en un hotel de insectos.",
+        "items": [
+          {
+            "art": "mariquita",
+            "label": "Mariquita",
+            "correct": true
+          },
+          {
+            "art": "abeja",
+            "label": "Abeja solitaria",
+            "correct": true
+          },
+          {
+            "art": "libelula",
+            "label": "Libélula",
+            "correct": false
+          },
+          {
+            "art": "mosquito",
+            "label": "Zancudo",
+            "correct": false
+          }
+        ],
+        "explanation": "Las abejas solitarias anidan en las cañas y las mariquitas se refugian entre piñas y corteza. La libélula y el zancudo crecen en el agua, así que buscan charcos y lagunas."
+      }
+    ]
+  }
+}

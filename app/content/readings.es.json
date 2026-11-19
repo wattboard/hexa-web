@@ -318,5 +318,437 @@
     "label": "Con cuidado"
    }
   ]
+ },
+ "u5l1": {
+  "text": "Venezuela tiene muchos paisajes: llanos, montañas, selva, costa e islas. Los llanos son sabanas planas y calurosas; en la época de lluvias se llenan de lagunas, y en el agua crecen las crías de las libélulas y de los zancudos. En los Andes hay montañas frías con páramo, y allí los abejorros peludos visitan las flores del frailejón. En la selva llueve mucho, los árboles son altísimos y vuela el morfo azul. En la costa y en las islas hace calor y llueve poco. Cada paisaje tiene sus propios seres vivos: a esa gran variedad de vida se le llama biodiversidad, y como Venezuela tiene muchísima, es uno de los pocos países megadiversos del mundo.",
+  "pictures": [
+   {
+    "art": "paisaje_llano",
+    "label": "Llanos"
+   },
+   {
+    "art": "paisaje_andes",
+    "label": "Andes"
+   },
+   {
+    "art": "paisaje_selva",
+    "label": "Selva"
+   },
+   {
+    "art": "paisaje_costa",
+    "label": "Costa"
+   }
+  ]
+ },
+ "u5l2": {
+  "text": "El cocuyo es un escarabajo que hace luz. La luciérnaga también es un escarabajo y también hace luz, pero no son lo mismo (en muchos lugares a las luciérnagas también les dicen cocuyos). El cocuyo tiene dos luces verdes en el tórax, como dos faroles, y cuando vuela se le ve una luz naranja debajo, en la panza. La luciérnaga, en cambio, enciende su luz en la punta del abdomen y la hace parpadear. Hacer luz con el cuerpo se llama bioluminiscencia, y es una luz fría: no quema. Antes de que hubiera luz eléctrica, la gente usaba cocuyos para alumbrarse de noche: con varios juntos se podía ver el camino.",
+  "pictures": [
+   {
+    "art": "cocuyo",
+    "label": "Cocuyo: luces en el tórax"
+   },
+   {
+    "art": "luciernaga",
+    "label": "Luciérnaga: luz en la punta"
+   }
+  ]
+ },
+ "u5l3": {
+  "text": "El morfo azul es una mariposa grande con alas de un azul brillante. Ese azul no es pintura: las escamas de sus alas tienen una forma diminuta que rebota la luz azul, como los colores que brillan en una pompa de jabón. Por debajo, sus alas son marrones con círculos que parecen ojos: cuando las cierra se esconde, y los «ojos» confunden a los pájaros que quieren comérsela. La mariposa 88 es pequeña y lleva un 88 dibujado debajo de sus alas de atrás. La monarca, naranja con negro, también vive en Venezuela; en Norteamérica, las monarcas viajan miles de kilómetros cada año para escapar del frío, y eso se llama migrar.",
+  "pictures": [
+   {
+    "art": "morfo",
+    "label": "Morfo azul"
+   },
+   {
+    "art": "mariposa_88",
+    "label": "Mariposa 88"
+   },
+   {
+    "art": "mariposa",
+    "label": "Monarca: viaja lejos"
+   }
+  ]
+ },
+ "u5l4": {
+  "text": "La angelita es una abejita muy pequeña de aquí: su aguijón es tan diminuto que no le sirve, así que no puede picar. Vive en grupo en huecos de árboles o de paredes, y la entrada de su nido es un tubito de cera. Hace una miel muy apreciada, que mucha gente usa como remedio casero, y poliniza flores del bosque y de los conucos. El bachaco es una hormiga grande que corta pedacitos de hoja y los lleva en fila hasta su nido bajo tierra. No se come las hojas: con ellas cultiva un hongo, y ese hongo es su comida. ¡Los bachacos son agricultores! Pueden morder fuerte con sus mandíbulas, así que lo mejor es mirarlos de lejos, sin meter la mano en su fila ni en su nido.",
+  "pictures": [
+   {
+    "art": "abeja_angelita",
+    "label": "Angelita: no pica"
+   },
+   {
+    "art": "bachaco",
+    "label": "Bachaco con su hoja"
+   },
+   {
+    "art": "hongo",
+    "label": "El hongo que cultivan"
+   }
+  ]
+ },
+ "u5l5": {
+  "text": "El escarabajo hércules vive en los bosques húmedos de Venezuela y es uno de los escarabajos más grandes del mundo: con su cuerno, ¡puede medir más que tu mano! Solo los machos tienen cuernos, y los usan para empujar a otros machos, no para atacar a las personas. El palito, o insecto palo, parece una ramita: se queda quieto o se mece despacio, como una rama movida por el viento, y así los pájaros no lo ven. La santateresa es verde o marrón como las hojas, tiene la cabeza en forma de triángulo y espera quieta, con las patas de delante dobladas como si rezara. Esas patas tienen espinitas y se cierran rápido para atrapar moscas y zancudos. Ninguno de los tres pica ni tiene veneno.",
+  "pictures": [
+   {
+    "art": "escarabajo_hercules",
+    "label": "Escarabajo hércules"
+   },
+   {
+    "art": "palito",
+    "label": "Palito: parece una rama"
+   },
+   {
+    "art": "santateresa",
+    "label": "Santateresa cazadora"
+   }
+  ]
+ },
+ "u5l6": {
+  "text": "Los insectos de Venezuela están en peligro cuando se corta o se quema el bosque, porque pierden su casa y su comida. También les hace daño el veneno que se echa a las plantas, porque no mata solo a las plagas: también a las abejas, las mariposas y las mariquitas. Para protegerlos, Venezuela tiene parques nacionales, lugares donde la naturaleza se cuida por ley. Canaima, en el sur, tiene tepuyes (montañas con la cima plana) y el Salto Ángel, la cascada más alta del mundo. Henri Pittier, en Aragua, fue el primer parque nacional del país, y por su paso de Portachuelo cruzan cada año muchísimos insectos y aves. Tú también puedes ayudar: sembrar flores, no usar veneno, dejar libres a los insectos y enseñar a otros a no tenerles miedo.",
+  "pictures": [
+   {
+    "art": "paisaje_selva",
+    "label": "Canaima: tepuyes y selva"
+   },
+   {
+    "art": "flor_rosa",
+    "label": "Sembrar flores ayuda"
+   },
+   {
+    "art": "hoja",
+    "label": "Hojas sin veneno"
+   }
+  ]
+ },
+ "u6l1": {
+  "text": "Los insectos tienen primos: las arañas, los alacranes, los ciempiés, los milpiés y las cochinitas. Todos juntos forman una gran familia, los artrópodos, que quiere decir «patas con articulaciones»: sus patas se doblan por partes, como tus dedos. Todos tienen el esqueleto por fuera, una armadura dura que no se estira, así que para crecer la cambian por una nueva: eso es mudar. Para saber quién es quién, cuenta patas: los insectos tienen 6; las arañas y los alacranes, 8 (las pinzas del alacrán no son patas); la cochinita, 14; y los ciempiés y milpiés, muchísimas. Las ranas, los pájaros y nosotros también tenemos esqueleto, pero por dentro: no somos artrópodos.",
+  "pictures": [
+   {
+    "art": "saltamontes",
+    "label": "Insecto: 6 patas"
+   },
+   {
+    "art": "arana",
+    "label": "Araña: 8 patas"
+   },
+   {
+    "art": "cochinita",
+    "label": "Cochinita: 14 patas"
+   },
+   {
+    "art": "ciempies",
+    "label": "Ciempiés: muchísimas patas"
+   }
+  ]
+ },
+ "u6l2": {
+  "text": "Las arañas no son insectos: son arácnidos. Tienen 8 patas, el cuerpo en 2 partes (delante el cefalotórax, de donde salen las patas, y detrás el abdomen) y no tienen antenas ni alas, mientras que los insectos tienen 6 patas, 3 partes y antenas. Todas fabrican seda en el abdomen y la sacan por las hileras, unos tubitos de la punta, pero no todas tejen telarañas: algunas cazan saltando o corriendo. La telaraña es una trampa con hilos pegajosos: cuando un insecto cae, la araña siente con sus patas cómo tiembla el hilo. Casi todas las arañas son inofensivas para las personas y se comen zancudos, moscas y cucarachas: ¡son guardianas de la casa y del jardín!",
+  "pictures": [
+   {
+    "art": "arana",
+    "label": "Araña: 8 patas y 2 partes"
+   },
+   {
+    "art": "telarana",
+    "label": "Telaraña: una trampa"
+   },
+   {
+    "art": "mosquito",
+    "label": "Comida de araña"
+   }
+  ]
+ },
+ "u6l3": {
+  "text": "Casi todas las arañas son tan pequeñas, o tienen un veneno tan débil, que no pueden hacerle daño a una persona; además son tímidas y solo pican si las aplastan o las agarran. En Venezuela hay unas pocas que sí pueden ser peligrosas, como la viuda negra (negra y brillante, con manchas rojas) y la araña de rincón (marrón, se esconde en sitios oscuros y en la ropa guardada). A esas, y a cualquier araña que no conozcas, se las mira de lejos y se avisa a un adulto. Si una araña está dentro de la casa, un adulto puede taparla con un vaso, pasar una cartulina por debajo y soltarla afuera, entre las plantas. Para no llevarte sustos, sacude los zapatos y la ropa guardada antes de ponértelos, mira antes de meter la mano en un rincón oscuro y, si ves una telaraña, mírala sin romperla. Y si alguna vez te pica una araña, avisa enseguida a un adulto.",
+  "pictures": [
+   {
+    "art": "arana",
+    "label": "Casi todas, inofensivas"
+   },
+   {
+    "art": "telarana",
+    "label": "Se mira sin romperla"
+   }
+  ]
+ },
+ "u6l4": {
+  "text": "Los ciempiés y los milpiés son miriápodos, que quiere decir «muchas patas». Tienen el cuerpo largo, hecho de muchos anillos (segmentos), y dos antenas en la cabeza. El ciempiés es rápido y cazador: tiene un par de patas en cada anillo y sale de noche a cazar insectos con unas uñas venenosas que tiene junto a la boca; su mordida duele, así que se mira de lejos. El milpiés es lento y tranquilo: tiene dos pares de patas en casi cada anillo, come hojas muertas y madera podrida, y cuando se asusta se enrolla como la concha de un caracol. A pesar de sus nombres, el ciempiés tiene entre 30 y más de 300 patas, pero nunca justo cien, y casi ningún milpiés llega a mil.",
+  "pictures": [
+   {
+    "art": "ciempies",
+    "label": "Ciempiés: 1 par por anillo"
+   },
+   {
+    "art": "milpies",
+    "label": "Milpiés: 2 pares por anillo"
+   }
+  ]
+ },
+ "u6l5": {
+  "text": "La cochinita, o bicho bolita, no es un insecto: es un crustáceo, prima de los camarones y los cangrejos. Tiene 14 patas y respira con unas branquias especiales que deben estar húmedas, por eso vive en sitios húmedos y oscuros, como debajo de piedras y macetas. Come hojas muertas y restos de plantas y los convierte en tierra: es una recicladora, y cuando se asusta se hace una bolita para protegerse con su armadura. El alacrán es un arácnido, primo de las arañas: tiene 8 patas, dos pinzas delante y una cola con un aguijón en la punta, y sale de noche a cazar insectos. Algunos alacranes de Venezuela tienen un veneno fuerte, sobre todo para los niños: se miran de lejos, se avisa a un adulto y se sacuden los zapatos antes de ponérselos. Si alguno te pica, avisa enseguida a un adulto para ir al médico.",
+  "pictures": [
+   {
+    "art": "cochinita",
+    "label": "Cochinita: crustáceo"
+   },
+   {
+    "art": "alacran",
+    "label": "Alacrán: se mira de lejos"
+   }
+  ]
+ },
+ "u6l6": {
+  "text": "Para saber si un bicho es insecto o primo, cuenta sus patas y sus partes. Los insectos tienen 6 patas, 3 partes (cabeza, tórax y abdomen) y dos antenas, y muchos tienen alas. Los arácnidos, como la araña y el alacrán, tienen 8 patas, 2 partes y ninguna antena. Los miriápodos, como el ciempiés y el milpiés, tienen muchísimas patas y el cuerpo hecho de anillos; la cochinita, con 14 patas, es un crustáceo. Muchos insectos cantan, como el grillo, que frota sus alas; en cambio, la rana croa con un saco de aire en la garganta y es un anfibio, con el esqueleto por dentro. Todos tienen su papel: unos cazan bichos, como la araña, y otros reciclan las hojas muertas, como el milpiés y la cochinita.",
+  "pictures": [
+   {
+    "art": "saltamontes",
+    "label": "Insecto: 6 patas"
+   },
+   {
+    "art": "arana",
+    "label": "Arácnido: 8 patas"
+   },
+   {
+    "art": "milpies",
+    "label": "Miriápodo: muchísimas"
+   },
+   {
+    "art": "cochinita",
+    "label": "Crustáceo: 14 patas"
+   },
+   {
+    "art": "rana",
+    "label": "Rana: no es artrópodo"
+   }
+  ]
+ },
+ "u7l1": {
+  "text": "Una cadena alimentaria cuenta quién se come a quién. Siempre empieza por una planta, que fabrica su propia comida con la luz del sol. Después viene quien se come la planta, como la oruga que mastica hojas, y luego quien se come a la oruga, como el pájaro que se la lleva a sus pichones. Muchos animales comen insectos: las ranas los atrapan con su lengua pegajosa, las lagartijas y las santateresas los cazan de día y los murciélagos, de noche. Las ranas cantan (croan) cerca del agua, sobre todo al anochecer. En cambio, la mariposa adulta no caza: bebe el néctar de las flores.",
+  "pictures": [
+   {
+    "art": "hoja",
+    "label": "Planta: fabrica su comida"
+   },
+   {
+    "art": "oruga",
+    "label": "Come hojas"
+   },
+   {
+    "art": "pajaro",
+    "label": "Come orugas"
+   },
+   {
+    "art": "rana",
+    "label": "Come insectos"
+   }
+  ]
+ },
+ "u7l2": {
+  "text": "Una flor tiene varias partes. Los pétalos, de colores vivos, y el aroma de la flor atraen a los insectos desde lejos. Los estambres son unos hilitos que tienen el polen, un polvito amarillo, y en el centro está el pistilo: en su base crecerán el fruto y las semillas. La abeja entra a beber néctar, un jugo dulce, y a recoger polen para sus crías, y el polen se le pega a los pelitos del cuerpo. Cuando visita otra flor de la misma clase, deja caer polen en el pistilo: eso es polinizar, y así la flor puede convertirse en un fruto con semillas. El tallo sostiene la flor y le lleva el agua.",
+  "pictures": [
+   {
+    "art": "flor_partes",
+    "label": "Pétalos, estambres y pistilo"
+   },
+   {
+    "art": "abeja",
+    "label": "Lleva el polen en sus pelitos"
+   }
+  ]
+ },
+ "u7l3": {
+  "text": "En el bosque caen todos los días hojas, ramas, frutas y animales muertos. Los recicladores se comen esos restos y los deshacen en pedacitos cada vez más pequeños: eso se llama descomponer. Hay insectos recicladores, como muchos escarabajos, las larvas de las moscas, las hormigas y los comejenes, que comen madera. Los hongos y las lombrices también reciclan, pero no son insectos: el hongo ni siquiera es un animal y la lombriz es un gusano. Al final, los restos se convierten en tierra nueva, llena de alimento para las plantas. Sin recicladores, el bosque estaría cubierto de montañas de hojas secas.",
+  "pictures": [
+   {
+    "art": "escarabajo",
+    "label": "Recicla madera y hojas"
+   },
+   {
+    "art": "hongo",
+    "label": "Recicla, pero no es insecto"
+   },
+   {
+    "art": "hoja",
+    "label": "Hoja seca: comida de recicladores"
+   }
+  ]
+ },
+ "u7l4": {
+  "text": "Muchos insectos se salvan de quien quiere comérselos sin necesidad de pelear. Con el camuflaje se parecen a lo que los rodea: el insecto palo parece una ramita, la santateresa se confunde con las hojas (así también sorprende a los insectos que caza) y algunas orugas se quedan tiesas como una rama. Con el mimetismo se disfrazan de otro animal: la mosca de las flores tiene rayas amarillas y negras como una avispa, pero no pica. Hay mariposas sabrosas que copian los colores de otras de mal sabor, y así los pájaros las dejan en paz. Otros insectos hacen lo contrario y lucen colores de aviso, como el rojo con puntos negros de la mariquita, que dice «sé mal, no me comas».",
+  "pictures": [
+   {
+    "art": "palito",
+    "label": "Camuflaje: parece una rama"
+   },
+   {
+    "art": "santateresa",
+    "label": "Camuflaje: se confunde con las hojas"
+   },
+   {
+    "art": "mosca",
+    "label": "Mimetismo: parece una avispa"
+   },
+   {
+    "art": "mariquita",
+    "label": "Colores de aviso"
+   }
+  ]
+ },
+ "u7l5": {
+  "text": "Algunos insectos viven en grandes familias llamadas colonias: las abejas de la miel, las hormigas y los comejenes (termitas). En la colonia hay una reina que pone los huevos (los comejenes tienen también un rey) y muchísimas obreras que buscan comida, cuidan a las crías y limpian el nido. En algunas hormigas y en los comejenes hay además soldados, de cabeza grande, que defienden el nido. Cada una hace su parte, y juntas logran lo que ninguna podría sola, como el panal de las abejas o los grandes nidos de los comejenes. El bachaco corta hojas, pero no se las come: las lleva al nido para cultivar un hongo, que es su alimento. Algunas hormigas cuidan a los pulgones de sus enemigos, y a cambio los pulgones les dan unas gotitas dulces.",
+  "pictures": [
+   {
+    "art": "abeja",
+    "label": "Colonia: el panal"
+   },
+   {
+    "art": "hormiga",
+    "label": "Colonia: el hormiguero"
+   },
+   {
+    "art": "comejen",
+    "label": "Colonia con reina y rey"
+   },
+   {
+    "art": "bachaco",
+    "label": "Cultiva un hongo"
+   },
+   {
+    "art": "pulgon",
+    "label": "Da gotitas dulces a las hormigas"
+   }
+  ]
+ },
+ "u7l6": {
+  "text": "Todos los hilos de la red están unidos: si se rompe uno, se notan los demás. Sin insectos polinizadores habría muy poco mango, parchita y patilla, y nada de chocolate: la flor del cacao la polinizan unas mosquitas diminutas. El maíz y el arroz, en cambio, no necesitan insectos: su polen lo lleva el viento. Sin recicladores, los restos se amontonarían y la tierra se quedaría sin alimento para las plantas. Sin insectos, muchos pájaros, ranas y murciélagos pasarían hambre, porque muchos pájaros alimentan a sus pichones con insectos. Para ayudarlos podemos sembrar flores, no echar veneno a todo y dejar un rincón con hojas secas en el jardín.",
+  "pictures": [
+   {
+    "art": "abeja",
+    "label": "Sin polinizadores, pocas frutas"
+   },
+   {
+    "art": "pajaro",
+    "label": "Alimenta a sus pichones con insectos"
+   },
+   {
+    "art": "hongo",
+    "label": "Sin recicladores, montañas de restos"
+   }
+  ]
+ },
+ "u8l1": {
+  "text": "Los científicos empiezan por observar: mirar con calma, en silencio y sin prisa. La lupa hace que lo pequeño se vea más grande, pero nunca se pone al sol sobre un insecto: concentra la luz y lo puede quemar. En el cuaderno de campo se anota la fecha, el lugar y lo que hace el insecto, y se dibuja lo que ves. Para medir sin tocar, se pone una regla al lado del insecto, y un reloj te dice cuánto rato observaste. También se observa con los oídos: el grillo canta frotando sus alas.",
+  "pictures": [
+   {
+    "art": "lupa",
+    "label": "Lupa: agranda lo pequeño"
+   },
+   {
+    "art": "cuaderno",
+    "label": "Cuaderno de campo"
+   },
+   {
+    "art": "saltamontes",
+    "label": "Escucha: muchos cantan"
+   }
+  ]
+ },
+ "u8l2": {
+  "text": "Después de observar, el científico se hace una pregunta que se pueda comprobar mirando o contando, como «¿Qué flor visitan más las abejas?». Preguntas como «¿Cuál es el insecto más bonito?» no se pueden comprobar, porque depende del gusto de cada quien. Luego propone una hipótesis: lo que cree que pasará, y por qué. Después la comprueba: observa, cuenta y anota los resultados. Al final saca una conclusión: lo que aprendió. Si la hipótesis no acertó, ¡no pasa nada!: también se aprende y sale una pregunta nueva.",
+  "pictures": [
+   {
+    "art": "lupa",
+    "label": "1. Observar"
+   },
+   {
+    "art": "paquito",
+    "label": "2. Preguntar"
+   },
+   {
+    "art": "angelica",
+    "label": "3. Hipótesis"
+   },
+   {
+    "art": "abeja",
+    "label": "4. Comprobar"
+   },
+   {
+    "art": "cuaderno",
+    "label": "5. Conclusión"
+   }
+  ]
+ },
+ "u8l3": {
+  "text": "Un experimento sirve para comprobar una hipótesis. Para que sea justo, se cambia una sola cosa y lo demás se deja igual: por ejemplo, contar 5 minutos en cada flor y a la misma hora. Las abejas ven muy bien el azul, el morado y el amarillo, pero el rojo lo ven oscuro. Las cochinitas necesitan humedad para respirar, por eso suelen estar a la sombra, bajo hojas y piedras. En un buen experimento los insectos no se atrapan ni se encierran: se observan donde están y todo se deja como estaba.",
+  "pictures": [
+   {
+    "art": "girasol",
+    "label": "Girasol"
+   },
+   {
+    "art": "flor_rosa",
+    "label": "Flor rosada"
+   },
+   {
+    "art": "abeja",
+    "label": "Ve azul y amarillo"
+   },
+   {
+    "art": "cochinita",
+    "label": "Le gusta la sombra húmeda"
+   }
+  ]
+ },
+ "u8l4": {
+  "text": "Un hotel de insectos es un refugio hecho con cosas naturales: cañas huecas, piñas de pino, palitos, corteza y madera con agujeros. En las cañas, las abejas solitarias hacen su nido: cada mamá deja sus huevos con polen y tapa la entrada con barro o trocitos de hoja. Viven solas, sin colmena que defender, y por eso casi nunca pican; entre las piñas y la corteza se refugian las mariquitas. Los zancudos y las libélulas no lo usan, porque sus crías crecen en el agua. El hotel se pone donde le dé el sol de la mañana, protegido de la lluvia, a un metro del suelo o más y cerca de flores.",
+  "pictures": [
+   {
+    "art": "hotel_insectos",
+    "label": "Hotel de insectos"
+   },
+   {
+    "art": "abeja",
+    "label": "Abeja solitaria: en las cañas"
+   },
+   {
+    "art": "mariquita",
+    "label": "Mariquita: entre las piñas"
+   }
+  ]
+ },
+ "u8l5": {
+  "text": "A los insectos les cuesta vivir donde hay venenos, basura, pocas plantas o demasiado calor. El veneno echado por todo el jardín no solo mata las plagas: también a las abejas y a las mariquitas que nos ayudan. Las luces encendidas de noche confunden a las polillas y a las luciérnagas, que se buscan con su propia luz. Cuando el planeta se calienta, algunas flores y charcos se secan, y los insectos tienen menos comida y agua. ¡La buena noticia es que las acciones pequeñas ayudan!: sembrar flores, dejar un rincón con plantas silvestres y hojas secas, no fumigar todo, recoger la basura y apagar las luces que no se usan.",
+  "pictures": [
+   {
+    "art": "planeta",
+    "label": "Nuestro planeta"
+   },
+   {
+    "art": "flor_rosa",
+    "label": "Sembrar flores"
+   },
+   {
+    "art": "luciernaga",
+    "label": "Se busca con su luz"
+   }
+  ]
+ },
+ "u8l6": {
+  "text": "Un guardabosques experto hace cuatro cosas: observa, respeta, cuida y enseña. Observa con calma y con su cuaderno, como un científico. Respeta: no atrapa ni aplasta, y deja a cada insecto en su casa; cuida: siembra flores, no usa venenos y apaga las luces que no se usan. Enseña: ayuda a otros a no tener miedo, contándoles que casi todos los insectos son inofensivos y que basta con mirarlos de lejos. Si un insecto entra en casa, se saca con un vaso y una cartulina y se deja libre afuera; si es uno que pica, se avisa a un adulto.",
+  "pictures": [
+   {
+    "art": "lupa",
+    "label": "Observa"
+   },
+   {
+    "art": "paquito",
+    "label": "Respeta y cuida"
+   },
+   {
+    "art": "angelica",
+    "label": "Enseña a no tener miedo"
+   }
+  ]
  }
 }

@@ -1,0 +1,114 @@
+{
+ "items": [
+  {
+   "id": "k1",
+   "prompt": "How many legs does an insect have?",
+   "options": [
+    "Four",
+    "Six",
+    "Eight"
+   ],
+   "answer": 1,
+   "art": "saltamontes"
+  },
+  {
+   "id": "k2",
+   "prompt": "What are the three body parts of an insect?",
+   "options": [
+    "Head, tail and legs",
+    "Wings, antennae and eyes",
+    "Head, thorax and abdomen"
+   ],
+   "answer": 2,
+   "art": "hormiga"
+  },
+  {
+   "id": "k3",
+   "prompt": "Is a spider an insect?",
+   "options": [
+    "No, because it has eight legs",
+    "Yes, because it's small",
+    "Yes, because it catches flies"
+   ],
+   "answer": 0,
+   "art": "arana"
+  },
+  {
+   "id": "k4",
+   "prompt": "What do an insect's antennae do?",
+   "options": [
+    "To fly",
+    "To eat",
+    "To pick up smells and touch"
+   ],
+   "answer": 2,
+   "art": "mariposa"
+  },
+  {
+   "id": "k5",
+   "prompt": "How does a butterfly eat?",
+   "options": [
+    "By chewing leaves",
+    "By sucking nectar with its tongue",
+    "By piercing skin"
+   ],
+   "answer": 1,
+   "art": "cabeza_mariposa"
+  },
+  {
+   "id": "k6",
+   "prompt": "In what order does a butterfly grow?",
+   "options": [
+    "Egg, caterpillar, chrysalis and butterfly",
+    "Caterpillar, egg, butterfly and chrysalis",
+    "Chrysalis, butterfly, egg and caterpillar"
+   ],
+   "answer": 0,
+   "art": "crisalida"
+  },
+  {
+   "id": "k7",
+   "prompt": "What does pollinating mean?",
+   "options": [
+    "Eating the leaves",
+    "Stinging people",
+    "Carrying pollen from one flower to another"
+   ],
+   "answer": 2,
+   "art": "abeja"
+  },
+  {
+   "id": "k8",
+   "prompt": "What does a ladybug do in a garden?",
+   "options": [
+    "It harms the flowers",
+    "It eats aphids",
+    "It stings people"
+   ],
+   "answer": 1,
+   "art": "mariquita"
+  },
+  {
+   "id": "k9",
+   "prompt": "What helps stop mosquitoes from hatching?",
+   "options": [
+    "Emptying still water",
+    "Leaving buckets of water",
+    "Turning on the light"
+   ],
+   "answer": 0,
+   "art": "mosquito"
+  },
+  {
+   "id": "k10",
+   "prompt": "If you see an insect you don't know, what's best?",
+   "options": [
+    "Squash it",
+    "Scream and run",
+    "Watch it calmly, without touching it"
+   ],
+   "answer": 2,
+   "art": "lupa"
+  }
+ ]
+}

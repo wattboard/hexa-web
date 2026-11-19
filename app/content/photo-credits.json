@@ -17,6 +17,24 @@
     "source": "iNaturalist",
     "taxon": "Tetragonisca angustula"
   },
+  "arana": {
+    "author": "Lily Fulton",
+    "file": "photo_arana.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/59246260",
+    "source": "iNaturalist",
+    "taxon": "Phidippus apacheanus"
+  },
+  "bachaco": {
+    "author": "Tony Iwane",
+    "file": "photo_bachaco.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/153718361",
+    "source": "iNaturalist",
+    "taxon": "Atta cephalotes"
+  },
   "chinche": {
     "author": "Jacobo Krauel",
     "file": "photo_chinche.jpg",
@@ -25,6 +43,33 @@
     "observation": "https://www.inaturalist.org/observations/124110715",
     "source": "iNaturalist",
     "taxon": "Halyomorpha halys"
+  },
+  "cochinita": {
+    "author": "Robby Deans",
+    "file": "photo_cochinita.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/46502479",
+    "source": "iNaturalist",
+    "taxon": "Armadillidium vulgare"
+  },
+  "cocuyo": {
+    "author": "Paul Tavares",
+    "file": "photo_cocuyo.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/39546141",
+    "source": "iNaturalist",
+    "taxon": "Pyrophorus"
+  },
+  "comejen": {
+    "author": "Richard Ong",
+    "file": "photo_comejen.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/29231788",
+    "source": "iNaturalist",
+    "taxon": "Macrotermes carbonarius"
   },
   "crisalida": {
     "author": "Erika Mitchell",
@@ -98,6 +143,15 @@
     "source": "iNaturalist",
     "taxon": "Danaus plexippus"
   },
+  "mariposa_88": {
+    "author": "Tom Murray",
+    "file": "photo_mariposa_88.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/300503885",
+    "source": "iNaturalist",
+    "taxon": "Diaethria clymena"
+  },
   "mariquita": {
     "author": "Alexander Viduetsky",
     "file": "photo_mariquita.jpg",
@@ -106,6 +160,15 @@
     "observation": "https://www.inaturalist.org/observations/35548045",
     "source": "iNaturalist",
     "taxon": "Coccinella septempunctata"
+  },
+  "milpies": {
+    "author": "BJ Stacey",
+    "file": "photo_milpies.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/5113690",
+    "source": "iNaturalist",
+    "taxon": "Amplaria staceyi"
   },
   "morfo": {
     "author": "Luis Trinchan",
@@ -151,6 +214,15 @@
     "observation": "https://www.inaturalist.org/observations/58517597",
     "source": "iNaturalist",
     "taxon": "Danaus plexippus"
+  },
+  "palito": {
+    "author": "Lida Garcia Trujillo",
+    "file": "photo_palito.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/33080942",
+    "source": "iNaturalist",
+    "taxon": "Decidia magnifica"
   },
   "saltamontes": {
     "author": "Donna Pomeroy",
