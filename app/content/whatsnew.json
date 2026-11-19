@@ -1,21 +1,21 @@
 {
  "_info": "Fuente única de novedades: la usan la pantalla «Novedades» de iOS y Android y las notas de TestFlight y Google Play (scripts/release_notes.py). En cada build con cambios para quien prueba: reescribir «news» con lo de ESE build, añadir a «features» lo que pase a ser parte fija de la app y subir «version» (la pantalla vuelve a salir una vez). Iconos: music, book, chat, map, camera, album, people, pictures, mouth, bravery, notebook, computer.",
- "version": 8,
+ "version": 9,
  "news": [
   {
-   "icon": "camera",
-   "es": "Cada lección enseña la foto real de su propio insecto (polilla, libélula, pulgón…).",
-   "en": "Each lesson shows the real photo of its own insect (moth, dragonfly, aphid…)."
+   "icon": "pictures",
+   "es": "Dibujo nuevo del ala de membrana: el par de alas de una abeja con sus venas.",
+   "en": "New membrane wing drawing: a bee's pair of wings with their veins."
+  },
+  {
+   "icon": "people",
+   "es": "Reto en familia de los élitros más claro: qué hacer con la caja o el estuche.",
+   "en": "Clearer elytra family challenge: what to do with the box or case."
   },
   {
    "icon": "book",
-   "es": "Corregido: el grillo oye con las patas y el saltamontes con el abdomen.",
-   "en": "Fixed: crickets hear with their legs and grasshoppers with their abdomen."
-  },
-  {
-   "icon": "chat",
-   "es": "La versión web también tiene «Enviar comentario» en el Modo docente.",
-   "en": "The web version now has “Send feedback” in Teacher mode too."
+   "es": "Lectura de himenópteros mejor redactada.",
+   "en": "Better wording in the Hymenoptera reading."
   }
  ],
  "features": [
