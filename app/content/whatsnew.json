@@ -1,21 +1,11 @@
 {
  "_info": "Fuente única de novedades: la usan la pantalla «Novedades» de iOS y Android y las notas de TestFlight y Google Play (scripts/release_notes.py). En cada build con cambios para quien prueba: reescribir «news» con lo de ESE build, añadir a «features» lo que pase a ser parte fija de la app y subir «version» (la pantalla vuelve a salir una vez). Iconos: music, book, chat, map, camera, album, people, pictures, mouth, bravery, notebook, computer.",
- "version": 9,
+ "version": 11,
  "news": [
   {
-   "icon": "pictures",
-   "es": "Dibujo nuevo del ala de membrana: el par de alas de una abeja con sus venas.",
-   "en": "New membrane wing drawing: a bee's pair of wings with their veins."
-  },
-  {
-   "icon": "people",
-   "es": "Reto en familia de los élitros más claro: qué hacer con la caja o el estuche.",
-   "en": "Clearer elytra family challenge: what to do with the box or case."
-  },
-  {
-   "icon": "book",
-   "es": "Lectura de himenópteros mejor redactada.",
-   "en": "Better wording in the Hymenoptera reading."
+   "icon": "album",
+   "es": "Láminas de naturalistas antiguos en 22 fichas del álbum: dibujos a mano de Merian, Hooke, Brehm y otros, con zoom y sus créditos.",
+   "en": "Plates by old naturalists in 22 album cards: hand drawings by Merian, Hooke, Brehm and others, with zoom and credits."
   }
  ],
  "features": [
@@ -83,6 +73,11 @@
    "icon": "people",
    "es": "Modo docente: ritmo, progreso de cada niño, actividades de clase y diplomas.",
    "en": "Teacher mode: pace, each child's progress, class activities and diplomas."
+  },
+  {
+   "icon": "album",
+   "es": "Láminas de naturalistas antiguos (dominio público) en las fichas del álbum.",
+   "en": "Plates by old naturalists (public domain) in the album cards."
   }
  ]
 }

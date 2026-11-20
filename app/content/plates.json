@@ -1,0 +1,473 @@
+{
+ "_info": "Láminas de naturalistas antiguos (dominio público) para las fichas del álbum: tarjeta → lista de láminas (se pasan con el dedo). «plate»: 0 si la obra no numera la lámina.",
+ "intro": {
+  "es": "Antes de que existieran las fotos, los naturalistas dibujaban a mano los insectos que observaban, con muchísimo cuidado y a veces con lupa o microscopio. Estas láminas son de sus libros y tienen más de cien años.",
+  "en": "Before photos existed, naturalists drew the insects they observed by hand, very carefully and sometimes with a magnifying glass or a microscope. These plates come from their books and are more than a hundred years old."
+ },
+ "cards": {
+  "mariposa": [
+   {
+    "file": "merian_09.jpg",
+    "artist": "Maria Sibylla Merian",
+    "year": 1705,
+    "work": "Metamorphosis insectorum Surinamensium",
+    "plate": 9,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons (Koninklijke Bibliotheek)",
+    "url": "https://commons.wikimedia.org/wiki/File:Mariae_Sibillae_Merian_Dissertatio_de_generatione_et_metamorphosibus_insectorum_Surinamensium_1719_(21268264).jpg",
+    "caption": {
+     "es": "Dos mariposas, una oruga y un granado con flores y con la fruta abierta.",
+     "en": "Two butterflies, a caterpillar and a pomegranate tree with flowers and an open fruit."
+    }
+   },
+   {
+    "file": "merian_20.jpg",
+    "artist": "Maria Sibylla Merian",
+    "year": 1705,
+    "work": "Metamorphosis insectorum Surinamensium",
+    "plate": 20,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons (Koninklijke Bibliotheek)",
+    "url": "https://commons.wikimedia.org/wiki/File:Mariae_Sibillae_Merian_Dissertatio_de_generatione_et_metamorphosibus_insectorum_Surinamensium_1719_(21268382).jpg",
+    "caption": {
+     "es": "Una oruga grande comiendo hojas, el capullo donde se transforma y las polillas que salen de él.",
+     "en": "A big caterpillar eating leaves, the cocoon where it transforms and the moths that come out of it."
+    }
+   },
+   {
+    "file": "merian_34.jpg",
+    "artist": "Maria Sibylla Merian",
+    "year": 1705,
+    "work": "Metamorphosis insectorum Surinamensium",
+    "plate": 34,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons (Koninklijke Bibliotheek)",
+    "url": "https://commons.wikimedia.org/wiki/File:Mariae_Sibillae_Merian_Dissertatio_de_generatione_et_metamorphosibus_insectorum_Surinamensium_1719_(21268448).jpg",
+    "caption": {
+     "es": "Una parra con uvas: arriba, la crisálida; en la rama, la oruga; y la polilla adulta volando.",
+     "en": "A grapevine with grapes: at the top, the chrysalis; on the branch, the caterpillar; and the adult moth flying."
+    }
+   }
+  ],
+  "morfo": [
+   {
+    "file": "merian_53.jpg",
+    "artist": "Maria Sibylla Merian",
+    "year": 1705,
+    "work": "Metamorphosis insectorum Surinamensium",
+    "plate": 53,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons (Koninklijke Bibliotheek)",
+    "url": "https://commons.wikimedia.org/wiki/File:Mariae_Sibillae_Merian_Dissertatio_de_generatione_et_metamorphosibus_insectorum_Surinamensium_1719_(21268833).jpg",
+    "caption": {
+     "es": "El morfo azul por arriba y por debajo, con sus «ojos». Abajo, su oruga peluda y la crisálida colgada de la rama.",
+     "en": "The blue morpho from above and below, with its “eyes”. Below, its hairy caterpillar and the chrysalis hanging from the branch."
+    }
+   }
+  ],
+  "mariquita": [
+   {
+    "file": "jacobson_24.jpg",
+    "artist": "Georgiy Jacobson",
+    "year": 1905,
+    "work": "Zhuki Rossii i Zapadnoi Evropy",
+    "plate": 24,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Coccinella_septempunctata_Jacobson.png",
+    "caption": {
+     "es": "Una mariquita de siete puntos dibujada muy de cerca: se ven sus patas, sus antenas y los puntos negros de los élitros.",
+     "en": "A seven-spot ladybug drawn up close: you can see its legs, its antennae and the black spots on its elytra."
+    }
+   }
+  ],
+  "hormiga": [
+   {
+    "file": "brehm_09.jpg",
+    "artist": "Alfred Brehm",
+    "year": 1884,
+    "work": "Brehms Tierleben: Die Insekten, Tausendfüßler und Spinnen",
+    "plate": 9,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Die_Insekten,_Tausendf%C3%BCssler_und_Spinnen_(Plate_9)_(9521367523).jpg",
+    "caption": {
+     "es": "El hormiguero de la hormiga roja del bosque, hecho con agujas de pino, lleno de hormigas trabajando.",
+     "en": "The nest of the red wood ant, made of pine needles and full of busy ants."
+    }
+   },
+   {
+    "file": "lubbock_01.jpg",
+    "artist": "John Lubbock",
+    "year": 1897,
+    "work": "Ants, Bees, and Wasps",
+    "plate": 1,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Ants,_bees,_and_wasps_(Plate_1)_(8476376326).jpg",
+    "caption": {
+     "es": "Seis hormigas distintas, cada una con su nombre: unas pequeñas y oscuras, otras grandes y rojizas.",
+     "en": "Six different ants, each with its name: some small and dark, others big and reddish."
+    }
+   }
+  ],
+  "abeja": [
+   {
+    "file": "pfurtscheller_abeja.jpg",
+    "artist": "Paul Pfurtscheller",
+    "year": 1923,
+    "work": "Zoologische Wandtafeln",
+    "plate": 0,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Honey_Bee_Chart_1.png",
+    "caption": {
+     "es": "Una abeja obrera por fuera y por dentro, con su lengua para el néctar y su aguijón.",
+     "en": "A worker bee inside and out, with its tongue for nectar and its stinger."
+    }
+   },
+   {
+    "file": "brehm_08.jpg",
+    "artist": "Alfred Brehm",
+    "year": 1884,
+    "work": "Brehms Tierleben: Die Insekten, Tausendfüßler und Spinnen",
+    "plate": 8,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Die_Insekten,_Tausendf%C3%BCssler_und_Spinnen_(Plate_8)_(9521366307).jpg",
+    "caption": {
+     "es": "Un enjambre: miles de abejas colgadas juntas de una rama mientras buscan una casa nueva.",
+     "en": "A swarm: thousands of bees hanging together from a branch while they look for a new home."
+    }
+   }
+  ],
+  "libelula": [
+   {
+    "file": "harris_23.jpg",
+    "artist": "Moses Harris",
+    "year": 1782,
+    "work": "An Exposition of English Insects",
+    "plate": 23,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Moses_Harris01.jpg",
+    "caption": {
+     "es": "Dos libélulas con las alas extendidas: se ven las venas de sus cuatro alas de membrana.",
+     "en": "Two dragonflies with their wings spread: you can see the veins in their four membrane wings."
+    }
+   }
+  ],
+  "luciernaga": [
+   {
+    "file": "holder_09.jpg",
+    "artist": "Charles Frederick Holder",
+    "year": 1887,
+    "work": "Living Lights",
+    "plate": 9,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Living_lights_(Plate_IX)_(7582781146).jpg",
+    "caption": {
+     "es": "Luciérnagas: el macho, que vuela, y la hembra y la larva, que brillan entre las hojas.",
+     "en": "Fireflies: the male, which flies, and the female and the larva, which glow among the leaves."
+    }
+   }
+  ],
+  "escarabajo": [
+   {
+    "file": "brehm_05.jpg",
+    "artist": "Alfred Brehm",
+    "year": 1884,
+    "work": "Brehms Tierleben: Die Insekten, Tausendfüßler und Spinnen",
+    "plate": 5,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Die_Insekten,_Tausendf%C3%BCssler_und_Spinnen_(Plate_5)_(9524145828).jpg",
+    "caption": {
+     "es": "El ciervo volante, con sus grandes mandíbulas, y un escarabajo de antenas larguísimas en un tronco viejo.",
+     "en": "The stag beetle, with its big jaws, and a beetle with very long antennae on an old tree trunk."
+    }
+   }
+  ],
+  "saltamontes": [
+   {
+    "file": "brehm_17.jpg",
+    "artist": "Alfred Brehm",
+    "year": 1884,
+    "work": "Brehms Tierleben: Die Insekten, Tausendfüßler und Spinnen",
+    "plate": 17,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Die_Insekten,_Tausendf%C3%BCssler_und_Spinnen_(Plate_17)_(9524160954).jpg",
+    "caption": {
+     "es": "Una nube de langostas: son saltamontes que a veces viajan juntos en grupos enormes.",
+     "en": "A cloud of locusts: they are grasshoppers that sometimes travel together in huge groups."
+    }
+   }
+  ],
+  "chinche": [
+   {
+    "file": "hahn_50.jpg",
+    "artist": "Carl Wilhelm Hahn",
+    "year": 1831,
+    "work": "Die wanzenartigen Insecten",
+    "plate": 50,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Die_wanzenartigen_Insecten_(Tab._L)_(6096007951).jpg",
+    "caption": {
+     "es": "Tres chinches de escudo vistas desde arriba: su cuerpo parece un escudo de colores.",
+     "en": "Three shield bugs seen from above: their body looks like a colorful shield."
+    }
+   }
+  ],
+  "mosca": [
+   {
+    "file": "hooke_26.jpg",
+    "artist": "Robert Hooke",
+    "year": 1665,
+    "work": "Micrographia",
+    "plate": 26,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Hooke-bluefly.jpg",
+    "caption": {
+     "es": "Una mosca vista con uno de los primeros microscopios, con un ala dibujada al lado.",
+     "en": "A fly seen through one of the first microscopes, with one wing drawn beside it."
+    }
+   },
+   {
+    "file": "hooke_24.jpg",
+    "artist": "Robert Hooke",
+    "year": 1665,
+    "work": "Micrographia",
+    "plate": 24,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Micrographia_Robert_Hooke_24.png",
+    "caption": {
+     "es": "La cabeza de una mosca: sus dos ojos enormes están hechos de miles de ojitos.",
+     "en": "A fly's head: its two huge eyes are made of thousands of tiny eyes."
+    }
+   }
+  ],
+  "mosquito": [
+   {
+    "file": "hooke_29.jpg",
+    "artist": "Robert Hooke",
+    "year": 1665,
+    "work": "Micrographia",
+    "plate": 29,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Hooke-gnat.jpg",
+    "caption": {
+     "es": "Un mosquito hembra visto con el microscopio: patas largas, alas finas y una trompa para picar.",
+     "en": "A female mosquito seen through the microscope: long legs, thin wings and a mouthpart for biting."
+    }
+   },
+   {
+    "file": "hooke_27.jpg",
+    "artist": "Robert Hooke",
+    "year": 1665,
+    "work": "Micrographia",
+    "plate": 27,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Micrographia_Schem_27.jpg",
+    "caption": {
+     "es": "La larva del mosquito, que vive en el agua quieta y respira por un tubito.",
+     "en": "The mosquito larva, which lives in still water and breathes through a little tube."
+    }
+   }
+  ],
+  "escarabajo_hercules": [
+   {
+    "file": "brehm_06.jpg",
+    "artist": "Alfred Brehm",
+    "year": 1884,
+    "work": "Brehms Tierleben: Die Insekten, Tausendfüßler und Spinnen",
+    "plate": 6,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Die_Insekten,_Tausendf%C3%BCssler_und_Spinnen_(Plate_6)_(9521364005).jpg",
+    "caption": {
+     "es": "El escarabajo hércules en la selva, con su cuerno largo, junto a la hembra, que no tiene cuernos.",
+     "en": "The Hercules beetle in the rainforest, with its long horn, next to the female, which has no horns."
+    }
+   },
+   {
+    "file": "griffith_hercules.jpg",
+    "artist": "Moses Griffith",
+    "year": 1806,
+    "work": "General Zoology (George Shaw)",
+    "plate": 0,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Hercules_beetle_scarabaeus_griffith_1806.jpg",
+    "caption": {
+     "es": "Un escarabajo hércules macho visto de lado, con sus dos cuernos como una pinza.",
+     "en": "A male Hercules beetle seen from the side, with its two horns like a pincer."
+    }
+   }
+  ],
+  "abeja_angelita": [
+   {
+    "file": "westwood_27.jpg",
+    "artist": "John Obadiah Westwood",
+    "year": 1840,
+    "work": "The Naturalist's Library: Bees",
+    "plate": 27,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Jardine_Naturalist%27s_library_Bees_Plate_27.jpg",
+    "caption": {
+     "es": "Abejas sin aguijón de América, parientes de la angelita, junto a su nido de cera.",
+     "en": "Stingless bees from the Americas, relatives of the angelita bee, next to their wax nest."
+    }
+   }
+  ],
+  "santateresa": [
+   {
+    "file": "stoll_04.jpg",
+    "artist": "Caspar Stoll",
+    "year": 1787,
+    "work": "Afbeeldingen der spooken, wandelende bladen, zabel-springhanen, krekels, trekspringhanen en kakkerlakken",
+    "plate": 4,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Stoll_Spooken_pl04.jpg",
+    "caption": {
+     "es": "Varias mantis: algunas parecen palitos y otra parece una hoja seca. Así se esconden para cazar.",
+     "en": "Several mantises: some look like twigs and another looks like a dry leaf. That's how they hide to hunt."
+    }
+   }
+  ],
+  "cocuyo": [
+   {
+    "file": "lanature_cocuyo.jpg",
+    "artist": "La Nature",
+    "year": 1873,
+    "work": "La Nature",
+    "plate": 0,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:LaNature1873-337-Cucujos_de_la_Havane.png",
+    "caption": {
+     "es": "Cocuyos volando de noche: llevan dos luces verdes en el tórax, como dos faros.",
+     "en": "Click beetles flying at night: they carry two green lights on their thorax, like two headlights."
+    }
+   }
+  ],
+  "mariposa_88": [
+   {
+    "file": "hewitson_catagramma.jpg",
+    "artist": "William Chapman Hewitson",
+    "year": 1851,
+    "work": "Illustrations of New Species of Exotic Butterflies",
+    "plate": 0,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Illustrations_of_new_species_of_exotic_butterflies_Catagramma_I.jpg",
+    "caption": {
+     "es": "Mariposas de la selva de colores muy vivos. Algunas llevan dibujos como números debajo de las alas.",
+     "en": "Very colorful rainforest butterflies. Some have patterns like numbers under their wings."
+    }
+   }
+  ],
+  "bachaco": [
+   {
+    "file": "psm_bachaco.jpg",
+    "artist": "Popular Science Monthly",
+    "year": 1875,
+    "work": "Popular Science Monthly, vol. 7",
+    "plate": 0,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:PSM_V07_D272_Leaf_cutting_ants.jpg",
+    "caption": {
+     "es": "Hormigas cortadoras, como los bachacos, llevando trozos de hoja a su nido.",
+     "en": "Leaf-cutter ants, like bachacos, carrying pieces of leaf to their nest."
+    }
+   }
+  ],
+  "palito": [
+   {
+    "file": "donovan_palito.jpg",
+    "artist": "Edward Donovan",
+    "year": 1800,
+    "work": "An Epitome of the Natural History of the Insects of India",
+    "plate": 0,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:DonovanEpitomePlate10.jpg",
+    "caption": {
+     "es": "Un insecto palo verde con las alas abiertas en abanico. En esa época lo creían una mantis.",
+     "en": "A green stick insect with its wings open like a fan. At that time people thought it was a mantis."
+    }
+   },
+   {
+    "file": "stoll_03.jpg",
+    "artist": "Caspar Stoll",
+    "year": 1787,
+    "work": "Afbeeldingen der spooken, wandelende bladen, zabel-springhanen, krekels, trekspringhanen en kakkerlakken",
+    "plate": 3,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Stoll_Spooken_pl03.jpg",
+    "caption": {
+     "es": "Un insecto palo con alas: cuando las cierra, parece una ramita.",
+     "en": "A stick insect with wings: when it closes them, it looks like a twig."
+    }
+   }
+  ],
+  "arana": [
+   {
+    "file": "clerck_arana.jpg",
+    "artist": "Carl Alexander Clerck",
+    "year": 1757,
+    "work": "Svenska spindlar",
+    "plate": 0,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Araneus-angulatus-figure1757.jpg",
+    "caption": {
+     "es": "Una araña de jardín vista por arriba, dos veces, y en medio sus ojitos.",
+     "en": "A garden spider seen from above, twice, and its little eyes in the middle."
+    }
+   }
+  ],
+  "milpies": [
+   {
+    "file": "koch_milpies.jpg",
+    "artist": "Carl Ludwig Koch",
+    "year": 1863,
+    "work": "Die Myriapoden",
+    "plate": 0,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Die_Myriapoden_-_getreu_nach_der_Natur_abgebildet_und_beschrieben_(1863)_(20311761684).jpg",
+    "caption": {
+     "es": "Un milpiés grande con sus muchísimas patas: dos pares en cada anillo.",
+     "en": "A big millipede with lots and lots of legs: two pairs on each ring."
+    }
+   }
+  ],
+  "comejen": [
+   {
+    "file": "brehm_16.jpg",
+    "artist": "Alfred Brehm",
+    "year": 1884,
+    "work": "Brehms Tierleben: Die Insekten, Tausendfüßler und Spinnen",
+    "plate": 16,
+    "license": "Dominio público / Public domain",
+    "source": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Die_Insekten,_Tausendf%C3%BCssler_und_Spinnen_(Plate_16)_(9521376063).jpg",
+    "caption": {
+     "es": "Termiteros gigantes en África: los construyen los comejenes con tierra y saliva.",
+     "en": "Giant termite mounds in Africa: termites build them with soil and saliva."
+    }
+   }
+  ]
+ }
+}
