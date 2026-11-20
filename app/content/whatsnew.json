@@ -1,11 +1,21 @@
 {
  "_info": "Fuente única de novedades: la usan la pantalla «Novedades» de iOS y Android y las notas de TestFlight y Google Play (scripts/release_notes.py). En cada build con cambios para quien prueba: reescribir «news» con lo de ESE build, añadir a «features» lo que pase a ser parte fija de la app y subir «version» (la pantalla vuelve a salir una vez). Iconos: music, book, chat, map, camera, album, people, pictures, mouth, bravery, notebook, computer.",
- "version": 11,
+ "version": 17,
  "news": [
   {
+   "icon": "computer",
+   "es": "El aviso de versión nueva de prueba sale en cuanto hay una, sin esperar.",
+   "en": "The new test version notice shows up as soon as there is one, without waiting."
+  },
+  {
    "icon": "album",
-   "es": "Láminas de naturalistas antiguos en 22 fichas del álbum: dibujos a mano de Merian, Hooke, Brehm y otros, con zoom y sus créditos.",
-   "en": "Plates by old naturalists in 22 album cards: hand drawings by Merian, Hooke, Brehm and others, with zoom and credits."
+   "es": "El invernadero aprovecha toda la pantalla (también en el iPhone Duo y tumbado) y los botones son más pequeños.",
+   "en": "The greenhouse uses the whole screen (also on iPhone Duo and in landscape) and the buttons are smaller."
+  },
+  {
+   "icon": "pictures",
+   "es": "Al colocar un adorno queda seleccionado con su flecha para girarlo.",
+   "en": "A decoration you place stays selected with its arrow to rotate it."
   }
  ],
  "features": [
@@ -31,8 +41,8 @@
   },
   {
    "icon": "album",
-   "es": "Mi mariposario con mascota: el polen sirve para criarla y decorarlo.",
-   "en": "My butterfly garden with a pet: pollen raises it and decorates the garden."
+   "es": "Mi insectario: cría insectos con su metamorfosis real y decora el invernadero con el polen.",
+   "en": "My insect house: raise insects through their real metamorphosis and decorate the greenhouse with pollen."
   },
   {
    "icon": "bravery",
