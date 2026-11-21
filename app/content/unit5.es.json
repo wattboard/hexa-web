@@ -407,7 +407,12 @@
           ],
           "explanation": "Un agricultor siembra y cuida lo que va a comer. Los bachacos hacen lo mismo con su hongo, ¡desde mucho antes que las personas!"
         }
-      ]
+      ],
+      "feeling": {
+        "art": "bachaco",
+        "name": "los bachacos",
+        "label": "Bachacos"
+      }
     },
     {
       "id": "u5l5",

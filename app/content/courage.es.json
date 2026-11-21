@@ -1,0 +1,212 @@
+{
+  "animals": [
+    {
+      "id": "arana",
+      "art": "arana",
+      "name": "Araña",
+      "feelName": "las arañas",
+      "feelLabel": "Arañas",
+      "intro": "Mucha gente siente miedo de las arañas. Vamos a conocerla poquito a poco.",
+      "steps": [
+        {
+          "fact": "Fíjate en su sombra: ocho patas y dos partes del cuerpo. No es un insecto: es un arácnido, primo de los insectos."
+        },
+        {
+          "fact": "La araña no tiene antenas. Para sentir el mundo usa pelitos en las patas que notan hasta el aire que se mueve."
+        },
+        {
+          "fact": "Casi todas las arañas son tímidas: si te ven, prefieren esconderse. Solo pican si se sienten atrapadas."
+        },
+        {
+          "fact": "Una araña de jardín puede comerse cientos de insectos al año, como zancudos y moscas. ¡Es una cazadora que nos ayuda!"
+        },
+        {
+          "fact": "Mira sus ojos: muchas arañas tienen ocho. Y su seda, para lo finita que es, es tan resistente como el acero."
+        }
+      ],
+      "finale": "¡Lo lograste! Miraste una araña de cerca. Recuerda: se mira sin tocar y, si no sabes cuál es, se avisa a un adulto."
+    },
+    {
+      "id": "cucaracha",
+      "art": "cucaracha",
+      "name": "Cucaracha",
+      "feelName": "las cucarachas",
+      "feelLabel": "Cucarachas",
+      "intro": "La cucaracha le da asco a mucha gente. ¿Sabías que casi todas viven lejos de las casas?",
+      "steps": [
+        {
+          "fact": "Su sombra: seis patas y dos antenas larguísimas. Es un insecto, ¡primo de la santateresa!"
+        },
+        {
+          "fact": "Sus antenas son casi tan largas como su cuerpo: con ellas huele y toca en la oscuridad."
+        },
+        {
+          "fact": "Hay miles de clases de cucarachas y casi todas viven en el bosque, bajo las hojas, convirtiéndolas en tierra."
+        },
+        {
+          "fact": "Las pocas que entran en casa buscan migas y agua. Con la cocina limpia y la comida tapada, no vienen."
+        },
+        {
+          "fact": "Mira sus patas: tienen pinchitos que la ayudan a correr muy rápido. Para su tamaño, es de las corredoras más veloces."
+        }
+      ],
+      "finale": "¡Bravo! La cucaracha no es mala: en el bosque es una gran recicladora. En casa, basta con tenerlo todo limpio."
+    },
+    {
+      "id": "avispa",
+      "art": "avispa",
+      "name": "Avispa",
+      "feelName": "las avispas",
+      "feelLabel": "Avispas",
+      "intro": "La avispa puede picar, por eso da miedo. Conocerla es la mejor manera de estar tranquilo.",
+      "steps": [
+        {
+          "fact": "Su sombra tiene una cintura finita entre el tórax y el abdomen, como la de las hormigas: son primas."
+        },
+        {
+          "fact": "Muchas avispas son amarillas y negras: es su manera de decir «mírame de lejos»."
+        },
+        {
+          "fact": "Las avispas solo pican para defenderse o defender su nido. Si una se acerca, quédate quieto y tranquilo: se irá."
+        },
+        {
+          "fact": "Las avispas cazan orugas y otras plagas para alimentar a sus crías: ¡son ayudantes del jardín!"
+        },
+        {
+          "fact": "Mira de cerca: alas transparentes y ojos grandes. Algunas avispas también ayudan a las flores a dar semillas."
+        }
+      ],
+      "finale": "¡Muy valiente! Si ves un nido de avispas, aléjate despacio y avisa a un adulto: así todos están a salvo."
+    },
+    {
+      "id": "alacran",
+      "art": "alacran",
+      "name": "Alacrán",
+      "feelName": "los alacranes",
+      "feelLabel": "Alacranes",
+      "intro": "El alacrán tiene fama de peligroso, y algunos lo son. Por eso conviene conocerlo… desde lejos.",
+      "steps": [
+        {
+          "fact": "Su sombra: ocho patas, dos pinzas y una cola con aguijón. Es un arácnido, primo de las arañas."
+        },
+        {
+          "fact": "Con las pinzas agarra insectos para comer. El aguijón lo usa sobre todo para defenderse."
+        },
+        {
+          "fact": "Los alacranes salen de noche y de día se esconden bajo piedras, troncos… ¡y zapatos! Por eso se sacuden antes de ponérselos."
+        },
+        {
+          "fact": "Algunos alacranes de Venezuela tienen un veneno fuerte. Si ves uno, aléjate y avisa a un adulto: nunca se toca."
+        },
+        {
+          "fact": "Un secreto: ¡los alacranes brillan con luz ultravioleta! Los científicos los buscan de noche con linternas especiales."
+        }
+      ],
+      "finale": "¡Lo miraste de cerca sin acercarte de verdad! Respeto y distancia: así te cuidas tú y cuidas al alacrán."
+    },
+    {
+      "id": "ciempies",
+      "art": "ciempies",
+      "name": "Ciempiés",
+      "feelName": "los ciempiés",
+      "feelLabel": "Ciempiés",
+      "intro": "Tantas patas moviéndose a la vez asustan un poco. Vamos a mirarlo con calma.",
+      "steps": [
+        {
+          "fact": "Su sombra es larga, hecha de anillos, y cada anillo tiene un par de patas."
+        },
+        {
+          "fact": "Es un miriápodo, no un insecto. Su nombre quiere decir «cien patas», pero nunca tiene justo cien."
+        },
+        {
+          "fact": "Es un cazador nocturno: come cucarachas, grillos y otros bichos. De día se esconde en sitios húmedos."
+        },
+        {
+          "fact": "Junto a la boca tiene unas uñas con veneno para cazar. Por eso al ciempiés se le mira y no se le toca."
+        },
+        {
+          "fact": "Mira sus antenas largas: con ellas busca presas en la oscuridad, porque ve muy poquito."
+        }
+      ],
+      "finale": "¡Excelente! Ya sabes cómo es y cómo estar a salvo: de lejos y, si entra en casa, con un adulto."
+    },
+    {
+      "id": "zancudo",
+      "art": "mosquito",
+      "name": "Zancudo",
+      "feelName": "los zancudos",
+      "feelLabel": "Zancudos",
+      "intro": "El zancudo pica, molesta… ¡y encima zumba en la oreja! Hoy lo conocerás mejor.",
+      "steps": [
+        {
+          "fact": "Su sombra: patas larguísimas, dos alas y un pico finito. Es un díptero, primo de las moscas."
+        },
+        {
+          "fact": "Solo pican las hembras: necesitan sangre para que crezcan sus huevos. Los machos beben néctar de las flores."
+        },
+        {
+          "fact": "El zumbido es el ruido de sus alas, que se mueven cientos de veces cada segundo."
+        },
+        {
+          "fact": "Ponen sus huevos en agua quieta. Si vaciamos los envases con agua, nacen muchos menos."
+        },
+        {
+          "fact": "Mira sus antenas: los machos las tienen como plumas, para oír el zumbido de las hembras."
+        }
+      ],
+      "finale": "¡Bien hecho! Conocer al zancudo ayuda a protegerse: agua tapada, mosquitero y repelente si hace falta."
+    },
+    {
+      "id": "polilla",
+      "art": "polilla",
+      "name": "Polilla",
+      "feelName": "las polillas",
+      "feelLabel": "Polillas",
+      "intro": "Algunas personas se asustan cuando una polilla grande entra en casa de noche. ¿Por qué será?",
+      "steps": [
+        {
+          "fact": "Su sombra parece la de una mariposa: alas grandes y seis patas. Las polillas son primas de las mariposas."
+        },
+        {
+          "fact": "Sus antenas parecen plumitas: con ellas huele las flores y a otras polillas desde muy lejos."
+        },
+        {
+          "fact": "Vuela de noche y la luz de las lámparas la confunde. Por eso a veces entra en casa: está perdida, no ataca."
+        },
+        {
+          "fact": "La polilla bruja, grande y oscura, no trae mala suerte: es inofensiva y no pica ni muerde."
+        },
+        {
+          "fact": "Mira el polvito de sus alas: son escamas diminutas, como tejas. Muchas polillas ayudan a las flores de noche."
+        }
+      ],
+      "finale": "¡Lo hiciste! Si entra una polilla, apaga la luz de dentro y deja una ventana abierta: saldrá sola."
+    },
+    {
+      "id": "bachaco",
+      "art": "bachaco",
+      "name": "Bachaco",
+      "feelName": "los bachacos",
+      "feelLabel": "Bachacos",
+      "intro": "El bachaco muerde fuerte si lo molestas. Pero visto de lejos, es un pequeño agricultor fascinante.",
+      "steps": [
+        {
+          "fact": "Su sombra: seis patas, cintura finita y una cabeza grande con mandíbulas. Es una hormiga."
+        },
+        {
+          "fact": "Sus mandíbulas son tijeras: con ellas corta trocitos de hoja casi perfectos."
+        },
+        {
+          "fact": "Trabajan en fila, siguiendo un caminito de olor que dejan en el suelo. Si te apartas de la fila, ni te notan."
+        },
+        {
+          "fact": "No se comen las hojas: con ellas cultivan un hongo en su nido, y el hongo es su comida."
+        },
+        {
+          "fact": "Fíjate: un bachaco puede cargar un trozo de hoja mucho más grande y pesado que él."
+        }
+      ],
+      "finale": "¡Excelente! Ahora, cuando veas una fila de bachacos, sabrás que es una fila de agricultores."
+    }
+  ]
+}

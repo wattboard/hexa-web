@@ -1,0 +1,527 @@
+{
+  "start": "q_legs6",
+  "nodes": {
+    "q_legs6": {
+      "question": "¿Tiene 6 patas?",
+      "hint": "Cuenta con calma: los insectos tienen 6.",
+      "yes": "q_wings",
+      "no": "q_legs8"
+    },
+    "q_legs8": {
+      "question": "¿Tiene 8 patas?",
+      "hint": "Las arañas y sus primas tienen 8 patas y ninguna antena.",
+      "yes": "q_pincers",
+      "no": "q_many"
+    },
+    "q_pincers": {
+      "question": "¿Tiene pinzas y una cola con aguijón?",
+      "hint": "Mira la parte de delante y la punta de atrás.",
+      "yes": "r_alacran",
+      "no": "r_arana"
+    },
+    "q_many": {
+      "question": "¿Tiene muchísimas patas, más de 20?",
+      "hint": "Si tiene unas 14 patas y se hace bolita, es otra cosa.",
+      "yes": "q_long_legs",
+      "no": "r_cochinita"
+    },
+    "q_long_legs": {
+      "question": "¿Sus patas son largas y salen hacia los lados?",
+      "hint": "El ciempiés tiene un par de patas largas por anillo; el milpiés, dos pares cortitos por debajo.",
+      "yes": "r_ciempies",
+      "no": "r_milpies"
+    },
+    "q_wings": {
+      "question": "¿Tiene alas?",
+      "hint": "Ojo: a veces las alas están dobladas bajo una tapa dura.",
+      "yes": "q_scales",
+      "no": "q_waist"
+    },
+    "q_waist": {
+      "question": "¿Tiene una cintura muy fina entre el tórax y el abdomen?",
+      "hint": "Las hormigas tienen cintura de avispa.",
+      "yes": "r_hormiga",
+      "no": "r_joven"
+    },
+    "q_scales": {
+      "question": "¿Tiene alas grandes, de colores y con polvito?",
+      "hint": "Ese polvito son escamas diminutas.",
+      "yes": "q_club",
+      "no": "q_elytra"
+    },
+    "q_club": {
+      "question": "¿Sus antenas terminan en una bolita?",
+      "hint": "Las mariposas tienen antenas con bolita; las polillas, de hilo o de plumitas.",
+      "yes": "r_mariposa",
+      "no": "r_polilla"
+    },
+    "q_elytra": {
+      "question": "¿Tiene la espalda tapada por dos alas duras que se juntan en una línea recta?",
+      "hint": "Esas tapas duras se llaman élitros: son de los escarabajos.",
+      "yes": "q_dots",
+      "no": "q_jump"
+    },
+    "q_dots": {
+      "question": "¿Es pequeño, redondito y con lunares?",
+      "hint": "Piensa en la mariquita.",
+      "yes": "r_mariquita",
+      "no": "q_light"
+    },
+    "q_light": {
+      "question": "¿Tiene lucecitas en el cuerpo?",
+      "hint": "Algunos escarabajos llevan sus propios faroles.",
+      "yes": "r_cocuyo",
+      "no": "r_escarabajo"
+    },
+    "q_jump": {
+      "question": "¿Tiene las patas de atrás muy grandes, para saltar?",
+      "hint": "Como un resorte.",
+      "yes": "r_saltamontes",
+      "no": "q_pray"
+    },
+    "q_pray": {
+      "question": "¿Tiene las patas de delante dobladas, como si rezara?",
+      "hint": "Son patas para cazar.",
+      "yes": "r_santateresa",
+      "no": "q_two"
+    },
+    "q_two": {
+      "question": "¿Tiene solo dos alas, una a cada lado?",
+      "hint": "Las abejas tienen cuatro, pero las de cada lado van enganchadas y parecen dos.",
+      "yes": "q_beak_long",
+      "no": "q_flat"
+    },
+    "q_beak_long": {
+      "question": "¿Tiene patas larguísimas y un pico finito y largo?",
+      "hint": "Fíjate en la boca.",
+      "yes": "r_zancudo",
+      "no": "r_mosca"
+    },
+    "q_flat": {
+      "question": "¿Es aplanado y con antenas larguísimas?",
+      "hint": "Las antenas casi tan largas como el cuerpo.",
+      "yes": "r_cucaracha",
+      "no": "q_dragon"
+    },
+    "q_dragon": {
+      "question": "¿Tiene el abdomen larguísimo, como un palito, y ojos enormes?",
+      "hint": "Una gran voladora de las charcas.",
+      "yes": "r_libelula",
+      "no": "q_waist2"
+    },
+    "q_waist2": {
+      "question": "¿Tiene una cintura fina entre el tórax y el abdomen?",
+      "hint": "Abejas, avispas y hormigas son de la misma familia.",
+      "yes": "q_hairy",
+      "no": "q_beak"
+    },
+    "q_hairy": {
+      "question": "¿Es peludita?",
+      "hint": "Las abejas son peluditas, para cargar polen; las avispas son lisas y brillantes.",
+      "yes": "r_abeja",
+      "no": "r_avispa"
+    },
+    "q_beak": {
+      "question": "¿Tiene un pico para chupar, debajo de la cabeza?",
+      "hint": "Las chinches y las cigarras chupan savia o jugos con su pico.",
+      "yes": "q_clear",
+      "no": "r_otro"
+    },
+    "q_clear": {
+      "question": "¿Sus alas son transparentes y más largas que el cuerpo?",
+      "hint": "La cigarra tiene alas como de cristal.",
+      "yes": "r_cigarra",
+      "no": "r_chinche"
+    }
+  },
+  "results": {
+    "r_arana": {
+      "art": "arana",
+      "name": "una araña",
+      "group": "los arácnidos",
+      "fact": "Ocho patas y nada de antenas. Es prima de los insectos y una gran cazadora."
+    },
+    "r_alacran": {
+      "art": "alacran",
+      "name": "un alacrán",
+      "group": "los arácnidos",
+      "fact": "Arácnido con pinzas y aguijón. Se mira de lejos y se avisa a un adulto."
+    },
+    "r_cochinita": {
+      "art": "cochinita",
+      "name": "una cochinita",
+      "group": "los crustáceos",
+      "fact": "¡Prima de los camarones! Tiene 14 patas y se hace bolita."
+    },
+    "r_ciempies": {
+      "art": "ciempies",
+      "name": "un ciempiés",
+      "group": "los miriápodos",
+      "fact": "Cazador rápido con un par de patas por anillo. Se mira sin tocar."
+    },
+    "r_milpies": {
+      "art": "milpies",
+      "name": "un milpiés",
+      "group": "los miriápodos",
+      "fact": "Va despacito, come hojas muertas y se enrolla si se asusta."
+    },
+    "r_hormiga": {
+      "art": "hormiga",
+      "name": "una hormiga",
+      "group": "los himenópteros",
+      "fact": "Las obreras no tienen alas. Viven en colonias y trabajan en equipo."
+    },
+    "r_joven": {
+      "art": "ninfa",
+      "name": "un insecto joven (ninfa o larva)",
+      "group": "depende del adulto",
+      "fact": "Muchos insectos jóvenes aún no tienen alas. Cuando crezcan, quizá vuelen."
+    },
+    "r_mariposa": {
+      "art": "mariposa",
+      "name": "una mariposa",
+      "group": "los lepidópteros",
+      "fact": "Antenas con bolita y alas de escamas. Casi siempre vuela de día."
+    },
+    "r_polilla": {
+      "art": "polilla",
+      "name": "una polilla",
+      "group": "los lepidópteros",
+      "fact": "Prima de la mariposa, con antenas de hilo o de plumas. Casi siempre vuela de noche."
+    },
+    "r_mariquita": {
+      "art": "mariquita",
+      "name": "una mariquita",
+      "group": "los coleópteros",
+      "fact": "Un escarabajo pequeño que se come los pulgones de las plantas."
+    },
+    "r_cocuyo": {
+      "art": "cocuyo",
+      "name": "un cocuyo",
+      "group": "los coleópteros",
+      "fact": "Escarabajo venezolano con dos luces verdes en el tórax."
+    },
+    "r_escarabajo": {
+      "art": "escarabajo",
+      "name": "un escarabajo",
+      "group": "los coleópteros",
+      "fact": "Alas duras de tapa: es del grupo con más especies del mundo."
+    },
+    "r_saltamontes": {
+      "art": "saltamontes",
+      "name": "un saltamontes o un grillo",
+      "group": "los ortópteros",
+      "fact": "Patas de atrás de resorte. Los grillos cantan frotando las alas."
+    },
+    "r_santateresa": {
+      "art": "santateresa",
+      "name": "una santateresa",
+      "group": "los mantodeos",
+      "fact": "Caza con sus patas de delante y gira la cabeza para mirarte."
+    },
+    "r_zancudo": {
+      "art": "mosquito",
+      "name": "un zancudo",
+      "group": "los dípteros",
+      "fact": "Dos alas y un pico finito. Solo pican las hembras."
+    },
+    "r_mosca": {
+      "art": "mosca",
+      "name": "una mosca",
+      "group": "los dípteros",
+      "fact": "Dos alas y ojos enormes. Muchas moscas ayudan a reciclar."
+    },
+    "r_cucaracha": {
+      "art": "cucaracha",
+      "name": "una cucaracha",
+      "group": "los blatodeos",
+      "fact": "Aplanada para meterse en rendijas. En el bosque, recicla hojas."
+    },
+    "r_libelula": {
+      "art": "libelula",
+      "name": "una libélula",
+      "group": "los odonatos",
+      "fact": "Ojos enormes y cuatro alas fuertes. Caza zancudos al vuelo."
+    },
+    "r_abeja": {
+      "art": "abeja",
+      "name": "una abeja",
+      "group": "los himenópteros",
+      "fact": "Peludita para llevar polen de flor en flor."
+    },
+    "r_avispa": {
+      "art": "avispa",
+      "name": "una avispa",
+      "group": "los himenópteros",
+      "fact": "Lisa y con cintura fina. Caza orugas y otras plagas."
+    },
+    "r_cigarra": {
+      "art": "cigarra",
+      "name": "una cigarra",
+      "group": "los hemípteros",
+      "fact": "Alas como de cristal y un canto fortísimo en los días de calor."
+    },
+    "r_chinche": {
+      "art": "chinche",
+      "name": "una chinche",
+      "group": "los hemípteros",
+      "fact": "Chupa jugos con su pico. Se mira sin tocar, por si es un chipo."
+    },
+    "r_otro": {
+      "art": "lupa",
+      "name": "un insecto que esta clave aún no conoce",
+      "group": "los insectos",
+      "fact": "¡Hay más de un millón de clases de insectos! Dibújalo en tu cuaderno y pregúntale a tu maestra."
+    }
+  },
+  "mysteries": [
+    {
+      "art": "arana",
+      "answers": {
+        "q_legs6": false,
+        "q_legs8": true,
+        "q_pincers": false
+      }
+    },
+    {
+      "art": "alacran",
+      "answers": {
+        "q_legs6": false,
+        "q_legs8": true,
+        "q_pincers": true
+      }
+    },
+    {
+      "art": "cochinita",
+      "answers": {
+        "q_legs6": false,
+        "q_legs8": false,
+        "q_many": false
+      }
+    },
+    {
+      "art": "ciempies",
+      "answers": {
+        "q_legs6": false,
+        "q_legs8": false,
+        "q_many": true,
+        "q_long_legs": true
+      }
+    },
+    {
+      "art": "milpies",
+      "answers": {
+        "q_legs6": false,
+        "q_legs8": false,
+        "q_many": true,
+        "q_long_legs": false
+      }
+    },
+    {
+      "art": "hormiga",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": false,
+        "q_waist": true
+      }
+    },
+    {
+      "art": "ninfa",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": false,
+        "q_waist": false
+      }
+    },
+    {
+      "art": "mariposa",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": true,
+        "q_club": true
+      }
+    },
+    {
+      "art": "polilla",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": true,
+        "q_club": false
+      }
+    },
+    {
+      "art": "mariquita",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": true,
+        "q_dots": true
+      }
+    },
+    {
+      "art": "cocuyo",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": true,
+        "q_dots": false,
+        "q_light": true
+      }
+    },
+    {
+      "art": "escarabajo",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": true,
+        "q_dots": false,
+        "q_light": false
+      }
+    },
+    {
+      "art": "saltamontes",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": true
+      }
+    },
+    {
+      "art": "santateresa",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": true
+      }
+    },
+    {
+      "art": "mosquito",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": true,
+        "q_beak_long": true
+      }
+    },
+    {
+      "art": "mosca",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": true,
+        "q_beak_long": false
+      }
+    },
+    {
+      "art": "cucaracha",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": false,
+        "q_flat": true
+      }
+    },
+    {
+      "art": "libelula",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": false,
+        "q_flat": false,
+        "q_dragon": true
+      }
+    },
+    {
+      "art": "abeja",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": false,
+        "q_flat": false,
+        "q_dragon": false,
+        "q_waist2": true,
+        "q_hairy": true
+      }
+    },
+    {
+      "art": "avispa",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": false,
+        "q_flat": false,
+        "q_dragon": false,
+        "q_waist2": true,
+        "q_hairy": false
+      }
+    },
+    {
+      "art": "cigarra",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": false,
+        "q_flat": false,
+        "q_dragon": false,
+        "q_waist2": false,
+        "q_beak": true,
+        "q_clear": true
+      }
+    },
+    {
+      "art": "chinche",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": false,
+        "q_flat": false,
+        "q_dragon": false,
+        "q_waist2": false,
+        "q_beak": true,
+        "q_clear": false
+      }
+    }
+  ]
+}

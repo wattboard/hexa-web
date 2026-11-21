@@ -1,0 +1,136 @@
+{
+  "chains": [
+    {
+      "id": "jardin",
+      "title": "En el jardín",
+      "cards": [
+        {
+          "art": "hoja",
+          "name": "Rosal"
+        },
+        {
+          "art": "pulgon",
+          "name": "Pulgón"
+        },
+        {
+          "art": "mariquita",
+          "name": "Mariquita"
+        },
+        {
+          "art": "pajaro",
+          "name": "Pájaro"
+        }
+      ],
+      "missing": {
+        "index": 2,
+        "question": "¿Qué pasaría si no hubiera mariquitas?",
+        "options": [
+          "Los pájaros comerían hojas.",
+          "Habría muchísimos pulgones y el rosal se debilitaría.",
+          "No pasaría nada."
+        ],
+        "answer": 1,
+        "explanation": "Una mariquita come muchísimos pulgones. Sin ellas, los pulgones chuparían la savia del rosal sin control."
+      }
+    },
+    {
+      "id": "charca",
+      "title": "En la charca",
+      "cards": [
+        {
+          "art": "mosquito",
+          "name": "Larva de zancudo"
+        },
+        {
+          "art": "ninfa_libelula",
+          "name": "Ninfa de libélula"
+        },
+        {
+          "art": "rana",
+          "name": "Rana"
+        },
+        {
+          "art": "pajaro",
+          "name": "Garza"
+        }
+      ],
+      "missing": {
+        "index": 1,
+        "question": "¿Y si faltaran las libélulas?",
+        "options": [
+          "Las ranas comerían más plantas.",
+          "La charca se secaría.",
+          "Habría muchos más zancudos."
+        ],
+        "answer": 2,
+        "explanation": "Las ninfas de libélula se comen muchas larvas de zancudo bajo el agua, y las libélulas adultas los cazan en el aire."
+      }
+    },
+    {
+      "id": "suelo",
+      "title": "En el suelo del bosque",
+      "cards": [
+        {
+          "art": "palito",
+          "name": "Madera muerta"
+        },
+        {
+          "art": "comejen",
+          "name": "Comején"
+        },
+        {
+          "art": "hormiga",
+          "name": "Hormiga"
+        },
+        {
+          "art": "pajaro",
+          "name": "Pájaro"
+        }
+      ],
+      "missing": {
+        "index": 1,
+        "question": "¿Y si faltaran los recicladores como el comején?",
+        "options": [
+          "La madera y las hojas muertas se amontonarían y la tierra tendría menos alimento para las plantas.",
+          "Los árboles crecerían más rápido.",
+          "Las hormigas comerían madera."
+        ],
+        "answer": 0,
+        "explanation": "Los recicladores convierten lo muerto en tierra nueva. Sin ellos, el bosque se llenaría de restos y las plantas tendrían menos alimento."
+      }
+    },
+    {
+      "id": "flores",
+      "title": "Entre las flores",
+      "cards": [
+        {
+          "art": "girasol",
+          "name": "Flor"
+        },
+        {
+          "art": "abeja",
+          "name": "Abeja"
+        },
+        {
+          "art": "santateresa",
+          "name": "Santateresa"
+        },
+        {
+          "art": "pajaro",
+          "name": "Pájaro"
+        }
+      ],
+      "missing": {
+        "index": 1,
+        "question": "¿Y si faltaran las abejas?",
+        "options": [
+          "Habría más flores que nunca.",
+          "Muchas flores no darían frutos ni semillas.",
+          "La santateresa comería flores."
+        ],
+        "answer": 1,
+        "explanation": "Al buscar néctar, las abejas llevan el polen de flor en flor. Sin ellas, muchas plantas no tendrían frutos ni semillas, ¡ni nosotros tanta comida!"
+      }
+    }
+  ]
+}

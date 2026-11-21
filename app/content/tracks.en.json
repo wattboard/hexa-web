@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "id": "mordida",
+      "art": "hoja_mordida",
+      "clue": "A leaf with holes and chewed edges. Underneath there are little dark pellets.",
+      "options": [
+        "oruga",
+        "arana",
+        "libelula"
+      ],
+      "answer": "oruga",
+      "explanation": "It was a caterpillar: it eats leaves nonstop to grow. The pellets are its poop. Someday it will be a butterfly or a moth.",
+      "lookFor": "Leaves with chewed edges on plants. Look underneath: you might spot the caterpillar!"
+    },
+    {
+      "id": "minada",
+      "art": "hoja_minada",
+      "clue": "A leaf with winding white trails inside it, like a maze.",
+      "options": [
+        "polilla",
+        "bachaco",
+        "saltamontes"
+      ],
+      "answer": "polilla",
+      "explanation": "They're the tunnels of a tiny larva, often of a little moth, that lives INSIDE the leaf and eats it from within. They're called leaf miners.",
+      "lookFor": "Leaves with white squiggly trails, as if someone had doodled on them."
+    },
+    {
+      "id": "camino",
+      "art": "camino_bachacos",
+      "clue": "A clean little path in the dirt, with no grass, and bits of green leaves.",
+      "options": [
+        "bachaco",
+        "cucaracha",
+        "ciempies"
+      ],
+      "answer": "bachaco",
+      "explanation": "It's a leafcutter ant highway. So many little feet passing by clear the path, and they follow it by smell.",
+      "lookFor": "A line of little leaves that move by themselves. Watch it from one step away."
+    },
+    {
+      "id": "telarana",
+      "art": "telarana",
+      "clue": "Thin, sticky threads shaped like a wheel, between two branches.",
+      "options": [
+        "arana",
+        "oruga",
+        "mariposa"
+      ],
+      "answer": "arana",
+      "explanation": "It's the web of an orb-weaver spider. It catches mosquitoes and flies with it. In the morning, with dew, it sparkles!",
+      "lookFor": "Webs in corners and between plants, best in the morning. Look without breaking it."
+    },
+    {
+      "id": "exuvia",
+      "art": "exuvia",
+      "clue": "An empty brown shell shaped like a bug, with a split down the back, stuck to a tree trunk.",
+      "options": [
+        "cigarra",
+        "escarabajo",
+        "cochinita"
+      ],
+      "answer": "cigarra",
+      "explanation": "It's the old skin of a cicada nymph. It lived underground for years, climbed the tree, split open down the back and came out with wings.",
+      "lookFor": "Empty shells on tree trunks and walls, especially when cicadas are singing."
+    },
+    {
+      "id": "salivazo",
+      "art": "salivazo",
+      "clue": "A little ball of white foam, like spit, on a stem.",
+      "options": [
+        "chinche",
+        "abeja",
+        "mosca"
+      ],
+      "answer": "chinche",
+      "explanation": "It's the foam house of a spittlebug nymph, a cousin of true bugs and cicadas. The foam protects it from the sun and from anyone who wants to eat it.",
+      "lookFor": "White foam on grass stems. Blow gently and you may see the nymph inside."
+    },
+    {
+      "id": "galeria",
+      "art": "galeria_comejen",
+      "clue": "Little mud tubes climbing up a wall or a tree trunk.",
+      "options": [
+        "comejen",
+        "hormiga",
+        "milpies"
+      ],
+      "answer": "comejen",
+      "explanation": "They're termite tunnels: termites build them to travel without drying out in the air and sun. In the forest, they recycle dead wood.",
+      "lookFor": "Dirt tubes on dry logs. If you see them in the house, tell an adult."
+    },
+    {
+      "id": "agalla",
+      "art": "agalla",
+      "clue": "A strange hard little ball stuck to a leaf, like a wart.",
+      "options": [
+        "avispa",
+        "mariquita",
+        "arana"
+      ],
+      "answer": "avispa",
+      "explanation": "It's a gall. A tiny wasp laid an egg and the plant grew the ball around it: it's the home and food of its larva. It doesn't sting anyone.",
+      "lookFor": "Little balls on tree leaves and twigs. Look without picking them off."
+    },
+    {
+      "id": "ooteca",
+      "art": "ooteca",
+      "clue": "A hard brown foamy lump stuck to a twig.",
+      "options": [
+        "santateresa",
+        "mosca",
+        "chinche"
+      ],
+      "answer": "santateresa",
+      "explanation": "It's an ootheca: a praying mantis egg case. Dozens of baby mantises can hatch from it.",
+      "lookFor": "Little brown lumps on twigs and fences. If you find one, leave it where it is."
+    }
+  ]
+}

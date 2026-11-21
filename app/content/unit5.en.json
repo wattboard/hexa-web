@@ -407,7 +407,12 @@
           ],
           "explanation": "A farmer plants and takes care of what they're going to eat. Leafcutter ants do the same with their fungus, since long before people did!"
         }
-      ]
+      ],
+      "feeling": {
+        "art": "bachaco",
+        "name": "leafcutter ants",
+        "label": "Leafcutter ants"
+      }
     },
     {
       "id": "u5l5",

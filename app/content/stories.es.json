@@ -1,0 +1,361 @@
+{
+  "stories": [
+    {
+      "id": "bachi",
+      "title": "Bachi, la bachaquita",
+      "art": "bachaco",
+      "intro": "Hoy eres una bachaquita obrera.",
+      "start": "n1",
+      "nodes": {
+        "n1": {
+          "text": "Eres Bachi, una bachaquita obrera. Hoy sales por primera vez del nido con tu fila. ¡Hay que buscar hojas para el huerto!",
+          "art": "bachaco",
+          "choices": [
+            {
+              "text": "Seguir el olor del camino de mis hermanas",
+              "next": "n2"
+            },
+            {
+              "text": "Irme sola por otro lado",
+              "next": "n1b"
+            }
+          ]
+        },
+        "n1b": {
+          "text": "Te alejas de la fila y todo es enorme… ¡no sabes volver! Pero tus antenas encuentran el olor que tus hermanas dejan en el suelo: es su mapa.",
+          "art": "hormiga",
+          "choices": [
+            {
+              "text": "Seguir el olor",
+              "next": "n2"
+            }
+          ]
+        },
+        "n2": {
+          "text": "Llegas a un árbol de mango con hojas tiernas. ¿Qué haces?",
+          "art": "hoja",
+          "choices": [
+            {
+              "text": "Cortar un trocito con mis mandíbulas",
+              "next": "n3"
+            },
+            {
+              "text": "Comerme la hoja aquí mismo",
+              "next": "e_learn"
+            }
+          ]
+        },
+        "n3": {
+          "text": "Cargas un trozo de hoja más grande que tú. De camino, cae una gota de lluvia justo al lado. ¿Qué haces?",
+          "art": "bachaco",
+          "choices": [
+            {
+              "text": "Seguir con la fila, despacito",
+              "next": "n4"
+            },
+            {
+              "text": "Soltar la hoja y correr",
+              "next": "n3b"
+            }
+          ]
+        },
+        "n3b": {
+          "text": "Corres… y una hermana recoge tu hoja. En la fila nadie trabaja sola. Vuelves a ayudarla.",
+          "art": "hormiga",
+          "choices": [
+            {
+              "text": "Cargar la hoja juntas",
+              "next": "n4"
+            }
+          ]
+        },
+        "n4": {
+          "text": "Llegan al nido. Unas bachaquitas pequeñitas, las jardineras, mastican la hoja y se la dan al hongo. ¿Y ahora?",
+          "art": "hongo",
+          "choices": [
+            {
+              "text": "Probar el hongo",
+              "next": "e_happy"
+            },
+            {
+              "text": "Volver por más hojas",
+              "next": "e_happy2"
+            }
+          ]
+        }
+      },
+      "endings": {
+        "e_learn": {
+          "text": "¡Puaj! Los bachacos no podemos comer hojas. Las hojas son para alimentar al hongo del nido, y el hongo es nuestra comida.",
+          "art": "hoja",
+          "kind": "learn"
+        },
+        "e_happy": {
+          "text": "¡Delicioso! Gracias al trabajo de todas, el hongo crece y la colonia come. Los bachacos son agricultores desde hace millones de años.",
+          "art": "hongo",
+          "kind": "happy"
+        },
+        "e_happy2": {
+          "text": "¡Qué trabajadora! Una colonia puede tener millones de hermanas. Juntas mueven muchísima tierra y así le llega aire al suelo.",
+          "art": "bachaco",
+          "kind": "happy"
+        }
+      }
+    },
+    {
+      "id": "angelita",
+      "title": "Lita, la abeja angelita",
+      "art": "abeja_angelita",
+      "intro": "Hoy eres una abejita sin aguijón.",
+      "start": "n1",
+      "nodes": {
+        "n1": {
+          "text": "Eres Lita, una abeja angelita chiquitica. Vives en el hueco de un árbol con una entrada como un tubito de cera. Hoy te toca buscar néctar.",
+          "art": "abeja_angelita",
+          "choices": [
+            {
+              "text": "Ir a la cayena del patio",
+              "next": "n2"
+            },
+            {
+              "text": "Ir al vaso de refresco que dejó alguien",
+              "next": "e_learn"
+            }
+          ]
+        },
+        "n2": {
+          "text": "En la cayena hay una niña mirándote. ¿Qué haces?",
+          "art": "cayena",
+          "choices": [
+            {
+              "text": "Seguir trabajando tranquila",
+              "next": "n3"
+            },
+            {
+              "text": "Esconderme",
+              "next": "n2b"
+            }
+          ]
+        },
+        "n2b": {
+          "text": "Te escondes detrás de un pétalo… pero la niña solo mira, sin tocar. ¡Es una guardabosques! Vuelves a la flor.",
+          "art": "cayena",
+          "choices": [
+            {
+              "text": "Seguir con el néctar",
+              "next": "n3"
+            }
+          ]
+        },
+        "n3": {
+          "text": "Tus patas de atrás se llenan de polen, como unas canastitas amarillas. Al ir a otra flor, el polen viaja contigo y la ayuda a dar semillas.",
+          "art": "flor_partes",
+          "choices": [
+            {
+              "text": "Volver al nido",
+              "next": "n4"
+            }
+          ]
+        },
+        "n4": {
+          "text": "En la entrada, las guardianas te revisan. Si viniera un intruso, se le enredarían en el pelo y lo mordisquearían: su aguijón es tan chiquito que no sirve.",
+          "art": "abeja_angelita",
+          "choices": [
+            {
+              "text": "Entrar y guardar el néctar",
+              "next": "e_happy"
+            },
+            {
+              "text": "Quedarme de guardiana",
+              "next": "e_happy2"
+            }
+          ]
+        }
+      },
+      "endings": {
+        "e_learn": {
+          "text": "El refresco es dulce, pero no es néctar: no tiene lo que necesitas, y las flores se quedan sin tu visita. ¡Ellas te necesitan para dar semillas!",
+          "art": "flor_rosa",
+          "kind": "learn"
+        },
+        "e_happy": {
+          "text": "Guardas el néctar en unas ollitas de cera, donde se volverá miel. En Venezuela la miel de angelita se aprecia desde hace mucho. ¡Y la cayena dará semillas!",
+          "art": "abeja_angelita",
+          "kind": "happy"
+        },
+        "e_happy2": {
+          "text": "Ahora eres guardiana. Las angelitas se turnan: unas cuidan la puerta y otras salen a las flores. Trabajar en equipo es su superpoder.",
+          "art": "abeja_angelita",
+          "kind": "happy"
+        }
+      }
+    },
+    {
+      "id": "cocuyo",
+      "title": "Una noche de cocuyo",
+      "art": "cocuyo",
+      "intro": "Hoy eres un cocuyo del llano.",
+      "start": "n1",
+      "nodes": {
+        "n1": {
+          "text": "Eres un cocuyo. Pasaste el día escondido bajo la corteza de un árbol. Cae la noche en el llano. ¡Hora de encender tus faroles!",
+          "art": "cocuyo",
+          "choices": [
+            {
+              "text": "Encender mis dos luces verdes",
+              "next": "n2"
+            },
+            {
+              "text": "Quedarme apagado",
+              "next": "n1b"
+            }
+          ]
+        },
+        "n1b": {
+          "text": "Apagado nadie te ve… ni siquiera los otros cocuyos que buscas. Para los cocuyos, la luz es su manera de hablar.",
+          "art": "cocuyo",
+          "choices": [
+            {
+              "text": "Encender las luces",
+              "next": "n2"
+            }
+          ]
+        },
+        "n2": {
+          "text": "Vuelas con tus luces verdes. Abajo ves a unos niños con un frasco. ¿Qué haces?",
+          "art": "paisaje_llano",
+          "choices": [
+            {
+              "text": "Volar alto, lejos del frasco",
+              "next": "n3"
+            },
+            {
+              "text": "Bajar a verlos",
+              "next": "n2b"
+            }
+          ]
+        },
+        "n2b": {
+          "text": "Bajas… y una niña dice: «¡No lo atrapes! Mira cómo brilla. Déjalo libre». Te miran un ratito y sigues volando.",
+          "art": "cocuyo",
+          "choices": [
+            {
+              "text": "Seguir volando",
+              "next": "n3"
+            }
+          ]
+        },
+        "n3": {
+          "text": "Te posas en el suelo a descansar y se acerca un sapo. ¿Qué haces?",
+          "art": "rana",
+          "choices": [
+            {
+              "text": "Hacerme el muerto y saltar con un ¡clic!",
+              "next": "n4"
+            },
+            {
+              "text": "Seguir caminando como si nada",
+              "next": "e_learn"
+            }
+          ]
+        },
+        "n4": {
+          "text": "¡Clic! Saltas por el aire y caes lejos. El sapo se va. A lo lejos ves dos lucecitas verdes que te responden.",
+          "art": "cocuyo",
+          "choices": [
+            {
+              "text": "Volar hacia ellas",
+              "next": "e_happy"
+            }
+          ]
+        }
+      },
+      "endings": {
+        "e_learn": {
+          "text": "¡Uy, casi! Los cocuyos son escarabajos saltarines: cuando hay peligro, se hacen los muertos y luego saltan con un ¡clic! para escapar. Prueba otra vez.",
+          "art": "rana",
+          "kind": "learn"
+        },
+        "e_happy": {
+          "text": "Era otro cocuyo. Juntos iluminan la noche del llano. Antes se usaban cocuyos para alumbrar el camino; hoy tenemos linternas y ellos pueden seguir libres.",
+          "art": "cocuyo",
+          "kind": "happy"
+        }
+      }
+    },
+    {
+      "id": "libelula",
+      "title": "De la charca al cielo",
+      "art": "libelula",
+      "intro": "Hoy eres una ninfa de libélula.",
+      "start": "n1",
+      "nodes": {
+        "n1": {
+          "text": "Eres una ninfa de libélula y vives en el fondo de una charca. Aún no tienes alas, pero sí una mandíbula sorpresa que se dispara como un brazo.",
+          "art": "ninfa_libelula",
+          "choices": [
+            {
+              "text": "Esperar quieta a que pase una larva de zancudo",
+              "next": "n2"
+            },
+            {
+              "text": "Salir ya a la orilla",
+              "next": "e_learn"
+            }
+          ]
+        },
+        "n2": {
+          "text": "Pasa una larva de zancudo. ¡Zas! La atrapas con tu mandíbula: así hay menos zancudos. Pasan los meses y creces cambiando de piel. Un día sientes que ya es hora…",
+          "art": "mosquito",
+          "choices": [
+            {
+              "text": "Trepar por un tallo fuera del agua",
+              "next": "n3"
+            }
+          ]
+        },
+        "n3": {
+          "text": "Te agarras fuerte al tallo. Tu piel se abre por la espalda y sale… ¡una libélula! Tus alas están arrugadas y blanditas. ¿Qué haces?",
+          "art": "libelula",
+          "choices": [
+            {
+              "text": "Esperar al sol a que se sequen",
+              "next": "n4"
+            },
+            {
+              "text": "Volar enseguida",
+              "next": "e_learn2"
+            }
+          ]
+        },
+        "n4": {
+          "text": "Tus alas ya brillan. En el tallo queda tu piel vieja de ninfa, un disfraz vacío. ¿A dónde vuelas?",
+          "art": "libelula",
+          "choices": [
+            {
+              "text": "A cazar zancudos sobre la charca",
+              "next": "e_happy"
+            }
+          ]
+        }
+      },
+      "endings": {
+        "e_learn": {
+          "text": "Todavía no es tu momento: tus alas no están listas. Las ninfas de libélula pueden pasar meses, ¡y hasta años!, bajo el agua antes de salir.",
+          "art": "ninfa_libelula",
+          "kind": "learn"
+        },
+        "e_learn2": {
+          "text": "Con las alas blanditas no se puede volar. Las libélulas recién salidas esperan quietas una o dos horas a que se endurezcan. ¡La paciencia también es de valientes!",
+          "art": "libelula",
+          "kind": "learn"
+        },
+        "e_happy": {
+          "text": "¡Eres de las mejores voladoras del mundo! Vuelas hacia delante, hacia atrás y te quedas quieta en el aire. Y sigues cazando zancudos, ahora al vuelo.",
+          "art": "libelula",
+          "kind": "happy"
+        }
+      }
+    }
+  ]
+}

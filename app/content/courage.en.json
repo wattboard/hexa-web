@@ -1,0 +1,212 @@
+{
+  "animals": [
+    {
+      "id": "arana",
+      "art": "arana",
+      "name": "Spider",
+      "feelName": "spiders",
+      "feelLabel": "Spiders",
+      "intro": "Lots of people are scared of spiders. Let's get to know one, little by little.",
+      "steps": [
+        {
+          "fact": "Look at its shadow: eight legs and two body parts. It isn't an insect: it's an arachnid, a cousin of insects."
+        },
+        {
+          "fact": "Spiders have no antennae. To feel the world they use tiny hairs on their legs that sense even moving air."
+        },
+        {
+          "fact": "Almost all spiders are shy: if they see you, they'd rather hide. They only bite if they feel trapped."
+        },
+        {
+          "fact": "A garden spider can eat hundreds of insects a year, like mosquitoes and flies. It's a hunter that helps us!"
+        },
+        {
+          "fact": "Look at its eyes: many spiders have eight. And their silk, for how thin it is, is as strong as steel."
+        }
+      ],
+      "finale": "You did it! You looked at a spider up close. Remember: look without touching, and if you don't know which one it is, tell an adult."
+    },
+    {
+      "id": "cucaracha",
+      "art": "cucaracha",
+      "name": "Cockroach",
+      "feelName": "cockroaches",
+      "feelLabel": "Cockroaches",
+      "intro": "Lots of people find cockroaches gross. Did you know almost all of them live far from houses?",
+      "steps": [
+        {
+          "fact": "Its shadow: six legs and two very long antennae. It's an insect, a cousin of the praying mantis!"
+        },
+        {
+          "fact": "Its antennae are almost as long as its body: it uses them to smell and touch in the dark."
+        },
+        {
+          "fact": "There are thousands of kinds of cockroaches, and almost all live in the forest, under the leaves, turning them into soil."
+        },
+        {
+          "fact": "The few that come into houses are looking for crumbs and water. With a clean kitchen and covered food, they stay away."
+        },
+        {
+          "fact": "Look at its legs: they have little spines that help it run very fast. For its size, it's one of the fastest runners."
+        }
+      ],
+      "finale": "Bravo! Cockroaches aren't bad: in the forest they're great recyclers. At home, keeping things clean is enough."
+    },
+    {
+      "id": "avispa",
+      "art": "avispa",
+      "name": "Wasp",
+      "feelName": "wasps",
+      "feelLabel": "Wasps",
+      "intro": "Wasps can sting, so they're scary. Getting to know them is the best way to stay calm.",
+      "steps": [
+        {
+          "fact": "Its shadow has a thin waist between the thorax and the abdomen, like an ant's: they're cousins."
+        },
+        {
+          "fact": "Many wasps are yellow and black: it's their way of saying “look at me from far away.”"
+        },
+        {
+          "fact": "Wasps only sting to defend themselves or their nest. If one comes close, stay still and calm: it will leave."
+        },
+        {
+          "fact": "Wasps hunt caterpillars and other pests to feed their young: they're garden helpers!"
+        },
+        {
+          "fact": "Look up close: clear wings and big eyes. Some wasps also help flowers make seeds."
+        }
+      ],
+      "finale": "Very brave! If you see a wasp nest, walk away slowly and tell an adult: that way everyone stays safe."
+    },
+    {
+      "id": "alacran",
+      "art": "alacran",
+      "name": "Scorpion",
+      "feelName": "scorpions",
+      "feelLabel": "Scorpions",
+      "intro": "Scorpions are known to be dangerous, and some are. That's why it's good to know them… from a distance.",
+      "steps": [
+        {
+          "fact": "Its shadow: eight legs, two pincers and a tail with a stinger. It's an arachnid, a cousin of spiders."
+        },
+        {
+          "fact": "It uses its pincers to grab insects to eat. It uses the stinger mostly to defend itself."
+        },
+        {
+          "fact": "Scorpions come out at night and hide by day under rocks, logs… and shoes! That's why we shake shoes before putting them on."
+        },
+        {
+          "fact": "Some scorpions in Venezuela have strong venom. If you see one, move away and tell an adult: never touch it."
+        },
+        {
+          "fact": "A secret: scorpions glow under ultraviolet light! Scientists look for them at night with special flashlights."
+        }
+      ],
+      "finale": "You looked up close without really getting close! Respect and distance: that's how you keep yourself and the scorpion safe."
+    },
+    {
+      "id": "ciempies",
+      "art": "ciempies",
+      "name": "Centipede",
+      "feelName": "centipedes",
+      "feelLabel": "Centipedes",
+      "intro": "So many legs moving at once is a bit scary. Let's look at it calmly.",
+      "steps": [
+        {
+          "fact": "Its shadow is long, made of rings, and each ring has one pair of legs."
+        },
+        {
+          "fact": "It's a myriapod, not an insect. Its name means “a hundred legs,” but it never has exactly a hundred."
+        },
+        {
+          "fact": "It's a night hunter: it eats cockroaches, crickets and other critters. By day it hides in damp places."
+        },
+        {
+          "fact": "Next to its mouth it has venomous claws for hunting. That's why we look at centipedes and don't touch them."
+        },
+        {
+          "fact": "Look at its long antennae: it uses them to find prey in the dark, because it can barely see."
+        }
+      ],
+      "finale": "Excellent! Now you know what it's like and how to stay safe: from a distance, and with an adult if it gets into the house."
+    },
+    {
+      "id": "zancudo",
+      "art": "mosquito",
+      "name": "Mosquito",
+      "feelName": "mosquitoes",
+      "feelLabel": "Mosquitoes",
+      "intro": "Mosquitoes bite, they're annoying… and they buzz in your ear! Today you'll get to know them better.",
+      "steps": [
+        {
+          "fact": "Its shadow: very long legs, two wings and a thin beak. It's a fly-family insect, a cousin of houseflies."
+        },
+        {
+          "fact": "Only females bite: they need blood for their eggs to grow. Males drink nectar from flowers."
+        },
+        {
+          "fact": "The buzz is the sound of its wings, which beat hundreds of times every second."
+        },
+        {
+          "fact": "They lay their eggs in still water. If we empty containers with water, far fewer hatch."
+        },
+        {
+          "fact": "Look at its antennae: males have feathery ones, to hear the females' buzz."
+        }
+      ],
+      "finale": "Well done! Knowing mosquitoes helps you stay protected: covered water, a mosquito net and repellent when needed."
+    },
+    {
+      "id": "polilla",
+      "art": "polilla",
+      "name": "Moth",
+      "feelName": "moths",
+      "feelLabel": "Moths",
+      "intro": "Some people get scared when a big moth flies into the house at night. Why could that be?",
+      "steps": [
+        {
+          "fact": "Its shadow looks like a butterfly's: big wings and six legs. Moths are cousins of butterflies."
+        },
+        {
+          "fact": "Its antennae look like little feathers: it uses them to smell flowers and other moths from far away."
+        },
+        {
+          "fact": "It flies at night and lamp light confuses it. That's why it sometimes comes indoors: it's lost, not attacking."
+        },
+        {
+          "fact": "The big dark black witch moth doesn't bring bad luck: it's harmless and doesn't sting or bite."
+        },
+        {
+          "fact": "Look at the dust on its wings: they're tiny scales, like roof tiles. Many moths help flowers at night."
+        }
+      ],
+      "finale": "You did it! If a moth comes in, turn off the light inside and leave a window open: it will find its way out."
+    },
+    {
+      "id": "bachaco",
+      "art": "bachaco",
+      "name": "Leafcutter ant",
+      "feelName": "leafcutter ants",
+      "feelLabel": "Leafcutter ants",
+      "intro": "Leafcutter ants bite hard if you bother them. But seen from a distance, they're fascinating little farmers.",
+      "steps": [
+        {
+          "fact": "Its shadow: six legs, a thin waist and a big head with jaws. It's an ant."
+        },
+        {
+          "fact": "Its jaws are scissors: it uses them to cut almost perfect pieces of leaf."
+        },
+        {
+          "fact": "They work in a line, following a scent trail they leave on the ground. If you step aside, they don't even notice you."
+        },
+        {
+          "fact": "They don't eat the leaves: they use them to grow a fungus in their nest, and the fungus is their food."
+        },
+        {
+          "fact": "Look: a leafcutter ant can carry a piece of leaf much bigger and heavier than itself."
+        }
+      ],
+      "finale": "Excellent! Now when you see a line of leafcutter ants, you'll know it's a line of farmers."
+    }
+  ]
+}

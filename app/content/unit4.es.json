@@ -256,7 +256,12 @@
           "explanation": "Mirar sin tocar y avisar: así estás a salvo.",
           "art": "chipo"
         }
-      ]
+      ],
+      "feeling": {
+        "art": "mosquito",
+        "name": "los zancudos",
+        "label": "Zancudos"
+      }
     },
     {
       "id": "u4l4",

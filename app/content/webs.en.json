@@ -1,0 +1,136 @@
+{
+  "chains": [
+    {
+      "id": "jardin",
+      "title": "In the garden",
+      "cards": [
+        {
+          "art": "hoja",
+          "name": "Rosebush"
+        },
+        {
+          "art": "pulgon",
+          "name": "Aphid"
+        },
+        {
+          "art": "mariquita",
+          "name": "Ladybug"
+        },
+        {
+          "art": "pajaro",
+          "name": "Bird"
+        }
+      ],
+      "missing": {
+        "index": 2,
+        "question": "What would happen if there were no ladybugs?",
+        "options": [
+          "Birds would eat leaves.",
+          "There would be lots of aphids and the rosebush would get weak.",
+          "Nothing would happen."
+        ],
+        "answer": 1,
+        "explanation": "One ladybug eats lots of aphids. Without them, aphids would suck the rosebush's sap unchecked."
+      }
+    },
+    {
+      "id": "charca",
+      "title": "In the pond",
+      "cards": [
+        {
+          "art": "mosquito",
+          "name": "Mosquito larva"
+        },
+        {
+          "art": "ninfa_libelula",
+          "name": "Dragonfly nymph"
+        },
+        {
+          "art": "rana",
+          "name": "Frog"
+        },
+        {
+          "art": "pajaro",
+          "name": "Heron"
+        }
+      ],
+      "missing": {
+        "index": 1,
+        "question": "And if there were no dragonflies?",
+        "options": [
+          "Frogs would eat more plants.",
+          "The pond would dry up.",
+          "There would be many more mosquitoes."
+        ],
+        "answer": 2,
+        "explanation": "Dragonfly nymphs eat lots of mosquito larvae underwater, and adult dragonflies catch them in the air."
+      }
+    },
+    {
+      "id": "suelo",
+      "title": "On the forest floor",
+      "cards": [
+        {
+          "art": "palito",
+          "name": "Dead wood"
+        },
+        {
+          "art": "comejen",
+          "name": "Termite"
+        },
+        {
+          "art": "hormiga",
+          "name": "Ant"
+        },
+        {
+          "art": "pajaro",
+          "name": "Bird"
+        }
+      ],
+      "missing": {
+        "index": 1,
+        "question": "And if recyclers like termites were missing?",
+        "options": [
+          "Dead wood and leaves would pile up and the soil would have less food for plants.",
+          "Trees would grow faster.",
+          "Ants would eat wood."
+        ],
+        "answer": 0,
+        "explanation": "Recyclers turn dead things into new soil. Without them, the forest would fill up with debris and plants would have less food."
+      }
+    },
+    {
+      "id": "flores",
+      "title": "Among the flowers",
+      "cards": [
+        {
+          "art": "girasol",
+          "name": "Flower"
+        },
+        {
+          "art": "abeja",
+          "name": "Bee"
+        },
+        {
+          "art": "santateresa",
+          "name": "Praying mantis"
+        },
+        {
+          "art": "pajaro",
+          "name": "Bird"
+        }
+      ],
+      "missing": {
+        "index": 1,
+        "question": "And if there were no bees?",
+        "options": [
+          "There would be more flowers than ever.",
+          "Many flowers wouldn't make fruit or seeds.",
+          "The mantis would eat flowers."
+        ],
+        "answer": 1,
+        "explanation": "While looking for nectar, bees carry pollen from flower to flower. Without them, many plants wouldn't have fruit or seeds, and we wouldn't have as much food!"
+      }
+    }
+  ]
+}

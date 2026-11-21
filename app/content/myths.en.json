@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "id": "tijereta",
+      "art": "tijereta",
+      "statement": "Earwigs crawl into people's ears.",
+      "fact": false,
+      "explanation": "It's a very old tale. Earwigs look for dark, damp spots under rocks and leaves; their pincers are for defense, and our ears don't interest them."
+    },
+    {
+      "id": "polilla_bruja",
+      "art": "polilla",
+      "statement": "A big black moth that flies into the house brings bad luck.",
+      "fact": false,
+      "explanation": "It's the black witch moth. It flies at night and comes in looking for a dark place to rest. It doesn't bring bad luck: it's harmless and is food for bats and birds."
+    },
+    {
+      "id": "arana_insecto",
+      "art": "arana",
+      "statement": "Spiders are insects.",
+      "fact": false,
+      "explanation": "Spiders have eight legs, two body parts and no antennae: they're arachnids, cousins of insects."
+    },
+    {
+      "id": "arana_inofensiva",
+      "art": "arana",
+      "statement": "Almost all spiders are harmless to people.",
+      "fact": true,
+      "explanation": "Their venom is for hunting insects and is almost always very weak for us. The few dangerous ones, and any you don't know, are watched from a distance."
+    },
+    {
+      "id": "ciempies_cien",
+      "art": "ciempies",
+      "statement": "A centipede has exactly one hundred legs.",
+      "fact": false,
+      "explanation": "Depending on the species it has from 30 to more than 300 legs, but never exactly one hundred. Its name just means “lots of legs.”"
+    },
+    {
+      "id": "zancudo_hembra",
+      "art": "mosquito",
+      "statement": "Only female mosquitoes bite.",
+      "fact": true,
+      "explanation": "Females need blood for their eggs to grow. Males only drink nectar from flowers."
+    },
+    {
+      "id": "mariquita_edad",
+      "art": "mariquita",
+      "statement": "A ladybug's spots tell you how old it is.",
+      "fact": false,
+      "explanation": "The spots depend on the kind of ladybug, not its age. There are ladybugs with 2 spots, with 7 and even with none! Most live about a year."
+    },
+    {
+      "id": "grillo_boca",
+      "art": "paquito",
+      "statement": "Crickets sing with their mouths.",
+      "fact": false,
+      "explanation": "Crickets sing by rubbing one wing against the other, like a violin bow. And they hear with ears on their front legs!"
+    },
+    {
+      "id": "mosca_patas",
+      "art": "mosca",
+      "statement": "Flies taste food with their feet.",
+      "fact": true,
+      "explanation": "Their feet have tiny hairs that sense taste. So when they land, they already know if something is food. That's why it's good to cover food."
+    },
+    {
+      "id": "libelula_pica",
+      "art": "libelula",
+      "statement": "Dragonflies sting people.",
+      "fact": false,
+      "explanation": "Dragonflies have no stinger and don't hurt people. Quite the opposite: they catch mosquitoes in midair!"
+    },
+    {
+      "id": "bachaco_hojas",
+      "art": "bachaco",
+      "statement": "Leafcutter ants eat the leaves they cut.",
+      "fact": false,
+      "explanation": "They use the leaves to feed a fungus garden inside the nest, and what they eat is the fungus. They're farmers!"
+    },
+    {
+      "id": "alacran_brilla",
+      "art": "alacran",
+      "statement": "Scorpions glow under ultraviolet light.",
+      "fact": true,
+      "explanation": "Their shell has something that glows blue-green under that light. Scientists find them that way at night, without touching them."
+    },
+    {
+      "id": "morfo_pintura",
+      "art": "morfo",
+      "statement": "The blue morpho is blue because its wings have blue pigment.",
+      "fact": false,
+      "explanation": "Its scales have tiny shapes that reflect blue light, like a soap bubble. That's why it shimmers and changes depending on where you look from."
+    },
+    {
+      "id": "abeja_muere",
+      "art": "abeja",
+      "statement": "A honeybee usually dies if it stings a person.",
+      "fact": true,
+      "explanation": "Its stinger has tiny hooks and gets stuck in our skin. That's why it only stings when it really feels in danger."
+    },
+    {
+      "id": "angelita_no_pica",
+      "art": "abeja_angelita",
+      "statement": "Some bees don't sting.",
+      "fact": true,
+      "explanation": "The angelita bee and its cousins are stingless bees: their stinger is so tiny it doesn't work. They defend their nest by tangling in hair and nibbling."
+    },
+    {
+      "id": "cocuyo_quema",
+      "art": "cocuyo",
+      "statement": "A click beetle firefly gets burned by its own light.",
+      "fact": false,
+      "explanation": "It's a cold light: almost all the energy becomes light and almost none becomes heat. That's why its lanterns don't burn it."
+    },
+    {
+      "id": "cucaracha_casas",
+      "art": "cucaracha",
+      "statement": "All cockroaches live in houses and are pests.",
+      "fact": false,
+      "explanation": "There are thousands of kinds, and almost all live in the forest recycling leaves. Only a few come into houses looking for food."
+    },
+    {
+      "id": "mariposa_alas",
+      "art": "mariposa",
+      "statement": "If you touch a butterfly's wings, it dies instantly.",
+      "fact": false,
+      "explanation": "It doesn't die instantly, but it does lose the dust on its wings, which are scales that never grow back. That's why it's better to look without touching."
+    },
+    {
+      "id": "avispa_inutil",
+      "art": "avispa",
+      "statement": "Wasps are useless.",
+      "fact": false,
+      "explanation": "Wasps hunt caterpillars and other pests, and some help flowers make seeds. Without them, gardens would have many more pests."
+    },
+    {
+      "id": "hormiga_fuerte",
+      "art": "hormiga",
+      "statement": "An ant can carry several times its own weight.",
+      "fact": true,
+      "explanation": "Depending on the species, an ant can carry 10 to 50 times its weight. Like you lifting a car!"
+    }
+  ]
+}

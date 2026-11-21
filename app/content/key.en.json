@@ -1,0 +1,527 @@
+{
+  "start": "q_legs6",
+  "nodes": {
+    "q_legs6": {
+      "question": "Does it have 6 legs?",
+      "hint": "Count calmly: insects have 6.",
+      "yes": "q_wings",
+      "no": "q_legs8"
+    },
+    "q_legs8": {
+      "question": "Does it have 8 legs?",
+      "hint": "Spiders and their cousins have 8 legs and no antennae.",
+      "yes": "q_pincers",
+      "no": "q_many"
+    },
+    "q_pincers": {
+      "question": "Does it have pincers and a tail with a stinger?",
+      "hint": "Look at the front and at the tip of the back end.",
+      "yes": "r_alacran",
+      "no": "r_arana"
+    },
+    "q_many": {
+      "question": "Does it have lots and lots of legs, more than 20?",
+      "hint": "If it has about 14 legs and rolls into a ball, it's something else.",
+      "yes": "q_long_legs",
+      "no": "r_cochinita"
+    },
+    "q_long_legs": {
+      "question": "Are its legs long and sticking out to the sides?",
+      "hint": "A centipede has one pair of long legs per ring; a millipede has two short pairs underneath.",
+      "yes": "r_ciempies",
+      "no": "r_milpies"
+    },
+    "q_wings": {
+      "question": "Does it have wings?",
+      "hint": "Careful: sometimes the wings are folded under a hard cover.",
+      "yes": "q_scales",
+      "no": "q_waist"
+    },
+    "q_waist": {
+      "question": "Does it have a very thin waist between the thorax and the abdomen?",
+      "hint": "Ants have a wasp-like waist.",
+      "yes": "r_hormiga",
+      "no": "r_joven"
+    },
+    "q_scales": {
+      "question": "Does it have big, colorful, dusty wings?",
+      "hint": "That dust is made of tiny scales.",
+      "yes": "q_club",
+      "no": "q_elytra"
+    },
+    "q_club": {
+      "question": "Do its antennae end in a little knob?",
+      "hint": "Butterflies have knobbed antennae; moths have thread-like or feathery ones.",
+      "yes": "r_mariposa",
+      "no": "r_polilla"
+    },
+    "q_elytra": {
+      "question": "Is its back covered by two hard wings that meet in a straight line?",
+      "hint": "Those hard covers are called elytra: beetles have them.",
+      "yes": "q_dots",
+      "no": "q_jump"
+    },
+    "q_dots": {
+      "question": "Is it small, round and spotted?",
+      "hint": "Think of the ladybug.",
+      "yes": "r_mariquita",
+      "no": "q_light"
+    },
+    "q_light": {
+      "question": "Does it have little lights on its body?",
+      "hint": "Some beetles carry their own lanterns.",
+      "yes": "r_cocuyo",
+      "no": "r_escarabajo"
+    },
+    "q_jump": {
+      "question": "Are its back legs very big, for jumping?",
+      "hint": "Like a spring.",
+      "yes": "r_saltamontes",
+      "no": "q_pray"
+    },
+    "q_pray": {
+      "question": "Are its front legs folded, as if it were praying?",
+      "hint": "They're legs for hunting.",
+      "yes": "r_santateresa",
+      "no": "q_two"
+    },
+    "q_two": {
+      "question": "Does it have just two wings, one on each side?",
+      "hint": "Bees have four, but the ones on each side are hooked together and look like two.",
+      "yes": "q_beak_long",
+      "no": "q_flat"
+    },
+    "q_beak_long": {
+      "question": "Does it have very long legs and a long, thin beak?",
+      "hint": "Look at its mouth.",
+      "yes": "r_zancudo",
+      "no": "r_mosca"
+    },
+    "q_flat": {
+      "question": "Is it flat, with very long antennae?",
+      "hint": "Antennae almost as long as its body.",
+      "yes": "r_cucaracha",
+      "no": "q_dragon"
+    },
+    "q_dragon": {
+      "question": "Does it have a very long, stick-like abdomen and huge eyes?",
+      "hint": "A great flyer from ponds.",
+      "yes": "r_libelula",
+      "no": "q_waist2"
+    },
+    "q_waist2": {
+      "question": "Does it have a thin waist between the thorax and the abdomen?",
+      "hint": "Bees, wasps and ants are in the same family.",
+      "yes": "q_hairy",
+      "no": "q_beak"
+    },
+    "q_hairy": {
+      "question": "Is it fuzzy?",
+      "hint": "Bees are fuzzy, to carry pollen; wasps are smooth and shiny.",
+      "yes": "r_abeja",
+      "no": "r_avispa"
+    },
+    "q_beak": {
+      "question": "Does it have a sucking beak under its head?",
+      "hint": "Bugs and cicadas suck sap or juices with their beak.",
+      "yes": "q_clear",
+      "no": "r_otro"
+    },
+    "q_clear": {
+      "question": "Are its wings clear and longer than its body?",
+      "hint": "Cicadas have glass-like wings.",
+      "yes": "r_cigarra",
+      "no": "r_chinche"
+    }
+  },
+  "results": {
+    "r_arana": {
+      "art": "arana",
+      "name": "a spider",
+      "group": "arachnids",
+      "fact": "Eight legs and no antennae. It's a cousin of insects and a great hunter."
+    },
+    "r_alacran": {
+      "art": "alacran",
+      "name": "a scorpion",
+      "group": "arachnids",
+      "fact": "An arachnid with pincers and a stinger. Watch from a distance and tell an adult."
+    },
+    "r_cochinita": {
+      "art": "cochinita",
+      "name": "a pill bug",
+      "group": "crustaceans",
+      "fact": "A cousin of shrimp! It has 14 legs and rolls into a ball."
+    },
+    "r_ciempies": {
+      "art": "ciempies",
+      "name": "a centipede",
+      "group": "myriapods",
+      "fact": "A fast hunter with one pair of legs per ring. Look without touching."
+    },
+    "r_milpies": {
+      "art": "milpies",
+      "name": "a millipede",
+      "group": "myriapods",
+      "fact": "It moves slowly, eats dead leaves and curls up when scared."
+    },
+    "r_hormiga": {
+      "art": "hormiga",
+      "name": "an ant",
+      "group": "Hymenoptera (bees, wasps and ants)",
+      "fact": "Workers have no wings. They live in colonies and work as a team."
+    },
+    "r_joven": {
+      "art": "ninfa",
+      "name": "a young insect (nymph or larva)",
+      "group": "it depends on the adult",
+      "fact": "Many young insects don't have wings yet. When they grow up, they may fly."
+    },
+    "r_mariposa": {
+      "art": "mariposa",
+      "name": "a butterfly",
+      "group": "Lepidoptera (butterflies and moths)",
+      "fact": "Knobbed antennae and scaly wings. It almost always flies by day."
+    },
+    "r_polilla": {
+      "art": "polilla",
+      "name": "a moth",
+      "group": "Lepidoptera (butterflies and moths)",
+      "fact": "A cousin of the butterfly, with thread-like or feathery antennae. It almost always flies at night."
+    },
+    "r_mariquita": {
+      "art": "mariquita",
+      "name": "a ladybug",
+      "group": "Coleoptera (beetles)",
+      "fact": "A small beetle that eats the aphids on plants."
+    },
+    "r_cocuyo": {
+      "art": "cocuyo",
+      "name": "a click beetle firefly",
+      "group": "Coleoptera (beetles)",
+      "fact": "A Venezuelan beetle with two green lights on its thorax."
+    },
+    "r_escarabajo": {
+      "art": "escarabajo",
+      "name": "a beetle",
+      "group": "Coleoptera (beetles)",
+      "fact": "Hard cover wings: it's in the group with the most species in the world."
+    },
+    "r_saltamontes": {
+      "art": "saltamontes",
+      "name": "a grasshopper or a cricket",
+      "group": "Orthoptera (grasshoppers and crickets)",
+      "fact": "Spring-loaded back legs. Crickets sing by rubbing their wings."
+    },
+    "r_santateresa": {
+      "art": "santateresa",
+      "name": "a praying mantis",
+      "group": "Mantodea (mantises)",
+      "fact": "It hunts with its front legs and turns its head to look at you."
+    },
+    "r_zancudo": {
+      "art": "mosquito",
+      "name": "a mosquito",
+      "group": "Diptera (flies and mosquitoes)",
+      "fact": "Two wings and a thin beak. Only females bite."
+    },
+    "r_mosca": {
+      "art": "mosca",
+      "name": "a fly",
+      "group": "Diptera (flies and mosquitoes)",
+      "fact": "Two wings and huge eyes. Many flies help with recycling."
+    },
+    "r_cucaracha": {
+      "art": "cucaracha",
+      "name": "a cockroach",
+      "group": "Blattodea (cockroaches)",
+      "fact": "Flat to squeeze into cracks. In the forest, it recycles leaves."
+    },
+    "r_libelula": {
+      "art": "libelula",
+      "name": "a dragonfly",
+      "group": "Odonata (dragonflies)",
+      "fact": "Huge eyes and four strong wings. It catches mosquitoes in flight."
+    },
+    "r_abeja": {
+      "art": "abeja",
+      "name": "a bee",
+      "group": "Hymenoptera (bees, wasps and ants)",
+      "fact": "Fuzzy so it can carry pollen from flower to flower."
+    },
+    "r_avispa": {
+      "art": "avispa",
+      "name": "a wasp",
+      "group": "Hymenoptera (bees, wasps and ants)",
+      "fact": "Smooth, with a thin waist. It hunts caterpillars and other pests."
+    },
+    "r_cigarra": {
+      "art": "cigarra",
+      "name": "a cicada",
+      "group": "Hemiptera (bugs and cicadas)",
+      "fact": "Glass-like wings and a very loud song on hot days."
+    },
+    "r_chinche": {
+      "art": "chinche",
+      "name": "a true bug",
+      "group": "Hemiptera (bugs and cicadas)",
+      "fact": "It sucks juices with its beak. Look without touching, in case it's a kissing bug."
+    },
+    "r_otro": {
+      "art": "lupa",
+      "name": "an insect this key doesn't know yet",
+      "group": "insects",
+      "fact": "There are over a million kinds of insects! Draw it in your notebook and ask your teacher."
+    }
+  },
+  "mysteries": [
+    {
+      "art": "arana",
+      "answers": {
+        "q_legs6": false,
+        "q_legs8": true,
+        "q_pincers": false
+      }
+    },
+    {
+      "art": "alacran",
+      "answers": {
+        "q_legs6": false,
+        "q_legs8": true,
+        "q_pincers": true
+      }
+    },
+    {
+      "art": "cochinita",
+      "answers": {
+        "q_legs6": false,
+        "q_legs8": false,
+        "q_many": false
+      }
+    },
+    {
+      "art": "ciempies",
+      "answers": {
+        "q_legs6": false,
+        "q_legs8": false,
+        "q_many": true,
+        "q_long_legs": true
+      }
+    },
+    {
+      "art": "milpies",
+      "answers": {
+        "q_legs6": false,
+        "q_legs8": false,
+        "q_many": true,
+        "q_long_legs": false
+      }
+    },
+    {
+      "art": "hormiga",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": false,
+        "q_waist": true
+      }
+    },
+    {
+      "art": "ninfa",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": false,
+        "q_waist": false
+      }
+    },
+    {
+      "art": "mariposa",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": true,
+        "q_club": true
+      }
+    },
+    {
+      "art": "polilla",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": true,
+        "q_club": false
+      }
+    },
+    {
+      "art": "mariquita",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": true,
+        "q_dots": true
+      }
+    },
+    {
+      "art": "cocuyo",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": true,
+        "q_dots": false,
+        "q_light": true
+      }
+    },
+    {
+      "art": "escarabajo",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": true,
+        "q_dots": false,
+        "q_light": false
+      }
+    },
+    {
+      "art": "saltamontes",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": true
+      }
+    },
+    {
+      "art": "santateresa",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": true
+      }
+    },
+    {
+      "art": "mosquito",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": true,
+        "q_beak_long": true
+      }
+    },
+    {
+      "art": "mosca",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": true,
+        "q_beak_long": false
+      }
+    },
+    {
+      "art": "cucaracha",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": false,
+        "q_flat": true
+      }
+    },
+    {
+      "art": "libelula",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": false,
+        "q_flat": false,
+        "q_dragon": true
+      }
+    },
+    {
+      "art": "abeja",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": false,
+        "q_flat": false,
+        "q_dragon": false,
+        "q_waist2": true,
+        "q_hairy": true
+      }
+    },
+    {
+      "art": "avispa",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": false,
+        "q_flat": false,
+        "q_dragon": false,
+        "q_waist2": true,
+        "q_hairy": false
+      }
+    },
+    {
+      "art": "cigarra",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": false,
+        "q_flat": false,
+        "q_dragon": false,
+        "q_waist2": false,
+        "q_beak": true,
+        "q_clear": true
+      }
+    },
+    {
+      "art": "chinche",
+      "answers": {
+        "q_legs6": true,
+        "q_wings": true,
+        "q_scales": false,
+        "q_elytra": false,
+        "q_jump": false,
+        "q_pray": false,
+        "q_two": false,
+        "q_flat": false,
+        "q_dragon": false,
+        "q_waist2": false,
+        "q_beak": true,
+        "q_clear": false
+      }
+    }
+  ]
+}

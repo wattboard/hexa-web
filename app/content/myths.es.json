@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "id": "tijereta",
+      "art": "tijereta",
+      "statement": "La tijereta se mete en los oídos de las personas.",
+      "fact": false,
+      "explanation": "Es un cuento muy viejo. La tijereta busca rincones oscuros y húmedos bajo piedras y hojas; sus pinzas son para defenderse, y nuestras orejas no le interesan."
+    },
+    {
+      "id": "polilla_bruja",
+      "art": "polilla",
+      "statement": "La polilla negra grande que entra en casa trae mala suerte.",
+      "fact": false,
+      "explanation": "Es la polilla bruja. Vuela de noche y entra buscando un sitio oscuro para descansar. No trae mala suerte: es inofensiva y sirve de comida a murciélagos y pájaros."
+    },
+    {
+      "id": "arana_insecto",
+      "art": "arana",
+      "statement": "Las arañas son insectos.",
+      "fact": false,
+      "explanation": "Las arañas tienen ocho patas, dos partes del cuerpo y ninguna antena: son arácnidos, primas de los insectos."
+    },
+    {
+      "id": "arana_inofensiva",
+      "art": "arana",
+      "statement": "Casi todas las arañas son inofensivas para las personas.",
+      "fact": true,
+      "explanation": "Su veneno sirve para cazar insectos y casi siempre es muy débil para nosotros. A las pocas peligrosas, y a las que no conoces, se las mira de lejos."
+    },
+    {
+      "id": "ciempies_cien",
+      "art": "ciempies",
+      "statement": "El ciempiés tiene exactamente cien patas.",
+      "fact": false,
+      "explanation": "Según la especie tiene desde 30 hasta más de 300 patas, pero nunca justo cien. Su nombre solo quiere decir «muchas patas»."
+    },
+    {
+      "id": "zancudo_hembra",
+      "art": "mosquito",
+      "statement": "Solo las hembras del zancudo pican.",
+      "fact": true,
+      "explanation": "Las hembras necesitan sangre para que crezcan sus huevos. Los machos solo beben néctar de las flores."
+    },
+    {
+      "id": "mariquita_edad",
+      "art": "mariquita",
+      "statement": "Los puntos de la mariquita dicen cuántos años tiene.",
+      "fact": false,
+      "explanation": "Los puntos dependen de la clase de mariquita, no de su edad. ¡Hay mariquitas con 2 puntos, con 7 y hasta sin puntos! Casi todas viven alrededor de un año."
+    },
+    {
+      "id": "grillo_boca",
+      "art": "paquito",
+      "statement": "Los grillos cantan con la boca.",
+      "fact": false,
+      "explanation": "Los grillos cantan frotando una ala contra la otra, como un arco de violín. ¡Y oyen con unos oídos que tienen en las patas de delante!"
+    },
+    {
+      "id": "mosca_patas",
+      "art": "mosca",
+      "statement": "Las moscas saborean la comida con las patas.",
+      "fact": true,
+      "explanation": "En las patas tienen pelitos que notan el sabor. Por eso, al posarse, ya saben si algo es comida. Y por eso conviene tapar los alimentos."
+    },
+    {
+      "id": "libelula_pica",
+      "art": "libelula",
+      "statement": "Las libélulas pican a las personas.",
+      "fact": false,
+      "explanation": "Las libélulas no tienen aguijón y no hacen daño a las personas. ¡Al contrario: cazan zancudos en el aire!"
+    },
+    {
+      "id": "bachaco_hojas",
+      "art": "bachaco",
+      "statement": "Los bachacos se comen las hojas que cortan.",
+      "fact": false,
+      "explanation": "Con las hojas alimentan un huerto de hongos dentro del nido, y lo que comen es el hongo. ¡Son agricultores!"
+    },
+    {
+      "id": "alacran_brilla",
+      "art": "alacran",
+      "statement": "Los alacranes brillan con luz ultravioleta.",
+      "fact": true,
+      "explanation": "Su caparazón tiene algo que brilla azul verdoso con esa luz. Los científicos los encuentran así de noche, sin tener que tocarlos."
+    },
+    {
+      "id": "morfo_pintura",
+      "art": "morfo",
+      "statement": "El morfo es azul porque tiene pigmento azul en las alas.",
+      "fact": false,
+      "explanation": "Sus escamas tienen formas diminutas que reflejan la luz azul, como una burbuja de jabón. Por eso brilla y cambia según desde dónde lo mires."
+    },
+    {
+      "id": "abeja_muere",
+      "art": "abeja",
+      "statement": "La abeja de la miel suele morir si pica a una persona.",
+      "fact": true,
+      "explanation": "Su aguijón tiene ganchitos y se queda clavado en nuestra piel. Por eso solo pica cuando de verdad se siente en peligro."
+    },
+    {
+      "id": "angelita_no_pica",
+      "art": "abeja_angelita",
+      "statement": "Hay abejas que no pican.",
+      "fact": true,
+      "explanation": "La angelita y sus primas son abejas sin aguijón: lo tienen tan diminuto que no les sirve. Defienden su nido enredándose en el pelo y mordisqueando."
+    },
+    {
+      "id": "cocuyo_quema",
+      "art": "cocuyo",
+      "statement": "El cocuyo se quema con su propia luz.",
+      "fact": false,
+      "explanation": "Es una luz fría: casi toda la energía se vuelve luz y casi nada se vuelve calor. Por eso sus faroles no lo queman."
+    },
+    {
+      "id": "cucaracha_casas",
+      "art": "cucaracha",
+      "statement": "Todas las cucarachas viven en las casas y son plagas.",
+      "fact": false,
+      "explanation": "Hay miles de clases y casi todas viven en el bosque reciclando hojas. Solo unas pocas entran en las casas buscando comida."
+    },
+    {
+      "id": "mariposa_alas",
+      "art": "mariposa",
+      "statement": "Si tocas las alas de una mariposa, se muere al instante.",
+      "fact": false,
+      "explanation": "No se muere al instante, pero sí pierde el polvito de las alas, que son escamas que no vuelven a salir. Por eso es mejor mirarla sin tocar."
+    },
+    {
+      "id": "avispa_inutil",
+      "art": "avispa",
+      "statement": "Las avispas no sirven para nada.",
+      "fact": false,
+      "explanation": "Las avispas cazan orugas y otras plagas, y algunas ayudan a las flores a dar semillas. Sin ellas, los jardines tendrían muchas más plagas."
+    },
+    {
+      "id": "hormiga_fuerte",
+      "art": "hormiga",
+      "statement": "Una hormiga puede cargar varias veces su propio peso.",
+      "fact": true,
+      "explanation": "Según la especie, una hormiga puede cargar entre 10 y 50 veces lo que pesa. ¡Como si tú levantaras un carro!"
+    }
+  ]
+}

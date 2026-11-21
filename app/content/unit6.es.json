@@ -264,7 +264,12 @@
           ],
           "explanation": "Una araña en un rincón del jardín es una cazadora que trabaja gratis: cada día atrapa insectos que pican o molestan, como zancudos, moscas y cucarachas."
         }
-      ]
+      ],
+      "feeling": {
+        "art": "arana",
+        "name": "las arañas",
+        "label": "Arañas"
+      }
     },
     {
       "id": "u6l3",
@@ -488,7 +493,12 @@
           ],
           "explanation": "Ciempiés y milpiés son miriápodos: tienen el cuerpo largo, hecho de muchos anillos, y muchísimas patas. Uno es cazador nocturno y el otro, cuando se asusta, se enrolla."
         }
-      ]
+      ],
+      "feeling": {
+        "art": "ciempies",
+        "name": "los ciempiés",
+        "label": "Ciempiés"
+      }
     },
     {
       "id": "u6l5",
@@ -607,7 +617,12 @@
           ],
           "explanation": "Los arácnidos tienen 8 patas y ninguna antena: la araña y el alacrán. La cochinita es un crustáceo, la mosca un insecto y el milpiés un miriápodo."
         }
-      ]
+      ],
+      "feeling": {
+        "art": "alacran",
+        "name": "los alacranes",
+        "label": "Alacranes"
+      }
     },
     {
       "id": "u6l6",

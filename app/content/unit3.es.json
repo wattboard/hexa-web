@@ -283,7 +283,12 @@
           "explanation": "Los movimientos bruscos la asustan. Si estás tranquilo, seguirá su camino.",
           "art": "abeja"
         }
-      ]
+      ],
+      "feeling": {
+        "art": "abeja",
+        "name": "las abejas y las avispas",
+        "label": "Abejas y avispas"
+      }
     },
     {
       "id": "u3l4",
@@ -654,7 +659,12 @@
           ],
           "explanation": "Alas con escamas, alas de estuche, alas de membrana y un solo par de alas."
         }
-      ]
+      ],
+      "feeling": {
+        "art": "mosca",
+        "name": "las moscas y los zancudos",
+        "label": "Moscas y zancudos"
+      }
     }
   ],
   "exam": {

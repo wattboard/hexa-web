@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "id": "mordida",
+      "art": "hoja_mordida",
+      "clue": "Una hoja con agujeros y los bordes comidos. Debajo hay unas bolitas oscuras.",
+      "options": [
+        "oruga",
+        "arana",
+        "libelula"
+      ],
+      "answer": "oruga",
+      "explanation": "Fue una oruga: come hojas sin parar para crecer. Las bolitas son su caca. Algún día será mariposa o polilla.",
+      "lookFor": "Hojas con los bordes comidos en las plantas. Mira por debajo: ¡a lo mejor ves a la oruga!"
+    },
+    {
+      "id": "minada",
+      "art": "hoja_minada",
+      "clue": "Una hoja con caminitos blancos y enredados por dentro, como un laberinto.",
+      "options": [
+        "polilla",
+        "bachaco",
+        "saltamontes"
+      ],
+      "answer": "polilla",
+      "explanation": "Son los túneles de una larva diminuta, a menudo de una polillita, que vive DENTRO de la hoja y se la come por dentro. Se llaman minadores.",
+      "lookFor": "Hojas con dibujos blancos de caminitos, como si alguien hubiera garabateado."
+    },
+    {
+      "id": "camino",
+      "art": "camino_bachacos",
+      "clue": "Un caminito limpio en la tierra, sin hierba, con trocitos de hojas verdes.",
+      "options": [
+        "bachaco",
+        "cucaracha",
+        "ciempies"
+      ],
+      "answer": "bachaco",
+      "explanation": "Es una autopista de bachacos. Tantas patitas pasando limpian el camino, y lo siguen por el olor.",
+      "lookFor": "Una fila de hojitas que se mueven solas. Mírala desde un paso de distancia."
+    },
+    {
+      "id": "telarana",
+      "art": "telarana",
+      "clue": "Hilos finos y pegajosos en forma de rueda, entre dos ramas.",
+      "options": [
+        "arana",
+        "oruga",
+        "mariposa"
+      ],
+      "answer": "arana",
+      "explanation": "Es la red de una araña tejedora. Con ella atrapa zancudos y moscas. Por la mañana, con rocío, ¡brilla!",
+      "lookFor": "Telarañas en las esquinas y entre plantas, mejor por la mañana. Mira sin romperla."
+    },
+    {
+      "id": "exuvia",
+      "art": "exuvia",
+      "clue": "Una cáscara marrón vacía, con forma de bicho y una raja en la espalda, pegada a un tronco.",
+      "options": [
+        "cigarra",
+        "escarabajo",
+        "cochinita"
+      ],
+      "answer": "cigarra",
+      "explanation": "Es la piel vieja de una ninfa de cigarra. Vivió años bajo tierra, trepó al árbol, se abrió por la espalda y salió con alas.",
+      "lookFor": "Cascaritas vacías en troncos y paredes, sobre todo cuando cantan las cigarras."
+    },
+    {
+      "id": "salivazo",
+      "art": "salivazo",
+      "clue": "Una bolita de espuma blanca, como saliva, en un tallo.",
+      "options": [
+        "chinche",
+        "abeja",
+        "mosca"
+      ],
+      "answer": "chinche",
+      "explanation": "Es la casita de espuma de la ninfa del salivazo, prima de las chinches y las cigarras. La espuma la protege del sol y de quien se la quiera comer.",
+      "lookFor": "Espumita blanca en los tallos de la hierba. Sopla suave y quizá veas a la ninfa dentro."
+    },
+    {
+      "id": "galeria",
+      "art": "galeria_comejen",
+      "clue": "Unos caminitos de barro que suben por la pared o por un tronco.",
+      "options": [
+        "comejen",
+        "hormiga",
+        "milpies"
+      ],
+      "answer": "comejen",
+      "explanation": "Son túneles de comején: los construye para viajar sin secarse con el aire y el sol. En el bosque recicla la madera muerta.",
+      "lookFor": "Caminitos de tierra en troncos secos. Si los ves en casa, avisa a un adulto."
+    },
+    {
+      "id": "agalla",
+      "art": "agalla",
+      "clue": "Una bolita dura y rara pegada a una hoja, como una verruga.",
+      "options": [
+        "avispa",
+        "mariquita",
+        "arana"
+      ],
+      "answer": "avispa",
+      "explanation": "Es una agalla. Una avispita diminuta puso un huevo y la planta formó la bolita alrededor: es la casa y la comida de su larva. No pica a nadie.",
+      "lookFor": "Bolitas en hojas y ramas de los árboles. Míralas sin arrancarlas."
+    },
+    {
+      "id": "ooteca",
+      "art": "ooteca",
+      "clue": "Una espumita dura y marrón pegada a una rama.",
+      "options": [
+        "santateresa",
+        "mosca",
+        "chinche"
+      ],
+      "answer": "santateresa",
+      "explanation": "Es una ooteca: el nido de huevos de una santateresa. De ella pueden salir decenas de santateresitas.",
+      "lookFor": "Bultitos marrones en ramas y cercas. Si encuentras uno, déjalo donde está."
+    }
+  ]
+}

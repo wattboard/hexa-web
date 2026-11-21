@@ -256,7 +256,12 @@
           "explanation": "Look without touching and tell someone: that keeps you safe.",
           "art": "chipo"
         }
-      ]
+      ],
+      "feeling": {
+        "art": "mosquito",
+        "name": "mosquitoes",
+        "label": "Mosquitoes"
+      }
     },
     {
       "id": "u4l4",

@@ -17,6 +17,15 @@
     "source": "iNaturalist",
     "taxon": "Tetragonisca angustula"
   },
+  "alacran": {
+    "author": "Thomaz de Carvalho Callado",
+    "file": "photo_alacran.jpg",
+    "license": "CC BY",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "observation": "https://www.inaturalist.org/observations/178469121",
+    "source": "iNaturalist",
+    "taxon": "Tityus neglectus"
+  },
   "arana": {
     "author": "Lily Fulton",
     "file": "photo_arana.jpg",
@@ -25,6 +34,15 @@
     "observation": "https://www.inaturalist.org/observations/59246260",
     "source": "iNaturalist",
     "taxon": "Phidippus apacheanus"
+  },
+  "avispa": {
+    "author": "bizcats",
+    "file": "photo_avispa.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/134653082",
+    "source": "iNaturalist",
+    "taxon": "Polistes fuscatus"
   },
   "bachaco": {
     "author": "Tony Iwane",
@@ -43,6 +61,15 @@
     "observation": "https://www.inaturalist.org/observations/124110715",
     "source": "iNaturalist",
     "taxon": "Halyomorpha halys"
+  },
+  "ciempies": {
+    "author": "刘光裕 Liu Guangyu",
+    "file": "photo_ciempies.jpg",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "observation": "https://www.inaturalist.org/observations/17926177",
+    "source": "iNaturalist",
+    "taxon": "Scolopendra"
   },
   "cochinita": {
     "author": "Robby Deans",
@@ -79,6 +106,15 @@
     "observation": "https://www.inaturalist.org/observations/16780601",
     "source": "iNaturalist",
     "taxon": "Danaus plexippus"
+  },
+  "cucaracha": {
+    "author": "Steve Kerr",
+    "file": "photo_cucaracha.jpg",
+    "license": "CC BY",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "observation": "https://www.inaturalist.org/observations/18782697",
+    "source": "iNaturalist",
+    "taxon": "Periplaneta americana"
   },
   "escarabajo": {
     "author": "Stephen Snow",

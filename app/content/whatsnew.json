@@ -1,21 +1,21 @@
 {
  "_info": "Fuente única de novedades: la usan la pantalla «Novedades» de iOS y Android y las notas de TestFlight y Google Play (scripts/release_notes.py). En cada build con cambios para quien prueba: reescribir «news» con lo de ESE build, añadir a «features» lo que pase a ser parte fija de la app y subir «version» (la pantalla vuelve a salir una vez). Iconos: music, book, chat, map, camera, album, people, pictures, mouth, bravery, notebook, computer.",
- "version": 17,
+ "version": 19,
  "news": [
   {
-   "icon": "computer",
-   "es": "El aviso de versión nueva de prueba sale en cuanto hay una, sin esperar.",
-   "en": "The new test version notice shows up as soon as there is one, without waiting."
+   "icon": "bravery",
+   "es": "Juegos y retos: 8 juegos nuevos que se abren al avanzar. Rincón del valor, ¿Mito o verdad?, Clave del detective, Inventa tu insecto, historias, huellas, la noche en el bosque y la red de la vida.",
+   "en": "Games and challenges: 8 new games that open as you go. Bravery corner, Myth or fact?, Detective's key, Invent your insect, stories, tracks, night in the forest and the web of life."
   },
   {
-   "icon": "album",
-   "es": "El invernadero aprovecha toda la pantalla (también en el iPhone Duo y tumbado) y los botones son más pequeños.",
-   "en": "The greenhouse uses the whole screen (also on iPhone Duo and in landscape) and the buttons are smaller."
+   "icon": "mouth",
+   "es": "Termómetro de lo que siento: cuenta cómo te sientes con algunos bichos antes y después de conocerlos.",
+   "en": "Feelings thermometer: tell how you feel about some critters before and after getting to know them."
   },
   {
-   "icon": "pictures",
-   "es": "Al colocar un adorno queda seleccionado con su flecha para girarlo.",
-   "en": "A decoration you place stays selected with its arrow to rotate it."
+   "icon": "notebook",
+   "es": "Censo del patio en Misiones: anota los bichos que ves, sin atraparlos.",
+   "en": "Yard count in Missions: write down the critters you see, without catching them."
   }
  ],
  "features": [
@@ -46,6 +46,11 @@
   },
   {
    "icon": "bravery",
+   "es": "Juegos y retos: valor, mitos, clave del detective, inventa tu insecto, historias, huellas, la noche y la red de la vida.",
+   "en": "Games and challenges: bravery, myths, detective's key, invent your insect, stories, tracks, the night and the web of life."
+  },
+  {
+   "icon": "bravery",
    "es": "Medallas por unidad y diploma final.",
    "en": "Medals for each unit and a final diploma."
   },
@@ -58,6 +63,11 @@
    "icon": "notebook",
    "es": "Cuaderno de campo en las misiones, sin cámara ni capturas.",
    "en": "A field notebook in the missions, with no camera or catching."
+  },
+  {
+   "icon": "notebook",
+   "es": "Censo del patio y termómetro de emociones, con datos para el docente.",
+   "en": "Yard count and feelings thermometer, with data for the teacher."
   },
   {
    "icon": "bravery",

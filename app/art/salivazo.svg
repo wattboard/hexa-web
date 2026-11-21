@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<path d="M100 196 Q96 120 110 20" stroke="#5E8C3E" stroke-width="12" stroke-linecap="round" fill="none"/>
+<path d="M100 196 Q96 120 110 20" stroke="#25332C" stroke-width="2" stroke-opacity=".3" fill="none"/>
+<path d="M104 140 Q140 120 168 132 Q144 146 104 146Z" fill="#7DB46C" stroke="#25332C" stroke-width="4" stroke-linejoin="round"/>
+<g fill="#FFFFFF" stroke="#25332C" stroke-width="3">
+<circle cx="88" cy="90" r="18"/><circle cx="112" cy="84" r="20"/><circle cx="100" cy="110" r="20"/><circle cx="122" cy="106" r="15"/><circle cx="82" cy="112" r="13"/><circle cx="104" cy="66" r="14"/></g>
+<g fill="#FFFFFF"><circle cx="88" cy="90" r="15"/><circle cx="112" cy="84" r="17"/><circle cx="100" cy="110" r="17"/><circle cx="122" cy="106" r="12"/><circle cx="82" cy="112" r="10"/><circle cx="104" cy="66" r="11"/></g>
+<g fill="none" stroke="#9FC6D6" stroke-width="2.5"><circle cx="94" cy="84" r="5"/><circle cx="116" cy="78" r="6"/><circle cx="106" cy="104" r="5"/><circle cx="102" cy="62" r="4"/><circle cx="124" cy="104" r="3.5"/></g>
+</svg>

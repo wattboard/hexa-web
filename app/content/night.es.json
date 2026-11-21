@@ -1,0 +1,61 @@
+{
+  "creatures": [
+    {
+      "id": "cocuyo",
+      "art": "cocuyo",
+      "x": 0.22,
+      "y": 0.3,
+      "size": 0.1,
+      "name": "Cocuyo",
+      "fact": "Sus dos luces verdes del tórax le sirven para encontrar a otros cocuyos en la oscuridad.",
+      "glow": true
+    },
+    {
+      "id": "polilla",
+      "art": "polilla",
+      "x": 0.7,
+      "y": 0.22,
+      "size": 0.13,
+      "name": "Polilla",
+      "fact": "Vuela de noche guiándose por la luna y las estrellas, y huele las flores con sus antenas de plumas."
+    },
+    {
+      "id": "grillo",
+      "art": "paquito",
+      "x": 0.4,
+      "y": 0.8,
+      "size": 0.11,
+      "name": "Grillo",
+      "fact": "¡Soy yo, Paquito! Los grillos cantamos de noche frotando las alas, para encontrar pareja.",
+      "sound": "grillo"
+    },
+    {
+      "id": "arana",
+      "art": "arana",
+      "x": 0.85,
+      "y": 0.55,
+      "size": 0.1,
+      "name": "Araña tejedora",
+      "fact": "Muchas arañas tejen su red al anochecer para atrapar a los insectos que vuelan de noche."
+    },
+    {
+      "id": "hercules",
+      "art": "escarabajo_hercules",
+      "x": 0.12,
+      "y": 0.72,
+      "size": 0.15,
+      "name": "Escarabajo hércules",
+      "fact": "Uno de los escarabajos más grandes del mundo. Sale de noche a buscar fruta madura."
+    },
+    {
+      "id": "rana",
+      "art": "rana",
+      "x": 0.63,
+      "y": 0.82,
+      "size": 0.12,
+      "name": "Rana",
+      "fact": "No es un insecto, pero es vecina de la noche: canta junto a la charca y se come muchos zancudos.",
+      "sound": "rana"
+    }
+  ]
+}

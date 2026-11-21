@@ -283,7 +283,12 @@
           "explanation": "Sudden moves scare it. If you stay calm, it will go on its way.",
           "art": "abeja"
         }
-      ]
+      ],
+      "feeling": {
+        "art": "abeja",
+        "name": "bees and wasps",
+        "label": "Bees and wasps"
+      }
     },
     {
       "id": "u3l4",
@@ -654,7 +659,12 @@
           ],
           "explanation": "Scaly wings, case wings, membrane wings and just one pair of wings."
         }
-      ]
+      ],
+      "feeling": {
+        "art": "mosca",
+        "name": "flies and mosquitoes",
+        "label": "Flies and mosquitoes"
+      }
     }
   ],
   "exam": {

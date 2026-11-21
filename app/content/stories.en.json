@@ -1,0 +1,361 @@
+{
+  "stories": [
+    {
+      "id": "bachi",
+      "title": "Bachi the leafcutter ant",
+      "art": "bachaco",
+      "intro": "Today you're a worker leafcutter ant.",
+      "start": "n1",
+      "nodes": {
+        "n1": {
+          "text": "You're Bachi, a worker leafcutter ant. Today you leave the nest with your line for the first time. Time to find leaves for the garden!",
+          "art": "bachaco",
+          "choices": [
+            {
+              "text": "Follow my sisters' scent trail",
+              "next": "n2"
+            },
+            {
+              "text": "Go off on my own another way",
+              "next": "n1b"
+            }
+          ]
+        },
+        "n1b": {
+          "text": "You wander from the line and everything is huge… you can't find your way back! But your antennae pick up the scent your sisters leave on the ground: it's their map.",
+          "art": "hormiga",
+          "choices": [
+            {
+              "text": "Follow the scent",
+              "next": "n2"
+            }
+          ]
+        },
+        "n2": {
+          "text": "You reach a mango tree with tender leaves. What do you do?",
+          "art": "hoja",
+          "choices": [
+            {
+              "text": "Cut a little piece with my jaws",
+              "next": "n3"
+            },
+            {
+              "text": "Eat the leaf right here",
+              "next": "e_learn"
+            }
+          ]
+        },
+        "n3": {
+          "text": "You're carrying a piece of leaf bigger than you. On the way, a raindrop falls right next to you. What do you do?",
+          "art": "bachaco",
+          "choices": [
+            {
+              "text": "Keep going with the line, slowly",
+              "next": "n4"
+            },
+            {
+              "text": "Drop the leaf and run",
+              "next": "n3b"
+            }
+          ]
+        },
+        "n3b": {
+          "text": "You run… and a sister picks up your leaf. In the line, nobody works alone. You go back to help her.",
+          "art": "hormiga",
+          "choices": [
+            {
+              "text": "Carry the leaf together",
+              "next": "n4"
+            }
+          ]
+        },
+        "n4": {
+          "text": "You reach the nest. Some tiny ants, the gardeners, chew the leaf and give it to the fungus. What now?",
+          "art": "hongo",
+          "choices": [
+            {
+              "text": "Taste the fungus",
+              "next": "e_happy"
+            },
+            {
+              "text": "Go back for more leaves",
+              "next": "e_happy2"
+            }
+          ]
+        }
+      },
+      "endings": {
+        "e_learn": {
+          "text": "Yuck! Leafcutter ants can't eat leaves. Leaves are for feeding the fungus in the nest, and the fungus is our food.",
+          "art": "hoja",
+          "kind": "learn"
+        },
+        "e_happy": {
+          "text": "Delicious! Thanks to everyone's work, the fungus grows and the colony eats. Leafcutter ants have been farmers for millions of years.",
+          "art": "hongo",
+          "kind": "happy"
+        },
+        "e_happy2": {
+          "text": "What a hard worker! A colony can have millions of sisters. Together they move lots of soil, and that lets air into the ground.",
+          "art": "bachaco",
+          "kind": "happy"
+        }
+      }
+    },
+    {
+      "id": "angelita",
+      "title": "Lita the angelita bee",
+      "art": "abeja_angelita",
+      "intro": "Today you're a little stingless bee.",
+      "start": "n1",
+      "nodes": {
+        "n1": {
+          "text": "You're Lita, a tiny angelita bee. You live in a hollow tree with an entrance like a little wax tube. Today it's your turn to find nectar.",
+          "art": "abeja_angelita",
+          "choices": [
+            {
+              "text": "Go to the hibiscus in the yard",
+              "next": "n2"
+            },
+            {
+              "text": "Go to a soda cup someone left",
+              "next": "e_learn"
+            }
+          ]
+        },
+        "n2": {
+          "text": "There's a girl watching you at the hibiscus. What do you do?",
+          "art": "cayena",
+          "choices": [
+            {
+              "text": "Keep working calmly",
+              "next": "n3"
+            },
+            {
+              "text": "Hide",
+              "next": "n2b"
+            }
+          ]
+        },
+        "n2b": {
+          "text": "You hide behind a petal… but the girl just watches, without touching. She's a forest ranger! You go back to the flower.",
+          "art": "cayena",
+          "choices": [
+            {
+              "text": "Get back to the nectar",
+              "next": "n3"
+            }
+          ]
+        },
+        "n3": {
+          "text": "Your back legs fill up with pollen, like little yellow baskets. When you visit another flower, the pollen travels with you and helps it make seeds.",
+          "art": "flor_partes",
+          "choices": [
+            {
+              "text": "Go back to the nest",
+              "next": "n4"
+            }
+          ]
+        },
+        "n4": {
+          "text": "At the entrance, the guards check you. If an intruder came, they'd tangle in its hair and nibble it: their stinger is too tiny to work.",
+          "art": "abeja_angelita",
+          "choices": [
+            {
+              "text": "Go in and store the nectar",
+              "next": "e_happy"
+            },
+            {
+              "text": "Stay as a guard",
+              "next": "e_happy2"
+            }
+          ]
+        }
+      },
+      "endings": {
+        "e_learn": {
+          "text": "Soda is sweet, but it isn't nectar: it doesn't have what you need, and the flowers miss your visit. They need you to make seeds!",
+          "art": "flor_rosa",
+          "kind": "learn"
+        },
+        "e_happy": {
+          "text": "You store the nectar in little wax pots, where it will turn into honey. In Venezuela, angelita honey has been treasured for a long time. And the hibiscus will make seeds!",
+          "art": "abeja_angelita",
+          "kind": "happy"
+        },
+        "e_happy2": {
+          "text": "Now you're a guard. Angelita bees take turns: some guard the door and others go out to the flowers. Teamwork is their superpower.",
+          "art": "abeja_angelita",
+          "kind": "happy"
+        }
+      }
+    },
+    {
+      "id": "cocuyo",
+      "title": "A firefly night",
+      "art": "cocuyo",
+      "intro": "Today you're a click beetle firefly from the plains.",
+      "start": "n1",
+      "nodes": {
+        "n1": {
+          "text": "You're a click beetle firefly. You spent the day hiding under tree bark. Night falls on the plains. Time to switch on your lanterns!",
+          "art": "cocuyo",
+          "choices": [
+            {
+              "text": "Switch on my two green lights",
+              "next": "n2"
+            },
+            {
+              "text": "Stay dark",
+              "next": "n1b"
+            }
+          ]
+        },
+        "n1b": {
+          "text": "In the dark nobody sees you… not even the other fireflies you're looking for. For fireflies, light is how they talk.",
+          "art": "cocuyo",
+          "choices": [
+            {
+              "text": "Switch on the lights",
+              "next": "n2"
+            }
+          ]
+        },
+        "n2": {
+          "text": "You fly with your green lights. Below you see some kids with a jar. What do you do?",
+          "art": "paisaje_llano",
+          "choices": [
+            {
+              "text": "Fly high, away from the jar",
+              "next": "n3"
+            },
+            {
+              "text": "Fly down to see them",
+              "next": "n2b"
+            }
+          ]
+        },
+        "n2b": {
+          "text": "You fly down… and a girl says: “Don't catch it! Look how it glows. Let it go free.” They watch you for a moment and you fly on.",
+          "art": "cocuyo",
+          "choices": [
+            {
+              "text": "Keep flying",
+              "next": "n3"
+            }
+          ]
+        },
+        "n3": {
+          "text": "You land on the ground to rest and a toad comes closer. What do you do?",
+          "art": "rana",
+          "choices": [
+            {
+              "text": "Play dead and jump with a click!",
+              "next": "n4"
+            },
+            {
+              "text": "Keep walking as if nothing happened",
+              "next": "e_learn"
+            }
+          ]
+        },
+        "n4": {
+          "text": "Click! You flip into the air and land far away. The toad leaves. In the distance, two little green lights answer you.",
+          "art": "cocuyo",
+          "choices": [
+            {
+              "text": "Fly toward them",
+              "next": "e_happy"
+            }
+          ]
+        }
+      },
+      "endings": {
+        "e_learn": {
+          "text": "Whoa, close one! Click beetle fireflies are jumping beetles: when there's danger, they play dead and then flip away with a click. Try again.",
+          "art": "rana",
+          "kind": "learn"
+        },
+        "e_happy": {
+          "text": "It was another firefly. Together you light up the night on the plains. People once used fireflies to light their way; today we have flashlights, and they can stay free.",
+          "art": "cocuyo",
+          "kind": "happy"
+        }
+      }
+    },
+    {
+      "id": "libelula",
+      "title": "From the pond to the sky",
+      "art": "libelula",
+      "intro": "Today you're a dragonfly nymph.",
+      "start": "n1",
+      "nodes": {
+        "n1": {
+          "text": "You're a dragonfly nymph living at the bottom of a pond. You don't have wings yet, but you do have a surprise jaw that shoots out like an arm.",
+          "art": "ninfa_libelula",
+          "choices": [
+            {
+              "text": "Wait quietly for a mosquito larva to swim by",
+              "next": "n2"
+            },
+            {
+              "text": "Climb out onto the shore right now",
+              "next": "e_learn"
+            }
+          ]
+        },
+        "n2": {
+          "text": "A mosquito larva swims by. Snap! You catch it with your jaw: that means fewer mosquitoes. Months go by and you grow by shedding your skin. One day you feel it's time…",
+          "art": "mosquito",
+          "choices": [
+            {
+              "text": "Climb a stem out of the water",
+              "next": "n3"
+            }
+          ]
+        },
+        "n3": {
+          "text": "You grip the stem tightly. Your skin splits down the back and out comes… a dragonfly! Your wings are crumpled and soft. What do you do?",
+          "art": "libelula",
+          "choices": [
+            {
+              "text": "Wait in the sun for them to dry",
+              "next": "n4"
+            },
+            {
+              "text": "Fly right away",
+              "next": "e_learn2"
+            }
+          ]
+        },
+        "n4": {
+          "text": "Your wings shine now. Your old nymph skin stays on the stem, like an empty costume. Where do you fly?",
+          "art": "libelula",
+          "choices": [
+            {
+              "text": "To catch mosquitoes over the pond",
+              "next": "e_happy"
+            }
+          ]
+        }
+      },
+      "endings": {
+        "e_learn": {
+          "text": "It's not your time yet: your wings aren't ready. Dragonfly nymphs can spend months, even years!, underwater before coming out.",
+          "art": "ninfa_libelula",
+          "kind": "learn"
+        },
+        "e_learn2": {
+          "text": "You can't fly with soft wings. Newly emerged dragonflies wait still for an hour or two until they harden. Patience is brave too!",
+          "art": "libelula",
+          "kind": "learn"
+        },
+        "e_happy": {
+          "text": "You're one of the best flyers in the world! You fly forward, backward and hover in midair. And you keep catching mosquitoes, now on the wing.",
+          "art": "libelula",
+          "kind": "happy"
+        }
+      }
+    }
+  ]
+}

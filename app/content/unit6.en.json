@@ -264,7 +264,12 @@
           ],
           "explanation": "A spider in a corner of the garden is a hunter that works for free: every day it catches insects that bite or bother us, like mosquitoes, flies and cockroaches."
         }
-      ]
+      ],
+      "feeling": {
+        "art": "arana",
+        "name": "spiders",
+        "label": "Spiders"
+      }
     },
     {
       "id": "u6l3",
@@ -488,7 +493,12 @@
           ],
           "explanation": "Centipedes and millipedes are myriapods: they have a long body made of many rings, and lots and lots of legs. One is a night hunter, and the other curls up when it's scared."
         }
-      ]
+      ],
+      "feeling": {
+        "art": "ciempies",
+        "name": "centipedes",
+        "label": "Centipedes"
+      }
     },
     {
       "id": "u6l5",
@@ -607,7 +617,12 @@
           ],
           "explanation": "Arachnids have 8 legs and no antennae: the spider and the scorpion. The pill bug is a crustacean, the fly an insect and the millipede a myriapod."
         }
-      ]
+      ],
+      "feeling": {
+        "art": "alacran",
+        "name": "scorpions",
+        "label": "Scorpions"
+      }
     },
     {
       "id": "u6l6",

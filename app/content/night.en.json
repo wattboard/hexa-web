@@ -1,0 +1,61 @@
+{
+  "creatures": [
+    {
+      "id": "cocuyo",
+      "art": "cocuyo",
+      "x": 0.22,
+      "y": 0.3,
+      "size": 0.1,
+      "name": "Click beetle firefly",
+      "fact": "The two green lights on its thorax help it find other fireflies in the dark.",
+      "glow": true
+    },
+    {
+      "id": "polilla",
+      "art": "polilla",
+      "x": 0.7,
+      "y": 0.22,
+      "size": 0.13,
+      "name": "Moth",
+      "fact": "It flies at night guided by the moon and stars, and smells flowers with its feathery antennae."
+    },
+    {
+      "id": "grillo",
+      "art": "paquito",
+      "x": 0.4,
+      "y": 0.8,
+      "size": 0.11,
+      "name": "Cricket",
+      "fact": "It's me, Paquito! Crickets sing at night by rubbing our wings, to find a mate.",
+      "sound": "grillo"
+    },
+    {
+      "id": "arana",
+      "art": "arana",
+      "x": 0.85,
+      "y": 0.55,
+      "size": 0.1,
+      "name": "Orb-weaver spider",
+      "fact": "Many spiders weave their web at dusk to catch insects that fly at night."
+    },
+    {
+      "id": "hercules",
+      "art": "escarabajo_hercules",
+      "x": 0.12,
+      "y": 0.72,
+      "size": 0.15,
+      "name": "Hercules beetle",
+      "fact": "One of the biggest beetles in the world. It comes out at night to look for ripe fruit."
+    },
+    {
+      "id": "rana",
+      "art": "rana",
+      "x": 0.63,
+      "y": 0.82,
+      "size": 0.12,
+      "name": "Frog",
+      "fact": "It isn't an insect, but it's a night neighbor: it sings by the pond and eats lots of mosquitoes.",
+      "sound": "rana"
+    }
+  ]
+}
