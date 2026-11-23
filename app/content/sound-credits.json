@@ -18,13 +18,13 @@
     "taxon": "Hewlettia nigriviridis"
   },
   "grillo": {
-    "author": "ShaunLee",
+    "author": "genghisattenborough",
     "file": "grillo.m4a",
     "license": "CC BY",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-    "observation": "http://naturewatch.org.nz/observations/2777927",
+    "observation": "https://www.inaturalist.org/observations/71325017",
     "source": "iNaturalist",
-    "taxon": "Lepidogryllus parvulus"
+    "taxon": "Gryllus bimaculatus"
   },
   "rana": {
     "author": "Ty Smith",
